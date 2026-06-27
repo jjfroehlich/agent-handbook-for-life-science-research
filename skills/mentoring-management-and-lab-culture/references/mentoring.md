@@ -76,3 +76,15 @@ Hidden-curriculum prompt:
 ## When not to apply this
 
 Do not use this playbook as a substitute for institutional procedures involving harassment, discrimination, retaliation, safety violations, visa issues, employment law, or clinical care. Use it to structure support and route the issue.
+
+## Undergraduate Mentoring And Operational Empathy
+
+Undergraduates often need explicit instruction in research culture that senior members forget is tacit.
+
+- State time expectations, role scope, safety requirements, credit/pay/letter expectations, and supervision cadence before accepting the student.
+- Use a short training project to teach common techniques, failure, recordkeeping, honest error reporting, and what good questions look like.
+- Pair lab-specific safety and protocol training with department-level requirements.
+- Formalize responsibilities after the first training period.
+- Shield undergraduates from PI-level publication or funding pressure while still treating their work seriously.
+
+For all ECRs, make empathy operational: useful meetings, workload checks, stage-adapted autonomy, professional-development feedback, and respect for personal time.

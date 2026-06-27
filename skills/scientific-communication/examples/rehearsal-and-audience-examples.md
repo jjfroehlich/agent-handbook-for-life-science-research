@@ -26,3 +26,13 @@ Keep: the biological stakes, the comparison, and the claim boundary.
 Change: replace assay jargon with what the measurement tells us.
 Avoid: promising clinical impact unless the evidence directly supports it.
 ```
+
+## Bad Talk Rescue
+
+| Problem | Rescue move |
+|---|---|
+| Ten-minute talk has six result threads | Choose one retained message and keep only two supporting moves |
+| Slides were built before the story | Write audience, premise, background needed, and evidence path in text first |
+| Titles name topics only | Rewrite titles as message sentences |
+| Timing runs long | Cut details and backup material instead of speaking faster |
+| Q&A feels adversarial | Listen, paraphrase, answer the substance, state limits, and close briefly |

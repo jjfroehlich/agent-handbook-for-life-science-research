@@ -73,3 +73,13 @@ Stronger: "This proposal tests whether [mechanism] explains [disease-relevant ob
 ## When not to apply this
 
 Do not override required funder headings. Use the narrative spine inside the required structure.
+
+## Critical Detail Surfacing
+
+Do not bury decisive facts after long background. Put the objective, urgency, novelty, central number, or most important context in the title, opening, summary, topic sentences, subheads, or figure captions.
+
+Future-ramifications check:
+
+- What later study, resource, policy, practice, or scientific decision becomes possible if this work succeeds?
+- Which downstream value is credible within the funder scope?
+- Which future claim is speculative and should be softened?

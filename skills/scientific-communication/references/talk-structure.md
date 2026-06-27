@@ -89,3 +89,13 @@ Backup:
 ## When not to apply this
 
 Do not use this as the main lens when the user only needs manuscript prose, publication figure design, or peer-review strategy.
+
+## Bad Talk Failure Check
+
+Use this diagnostic when a talk feels overloaded, impressive but unclear, or hard to rehearse.
+
+- If preparation starts with slides, stop and define audience, message, and explanation path first.
+- If the speaker is trying to impress, refocus on what the audience should understand.
+- If the talk has many points, choose one retained message and demote the rest.
+- If the talk is designed only for the narrow expert subset, add an orientation bridge.
+- If the deck runs long, cut material rather than normalizing overtime.

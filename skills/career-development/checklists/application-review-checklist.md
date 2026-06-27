@@ -42,3 +42,13 @@ Avoid inventing metrics. If no result is supplied, ask for one or use a truthful
 ## Output
 
 Return the top three fixes in priority order, then provide targeted rewrites only for sections that affect the reader's decision.
+
+## Recommendation Letter Scaffold Final Pass
+
+- Opportunity, level, criteria, and deadline are explicit.
+- Recommender relationship and basis for judgment are clear.
+- Specific contributions, outputs, role, and impact are included.
+- Attributes are tied to evidence rather than unsupported praise.
+- Language is calibrated to career stage and opportunity.
+- Negatives, private jokes, and self-undermining caveats are removed.
+- Final endorsement strength, comparative rank, and recommender voice are left to the writer.

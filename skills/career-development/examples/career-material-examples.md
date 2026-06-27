@@ -57,3 +57,13 @@ After:
 | Question | Problem | Action | Result | Learning | Relevance |
 |---|---|---|---|---|---|
 | Tell us about a conflict | Teams disagreed on analysis assumptions | Built a shared review table and reran sensitivity checks | Reduced rework and clarified decision | Surface assumptions early | Useful for cross-functional research teams |
+
+## Recommendation Letter Scaffold
+
+| Section | Job | Candidate-supplied evidence | Recommender-owned judgment |
+|---|---|---|---|
+| Opening summary | Orient the reader to opportunity and relationship | Opportunity, role, time period, criteria | Final endorsement strength |
+| Relationship context | Establish credibility | How the recommender knows the candidate | How close the observation is |
+| Contribution paragraph | Show specific value | Project, role, output, obstacle, result | How distinctive the work is |
+| Attribute paragraph | Convert evidence into qualities | Examples of judgment, independence, communication, leadership, rigor | Comparative assessment |
+| Closing | Point toward fit | Accurate logistics or criteria reminders | Final recommendation language |

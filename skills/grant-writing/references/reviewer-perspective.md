@@ -78,3 +78,13 @@ Stronger signpost: "Aim 1 establishes whether [signal] is conserved across [samp
 ## When not to apply this
 
 Do not replace official review criteria with generic reviewer psychology. Use this playbook to make the current criteria easy to score.
+
+## Mixed Decision Boards
+
+For foundations, NGO panels, or boards that include non-specialists, make the scoring path clear enough that decision makers are not forced to rely only on technical referees.
+
+- Define necessary technical terms without flattening the science.
+- Use subheads to make objective, novelty, urgency, and strengths findable.
+- Treat captions, charts, photos, and diagrams as claims, not decoration.
+- Schedule team critique early enough to revise structure, not only proofread.
+- Avoid final-rush submission when clarification or missing information might be requested.

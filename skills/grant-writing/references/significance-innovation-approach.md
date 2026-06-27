@@ -79,3 +79,10 @@ Stronger: "The platform is innovative here because it measures [previously inacc
 ## When not to apply this
 
 Do not add unsupported impact, DEI, or high-risk claims. If evidence is missing, tell the user what evidence or scope change is needed.
+
+## Urgency And Rationale Checks
+
+- Name why the problem matters now, not only why it is generally interesting.
+- Explain why the chosen site, system, method, population, or model is the right one for the question.
+- Link innovation to the decision or capability the work creates.
+- If a relevant method, control, or analysis is absent, explain why it is not needed or revise the approach.

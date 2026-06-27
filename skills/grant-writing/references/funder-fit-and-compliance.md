@@ -70,3 +70,10 @@ Stronger preflight: "The call funds early-stage method development, the applican
 ## When not to apply this
 
 Do not infer official rules from general grant-writing advice. Ask the user for the current call text or state which compliance items remain unresolved.
+
+## Foundation And LOI Fit
+
+- Check current instructions, eligibility, required form limits, and whether a letter of inquiry precedes the full proposal.
+- When prior award sizes or public giving records are available, use them to calibrate the request instead of defaulting to the maximum.
+- Keep the full proposal's scope and amount consistent with the LOI, or explain the change before submission.
+- File before the final deadline window when possible so clarification time is not lost in the deadline rush.

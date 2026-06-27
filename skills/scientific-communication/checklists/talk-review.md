@@ -42,3 +42,12 @@ When time is short, prioritize in this order:
 2. Cut slides or details that do not support that message.
 3. Fix unreadable or overloaded slides.
 4. Rehearse the opening, transitions, close, and top questions.
+
+## Bad Talk Failure Check
+
+- Did slide building start before audience, message, and explanation path were clear?
+- Is the goal to explain one idea rather than impress?
+- Can each slide justify its cognitive cost?
+- Are jargon, side stories, and decorative animations serving the concept?
+- Does rehearsal finish within time without rushing?
+- Does Q&A preparation include listening, paraphrasing, direct answers, uncertainty, and concise closes?

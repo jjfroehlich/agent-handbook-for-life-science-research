@@ -79,3 +79,16 @@ Stronger: "Preliminary data show that the proposed assay detects the target sign
 ## When not to apply this
 
 Do not provide institutional finance or legal advice. Flag budget-rule uncertainty and tell the user what must be checked with the funder or institution.
+
+## Protocol Completeness And Budget Calibration
+
+Before polishing prose, audit whether the plan explains:
+
+- Hypotheses and goals.
+- Controls and comparison groups.
+- Methods, analyses, and success criteria.
+- Site, system, population, or model rationale.
+- Relevant references and excluded-but-expected methods.
+- Personnel, services, equipment, travel, and timeline dependencies.
+
+For foundation-style budgets, calibrate the request against visible prior awards or public giving records when available, and justify each expense. If an LOI preceded the proposal, reconcile any scope or amount change before submission.

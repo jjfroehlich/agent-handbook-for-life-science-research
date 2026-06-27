@@ -84,3 +84,12 @@ Backup:
 ## When not to apply this
 
 Do not use this as the main lens for publication figure aesthetics unless the figure is being adapted for a talk, poster, or live explanation.
+
+## Slide Cognitive Load
+
+Every slide adds cognitive load. Keep a slide only when it helps the audience understand, believe, remember, or act on the main point.
+
+- Use message titles that state the slide's point, not just its topic.
+- Keep on-slide text to essential labels, cues, or evidence.
+- Move proud-but-nonessential details to backup.
+- Ask: would this slide survive if every slide had to justify its cognitive cost?

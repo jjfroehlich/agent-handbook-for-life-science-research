@@ -4,7 +4,7 @@ description: "Use when the user needs to design, review, adapt, or rehearse scie
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.2.0"
 ---
 
 # Scientific Communication
@@ -29,7 +29,7 @@ Help agents turn scientific content into audience-aware live or visual communica
 
 ## Core workflow
 
-1. Identify the medium, audience, stakes, time/space limit, and the one message the audience should retain.
+1. Identify the medium, audience, stakes, time/space limit, and the one message the audience should retain before building slides.
 2. Diagnose the main failure mode: unclear premise, overloaded detail, weak audience bridge, unreadable visuals, poor format fit, or unprepared delivery/Q&A.
 3. Route to the narrowest useful playbook. Open only the needed reference unless the artifact spans formats.
 4. Make cuts before polish. Preserve what supports audience belief, orientation, or action; move secondary details to backup, handout, speaker notes, or conversation.
@@ -74,6 +74,7 @@ Help agents turn scientific content into audience-aware live or visual communica
 - Letting methods, caveats, or secondary data compete with the main claim.
 - Copying paper figures into talks or posters without redesigning labels, scale, and visual order.
 - Asking too many clarifying questions when a first-pass plan with explicit assumptions would help.
+- Starting slide production before deciding audience, message, and explanation path.
 
 ## Quality bar
 

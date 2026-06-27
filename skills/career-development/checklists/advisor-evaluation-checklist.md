@@ -40,3 +40,12 @@ Use this for a fast, evidence-based pass on advisor, mentor, or lab choice.
 ## Decision Output
 
 Return a table with `criterion`, `evidence`, `risk`, `missing evidence`, and `next action`. When risk is high, prioritize safety planning and neutral support over persuasion.
+
+## Values And Boundaries Screen
+
+- What values does each option reward in daily practice?
+- Which advice reflects direct evidence, and which is reputation or hearsay?
+- What context and values shaped the advice giver's recommendation?
+- Do communication style, mutual respect, and working expectations fit the user's constraints?
+- Are professional boundaries, authorship, meeting cadence, and conflict routes explicit?
+- What unresolved doubt would make the relationship higher risk if left unanswered?

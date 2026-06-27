@@ -49,3 +49,45 @@
 - What was learned?
 - What remains valuable?
 - Next decision: repeat, redesign, pivot, publish, archive, or stop.
+
+## Team Vision And Governance Templates
+
+### Collaboration Agreement
+
+- Shared question and success criteria.
+- Integration level and governance depth.
+- Roles, decision rights, and handoff points.
+- Data/code sharing, storage, and access.
+- Authorship, contribution tracking, and public communication.
+- Meeting cadence, conflict route, and review date.
+
+### Welcome To The Team Letter
+
+- What this team values in daily behavior.
+- How meetings, feedback, and disagreement work.
+- How to ask for help or raise concern.
+- What norms are flexible and what norms are not.
+- First-month expectations and buddy/support routes.
+
+### Team Vision And SWOT
+
+- Shared vision:
+- Strengths:
+- Weaknesses:
+- Opportunities:
+- Threats:
+- Next decisions and owners:
+
+### Contribution Record
+
+| Contribution | Person or role | Evidence | Credit/output | Review date |
+|---|---|---|---|---|
+
+### Supervision Quality Pulse
+
+- Meetings are useful:
+- Feedback is timely:
+- Workload is realistic:
+- Personal time is respected:
+- Autonomy fits stage:
+- Concern requiring independent review:

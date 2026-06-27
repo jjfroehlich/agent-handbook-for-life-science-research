@@ -39,3 +39,14 @@ Use this for a quick scan before deeper routing.
 - Who owns the change?
 - When will it be reviewed?
 - What would trigger escalation or revision?
+
+## Team Health And Sustainability Addendum
+
+- Are meetings useful, psychologically safe, and decision-producing?
+- Are workload, deadlines, and personal-time sacrifices visible and negotiable?
+- Does after-hours social participation feel optional in practice?
+- Are hidden factions or post-meeting disagreements appearing?
+- Are contribution, authorship, and credit tracked?
+- Can members give confidential feedback without identity exposure?
+- Is housekeeping or social labor distributed fairly?
+- Do newcomers have a buddy or support route?

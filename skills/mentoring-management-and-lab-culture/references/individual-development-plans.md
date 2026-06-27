@@ -79,3 +79,13 @@ Two-way feedback prompts:
 ## When not to apply this
 
 Do not use an IDP to manage misconduct, harassment, safety violations, or employment actions. Use the conflict and performance workflows for those issues.
+
+## Capacity-Aware Performance Definitions
+
+Use IDPs to define high performance without defaulting to chronic overwork.
+
+- Name strengths, role expectations, career goals, and life constraints.
+- Distinguish short push phases from unsustainable default workload.
+- Plan recovery after bounded pushes.
+- Include nonacademic career development when it serves the person's goals.
+- Make capacity tradeoffs explicit before interpreting slower progress as low motivation.

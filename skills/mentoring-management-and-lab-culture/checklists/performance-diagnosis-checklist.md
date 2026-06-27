@@ -29,3 +29,11 @@ Use before writing a formal performance plan or escalating a repeated problem.
 - Separate support from evaluation where possible.
 - Avoid using the plan as the first clear statement of expectations.
 - Route safety, harassment, retaliation, discrimination, or legal issues through qualified channels.
+
+## Environment-Level Checks
+
+- Are deadlines realistic for the person's role and training stage?
+- Has feedback been timely, specific, and usable?
+- Is the person overloaded by invisible work, funding dependence, or personal sacrifice?
+- Are micromanagement, competition, or unclear expectations shaping the behavior?
+- Would a system reset, workload renegotiation, or supervision change come before individual blame?

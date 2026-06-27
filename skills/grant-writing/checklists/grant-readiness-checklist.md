@@ -49,3 +49,16 @@ Use this for a fast proposal review before submission or before a deeper rewrite
 - Boilerplate impact, DEI, CV, or budget sections.
 - Hidden risks or missing alternatives.
 - Altered templates or hard-to-find compliance answers.
+
+## Timeline And Funder-Fit Addendum
+
+- Draft is finished early enough for critique, rest, and revision.
+- Critical readers include specialist, adjacent, and non-specialist perspectives where useful.
+- Submission is not being saved for the final deadline rush without reason.
+- Objective, urgency, novelty, and critical context are visible early.
+- Protocol choices, controls, analyses, and references are explained.
+- Budget request is calibrated against funder norms when evidence is available.
+- Every major expense has a justification.
+- LOI and full proposal scope/amount are aligned.
+- Subheads, visuals, and captions help evaluators find significance.
+- Future ramifications are stated without overclaiming.

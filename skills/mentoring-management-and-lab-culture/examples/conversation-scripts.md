@@ -29,3 +29,42 @@ Use when the mentor's delivery damaged trust but the work issue still needs atte
 "This issue would benefit from advice beyond me. Let's identify one or two people who can provide independent guidance on ____. We will clarify what they are advising on, what stays between you and them, and what we need to coordinate together."
 
 Use when the PI lacks expertise, has a conflict of interest, or the trainee needs independent advice.
+
+## Team Facilitation And Conflict Scripts
+
+Speak-last facilitation:
+
+```text
+Before I give my view, I want to hear two interpretations of these data.
+What am I missing?
+Who sees this differently?
+What would you try next, and why?
+```
+
+Proposal-before-advice:
+
+```text
+Bring me your proposed next step, the reason you prefer it, the main risk, and the backup option. Then we will compare.
+```
+
+SBIF feedback:
+
+```text
+Situation:
+Behavior:
+Impact:
+Future:
+Support or constraint to discuss:
+```
+
+Non-coercive social invitation:
+
+```text
+This is optional and not a measure of commitment. We will also create work-hours ways for people to connect and share information.
+```
+
+Team conflict opening:
+
+```text
+Let's separate the scientific disagreement from the working relationship. First, what claim is each person making? Second, what decision do we need? Third, what process will we use if we still disagree?
+```

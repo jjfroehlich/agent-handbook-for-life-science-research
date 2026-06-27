@@ -73,3 +73,22 @@ Read only bolded statements:
 Can the reviewer recover the proposal gist?
 Statements to rewrite or unbold:
 ```
+
+## Protocol And Budget Preflight
+
+| Check | Evidence in draft | Risk if missing | Fix |
+|---|---|---|---|
+| Hypothesis/goal | | Reviewer cannot tell what success means | Add explicit objective and outcome |
+| Controls/analysis | | Feasibility looks underplanned | Add controls, analysis plan, and rationale |
+| Funder budget fit | | Request looks arbitrary or inflated | Compare with visible norms and justify expenses |
+| LOI consistency | | Full proposal surprises the funder | Reconcile scope and requested amount |
+
+## Grant Planning Timeline
+
+| Phase | Owner | Done by | Review needed |
+|---|---|---|---|
+| Protocol completeness audit | | | Methods and analysis critique |
+| Narrative signpost pass | | | Non-specialist skim test |
+| Budget calibration | | | Research office or funder-fit check |
+| Visual/caption pass | | | Reviewer navigation check |
+| Rest and fresh reread | | | Final coherence pass |

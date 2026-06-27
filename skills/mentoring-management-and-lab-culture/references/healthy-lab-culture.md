@@ -73,3 +73,21 @@ Distress-support conversation:
 ## When not to apply this
 
 Do not use this playbook to provide therapy, legal advice, HR determinations, or emergency support. Use it to structure non-clinical support and route to qualified help.
+
+## Sustainable Academic Work
+
+Separate commitment to science from acceptance of exploitative work norms.
+
+- Define boundaries for evenings, weekends, vacations, illness, parental leave, and no-contact breaks.
+- Use short push phases only when they are deliberate, bounded, and followed by recovery.
+- Say no or rescope when attractive opportunities exceed capacity.
+- Define high performance in IDPs using strengths, goals, role expectations, and life constraints instead of equating performance with overwork.
+- Distribute academic housekeeping and social labor fairly.
+
+Social events can support belonging, but they become coercive when after-hours participation is treated as commitment. Offer work-hours alternatives, make optional events genuinely optional, and support newcomers with a buddy or onboarding route.
+
+Structural accountability:
+
+- Collect mentorship or climate feedback in ways that protect identity.
+- Use independent review for small groups or high-power situations.
+- Route repeated harmful supervision into training, review, or supervision limits rather than relying on goodwill.

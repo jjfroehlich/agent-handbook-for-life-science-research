@@ -4,7 +4,7 @@ description: "Use when the user is planning, drafting, revising, or reviewing a 
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.2.0"
 ---
 
 # Grant Writing
@@ -26,8 +26,8 @@ Use this skill for grant or fellowship applications, specific aims pages, resear
 
 ## Core workflow
 
-1. Identify the funder, mechanism, required sections, review criteria, audience breadth, deadline, and available proposal text.
-2. Run the funder-fit and compliance preflight before improving prose.
+1. Identify the funder, mechanism, required sections, review criteria, audience breadth, deadline, available proposal text, review-team availability, and time left for critique.
+2. Run the funder-fit, compliance, schedule, and internal-review preflight before improving prose.
 3. State the objective and active premise early, then test whether the narrative makes the problem, payoff, approach, and applicant fit visible.
 4. Review significance, innovation, aims, feasibility evidence, budget alignment, risks, alternatives, and reviewer readability.
 5. Return prioritized edits, not generic encouragement: what to move, cut, relabel, evidence, reframe, or verify against the call.
@@ -47,7 +47,7 @@ Use this skill for grant or fellowship applications, specific aims pages, resear
 - Specific aims revision plan.
 - Section-level rewrite guidance for significance, innovation, or approach.
 - Feasibility and risk audit.
-- Readiness checklist with pass/fail items and fixes.
+- Readiness checklist with pass/fail items, review timeline, and fixes.
 - Template or table for premise, aims, budget, risk-return, or reviewer doubts.
 
 ## Quick checklist

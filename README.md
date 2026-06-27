@@ -35,7 +35,6 @@ For testing, try with and without skills.
 
 
 ## Related Work
-
 There are other agent skills for scientific work; many focus on computational biology or bioinformatics: [GPTomics bioSkills](https://github.com/GPTomics/bioSkills), [ClawBio skills](https://github.com/ClawBio/ClawBio/tree/main/skills), [Google Deepmind science-skills](https://github.com/google-deepmind/science-skills), and [K-Dense-AI scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills). But others cover scientific writing and research workflows: [K-Dense-AI scientific writer](https://github.com/K-Dense-AI/claude-scientific-writer/tree/main), [Imbad0202 academic research skills](https://github.com/Imbad0202/academic-research-skills), [K-Dense-AI science-superpowers](https://github.com/K-Dense-AI/science-superpowers), and [John Kitchin research skills](https://github.com/jkitchin/skillz/tree/main/skills/research). The advantage of the skills here might be their grounding in a corpus of >290 human-curated resources.
 
 

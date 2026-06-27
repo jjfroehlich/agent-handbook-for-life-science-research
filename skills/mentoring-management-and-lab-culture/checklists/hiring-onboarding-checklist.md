@@ -25,3 +25,12 @@
 - Set a first project with realistic scope.
 - Schedule first-month and first-quarter fit reviews.
 - Ask what remains unclear after onboarding.
+
+## Collaboration And Undergraduate Fit
+
+- Advertise deal-breakers, time requirements, prerequisites, and supervision cadence.
+- Include a realistic project or presentation/Q&A step when appropriate.
+- Ask for examples of collaboration, preparation, honest mistake handling, and persistence.
+- Check values and working-style fit without using prestige as the proxy.
+- Pair newcomers with a buddy for lab and local onboarding.
+- Document first-month expectations and review them after the training period.

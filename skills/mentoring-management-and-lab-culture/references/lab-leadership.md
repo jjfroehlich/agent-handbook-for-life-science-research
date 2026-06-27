@@ -80,3 +80,22 @@ Hiring rubric:
 ## When not to apply this
 
 Do not use this playbook for scientific project selection alone. Use the research-strategy lens when the main question is what science to pursue rather than how to lead the group doing it.
+
+## Team-Science Kickoff And Governance
+
+Use formal governance when collaboration is deeply integrated across people, disciplines, data, or institutions.
+
+- Write a collaboration agreement before major work begins.
+- Define shared vision, goals, roles, decision rights, communication cadence, data/code sharing, authorship, credit, conflict route, and review cadence.
+- Use a welcome or team letter to make norms visible for new members.
+- Track contributions and credit, especially for junior members whose career rewards can be hidden by team outputs.
+- Revisit the agreement when membership, goals, funding, or institutional constraints change.
+
+Leadership moves that build autonomy:
+
+- Speak last when the team needs others to reason first.
+- Ask what is missing, who sees the data differently, and what next step the trainee proposes.
+- Delegate to the lowest competent level with support and review.
+- Coach drafts, figures, and talks without replacing the trainee's voice.
+
+Additional anti-patterns: absentee leadership, defensive leadership, hostile leadership, hover-leadership, verbal-only collaboration agreements, and productivity that masks dependence.

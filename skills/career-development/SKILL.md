@@ -1,10 +1,10 @@
 ---
 name: career-development
-description: "Use this skill when a scientist needs stage-specific career help with advisor or lab choice, PhD/postdoc/faculty applications, CVs, resumes, cover letters, interviews, offers, startup negotiation, academia-to-industry transitions, job ad interpretation, networking, or a concrete career-path decision. Trigger when the input is a career artifact, opportunity, role comparison, application package, or personal career constraint. Do not trigger for manuscript, grant, figure, project-strategy, journal-selection, or lab-management tasks unless the main issue is the user's own career decision."
+description: "Use this skill when a scientist needs stage-specific career help with advisor or lab choice, PhD/postdoc/faculty applications, CVs, resumes, cover letters, recommendation-letter scaffolds, referee evidence packets, interviews, offers, startup negotiation, academia-to-industry transitions, job ad interpretation, networking, or a concrete career-path decision. Trigger when the input is a career artifact, opportunity, role comparison, application package, or personal career constraint. Do not trigger for manuscript, grant, figure, project-strategy, journal-selection, or lab-management tasks unless the main issue is the user's own career decision."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.2.0"
 ---
 
 # Career Development
@@ -16,7 +16,7 @@ Turn scientist career questions into concrete decisions, document edits, intervi
 ## Use this skill when
 
 - The user is choosing an advisor, PhD program, postdoc lab, faculty path, industry role, or other career option.
-- The user provides a CV, resume, cover letter, application package, job ad, interview plan, offer, or outreach draft.
+- The user provides a CV, resume, cover letter, recommendation-letter scaffold, recommender evidence packet, application package, job ad, interview plan, offer, or outreach draft.
 - The user asks how to translate scientific training for a non-academic reader.
 - The user needs scientist-specific career guidance rather than generic job-search advice.
 
@@ -44,6 +44,7 @@ Turn scientist career questions into concrete decisions, document edits, intervi
 - Career-path comparison table.
 - Interview preparation plan.
 - Offer or startup negotiation checklist.
+- Recommendation-letter scaffold or recommender evidence packet.
 
 ## Reference routing
 
@@ -54,6 +55,7 @@ Turn scientist career questions into concrete decisions, document edits, intervi
 - `references/cv-resume.md`: Use for academic CVs, industry resumes, document genre choice, and bullet translation.
 - `references/cover-letters.md`: Use for job, internship, postdoc, faculty, and first-contact letters.
 - `references/interviews.md`: Use for scientific job, industry, postdoc, and faculty interview preparation.
+- `references/recommendation-letters.md`: Use when the user was asked to draft a recommendation scaffold or needs a recommender evidence packet.
 - `references/career-transitions.md`: Use for academia/industry comparisons, leaving-path decisions, networking, and role exploration.
 - `checklists/advisor-evaluation-checklist.md`: Use for a fast advisor, mentor, or lab evidence matrix.
 - `checklists/postdoc-choice-checklist.md`: Use for postdoc offer and lab comparison.
@@ -77,6 +79,7 @@ Turn scientist career questions into concrete decisions, document edits, intervi
 - Rewriting documents without naming the reader's decision criteria.
 - Ignoring power asymmetry, retaliation risk, funding, visa, health, or family constraints.
 - Copying source fragments, bibliographic details, raw URLs, or provenance into the answer.
+- Writing final recommender judgment, comparative rank, or private recommender voice when the user should only supply evidence.
 
 ## Quality bar
 

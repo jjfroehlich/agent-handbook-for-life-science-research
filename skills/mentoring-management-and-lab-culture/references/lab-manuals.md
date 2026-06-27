@@ -78,3 +78,14 @@ AI guideline pattern:
 ## When not to apply this
 
 Do not use this playbook to invent institutional policy. If the handbook touches employment, safety, harassment, discrimination, privacy, clinical care, or legal obligations, adapt only within the institution's actual rules.
+
+## Team Letters And Collaboration Norms
+
+Extend handbooks and team letters beyond SOPs.
+
+- Work culture, boundaries, meetings, and communication.
+- Safety, protocol training, and honest error reporting.
+- Data/code ownership, storage, and sharing.
+- Authorship, contribution tracking, credit, and public communication.
+- Collaboration kickoff norms, decision rights, and conflict process.
+- Review cadence and how members can suggest changes.

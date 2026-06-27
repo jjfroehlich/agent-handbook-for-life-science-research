@@ -89,3 +89,13 @@ Failure taxonomy:
 ## When not to apply this
 
 Do not handle legal, employment, harassment, discrimination, visa, clinical, or emergency matters as ordinary feedback. Use qualified routes and keep any script within role limits.
+
+## Scientific Disagreement Vs Interpersonal Conflict
+
+Treat disagreement as useful when the process is safe and claim-focused.
+
+- Set meeting norms before hard disagreement: criticize ideas, not people; make room for quiet members; and state how decisions will be made.
+- Use SBIF for feedback: situation, behavior, impact, future.
+- Listen for interests and constraints before proposing a fix.
+- Remember that no argument does not equal agreement; check for silence, hidden factions, and post-meeting disagreement.
+- Use pre-agreed conflict routes for authorship, data, contribution, and role disputes.

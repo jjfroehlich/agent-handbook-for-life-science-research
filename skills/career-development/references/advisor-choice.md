@@ -68,3 +68,17 @@ Risk statement:
 ## When not to apply this
 
 Do not use this playbook for general lab-management advice from a PI's perspective. Use it only when the user is choosing, evaluating, or navigating a mentoring relationship for their own career.
+
+## Advice Calibration
+
+When outside advice conflicts, identify what each person is optimizing for before treating it as evidence. A happy person may recommend the path that worked for them; an unhappy person may warn against the path that failed them. Ask what values, constraints, career stage, lab size, and risk tolerance shaped the advice, then compare that context with the user's own goals.
+
+Add these checks to advisor comparisons:
+
+- What evidence is direct, repeated, or reputation-only?
+- Do I respect this person and communicate well with them under ordinary disagreement?
+- What values does this lab reward in practice?
+- Which expectations and boundaries are already explicit?
+- Which doubts remain, and what evidence would resolve them?
+
+Avoid outsourcing a high-dependency career decision to another person's goals, prestige preferences, or personal history.

@@ -80,3 +80,18 @@ Run 4: Q&A and recovery
 ## When not to apply this
 
 Do not use this as the main lens when the artifact itself lacks a clear message or structure; fix the structure first.
+
+## Live Q&A Pattern
+
+Use this pattern for hard or unclear questions:
+
+```text
+Listen fully:
+Paraphrase the question:
+Direct answer:
+Brief evidence or limit:
+Concise close:
+Bridge back if needed:
+```
+
+Keep improvisation tied to the concept. Remove unrelated jokes, stories, animations, or jargon that distract from understanding.

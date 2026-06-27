@@ -4,7 +4,7 @@ description: "Use this skill when the user needs research-group mentoring, lab-m
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.2.0"
 ---
 
 # Mentoring Management And Lab Culture
