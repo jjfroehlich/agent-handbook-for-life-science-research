@@ -11,14 +11,14 @@ Experimental, agent skills for academic research workflows distilled from >290 h
 | Skill | Use it for |
 | --- | --- |
 | `career-development` | Advisor and lab choice, PhD/postdoc applications, faculty searches, CVs, cover letters, interviews, negotiation, and career transitions. |
-| `data-visualization-and-figures` | Scientific plots, tables, heatmaps, microscopy panels, multi-panel figures, graphical abstracts, color, layout, typography, and publication readiness. |
+| `data-visualization-and-figures` | Choosing, critiquing, or validating scientific visual evidence—chart form, uncertainty display, scales, color, annotations, panel composition, images, and publication readiness—not plot-code organization or mechanical implementation of settled specifications. |
 | `grant-writing` | Grant and fellowship planning, specific aims, significance/innovation/approach sections, feasibility, risk plans, budgets, and reviewer-facing narratives. |
 | `literature-reading-and-synthesis` | Active paper reading, claim extraction, figure unpacking, literature tracking, and synthesis matrices. |
 | `mentoring-management-and-lab-culture` | Mentoring, lab handbooks, onboarding, PI leadership systems, lab culture, IDPs, feedback scripts, and conflict diagnosis. |
 | `publishing-and-peer-review` | Journal submissions, cover letters, editor inquiries, peer-review reports, reviewer ethics, resubmission plans, and response-to-reviewers letters. |
-| `research-strategy-and-project-design` | Choosing research problems, triaging project ideas, generating hypotheses, comparing experiment strategies, and setting risk or kill criteria. |
+| `research-strategy-and-project-design` | Choosing scientific questions, hypotheses, project directions, experimental programs, and project-level stop, pivot, or kill criteria. |
 | `scientific-communication` | Talks, slide decks, posters, chalk talks, elevator pitches, research stories, audience explanations, and Q&A plans. |
-| `scientific-feedback` | Orchestrated feedback across manuscripts, figures, slides, posters, grants, research plans, paper notes, mentoring documents, and lab artifacts. |
+| `scientific-feedback` | Integrated, prioritized, multi-lens critique of audience-facing scientific manuscripts, talks, posters, grants, study proposals, research pitches, collaborator updates, and lab-policy documents—not code, pipelines, technical plans, or requirements-to-script review. |
 | `scientific-writing` | Manuscripts, thesis sections, abstracts, introductions, results, discussions, figure legends, section flow, claim calibration, and publication-ready prose. |
 
 The current version is built from 290 public- and personal resources and notes. A private pipeline extracts principles, normalizes them into rules, and synthesizes the final skill format. This project is inspired by [awesome-life-science-resources](https://github.com/jjfroehlich/awesome-life-science-resources), a curated collection of public resources on life-science training, writing, mentoring, publishing, visualization, and careers.
@@ -45,7 +45,7 @@ There are other agent skills for scientific work; many focus on computational bi
 - Cannot replace advice from human experts or organizations.
 
 
-## Support
+## Give Feedback and Contribute
 
 - Please get in touch if you have feedback or want to contribute.
 

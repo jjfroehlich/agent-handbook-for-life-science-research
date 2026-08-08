@@ -1,10 +1,10 @@
 ---
 name: literature-reading-and-synthesis
-description: "Use when the user brings scientific papers, figures, tables, reading goals, alert queues, related-literature notes, or reference piles and needs active reading strategy, claim/evidence extraction, figure unpacking, comparison across papers, literature tracking, synthesis matrices, reusable notes, or journal-club/project-decision readiness. Trigger when the user needs a reading or synthesis workflow, not for a simple one-paper summary, citation formatting, citation-manager mechanics, literature search alone, manuscript drafting, grant writing, peer review, or slide design."
+description: "Use only when active reading or synthesis of scientific literature is the primary requested work or deliverable. Do not use for computational-analysis, pipeline, model-architecture, fine-tuning, or implementation strategy merely because the user asks to consult relevant literature or wants evidence-backed recommendations. Trigger for reading strategy, claim/evidence extraction, figure unpacking, cross-paper comparison, synthesis matrices, literature tracking, reusable evidence notes, or journal-club/project-decision readiness requiring renewed examination of papers, figures, tables, or notes. Do not trigger when literature is background or a completed review is supplied only to update plans, workflows, scripts, manuscripts, or documentation. Also exclude dataset/download provenance, citation-manager mechanics, literature search alone, simple one-paper summaries, citation formatting, grant writing, peer review, and slide design unless active literature synthesis is primary."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.3"
 ---
 
 # Literature Reading And Synthesis
@@ -15,6 +15,7 @@ Help users read scientific papers actively, extract claims and evidence without 
 
 ## Use this skill when
 
+- First classify the requested work: continue only when the user needs renewed reading, evidence extraction, comparison, or synthesis of literature sources.
 - The user needs a reading plan for one or more papers.
 - The user asks how to unpack figures, tables, methods, claims, or limitations.
 - The user wants a synthesis matrix, comparison table, or reusable note template.
@@ -23,6 +24,9 @@ Help users read scientific papers actively, extract claims and evidence without 
 
 ## Do not use this skill when
 
+- A completed literature review is only an input to downstream plan, code, pipeline, manuscript, or documentation updates.
+- Relevant papers are only supporting evidence for a computational-analysis, pipeline, model-architecture, fine-tuning, or implementation strategy.
+- The task is to trace dataset URLs, downloads, schemas, or pipeline provenance without interpreting the scientific literature.
 - The user only asks for a factual summary of one paper and does not need a method.
 - The task is mainly manuscript drafting, grant writing, or peer review rather than reading/synthesis.
 - The request is citation formatting or citation-manager mechanics.

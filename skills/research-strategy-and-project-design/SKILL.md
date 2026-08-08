@@ -1,10 +1,10 @@
 ---
 name: research-strategy-and-project-design
-description: "Use this skill when a scientist is deciding what research question, project, hypothesis, experiment strategy, or portfolio bet to pursue, pause, pivot, or stop. Trigger on candidate project ideas, stuck research directions, unexpected observations, novelty/feasibility tradeoffs, decisive uncertainty, cheap de-risking tests, kill criteria, and stop/go decisions. Do not trigger for protocol details, statistical implementation, manuscript polishing, grant packaging, figure design, journal choice, or people-management issues unless the main need is project strategy."
+description: "Use only when the primary decision is which scientific question, hypothesis, project direction, experimental program, or portfolio bet to pursue, pause, pivot, or stop. Do not use for technical implementation or analysis-design strategy—even if called a strategy, next step, pivot, or go/no-go—unless it materially changes the scientific question, program, portfolio, or whether the project continues. Trigger for candidate ideas, stuck directions, unexpected observations requiring new hypotheses, novelty/feasibility tradeoffs, decisive scientific uncertainties, de-risking experiments, project kill criteria, and project-level decisions. Exclude scripts, pipelines, preprocessing, model or statistical configurations, run diagnostics, analysis units, windows, thresholds, contrasts, estimands, controls, and result presentation. Prefer scientific-feedback for holistic audience-facing research-plan critique."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.4"
 ---
 
 # Research Strategy And Project Design
@@ -15,19 +15,20 @@ Help the user turn unclear research possibilities into sharper questions, tracta
 
 ## Use this skill when
 
-Use this skill when the user needs to choose among project ideas, decide whether to continue a project, design the next decisive test, generate hypotheses, or rebalance a research portfolio.
+Use this skill when the user needs to choose among scientific project ideas, decide whether a research project or hypothesis should continue, design the next decisive scientific test, generate hypotheses, or rebalance a research portfolio.
 
 ## Do not use this skill when
 
-Do not use it for protocol details, statistical implementation, manuscript polishing, grant packaging, or personnel management unless those tasks hinge on the underlying project strategy.
+Do not use it for protocol details, scripts, pipelines, preprocessing, statistical or model configuration, run diagnostics, analysis units, windows, thresholds, contrasts, estimands, controls, result presentation, manuscript polishing, grant packaging, or personnel management unless the decision materially changes the scientific question, experimental program, or whether the project itself should continue. Do not infer project strategy from generic next-step or go/no-go wording or from the fact that an analysis choice affects scientific results.
 
 ## Core workflow
 
-1. Clarify the candidate question, expected knowledge gain, feasibility, current evidence, constraints, and decision horizon.
-2. Separate idea generation from idea selection: explore broadly first, then test rigorously.
-3. Route to the narrowest playbook needed.
-4. Name the decisive uncertainty and the cheapest credible way to reduce it.
-5. Recommend a next action, stop/go review, or comparison table rather than giving only abstract advice.
+1. Identify the object and level of the decision. Continue only when it concerns a scientific question, hypothesis, project direction, experimental program, or research portfolio rather than a technical implementation choice.
+2. Clarify the candidate question, expected knowledge gain, feasibility, current evidence, constraints, and decision horizon.
+3. Separate idea generation from idea selection: explore broadly first, then test rigorously.
+4. Route to the narrowest playbook needed.
+5. Name the decisive uncertainty and the cheapest credible way to reduce it.
+6. Recommend a next action, stop/go review, or comparison table rather than giving only abstract advice.
 
 ## Output formats
 
@@ -53,6 +54,7 @@ Before answering, check whether the user has supplied enough context about the q
 - Do not treat exciting, novel, or difficult ideas as automatically worth pursuing.
 - Do not let sunk costs, identity, or external encouragement replace current evidence.
 - Do not use exploratory observations as confirmatory evidence without a follow-up test.
+- Do not relabel pipeline, preprocessing, model-selection, statistical-contrast, estimand, analysis-window, control-definition, or software-architecture decisions as research strategy merely because they affect scientific conclusions or involve tradeoffs or continuation language.
 - Do not expose source provenance, bibliographies, or internal normalization notes in user-facing answers.
 
 ## Quality bar

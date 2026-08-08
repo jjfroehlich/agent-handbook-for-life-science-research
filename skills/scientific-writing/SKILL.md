@@ -1,10 +1,10 @@
 ---
 name: scientific-writing
-description: "Use when the user provides or describes scientific prose for a manuscript, thesis, abstract, introduction, results, discussion, conclusion, figure legend text, contribution statement, acknowledgement, paper outline, or reviewer-facing wording and wants drafting, diagnosis, rewriting, compression, section structure, flow, claim calibration, or publication-ready language. Prefer other skills when the main task is journal choice, reviewer response strategy, grant aims, literature synthesis, slide/poster design, or figure/chart redesign rather than prose."
+description: "Use only when the primary requested output is audience-facing scientific prose or argument. Do not use for computational or analysis plans, pipeline or implementation documentation, README files, code comments, object or variable naming, or script terminology merely because they describe scientific work. Trigger for drafting, diagnosing, or revising manuscripts, theses, abstracts, introductions, results, discussions, conclusions, figure legends, contribution statements, acknowledgements, paper outlines, or reviewer-facing passages; and for section structure, flow, claim calibration, compression, or publication-ready wording. Technical source material qualifies only when transformed into an integrated reader-facing scientific argument. Prefer other skills for journal or reviewer-response strategy, grants, literature synthesis, slides or posters, or figure redesign."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.3"
 ---
 
 # Scientific Writing
@@ -15,6 +15,7 @@ Help draft, diagnose, and revise scientific writing so the reader can see the cl
 
 ## Use this skill when
 
+- First classify the requested artifact and output: continue only when audience-facing scientific prose or argument is primary, not merely because a technical document discusses science.
 - The user provides scientific prose and asks for a rewrite, critique, outline, or readiness check.
 - The artifact is an abstract, introduction, results paragraph, discussion, conclusion, figure legend, thesis chapter, author contribution statement, or acknowledgement.
 - The user asks for clearer flow, a sharper gap or claim, less overclaiming, better section structure, or manuscript-ready wording.
@@ -22,6 +23,7 @@ Help draft, diagnose, and revise scientific writing so the reader can see the cl
 
 ## Do not use this skill when
 
+- The request concerns computational or analysis plans, pipeline or implementation documentation, README files, code comments, object names, variable names, or terminology inside scripts without a primary audience-facing scientific argument.
 - The request is mainly journal selection, submission logistics, peer-review strategy, grant writing, slide design, poster layout, or literature synthesis without a writing deliverable.
 - The user asks for statistical analysis, code, figure generation, or experimental design rather than prose revision.
 - Authorship questions require institutional, legal, or policy determinations beyond wording and documentation guidance.

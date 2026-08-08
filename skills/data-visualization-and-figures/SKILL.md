@@ -1,10 +1,10 @@
 ---
 name: data-visualization-and-figures
-description: "Use when the user needs to choose, critique, redesign, or prepare scientific visual evidence: plots, charts, tables, heatmaps, microscopy/image panels, multi-panel figures, graphical abstracts, schematics, manuscript figures, poster/slide figures, or publication exports. Trigger for chart choice, uncertainty and replicate display, effect sizes, color accessibility, annotations, labels, layout, typography, image scale/channels, or final-size/readiness checks. Prefer writing for prose-only legends, communication for talk/poster story and delivery, and coding help for plotting-library syntax or debugging."
+description: "Use this skill only when the primary task requires choosing, critiquing, redesigning, or validating how scientific evidence is visually communicated in a plot, chart, table, heatmap, image panel, multi-panel figure, graphical abstract, or publication export. Trigger when the agent must make or assess visual-design decisions such as chart form, encodings, uncertainty or replicate display, scale or axis choice, color accessibility, annotations, panel or page composition, typography, image channels or scale bars, or final-size readiness. A plot, PDF, report, or analysis script is not sufficient. Do not trigger for source-code organization, moving filename, construction, or export calls, report-generation plumbing, plotting syntax or debugging, or mechanically implementing already-specified visual changes unless unresolved visual-evidence judgment is a primary part of the request. Prefer writing for prose-only legends and communication for talk or poster story and delivery."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.2.0"
 ---
 
 # Data Visualization And Figures
@@ -15,23 +15,27 @@ Help the agent make scientific figures honest, readable, accessible, and ready f
 
 ## Use this skill when
 
-- The user asks for figure critique, chart choice, plot redesign, table redesign, graphical abstract planning, or publication-ready figure checks.
+- The primary task requires figure critique, chart choice, plot redesign, table redesign, graphical abstract planning, or publication-ready visual judgment.
 - The artifact includes distributions, p-values, effect sizes, intervals, small samples, repeated experiments, heatmaps, networks, genomic views, set intersections, or dense multi-panel displays.
 - The request involves microscopy, photographs, image overlays, scale bars, insets, channels, annotations, layout, labels, typography, color, accessibility, posters, slides, or manuscript export.
+- A mixed code-and-figure request still requires unresolved visual-design judgment, such as choosing scales, encodings, facet structure, page composition, or uncertainty display; the presence of plotting code alone is insufficient.
 
 ## Do not use this skill when
 
-- The task is only plotting-library syntax, package errors, or data-frame debugging.
+- Do not load this skill provisionally because a task mentions plots, PDFs, reports, layouts, exports, or an analysis script.
+- The task is source-code organization, moving or grouping filename/construction/export calls, report-generation plumbing, versioning, plotting-library syntax, package errors, or data-frame debugging without a visual-design decision.
+- The user asks to implement a decision-complete set of visual specifications mechanically and does not want those choices reconsidered or evaluated.
 - The user wants statistical analysis design with no visual artifact or visual decision.
 - The request is prose-only writing feedback with no figure, table, diagram, or visual-output concern.
 
 ## Core workflow
 
-1. Name the figure job: comparison, distribution, relationship, composition, process/overview, exact lookup, image evidence, or publication export.
-2. Identify missing context that changes the recommendation: data type, `n`, independent unit, audience, medium, venue constraints, legend, or actual figure/image.
-3. Inspect the actual figure before making exact layout, palette, microscopy, or graphical-abstract claims; if it is unavailable, state the recommendation as conditional.
-4. Route to the narrowest reference file, then diagnose the highest-risk failure before polishing style.
-5. Return recommendations as `problem -> fix -> rationale -> priority`, with assumptions and unresolved checks separated from confirmed findings.
+1. Before loading references or adopting this workflow, verify that visual-evidence judgment is a primary requested outcome. If the task only changes code organization or implements settled visual specifications, use general coding help directly.
+2. Name the figure job: comparison, distribution, relationship, composition, process/overview, exact lookup, image evidence, or publication export.
+3. Identify missing context that changes the recommendation: data type, `n`, independent unit, audience, medium, venue constraints, legend, or actual figure/image.
+4. Inspect the actual figure before making exact layout, palette, microscopy, or graphical-abstract claims; if it is unavailable, state the recommendation as conditional.
+5. Route to the narrowest reference file, then diagnose the highest-risk failure before polishing style.
+6. Return recommendations as `problem -> fix -> rationale -> priority`, with assumptions and unresolved checks separated from confirmed findings.
 
 ## Reference routing
 
@@ -62,6 +66,8 @@ Help the agent make scientific figures honest, readable, accessible, and ready f
 ## Common pitfalls
 
 - Recommending a prettier chart before naming the figure job.
+- Confusing source-code layout with visual layout, or report-generation structure with page composition.
+- Activating first for a technical plot/report task and relying on the body to reverse the decision later.
 - Hiding continuous or small-n data behind mean-only bars or lines.
 - Treating p values, stars, or summary statistics as the visual evidence.
 - Using diverging heatmap colors without a meaningful midpoint.

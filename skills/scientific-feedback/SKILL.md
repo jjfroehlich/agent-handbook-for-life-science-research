@@ -1,22 +1,22 @@
 ---
 name: scientific-feedback
-description: 'Use this skill when a scientist asks for holistic or prioritized feedback, critique, review, readiness check, or look-over judgment on their scientific artifact: manuscript, draft, paper, preprint, thesis chapter, presentation, slides, poster, grant proposal or outline, research plan, project pitch, collaborator update, paper notes used to support a decision, mentoring document, or lab artifact. Trigger even when phrased as what should I fix first, where will reviewers push back, or does this hang together. Prefer narrower skills for isolated rewrites, single-lens figure or chart work, reviewer-response drafting, literature summaries, project-choice analysis without an artifact, code or statistics debugging, clinical/legal determinations, and non-scientific application documents.'
+description: 'Use only for holistic, prioritized, multi-lens critique of audience-facing scientific communication or governance in a manuscript, thesis, talk, poster, grant, study proposal, research pitch, collaborator update, or lab-policy document: whether claims, evidence, design, story, and audience fit cohere and what to revise first. Do not trigger merely because a task involves science, planning documents, or review. Do not use for code review; checking R, Python, or other scripts against requirements; requirement-to-code traceability; or reviewing computational workflows, pipelines, preprocessing, statistical or model configurations, implementation, reproducibility, validation, run outputs, or technical documentation—even when planning documents describe scientific analyses. For mixed documents-and-code tasks, default to general technical review unless the user explicitly asks for critique of scientific claims, evidence, study design, and audience readiness independent of implementation.'
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.2"
+  version: "0.1.4"
 ---
 
 # Scientific Feedback
 
 ## Purpose
 
-Give integrated, prioritized feedback on scientific artifacts by routing through the right domain lenses and returning one coherent revision path.
+Give integrated, prioritized feedback on audience-facing scientific communication by routing through the right domain lenses and returning one coherent revision path.
 
 ## Use this skill when
 
-- The user asks to review, critique, sanity-check, or give feedback on a scientific artifact.
-- The artifact spans more than one narrow task: manuscript plus figures, slides plus story, grant plus feasibility, paper notes plus project decision, or lab document plus tone.
+- The user asks to review, critique, sanity-check, or give feedback on an audience-facing scientific communication or governance artifact.
+- The requested judgment genuinely spans at least two lenses: claims and writing, evidence and figures, study design and audience readiness, funding and feasibility, or lab policy and power-aware communication.
 - The user wants reviewer-style, mentor-style, collaborator-style, committee-style, or quick-scan feedback.
 - Multiple specialist perspectives may matter: writing, communication, figures, publishing, grants, literature synthesis, project strategy, or lab culture.
 
@@ -24,17 +24,19 @@ Give integrated, prioritized feedback on scientific artifacts by routing through
 
 - The request is a single narrow production task, such as "rewrite this paragraph," "choose this chart," "draft a cover letter," or "format this slide."
 - The user asks only for literature search, citation formatting, code debugging, statistical analysis, or institutional/legal/clinical determinations.
+- Do not load this skill provisionally for code, scripts, notebooks, analysis outputs, computational or statistical workflows, data pipelines, model choices, technical plans or specifications, requirements documents, requirements-to-code traceability, run diagnostics, or technical documentation. This remains true when the work is scientific, when planning documents are present, and when the user asks for structured or prioritized critique.
 - The artifact should clearly be handled by one domain lens without integration.
 
 ## Core workflow
 
-1. Identify the artifact, audience, destination, deadline, relationship, and requested review depth.
-2. State the inferred goal, feedback mode, and selected domain lenses before critiquing.
-3. Ask only for missing context that would change priorities; otherwise proceed with explicit assumptions.
-4. Apply the narrowest useful lenses, then integrate findings into one revision sequence.
-5. Separate strengths, blocking issues, major revisions, secondary improvements, and optional polish.
-6. Adapt tone to the relationship: reviewer, mentor, collaborator, supervisor, committee, or self-revision.
-7. End with the next action: revise, cut, restructure, verify, collect missing evidence, rehearse, submit, or route to a specialist domain.
+1. Before loading references or adopting this workflow, verify both gates: the primary deliverable is audience-facing scientific communication or governance, and the requested critique needs at least two lenses. Otherwise use the narrow domain or general technical review directly.
+2. Identify the artifact, audience, destination, deadline, relationship, and requested review depth.
+3. State the inferred goal, feedback mode, and selected domain lenses before critiquing.
+4. Ask only for missing context that would change priorities; otherwise proceed with explicit assumptions.
+5. Apply the narrowest useful lenses, then integrate findings into one revision sequence.
+6. Separate strengths, blocking issues, major revisions, secondary improvements, and optional polish.
+7. Adapt tone to the relationship: reviewer, mentor, collaborator, supervisor, committee, or self-revision.
+8. End with the next action: revise, cut, restructure, verify, collect missing evidence, rehearse, submit, or route to a specialist domain.
 
 ## Routing / specialist lenses
 
@@ -46,7 +48,7 @@ Use portable routing language. If the environment supports loading another skill
 - Apply the `publishing-and-peer-review` lens for journal submission, peer-review reports, editor decisions, reviewer ethics, and response-to-reviewers strategy.
 - Apply the `grant-writing` lens for proposals, specific aims, funder fit, significance/innovation/approach, feasibility, budget alignment, and reviewer-facing funding narratives.
 - Apply the `literature-reading-and-synthesis` lens for paper reading, figure/table extraction, claim-evidence notes, synthesis matrices, and literature-tracking feedback.
-- Apply the `research-strategy-and-project-design` lens for research questions, project triage, hypothesis generation, decisive tests, risk, and kill criteria.
+- Apply the `research-strategy-and-project-design` lens only when the artifact raises a project-level question about research direction, hypotheses, experimental programs, decisive scientific tests, risk, or kill criteria. Do not use it merely to choose a pipeline or model configuration.
 - Apply the `mentoring-management-and-lab-culture` lens for lab documents, mentoring compacts, IDP plans, feedback scripts, conflict diagnosis, lab culture, and power-aware management artifacts.
 
 ## Clarifying questions
@@ -89,6 +91,8 @@ Ask at most three, and only when the answer changes feedback priorities:
 - Duplicating a whole domain skill instead of routing to it.
 - Giving generic encouragement or taste-level critique.
 - Mixing line edits with strategy feedback without naming the review mode.
+- Routing from a filename such as `plan.md`, or from generic review or go/no-go language, before identifying whether the requested judgment is scientific or technical.
+- Loading this skill first and relying on its body to reverse an obvious technical-artifact activation.
 - Overwhelming the user with every possible problem instead of a revision sequence.
 - Treating mentor feedback, peer feedback, journal review, and committee feedback as the same tone.
 - Inventing source-backed rules or provenance for this no-source orchestrator.

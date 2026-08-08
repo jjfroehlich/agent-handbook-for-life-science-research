@@ -14,11 +14,12 @@ Route the artifact to the fewest domain lenses that explain the main feedback ri
 
 ## Default workflow
 
-1. Identify the artifact: manuscript, figure, slide deck, poster, grant, proposal, paper note, research plan, lab document, or mixed package.
-2. Identify the destination: journal, funder, talk, committee, lab meeting, collaborator, mentor, trainee, public audience, or internal decision.
-3. Select primary and secondary lenses; do not apply every lens just because it is available.
-4. State the chosen lenses in the response before detailed critique.
-5. Produce one integrated priority list rather than separate disconnected reviews.
+1. Apply a hard pre-routing gate: the primary deliverable must be audience-facing scientific communication or governance, and the requested critique must need at least two lenses.
+2. Do not activate this orchestrator provisionally for code, scripts, notebooks, analysis outputs, computational or statistical workflows, data pipelines, model choices, technical plans or specifications, requirements documents, requirements-to-code traceability, run diagnostics, or technical documentation. The filename or presence of a planning document does not change this rule.
+3. For an in-scope request, identify the artifact and destination: journal, funder, talk, committee, lab meeting, collaborator, mentor, trainee, or public audience.
+4. Select primary and secondary lenses; do not apply every lens just because it is available.
+5. State the chosen lenses in the response before detailed critique.
+6. Produce one integrated priority list rather than separate disconnected reviews.
 
 ## Decision rules
 
@@ -28,7 +29,8 @@ Route the artifact to the fewest domain lenses that explain the main feedback ri
 - Submission packages, peer-review reports, editorial decisions, and response letters: apply the publishing-and-peer-review lens.
 - Grants, fellowships, specific aims, and funding narratives: apply the grant-writing lens.
 - Paper notes, journal-club prep, synthesis matrices, and reading workflows: apply the literature-reading-and-synthesis lens.
-- Project ideas, research plans, hypotheses, stop/go decisions, and decisive tests: apply the research-strategy-and-project-design lens.
+- Audience-facing study proposals being reviewed across scientific question, evidence, feasibility, and communication: apply the research-strategy-and-project-design lens plus the relevant communication or writing lens.
+- Software implementation plans, computational analysis workflows, pipeline documentation, model-selection reports, requirements documents, requirements-to-code crosswalks, and completed-run diagnostics: use general technical, code, statistical, or data-analysis review. Do not route them here or to research strategy merely because the user asks what to do next.
 - Lab handbooks, mentoring compacts, feedback scripts, IDPs, conflict notes, and culture documents: apply the mentoring-management-and-lab-culture lens.
 
 ## Variants and edge cases
@@ -37,12 +39,15 @@ Route the artifact to the fewest domain lenses that explain the main feedback ri
 - A grant with aims, figures, and feasibility needs grant-writing as primary, with writing, figures, and research-strategy as secondary lenses.
 - A poster needs scientific-communication as primary; use data visualization only for figure readability or evidence display.
 - A trainee feedback script about a manuscript may need mentoring-management for the relationship and scientific-writing for the artifact.
+- A Markdown plan can be a scientific study plan or a software implementation plan; route from the requested judgment and content, not the extension or filename.
+- Planning documents mapped directly onto an R, Python, or other script are technical review even when the documents specify scientific-analysis requirements.
 
 ## Anti-patterns
 
 - Applying all lenses and overwhelming the user.
 - Treating a mixed artifact as a single-domain task when the main risk crosses domains.
 - Routing based on file type only, ignoring audience and destination.
+- Treating technical tradeoffs as project strategy because the request uses words such as "pivot," "go/no-go," or "going forward."
 - Claiming that another skill was called when you only applied its lens manually.
 
 ## Diagnostic questions
@@ -67,7 +72,10 @@ Priority order: <blocking issue -> major revision -> secondary polish>.
 - "Review my results section and Figure 3" -> scientific-writing plus data-visualization-and-figures.
 - "Is my specific aims page compelling?" -> grant-writing plus scientific-writing.
 - "Critique this poster before the conference" -> scientific-communication plus data-visualization-and-figures.
+- "Review whether this study plan connects the biological question, evidence, and decisive experiment" -> research-strategy-and-project-design plus scientific-writing when presentation also matters.
+- "Review `plan.md` for pipeline stages, code organization, and model choices" -> general technical review, not this orchestrator.
+- "Map these two scientific-analysis planning documents onto the R script and identify implementation gaps" -> general technical or code review, not this orchestrator.
 
 ## When not to apply this
 
-Do not use the orchestrator when the user asks a narrow, single-domain task and the correct domain skill is obvious.
+Do not use the orchestrator when the user asks a narrow, single-domain task, or when the artifact is primarily a technical work product and the scientific artifact is not itself under review.
