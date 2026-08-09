@@ -45,11 +45,6 @@ There are other agent skills for scientific work; many focus on computational bi
 - Cannot replace advice from human experts or organizations.
 
 
-## Support
-
-Get in touch if you have feedback or want to contribute.
-
-
 ## Repository Layout
 
 Each skill is a self-contained folder with a `SKILL.md` entry point plus supporting references, checklists, and examples. 
