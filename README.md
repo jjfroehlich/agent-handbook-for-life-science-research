@@ -45,9 +45,9 @@ There are other agent skills for scientific work; many focus on computational bi
 - Cannot replace advice from human experts or organizations.
 
 
-## Give Feedback and Contribute
+## Support
 
-- Please get in touch if you have feedback or want to contribute.
+Get in touch if you have feedback or want to contribute.
 
 
 ## Repository Layout
