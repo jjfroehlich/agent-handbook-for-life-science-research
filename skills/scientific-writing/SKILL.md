@@ -4,7 +4,7 @@ description: "Use only when the primary requested output is audience-facing scie
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.3"
+  version: "0.1.0"
 ---
 
 # Scientific Writing

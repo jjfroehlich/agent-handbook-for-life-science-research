@@ -4,7 +4,7 @@ description: "Use when the user is acting as an author, reviewer, or editor-faci
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.0"
 ---
 
 # Publishing And Peer Review

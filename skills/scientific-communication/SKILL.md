@@ -4,7 +4,7 @@ description: "Use when the user needs to design, review, adapt, or rehearse scie
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.2.0"
+  version: "0.1.0"
 ---
 
 # Scientific Communication

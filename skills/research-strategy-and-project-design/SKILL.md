@@ -1,10 +1,10 @@
 ---
 name: research-strategy-and-project-design
-description: "Use only when the primary decision is which scientific question, hypothesis, project direction, experimental program, or portfolio bet to pursue, pause, pivot, or stop. Do not use for technical implementation or analysis-design strategy—even if called a strategy, next step, pivot, or go/no-go—unless it materially changes the scientific question, program, portfolio, or whether the project continues. Trigger for candidate ideas, stuck directions, unexpected observations requiring new hypotheses, novelty/feasibility tradeoffs, decisive scientific uncertainties, de-risking experiments, project kill criteria, and project-level decisions. Exclude scripts, pipelines, preprocessing, model or statistical configurations, run diagnostics, analysis units, windows, thresholds, contrasts, estimands, controls, and result presentation. Prefer scientific-feedback for holistic audience-facing research-plan critique."
+description: "Use only when the current decision changes which scientific question, hypothesis, project direction, experimental program, or portfolio bet to pursue, pause, pivot, or stop. Do not use for updating an analysis plan, implementation roadmap, or work sequence inside a fixed project. Reassess every turn; earlier strategy work does not retain this skill. Exclude selecting datasets, annotations, predictors, features, models, statistical settings, analysis units, windows, thresholds, contrasts, estimands, controls, diagnostics, plots, or code—even when called a roadmap, strategy, next step, pivot, or go/no-go. Trigger for candidate ideas, new hypotheses, novelty/feasibility tradeoffs, decisive scientific uncertainties, de-risking experiments, kill criteria, and choices that materially change the scientific program or whether the project continues. Prefer scientific-feedback for holistic critique of an audience-facing research plan."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.4"
+  version: "0.1.0"
 ---
 
 # Research Strategy And Project Design
@@ -19,11 +19,11 @@ Use this skill when the user needs to choose among scientific project ideas, dec
 
 ## Do not use this skill when
 
-Do not use it for protocol details, scripts, pipelines, preprocessing, statistical or model configuration, run diagnostics, analysis units, windows, thresholds, contrasts, estimands, controls, result presentation, manuscript polishing, grant packaging, or personnel management unless the decision materially changes the scientific question, experimental program, or whether the project itself should continue. Do not infer project strategy from generic next-step or go/no-go wording or from the fact that an analysis choice affects scientific results.
+Do not use it to update a technical analysis plan, phased implementation roadmap, task sequence, protocol, script, pipeline, preprocessing workflow, statistical or model configuration, run diagnostic, analysis unit, window, threshold, contrast, estimand, control, or result presentation unless the decision materially changes the scientific question, experimental program, or whether the project itself should continue. Do not infer project strategy from roadmap, prioritization, sequencing, next-step, or go/no-go wording, or from the fact that analysis choices affect scientific results.
 
 ## Core workflow
 
-1. Identify the object and level of the decision. Continue only when it concerns a scientific question, hypothesis, project direction, experimental program, or research portfolio rather than a technical implementation choice.
+1. Reassess the current user request independently on every turn, then identify the object and level of the decision. Continue only when it changes a scientific question, hypothesis, project direction, experimental program, or research portfolio; updating a larger plan or phased roadmap to record already chosen analyses remains technical planning.
 2. Clarify the candidate question, expected knowledge gain, feasibility, current evidence, constraints, and decision horizon.
 3. Separate idea generation from idea selection: explore broadly first, then test rigorously.
 4. Route to the narrowest playbook needed.

@@ -4,7 +4,7 @@ description: "Use when the user is planning, drafting, revising, or reviewing a 
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.2.0"
+  version: "0.1.0"
 ---
 
 # Grant Writing

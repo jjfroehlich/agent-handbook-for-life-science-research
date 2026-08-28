@@ -1,10 +1,10 @@
 ---
 name: literature-reading-and-synthesis
-description: "Use only when active reading or synthesis of scientific literature is the primary requested work or deliverable. Do not use for computational-analysis, pipeline, model-architecture, fine-tuning, or implementation strategy merely because the user asks to consult relevant literature or wants evidence-backed recommendations. Trigger for reading strategy, claim/evidence extraction, figure unpacking, cross-paper comparison, synthesis matrices, literature tracking, reusable evidence notes, or journal-club/project-decision readiness requiring renewed examination of papers, figures, tables, or notes. Do not trigger when literature is background or a completed review is supplied only to update plans, workflows, scripts, manuscripts, or documentation. Also exclude dataset/download provenance, citation-manager mechanics, literature search alone, simple one-paper summaries, citation formatting, grant writing, peer review, and slide design unless active literature synthesis is primary."
+description: "Use only when the current deliverable is active reading or synthesis of scientific literature: claim/evidence extraction, figure unpacking, cross-paper comparison, a synthesis matrix, literature tracking, reusable evidence notes, or journal-club readiness. Reassess every turn; do not invoke or retain this skill merely because papers were relevant earlier. Do not use when literature is supporting evidence for computational analysis, pipelines, model architecture, fine-tuning, feature engineering, or implementation strategy, even if the user asks to consult or compare papers. Also exclude a completed review used only to update plans, workflows, scripts, manuscripts, or documentation; dataset/download provenance; literature search alone; simple one-paper summaries; citation formatting; grant writing; peer review; and slide design unless renewed literature examination is the primary work."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.3"
+  version: "0.1.0"
 ---
 
 # Literature Reading And Synthesis
@@ -33,13 +33,14 @@ Help users read scientific papers actively, extract claims and evidence without 
 
 ## Core workflow
 
-1. Clarify the goal: orient, skim, present, compare, decide, track, or synthesize.
-2. Route to the right playbook: paper reading, claim extraction, literature tracking, or synthesis matrices.
-3. Pick the appropriate depth: quick triage, targeted section read, figure/evidence read, or high-stakes deep read.
-4. Separate motivation, approach, results, interpretation, limitations, and next steps.
-5. For figures and tables, decode the evidence before writing the take-home.
-6. Convert the read into a concrete output: reading plan, extraction table, figure note, tracking queue, or synthesis matrix.
-7. State caveats when advice is about habit design, dated source lists, or unsupported citation-manager mechanics.
+1. Reassess the current user request independently on every turn. Continue only when renewed literature reading or a literature-native synthesis artifact is the primary deliverable; prior paper use or source consultation supporting a technical decision does not retain this workflow.
+2. Clarify the goal: orient, skim, present, compare, decide, track, or synthesize.
+3. Route to the right playbook: paper reading, claim extraction, literature tracking, or synthesis matrices.
+4. Pick the appropriate depth: quick triage, targeted section read, figure/evidence read, or high-stakes deep read.
+5. Separate motivation, approach, results, interpretation, limitations, and next steps.
+6. For figures and tables, decode the evidence before writing the take-home.
+7. Convert the read into a concrete output: reading plan, extraction table, figure note, tracking queue, or synthesis matrix.
+8. State caveats when advice is about habit design, dated source lists, or unsupported citation-manager mechanics.
 
 ## Output formats
 

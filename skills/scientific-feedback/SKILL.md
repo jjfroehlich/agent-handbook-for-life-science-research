@@ -1,10 +1,10 @@
 ---
 name: scientific-feedback
-description: 'Use only for holistic, prioritized, multi-lens critique of audience-facing scientific communication or governance in a manuscript, thesis, talk, poster, grant, study proposal, research pitch, collaborator update, or lab-policy document: whether claims, evidence, design, story, and audience fit cohere and what to revise first. Do not trigger merely because a task involves science, planning documents, or review. Do not use for code review; checking R, Python, or other scripts against requirements; requirement-to-code traceability; or reviewing computational workflows, pipelines, preprocessing, statistical or model configurations, implementation, reproducibility, validation, run outputs, or technical documentation—even when planning documents describe scientific analyses. For mixed documents-and-code tasks, default to general technical review unless the user explicitly asks for critique of scientific claims, evidence, study design, and audience readiness independent of implementation.'
+description: 'Use only when the current deliverable is holistic, prioritized, multi-lens critique of audience-facing scientific communication or governance in a manuscript, talk, poster, grant, study proposal, research pitch, collaborator update, or lab-policy document. Reassess every turn; do not invoke or retain this skill because an earlier turn involved scientific feedback. Exclude code or data-flow review, missing-value or zero handling, requirements-to-code traceability, computational workflows, pipelines, preprocessing, statistical or model configurations, implementation, reproducibility, validation, run outputs, and technical documentation—even when scientific analyses or planning documents are involved. Results or output directories qualify only when the user explicitly wants them converted into or assessed as an audience-facing scientific argument or artifact across multiple lenses. For mixed documents-and-code tasks, default to general technical review unless audience readiness is primary.'
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.4"
+  version: "0.1.0"
 ---
 
 # Scientific Feedback
@@ -29,7 +29,7 @@ Give integrated, prioritized feedback on audience-facing scientific communicatio
 
 ## Core workflow
 
-1. Before loading references or adopting this workflow, verify both gates: the primary deliverable is audience-facing scientific communication or governance, and the requested critique needs at least two lenses. Otherwise use the narrow domain or general technical review directly.
+1. Reassess the current user request independently on every turn before loading references or retaining this workflow. Verify both gates: the primary deliverable is audience-facing scientific communication or governance, and the requested critique needs at least two lenses. Prior feedback work does not make later code, data-flow, run-output, or implementation review in scope.
 2. Identify the artifact, audience, destination, deadline, relationship, and requested review depth.
 3. State the inferred goal, feedback mode, and selected domain lenses before critiquing.
 4. Ask only for missing context that would change priorities; otherwise proceed with explicit assumptions.

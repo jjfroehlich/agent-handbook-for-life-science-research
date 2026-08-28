@@ -4,7 +4,7 @@ description: "Use this skill when a scientist needs stage-specific career help w
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.2.0"
+  version: "0.1.0"
 ---
 
 # Career Development

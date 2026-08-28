@@ -1,10 +1,10 @@
 ---
 name: data-visualization-and-figures
-description: "Use this skill only when the primary task requires choosing, critiquing, redesigning, or validating how scientific evidence is visually communicated in a plot, chart, table, heatmap, image panel, multi-panel figure, graphical abstract, or publication export. Trigger when the agent must make or assess visual-design decisions such as chart form, encodings, uncertainty or replicate display, scale or axis choice, color accessibility, annotations, panel or page composition, typography, image channels or scale bars, or final-size readiness. A plot, PDF, report, or analysis script is not sufficient. Do not trigger for source-code organization, moving filename, construction, or export calls, report-generation plumbing, plotting syntax or debugging, or mechanically implementing already-specified visual changes unless unresolved visual-evidence judgment is a primary part of the request. Prefer writing for prose-only legends and communication for talk or poster story and delivery."
+description: "Use only when the current request primarily requires unresolved judgment about how scientific evidence should be visually communicated in a scientific plot, table, image panel, figure, graphical abstract, or publication export. Reassess every turn; do not invoke or retain this skill merely because an earlier turn involved figure design. Trigger for choosing or critiquing chart form, encodings, uncertainty or replicate display, scales, axes, color accessibility, annotations, panel or page composition, typography, image channels, scale bars, or final-size readiness. A plot, PDF, report, or analysis script is not sufficient. Exclude source-code organization, report-generation plumbing, plotting syntax or debugging, and mechanical implementation, reruns, or validation of already-set visual specifications unless the current request reopens a visual-evidence decision. Prefer writing for prose-only legends and communication for talk or poster story and delivery."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.2.0"
+  version: "0.1.0"
 ---
 
 # Data Visualization And Figures
@@ -30,7 +30,7 @@ Help the agent make scientific figures honest, readable, accessible, and ready f
 
 ## Core workflow
 
-1. Before loading references or adopting this workflow, verify that visual-evidence judgment is a primary requested outcome. If the task only changes code organization or implements settled visual specifications, use general coding help directly.
+1. Reassess the current user request independently on every turn before loading references or retaining this workflow. Continue only when unresolved visual-evidence judgment is a primary requested outcome; prior figure work does not make later code organization, settled implementation, reruns, or ordinary validation in scope.
 2. Name the figure job: comparison, distribution, relationship, composition, process/overview, exact lookup, image evidence, or publication export.
 3. Identify missing context that changes the recommendation: data type, `n`, independent unit, audience, medium, venue constraints, legend, or actual figure/image.
 4. Inspect the actual figure before making exact layout, palette, microscopy, or graphical-abstract claims; if it is unavailable, state the recommendation as conditional.

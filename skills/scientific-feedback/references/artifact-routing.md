@@ -14,8 +14,8 @@ Route the artifact to the fewest domain lenses that explain the main feedback ri
 
 ## Default workflow
 
-1. Apply a hard pre-routing gate: the primary deliverable must be audience-facing scientific communication or governance, and the requested critique must need at least two lenses.
-2. Do not activate this orchestrator provisionally for code, scripts, notebooks, analysis outputs, computational or statistical workflows, data pipelines, model choices, technical plans or specifications, requirements documents, requirements-to-code traceability, run diagnostics, or technical documentation. The filename or presence of a planning document does not change this rule.
+1. Reapply a hard pre-routing gate to the current user turn, even when this orchestrator was appropriate earlier: the primary deliverable must be audience-facing scientific communication or governance, and the requested critique must need at least two lenses.
+2. Do not activate or retain this orchestrator for code, scripts, notebooks, data-flow or missing-value diagnosis, analysis outputs, computational or statistical workflows, data pipelines, model choices, technical plans or specifications, requirements documents, requirements-to-code traceability, run diagnostics, or technical documentation. The filename, prior task context, or presence of a planning document does not change this rule.
 3. For an in-scope request, identify the artifact and destination: journal, funder, talk, committee, lab meeting, collaborator, mentor, trainee, or public audience.
 4. Select primary and secondary lenses; do not apply every lens just because it is available.
 5. State the chosen lenses in the response before detailed critique.
@@ -41,6 +41,7 @@ Route the artifact to the fewest domain lenses that explain the main feedback ri
 - A trainee feedback script about a manuscript may need mentoring-management for the relationship and scientific-writing for the artifact.
 - A Markdown plan can be a scientific study plan or a software implementation plan; route from the requested judgment and content, not the extension or filename.
 - Planning documents mapped directly onto an R, Python, or other script are technical review even when the documents specify scientific-analysis requirements.
+- Results and output directories remain technical analysis inputs unless the current request explicitly asks to turn them into, or assess them as, an audience-facing scientific argument or artifact across multiple lenses.
 
 ## Anti-patterns
 
