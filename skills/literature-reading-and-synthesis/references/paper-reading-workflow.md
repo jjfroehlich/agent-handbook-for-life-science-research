@@ -26,19 +26,20 @@ Match reading depth to the user's goal and article type. A paper for tomorrow's 
 4. Use section intent:
    - Introduction: problem, motivation, field gap.
    - Methods: design, reproducibility, assumptions.
-   - Results/figures: evidence.
+   - Results/figures: reported findings and the authors' argument. Check interpretive headings against measurements; the section label does not make a statement an observation.
    - Discussion: interpretation, limitations, future work.
    - References/supplement: follow-up trail.
-5. Extract claims and evidence with the six-question scaffold.
-6. End with a synthesis action: add to matrix, follow citation, update field map, or mark as background.
+5. Use the six questions to inspect the inference relevant to the task. Do not require a complete paper note for a question about one panel.
+6. Record what was read and which consequential details remain unchecked. Add a synthesis action when the task needs reuse or future direction.
 
 ## Decision rules
 
-- If the paper is for tomorrow's presentation, use a high-depth read: goal, article type, six questions, major figures, limitations, and discussion prompts.
+- If the paper is for tomorrow's presentation, prioritize the claim and figures the talk must explain. Use the six questions and relevant methods to test that inference; preserve unassessed material when the available time or access is insufficient.
 - If the paper is central to a research decision, add the extra-mile pass: terms, methods, supplement, and key citations.
 - If the paper is a review, use it to map the field rather than forcing result-by-result extraction.
 - If the paper is a method or resource, prioritize procedure, validation, scope, and reuse constraints.
-- If the paper is only an alert, record relevance and next action rather than deep-reading immediately.
+- If the paper is only an alert, record relevance and next action rather than deep-reading immediately. An abstract can support a relevance screen or an attributed account of what authors claim; it does not establish unseen methods, controls or figure evidence.
+- If full text or a necessary supplement is unavailable, explain the specific inference that remains unassessed. Do not replace it with a secondary account and label the original as read.
 
 ## Variants and edge cases
 

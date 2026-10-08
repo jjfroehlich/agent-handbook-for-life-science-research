@@ -13,8 +13,8 @@ Convert enthusiasm, obligation, and uncertainty into a decision process. The out
 1. Let fresh excitement cool enough to compare the idea against alternatives.
 2. Screen for impact, feasibility, timeline, technology risk, and fit with the user's role.
 3. Name the decisive uncertainty: the one thing that most changes the pursue/drop decision.
-4. If the project is already running, set a dated stop/go review rather than letting inertia decide.
-5. For evolving projects, log possible branches and deliberately select which to pursue or set aside.
+4. For a running project, review at a date or evidence/resource change that can affect the next commitment.
+5. For evolving projects, compare useful branches and deliberately select which to pursue or set aside; keep a brief record when coordination or later reconsideration needs it.
 
 ## Decision rules
 
@@ -26,7 +26,8 @@ Convert enthusiasm, obligation, and uncertainty into a decision process. The out
 ## Variants And Edge Cases
 
 - A starter project can be useful even if it is not the long-term direction, but only if its time box is explicit.
-- A project with negative early evidence may still be worth a cheap rescue test if the upside is high and the failure mode is specific.
+- A project with a specific technical obstacle may warrant a bounded repair if support and access exist. A sound result against a prediction instead calls for revising that explanation. An imprecise result may leave both possibilities open.
+- A resource-driven pause can be justified while the scientific question remains unanswered; do not keep ordering experiments merely to earn permission to stop.
 - Collaborator opportunities can open branches, but they also create coordination and ownership costs.
 
 ## Anti-Patterns

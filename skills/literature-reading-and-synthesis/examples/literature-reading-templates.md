@@ -1,10 +1,14 @@
 # Literature Reading Templates
 
+Select fields for the requested task. These are blank templates, not completed evidence notes; a one-panel question can use a short paragraph with reading status and a source location.
+
 ## Six-Question Paper Note
 
 | Field | Entry |
 |---|---|
 | Reading goal | |
+| Inspected material and version | Abstract / selected sections / article; supplement checked separately |
+| Supporting figure/section location | |
 | Article type | |
 | Why was this done? | |
 | What was done? | |
@@ -20,6 +24,7 @@
 | Field | Entry |
 |---|---|
 | Figure/table ID | |
+| Inspected material and reading status | Panel, caption, relevant methods; mark unchecked details |
 | Question answered | |
 | Axes/rows/columns | |
 | Groups or encodings | |
@@ -41,5 +46,7 @@
 
 ## Synthesis Matrix
 
-| Paper | Goal | Type | Question | Method | Key evidence | Interpretation | Limitation | Related source | Next action |
-|---|---|---|---|---|---|---|---|---|---|
+| Paper | Question | Key evidence and location | Inspected material/status | Interpretation | Conditions/limits | Relationship to other evidence |
+|---|---|---|---|---|---|---|
+
+Add method/comparator details or next actions when they affect the comparison or the requested decision.

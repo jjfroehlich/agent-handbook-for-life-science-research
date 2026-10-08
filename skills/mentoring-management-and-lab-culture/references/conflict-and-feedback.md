@@ -11,16 +11,16 @@ Keep feedback rigorous and humane by diagnosing structure before blame. A confli
 ## Default workflow
 
 1. State the observed behavior or conflict without diagnosis.
-2. Check whether the expectation was written, role-specific, realistic, and understood.
-3. Diagnose the system: role, resources, training, health constraints, project fit, incentives, meeting norms, authorship, feedback routes, and power.
+2. Check how the expectation was communicated and understood, and whether it was role-specific and realistic. A written record is one input, not proof of understanding or consent.
+3. Examine role, resources, training, workload, project fit, incentives, meeting norms, authorship, feedback routes and power. Ask about practical support needs without requiring a diagnosis or private personal history.
 4. Choose the response: clarification, support, repair conversation, mediation, escalation, performance plan, or institutional route.
-5. Document the new expectation, support, timeline, follow-up, and escalation trigger.
+5. For an agreed work change, record the expectation, feasible support and review point. Keep proposals distinct from agreements. Share a summary only with appropriate recipients; it may be unsafe to send it to someone implicated in a threat or retaliation concern.
 
 ## Decision rules
 
 - If the expectation was not explicit, own the ambiguity before giving corrective feedback.
 - If safety, harassment, retaliation, severe power imbalance, or repeated failed repair appears, route to qualified institutional support.
-- If performance is the concern, diagnose missing training, resources, health constraints, conflict, project mismatch, motivation, misconduct, or repeated nonperformance before a formal plan.
+- If performance is the concern, compare observed work with communicated expectations and check training, resources, workload, reported constraints and project fit. Repeated missed commitments are observations; low motivation or misconduct are not conclusions to infer from them. Route substantiated policy concerns through the responsible process.
 - If criticism is needed, keep it claim-focused, evidence-based, assumption-aware, and actionable.
 - If a project failed, classify the failure before deciding what to do next.
 
@@ -43,7 +43,7 @@ Keep feedback rigorous and humane by diagnosing structure before blame. A confli
 
 ## Diagnostic questions
 
-- What was the exact expectation, and where was it written?
+- What was the exact expectation, and how was it communicated?
 - What evidence shows the person understood it?
 - What support, training, resource, or authority was missing?
 - What power asymmetry affects what can be said safely?
@@ -56,15 +56,15 @@ Unclear-expectation feedback:
 
 "I realize we have not made the deadline standard explicit. Let's reset it together. The pattern I have seen is ____. What constraints or misunderstandings should I know about? Going forward, the expectation is ____. I will provide ____. Let's check back on ____."
 
-Performance diagnosis:
+Work-concern review; select relevant questions rather than assigning a cause from this list:
 
 - Expectation clarity.
 - Training and resources.
-- Workload and health constraints.
+- Workload, access and voluntarily shared practical constraints; no required health disclosure.
 - Project fit.
 - Conflict or power issue.
-- Motivation or reliability pattern.
-- Misconduct or policy concern.
+- Specific missed commitments and the person's account, without inferred motive.
+- Evidence of a policy concern and the responsible route, without a misconduct finding.
 - Support offered.
 - Timeline and evidence.
 - Institutional route.

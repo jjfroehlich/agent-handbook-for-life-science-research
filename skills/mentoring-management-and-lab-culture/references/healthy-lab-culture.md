@@ -62,7 +62,7 @@ Lab-health review:
 
 Distress-support conversation:
 
-"I have noticed ____. I am concerned about you, not only the work. What support would be useful right now? We can discuss workload or timeline changes, and I also want to connect you with qualified confidential resources. Here is what I can and cannot keep private in my role."
+"I have noticed ____. What practical support would be useful right now? We can discuss workload or timeline changes within my role. You do not need to share a diagnosis with me. I can help you find suitable support; before sharing personal details, check that service's confidentiality and reporting limits. Here is what I can and cannot keep private in my role."
 
 ## Examples
 
@@ -79,7 +79,7 @@ Do not use this playbook to provide therapy, legal advice, HR determinations, or
 Separate commitment to science from acceptance of exploitative work norms.
 
 - Define boundaries for evenings, weekends, vacations, illness, parental leave, and no-contact breaks.
-- Use short push phases only when they are deliberate, bounded, and followed by recovery.
+- Consider exceptional extra work only within actual working-time and safety rules, with willing and qualified coverage, a finite purpose, displaced work and recovery accounted for. Repeated exceptions call for rescoping.
 - Say no or rescope when attractive opportunities exceed capacity.
 - Define high performance in IDPs using strengths, goals, role expectations, and life constraints instead of equating performance with overwork.
 - Distribute academic housekeeping and social labor fairly.
@@ -88,6 +88,6 @@ Social events can support belonging, but they become coercive when after-hours p
 
 Structural accountability:
 
-- Collect mentorship or climate feedback in ways that protect identity.
+- Explain who can see mentorship or climate feedback, what may be shared and any reporting limits. Minimize identifying detail, but do not guarantee anonymity in a small group.
 - Use independent review for small groups or high-power situations.
 - Route repeated harmful supervision into training, review, or supervision limits rather than relying on goodwill.

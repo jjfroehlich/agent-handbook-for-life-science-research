@@ -61,9 +61,11 @@ A figure legend lets readers understand what the figure shows, how to map panels
 
 ## Examples
 
+Illustrative fixed facts: treatment increases marker-positive late-stage cells; panel A contains representative control and treated images, and panel B quantifies marker-positive cells. No sample size or statistical-test details are supplied. Do not infer these facts from the before caption.
+
 Before: `Figure 2. Results of assay.`
 
-After: `Figure 2. Treatment increases marker expression in late-stage cells. (A) Representative images of control and treated cells. (B) Quantification of marker-positive cells across the indicated conditions.`
+After: `Figure 2. Treatment increases marker-positive late-stage cells. (A) Representative images of control and treated cells. (B) Quantification of marker-positive cells across the indicated conditions.`
 
 ## When not to apply this
 

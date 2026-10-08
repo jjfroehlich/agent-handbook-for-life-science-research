@@ -23,12 +23,12 @@ Choose the simplest honest display that lets the reader do the scientific job: c
 
 ## Decision rules
 
-- Amounts or simple group comparisons: use bars only when the value is an amount and raw distribution is irrelevant; otherwise use points or intervals.
+- Amounts or counts: bars or dots can support comparison. For continuous measurements, show observations or distributions when their spread, sample size or pairing affects the claim; summary points and intervals can accompany them.
 - Continuous distributions: use dot/strip, box, violin, histogram, density, empirical cumulative, or ridgeline forms according to sample size and task.
 - Small samples: show the individual observations; avoid smooth density shapes that imply unsupported information.
 - Paired, repeated, or nested observations: connect pairs, show within-unit differences, group points by replicate, or facet by independent unit.
 - Relationships: use scatter, line, residual, or binned displays with clear scales and uncertainty where needed.
-- Composition: use stacked or grouped displays only when part-to-whole is the task; avoid pies for precise comparisons.
+- Composition: use stacked bars for part-to-whole comparisons; internal segments lack a common baseline. Grouped bars can compare amounts across factors without implying composition. Prefer aligned lengths or positions to pies for precise comparisons.
 - Exact lookup: use a table or annotated matrix rather than forcing a plot.
 - Multiple categories: sort, group, or facet before adding many colors or symbols.
 

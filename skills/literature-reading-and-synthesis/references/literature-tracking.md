@@ -33,7 +33,7 @@ Build a sustainable literature-tracking system. The goal is not maximum coverage
 - If the stream is too large to scan weekly, narrow queries, reduce feeds, or split topics into more specific feeds.
 - If most alerts are irrelevant, fix query design before adding sources.
 - If important papers are missing, add a complementary source role rather than many more feeds.
-- If the user is busy, preserve the habit with quick triage and a small save-for-later queue.
+- If the user is busy, preserve a focused route for imminent decisions and defer optional reading. Label saved items with their purpose and actual reading status; saving is not appraisal.
 - If saved papers are never revisited, add a backlog review step or reduce intake volume.
 
 ## Variants and edge cases
@@ -48,9 +48,10 @@ Build a sustainable literature-tracking system. The goal is not maximum coverage
 
 - Subscribing to every plausible source during setup.
 - Using one generic query for a whole field.
-- Relying only on manual website visits.
+- Keeping a discovery route that the user cannot sustain, whether automated alerts or manual visits. A scheduled visit can work if it delivers the needed material within the available time.
 - Treating exact venue lists as universal or timeless.
 - Saving everything without a review routine.
+- Counting duplicate alerts as new papers or using a recent-paper stream as an exhaustive search for a claim.
 
 ## Diagnostic questions
 

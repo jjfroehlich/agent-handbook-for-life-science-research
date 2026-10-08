@@ -4,11 +4,11 @@ Use this for scientific poster drafts before print, upload, presentation, or con
 
 ## Checks
 
-- The poster has one visible main claim.
+- The poster makes its purpose and important claim or connected questions visible; a research briefing need not force distinct decisions into one finding.
 - Title, section headings, and layout support a fast walk-up read.
 - Figures carry the evidence and are readable at standing distance.
 - Text blocks are short enough for live conversation.
-- Methods and details that do not support the main claim are cut, compressed, or moved.
+- Secondary methods/details are compressed or moved when they compete with the evidence; retain necessary controls, comparisons and qualifications.
 - Color, hierarchy, labels, and flow do not require a guided tour to understand.
 - The presenter has a 30-second walkthrough and likely question answers.
 
@@ -20,4 +20,4 @@ Use this for scientific poster drafts before print, upload, presentation, or con
 
 ## Output reminder
 
-Return poster feedback as main claim, layout hierarchy, cut list, figure treatment, standing-distance checks, walkthrough script notes, and next production step.
+Return the relevant argument, evidence and visual findings at the requested depth. Standing-distance or layout judgments require actual visual inspection; a walkthrough is useful when delivery is part of the request.

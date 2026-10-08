@@ -30,9 +30,10 @@ Use before first submission, transfer, resubmission after rejection, or appeal.
 
 - Rejection reasons are categorized before choosing appeal, transfer, or new submission.
 - Valid reviewer concerns have been addressed before resubmission elsewhere.
-- Any appeal is based on a specific decision-relevant error.
+- Any appeal meets the journal's permitted grounds and formal route, with an issue whose resolution could change the decision.
 - Any prior review or transfer history is disclosed when appropriate.
-- The new submission is not just the rejected package with a different cover letter.
+- Valid claim-level flaws are corrected or claims limited. Venue-only rejection does not force new scientific work; destination-specific files and disclosures are updated.
+- Transfer destination, terms and moving files/reviews/identities are checked; a transfer suggestion is not acceptance.
 
 ## Final Risk Check
 

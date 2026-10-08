@@ -1,38 +1,29 @@
 # Rehearsal And Audience Examples
 
-Use these examples for talks, posters, chalk talks, and audience adaptation.
+These fictional cases illustrate choices under supplied constraints.
 
-## Talk compression
+## Compress a talk from a timed rehearsal
 
-Input: The user has 18 slides for a 12-minute conference talk.
+**Given:** An eighteen-slide conference talk has a twelve-minute slot. An aloud rehearsal takes fifteen minutes: four minutes of background, eight minutes of evidence, and three minutes of interpretation. Two evidence slides contain the main comparison and an essential control; the remaining evidence includes an extended method history and a secondary dataset.
 
-Output pattern:
+**Revision:** Shorten background to the question and the context needed to read the comparison. Remove the extended method history from the spoken path and put the secondary dataset in backup if it does not change the main inference. Preserve the comparison, control and limitation. Rehearse the revised route aloud to check the twelve-minute constraint; the first timing record cannot establish that the new route fits.
 
-```text
-Main move: keep the one result the audience must remember and cut slides that only prove diligence.
-Timing: one orientation slide, three evidence slides, one implication slide, and one backup cluster for questions.
-Rehearsal check: if a slide cannot be explained in 45 seconds, split it, simplify it, or move it to backup.
-```
+Spend time according to the explanation needed. A complicated comparison can merit more time than an orientation slide; no fixed seconds-per-slide limit determines which evidence belongs in the talk.
 
-## Audience adaptation
+## Adapt language while retaining uncertainty
 
-Input: A technical result must be explained to a non-specialist audience.
+**Given:** A fictional epithelial-cell experiment measures reporter signal after treatment. Signal and cell number both decrease. The mechanism remains unresolved.
 
-Output pattern:
+**For specialists:** “Reporter signal decreases after treatment, but the accompanying loss of cells prevents attribution to regulation without a per-cell measurement.”
 
-```text
-Translate the question before the method.
-Keep: the biological stakes, the comparison, and the claim boundary.
-Change: replace assay jargon with what the measurement tells us.
-Avoid: promising clinical impact unless the evidence directly supports it.
-```
+**For a broader audience:** “The treated samples produced less reporter light, but they also contained fewer cells. We do not yet know whether each cell produced less light.”
 
-## Bad Talk Rescue
+Both versions preserve the comparison and its competing explanation. Neither claims clinical benefit or a known molecular mechanism.
 
-| Problem | Rescue move |
-|---|---|
-| Ten-minute talk has six result threads | Choose one retained message and keep only two supporting moves |
-| Slides were built before the story | Write audience, premise, background needed, and evidence path in text first |
-| Titles name topics only | Rewrite titles as message sentences |
-| Timing runs long | Cut details and backup material instead of speaking faster |
-| Q&A feels adversarial | Listen, paraphrase, answer the substance, state limits, and close briefly |
+## A progress briefing with two decisions
+
+**Given:** A lab meeting must choose whether to repeat a reporter experiment and whether to continue a separate imaging pilot. All treated reporter samples were measured on one day and controls on another, so treatment and day are confounded. No balanced repeat has been run. The imaging pilot has only a setup demonstration, with no quantified biological comparison.
+
+**Outline:** Present the reporter observation and day confounding, then discuss the balanced repeat. In a separate section, show what the imaging setup currently demonstrates and the measurement needed before a biological claim can be assessed. Close with the two decisions and their unresolved requirements.
+
+Keep the two threads distinct. Forcing them into a single discovery story would imply a connection that the supplied evidence does not establish.

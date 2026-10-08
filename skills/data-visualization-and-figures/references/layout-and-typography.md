@@ -68,7 +68,7 @@ Final-size test: <text/symbol/line/legend check>.
 ## Examples
 
 - `Crowded legend`: replace with direct labels for key categories and move secondary details to the caption.
-- `Four-panel figure with unclear order`: align panels in the order the claim is introduced and use whitespace to separate controls from results.
+- `Four-panel figure with unclear order`: align panels in the order the claim is introduced. Use whitespace to separate distinct comparisons while keeping each result beside its required control.
 
 ## When not to apply this
 

@@ -8,9 +8,9 @@ Thesis writing must satisfy institutional structure while telling a coherent res
 
 ## Default workflow
 
-1. Ask for institutional or program requirements if structure, formatting, or required chapters are uncertain.
+1. Read supplied institutional or program requirements and existing context first. Ask only for missing requirements that would change the requested structure, formatting or chapter decisions; otherwise state a provisional assumption.
 2. Identify the thesis type: monograph, paper-based, methods-heavy, review-heavy, or mixed.
-3. Map the expected arc: front matter, introduction, literature context, methods, results, discussion, conclusion, references, and appendices.
+3. Map the thesis functions under the permitted local structure: framing, literature context, approach, findings and synthesis, with required front/back matter. Combine or separate these functions as appropriate; include a separate Conclusion only when required or useful.
 4. Define the job of each chapter and how it advances the thesis question.
 5. Keep introduction, discussion, significance, and conclusion jobs distinct: introduce the problem, interpret findings, explain value, then synthesize the answer.
 6. Keep conclusions focused on synthesis, contribution, limits, and future work.
@@ -20,12 +20,12 @@ Thesis writing must satisfy institutional structure while telling a coherent res
 ## Decision rules
 
 - If institutional requirements conflict with generic guidance, follow the institution.
-- If the introduction becomes a full literature review, separate background synthesis from the problem and aims.
+- If background obscures the problem and aims, make their sequence clearer or move extensive review material where the local thesis structure permits. An integrated introduction and literature review can be appropriate.
 - If a conclusion introduces new evidence, move it to results or discussion.
 - If chapters read as isolated papers, add cross-chapter transitions and a unifying research question.
 - If acknowledgements identify private people or participants, use permission-aware or generic wording.
 - If a significance section lists broad benefits, specify the field, society, institution, or future researchers who benefit and the mechanism by which they benefit.
-- If a conclusion says future work is needed for the thesis to stand, reframe future work as extension, confirmation, or boundary testing.
+- If a conclusion says future work is needed for the thesis to stand, check whether the missing work is essential to its claim. If so, identify the evidence gap and narrow the conclusion or flag work still required; use extension or boundary-testing language only for questions beyond an already supported contribution.
 - If the discussion repeats results, rewrite it as interpretation, relation to literature, limitations, and implications.
 - If the conclusion repeats the discussion, compress it to thesis-level answer, contribution, limits, future work, and final takeaway.
 
@@ -42,7 +42,7 @@ Thesis writing must satisfy institutional structure while telling a coherent res
 - Treating the thesis as a long paper without institution-specific requirements.
 - Ending with a broad impact claim that the chapters do not support.
 - Repeating the entire discussion in the conclusion.
-- Adding new data or arguments in the final chapter.
+- Introducing previously unreported evidence in a conclusion. A general discussion may develop a new synthesis of already presented findings; explain its basis rather than treating all new reasoning as forbidden.
 - Writing acknowledgements that create privacy or relationship problems.
 
 ## Diagnostic questions
@@ -63,6 +63,8 @@ Thesis writing must satisfy institutional structure while telling a coherent res
 - Chapter job table: `Chapter -> job -> evidence used -> contribution to thesis question -> transition to next chapter.`
 
 ## Examples
+
+Illustrative fixed facts: the thesis asks about early regulatory changes before stable cell identity decisions; its three linked chapters use population profiling, single-cell validation and perturbation analysis. The following rewrite uses those supplied facts only.
 
 Before: `This thesis studied several aspects of cell regulation.`
 

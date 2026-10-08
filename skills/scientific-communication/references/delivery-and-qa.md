@@ -14,15 +14,15 @@ Make the prepared story survive live performance. Delivery should help the audie
 4. Use voice, pauses, gesture, and gaze to direct attention to the argument.
 5. Prepare likely questions: clarification, methods, interpretation, limitation, alternative explanation, and next-step questions.
 6. For Q&A, listen fully, restate if needed, answer the substance, name uncertainty, and bridge back to the work.
-7. Record at least one rehearsal when delivery behavior matters.
+7. When useful and feasible, record a rehearsal to inspect the delivery behavior under discussion.
 
 ## Decision rules
 
 - If the user is short on time, rehearse opening, transitions, difficult slides, and close first.
 - If the talk runs long, cut content rather than speaking faster.
 - If a question is hostile or rambling, answer the scientific substance without matching the tone.
-- If the answer is unknown, say what is known, what is uncertain, and how one would test it.
-- If nerves are visible, use concrete behaviors: stronger volume, deliberate pauses, open posture, and practiced first sentence.
+- If the answer is unknown, say what is known and uncertain; suggest a test when useful. Distinguish completed evidence from a proposed control, analysis or replication rather than inventing a reassuring result.
+- If nerves affect the explanation, choose a concrete adjustment such as a pause or practiced first sentence. Adapt volume, posture and gaze to the speaker's preferences and access needs; confidence performance is not evidence quality.
 - If questions interrupt flow, state the Q&A plan in the opening or use brief bridges back to the thread.
 
 ## Variants and edge cases
@@ -73,7 +73,7 @@ Run 4: Q&A and recovery
 
 ## Examples
 
-- For a 10-minute talk, plan content for nine minutes so questions, setup, and small delays do not destroy the close.
+- For a ten-minute speaking slot, a nine-minute rehearsal target can provide a buffer; use the host's actual allocation for speaking, questions and setup.
 - For a hostile methods question, answer the validity concern, state what control addresses it, and offer backup detail.
 - For visible nervousness, script the first sentence, raise energy slightly, and use pauses at transitions instead of rushing.
 

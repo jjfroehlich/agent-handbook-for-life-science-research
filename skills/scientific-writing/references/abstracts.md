@@ -69,13 +69,21 @@ An abstract is a standalone miniature argument. It must orient the reader, ident
 
 ## Examples
 
+Each pair below is a fictional teaching case. Use the fixed facts stated for that pair; the sparse before sentences alone do not establish the added gap, design or outcome. If equivalent facts are absent from a user's material, preserve the known text and mark missing details.
+
+Fixed facts: cell-type resolution of early developmental enhancer changes is unresolved; the study profiles enhancer-linked transcription across staged samples and finds recurrent regulatory shifts at early lineage transitions.
+
 Before: `Many studies have investigated gene regulation in development. We used sequencing to examine enhancer activity.`
 
 After: `How enhancer activity changes across early development remains difficult to resolve at cell-type resolution. We profiled enhancer-linked transcription across staged samples and found that early lineage transitions are marked by a small set of recurrent regulatory shifts.`
 
+Fixed facts: CellMark combines local intensity cues with shape priors to segment touching cells; three benchmark datasets show improved instance recovery and preserved cell-size estimates in dense microscopy images.
+
 Before: `Here we present a new computational method and show that it works better than existing tools.`
 
 After: `Accurately separating touching cells remains a bottleneck in dense microscopy images. We developed CellMark, a boundary-aware segmentation method that combines local intensity cues with shape priors. Across three benchmark datasets, CellMark improved instance recovery while preserving cell-size estimates, enabling more reliable quantification in crowded tissues.`
+
+Fixed facts: the unresolved question concerns transcriptional changes before age-related loss of vaccine responsiveness; immune-cell transcriptomes were profiled before and after vaccination in younger and older adults; a pre-existing inflammatory program predicted weaker response. The design supports association.
 
 Before: `This study investigated immune aging using transcriptomics and found many changes.`
 

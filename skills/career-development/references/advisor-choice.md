@@ -21,7 +21,7 @@ Help the user choose a training environment using evidence about mentoring behav
 - If current trainees are uniformly positive, still ask former trainees and adjacent lab members; the visible trainees may be the people for whom the lab already worked.
 - If an advisor promises autonomy, ask for examples of how projects, authorship, and independence developed for recent trainees.
 - If a lab depends on one grant, one project, or one advisor relationship, check what happens if funding, project direction, or fit changes.
-- If the user is already in a harmful relationship, focus on documentation, neutral advice, institutional channels, trusted mentors, and practical exits rather than debating whether the behavior "counts."
+- If the user reports a harmful relationship, take it seriously and help identify safe support and practical options. Consider documentation or institutional channels only with attention to access, confidentiality and retaliation risk; do not require a misconduct determination before support.
 
 ## Variants and Edge Cases
 

@@ -10,7 +10,7 @@ Show that the candidate can think, prioritize, respond, and build a credible fut
 
 1. Confirm format: board only, limited slides, time, audience, and expected level of interruption.
 2. Open with the research program's big question and why the department should care.
-3. Map two or three project modules, each with question, approach, expected outcome, risk, and alternative.
+3. Map the prioritized project modules, each with question, approach, expected outcome, risk and alternative. Two or three may fit a short session; choose the count for the actual format and program.
 4. Show feasibility without drowning the audience in preliminary data.
 5. Leave board space for live reasoning, questions, and committee redirection.
 6. Prepare short answers for funding path, lab staffing, collaboration fit, and contingency plans.
@@ -73,7 +73,7 @@ What this enables:
 
 ## Examples
 
-- For a one-hour chalk talk, plan roughly 35-40 minutes of content and leave space for questions.
+- For a one-hour chalk talk, a 35-40-minute uninterrupted route can be a rehearsal starting point when the host expects substantial discussion; follow the supplied session format.
 - For a three-aim program, prepare a one-minute summary of each aim before expanding the highest-priority module.
 - For a skeptical question, answer the substance, name the uncertainty, and show the planned alternative.
 

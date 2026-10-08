@@ -20,7 +20,7 @@ Translate PI responsibility into systems. Good lab leadership is not a personali
 
 - If ambition exceeds capacity, sequence or trim work rather than transferring unmanaged scarcity to trainees.
 - If hiring, define role, rubric, questions, independence level, mentoring load, and onboarding before candidate comparison.
-- If onboarding, treat the first month and first quarter as culture design, not paperwork.
+- If onboarding, choose early reviews around task complexity, access and training milestones. A month or quarter can be a useful planning interval; a short placement or urgent safety requirement needs another schedule.
 - If evaluating contribution, assess rigor, role, usefulness, reproducibility, collaboration, and concrete output rather than prestige or visibility.
 - If collaborating, align goals, decision rights, protected effort, authorship, data/code ownership, and handoffs at the start.
 
@@ -99,3 +99,9 @@ Leadership moves that build autonomy:
 - Coach drafts, figures, and talks without replacing the trainee's voice.
 
 Additional anti-patterns: absentee leadership, defensive leadership, hostile leadership, hover-leadership, verbal-only collaboration agreements, and productivity that masks dependence.
+
+## Reviewing group decisions
+
+Review progress alongside the conditions supporting it: interruptions, staffing transitions, access, training and shared duties. Invite relevant perspectives without turning a group meeting into a personnel hearing. In a small group, even aggregated comments can identify a person; explain access and disclosure limits before collecting sensitive feedback and offer a suitable independent route.
+
+For an agreed change, identify what continues or is deferred, who has authority and time to act, and what evidence will be checked. Count training and support within people's existing workload. At follow-up, check delivery of support and hidden burden as well as the visible milestone. Completing a supervised run does not by itself establish independent readiness. Keep collaboration-specific contributions and credit decisions separate from individual mentoring and group-wide policy.

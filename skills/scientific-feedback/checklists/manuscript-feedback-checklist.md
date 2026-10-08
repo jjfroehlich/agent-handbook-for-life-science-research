@@ -20,4 +20,4 @@ Use this for manuscript, paper, preprint, thesis chapter, article draft, or resp
 
 ## Output reminder
 
-Return manuscript feedback as strengths, blocking/major issues, section-level fixes, figure/table notes, claim-calibration notes, and next revision sequence.
+Select the consequential manuscript and figure findings and an appropriate revision order. Include only categories relevant to the requested critique; do not judge unseen figures or imply that wording supplies missing evidence.

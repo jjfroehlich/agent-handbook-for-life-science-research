@@ -1,0 +1,1006 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Color, symbols and accessibility – Life Science Research Handbook</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../03-data-visualization/04-biological-images.html" rel="next">
+<link href="../03-data-visualization/02-showing-observations-and-uncertainty.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-b1e86aa134d1406440609b53160c2c75.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../assets/styles/styles.css">
+<link rel="stylesheet" href="../assets/styles/web.css">
+</head>
+
+<body class="nav-sidebar docked fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../03-data-visualization/01-choosing-a-figure-or-table.html">Data visualization</a></li><li class="breadcrumb-item"><a href="../03-data-visualization/03-color-symbols-and-accessibility.html">Color, symbols and accessibility</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">Life Science Research Handbook</a> 
+        <div class="sidebar-tools-main">
+    <a href="../life-science-research-handbook.pdf" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About this handbook</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
+ <span class="menu-text">Research strategy and project design</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-research-strategy/01-choosing-a-scientific-problem.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Choosing a scientific problem</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-research-strategy/02-developing-ideas.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Developing ideas</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-research-strategy/03-connecting-questions-models-and-experiments.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Connecting questions, models and experiments</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-research-strategy/04-planning-and-reviewing-a-research-project.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Planning and reviewing a research project</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
+ <span class="menu-text">Reading the literature</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02-reading-the-literature/01-keeping-up-with-the-literature.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Keeping up with the literature</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02-reading-the-literature/02-understanding-a-research-paper.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Understanding a research paper</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02-reading-the-literature/03-comparing-and-synthesizing-papers.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Comparing and synthesizing papers</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Data visualization</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/01-choosing-a-figure-or-table.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Choosing a figure or table</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/02-showing-observations-and-uncertainty.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Showing observations and uncertainty</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/03-color-symbols-and-accessibility.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Color, symbols and accessibility</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/04-biological-images.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Biological images</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/05-specialized-displays-and-explanatory-diagrams.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Specialized displays and explanatory diagrams</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/06-preparing-figures-for-publication.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preparing figures for publication</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
+ <span class="menu-text">Writing a paper</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-writing-a-paper/01-planning-the-paper.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Planning the paper</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-writing-a-paper/02-titles-abstracts-and-introductions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Titles, abstracts and introductions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-writing-a-paper/03-methods-results-and-figure-legends.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Methods, results and figure legends</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-writing-a-paper/04-discussion-and-conclusions.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Discussion and conclusions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-writing-a-paper/05-drafting-reviewing-and-revising-a-paper.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Drafting, reviewing and revising a paper</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
+ <span class="menu-text">Writing a thesis</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../05-writing-a-thesis/01-from-thesis-plan-to-finished-text.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">From thesis plan to finished text</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false">
+ <span class="menu-text">Communicating research</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06-communicating-research/01-explaining-research-to-an-audience.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Explaining research to an audience</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06-communicating-research/02-designing-a-presentation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Designing a presentation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06-communicating-research/03-delivering-a-talk-and-answering-questions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Delivering a talk and answering questions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06-communicating-research/04-posters.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Posters</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06-communicating-research/05-elevator-pitches-and-chalk-talks.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Elevator pitches and chalk talks</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="false">
+ <span class="menu-text">Writing grants and fellowships</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../07-grants-and-fellowships/01-choosing-an-opportunity-and-planning-the-application.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Choosing an opportunity and planning the application</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../07-grants-and-fellowships/02-writing-the-proposal.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Writing the proposal</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../07-grants-and-fellowships/03-funding-interviews-and-preparing-for-an-award.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Funding interviews and preparing for an award</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false">
+ <span class="menu-text">Publishing</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08-publishing/01-choosing-a-journal-and-submitting-a-paper.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Choosing a journal and submitting a paper</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08-publishing/02-reviewing-a-manuscript.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Reviewing a manuscript</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08-publishing/03-responding-to-peer-review.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Responding to peer review</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08-publishing/04-rejection-transfer-and-published-reviews.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Rejection, transfer and published reviews</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="false">
+ <span class="menu-text">Career development</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/01-exploring-career-options.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Exploring career options</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/02-choosing-an-advisor-and-research-environment.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Choosing an advisor and research environment</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/03-cvs-resumes-letters-and-references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">CVs, resumes, letters and references</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/04-finding-and-applying-for-positions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Finding and applying for positions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/05-finding-a-group-leader-position.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Finding a group leader position</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/06-career-transitions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Career transitions</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="false">
+ <span class="menu-text">Work Culture &amp; Management</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/01-mentoring.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mentoring</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/02-lab-manuals-and-shared-expectations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lab manuals and shared expectations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/03-leading-and-reviewing-a-research-group.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Leading and reviewing a research group</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/04-collaboration-authorship-and-credit.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Collaboration, authorship and credit</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/05-sustainable-and-inclusive-research-workplaces.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sustainable and inclusive research workplaces</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/06-feedback-and-conflict.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Feedback and conflict</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../03-data-visualization/01-choosing-a-figure-or-table.html">Data visualization</a></li><li class="breadcrumb-item"><a href="../03-data-visualization/03-color-symbols-and-accessibility.html">Color, symbols and accessibility</a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span id="color-chapter" class="quarto-section-identifier">Color, symbols and accessibility</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Color can identify groups, show how a quantity varies or draw attention to a selected observation. Choose distinct colors for groups, an ordered gradient for values, or an accent color for a highlight. <a href="#ref-color-wilke2019">[1]</a>, chapter 4.</p>
+<section id="color-purpose" class="level2">
+<h2 class="anchored" data-anchor-id="color-purpose">Decide what color should show</h2>
+<p>For a plot of one series, a single dark color is usually enough. When comparing treatments, assign a distinct color to each treatment and keep that assignment across the paper. Avoid giving every bar or point a different color when its label or position already identifies it. <a href="#ref-color-rougier2014">[9]</a>, rule 6; <a href="#ref-color-muth2018">[8]</a>.</p>
+<p>To highlight one group, give it an accent color and label it. Keep the other observations visible in a subdued color. If readers should compare all groups equally, avoid making one much brighter or more saturated than the others: it can attract attention for reasons unrelated to the data. <a href="#ref-color-wongcolor2010">[2]</a>; <a href="#ref-color-wilke2019">[1]</a>, chapter 4.</p>
+<p>Color is useful for finding patterns in a large matrix, but less reliable for judging small numerical differences. The same colored square can look different against light and dark surroundings. If readers need to compare a few values precisely, put them on a common axis or print the values rather than asking readers to estimate them from a color key. <a href="#ref-color-wongavoid2011">[3]</a>; <a href="#ref-color-gehlenborgcolor2012">[5]</a>.</p>
+</section>
+<section id="color-scales" class="level2">
+<h2 class="anchored" data-anchor-id="color-scales">Match the scale to the data</h2>
+<section id="color-scale-types" class="level3">
+<h3 class="anchored" data-anchor-id="color-scale-types">Groups, magnitudes and deviations</h3>
+<p>Use a <strong>categorical palette</strong> for groups without a numerical order, such as cell types or treatments. The colors should be distinguishable without suggesting that one group is greater than another. Shades from pale to dark imply an order and are better suited to quantities such as dose. For unordered groups, start with an established categorical palette such as Okabe–Ito, then check the selected colors in the actual plot. <a href="#ref-color-wongblind2011">[4]</a>; <a href="#ref-color-wilke2019">[1]</a>, chapters 4 and 19.</p>
+<p>Use a <strong>sequential scale</strong> for values that run from low to high. Lightness should change steadily, so that equal numerical steps produce roughly comparable visible changes. This can be a single-hue gradient or a multihue palette such as cividis or viridis. Consider which values should stand out against the background: dark marks are prominent on white, while light marks stand out on a dark background. <a href="#ref-color-gehlenborgcolor2012">[5]</a>; <a href="#ref-color-crameri2024">[7]</a>, pp.&nbsp;3–6.</p>
+<p>Use a <strong>diverging scale</strong> to distinguish values above and below a reference, such as no change or a specified target. Give the two sides different hues and make the reference neutral. No change is zero for a log fold change and one for a ratio. Set that reference explicitly; the middle of the observed range may represent a different value. <a href="#ref-color-gehlenborgcolor2012">[5]</a>; <a href="#ref-color-crameri2024">[7]</a>, pp.&nbsp;3–6.</p>
+<div class="block" data-breakable="false">
+<p><span id="color-scale-guide"><strong>Three common color encodings</strong></span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../assets/images/color-scales.png" class="handbook-plot img-fluid figure-img" style="width:5in" alt="Three labeled rows: Control, Treatment and Recovery have distinct blue, vermilion and green swatches; a sequential scale runs from dark low to light high; a diverging scale runs from blue negative through pale zero to red positive."></p>
+<figcaption>Categories use separate colors; magnitudes follow an ordered gradient; deviations use two directions from a reference. Shown here: three Okabe–Ito colors, cividis and RdBu.</figcaption>
+</figure>
+</div>
+</div>
+<p>Avoid rainbow scales for ordinary quantitative data. Their uneven changes in hue and lightness can create apparent boundaries where the values change smoothly, while making other differences difficult to see. Selecting a well-designed scale is easier than constructing one by eye. <a href="#ref-color-wongcolor2010">[2]</a>; <a href="#ref-color-wilke2019">[1]</a>, chapter 19.</p>
+<p>Two less common choices are useful when the data require them. A <strong>cyclic scale</strong> has matching ends, so angles near 0° and 360°, or phases immediately before and after a cycle boundary, look similar. A <strong>discrete ordered scale</strong> divides values into labeled ranges. Use it when those ranges matter; use a continuous gradient when variation within them matters. Show the boundaries of discrete ranges in the key. <a href="#ref-color-crameri2024">[7]</a>, pp.&nbsp;2–3.</p>
+</section>
+<section id="color-limits" class="level3">
+<h3 class="anchored" data-anchor-id="color-limits">Set the reference and limits</h3>
+<p>Use the same color limits for panels whose values you want readers to compare. Otherwise, a color indicating a small response in one panel may indicate a much larger response in another. Within a single panel, you can show the full possible range or a narrower range that makes small differences easier to see. Show the chosen limits in the colorbar. <a href="#ref-color-gehlenborgcolor2012">[5]</a>, Figure 1.</p>
+<div class="block" data-breakable="false">
+<p><span id="color-range-example"><strong>Full possible range or local range?</strong></span></p>
+<p>The same invented percentages appear twice. On the full 0–100% scale, the 42–58% values have little color contrast. On the stated 40–60% local scale, their differences are easier to see. The narrow scale uses its strongest colors for values still near 50%, so readers need the colorbar to interpret their size. Use shared limits if these values must be compared with other panels.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../assets/images/color-range-limits.png" class="handbook-plot img-fluid figure-img" style="width:5in" alt="Two stacked heatmaps show the same twelve reporter-positive percentages from 42 to 58. The upper panel has a 0 to 100 percent cividis colorbar and subtle color differences. The lower has a 40 to 60 percent colorbar and larger visible differences. Every cell contains the same numerical label in both panels."></p>
+<figcaption>Two identical heatmaps of reporter-positive percentages. The upper colorbar spans zero to one hundred percent and the lower spans forty to sixty percent; all cells retain their printed values.</figcaption>
+</figure>
+</div>
+</div>
+<p>For a diverging scale, equal departures from the reference should receive comparable color strength. With values from −1 to +3, stretching both ends to equally strong colors would give −1 as much emphasis as +3. A balanced −3 to +3 scale avoids that distortion, even though part of its negative range is unused. <a href="#ref-color-crameri2024">[7]</a>, Figure 4.</p>
+<div class="block" data-breakable="false">
+<p><span id="color-midpoint-example"><strong>Center the scale on the biological reference</strong></span></p>
+<p>These invented log₂ fold changes range from −1 to +3. Zero means no change. Both panels show the same values.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../assets/images/color-midpoint.png" class="handbook-plot img-fluid figure-img" style="width:5in" alt="Two heatmaps show identical labeled values for three genes and four conditions. The upper colorbar runs from minus one to plus three, so plus one is pale and zero appears blue. The lower colorbar runs from minus three to plus three, so zero is pale, negative values are blue and positive values are red."></p>
+<figcaption>Automatic minimum-to-maximum scaling puts the pale color at +1. Centering the scale on zero correctly distinguishes decreases from increases and gives equal-sized changes comparable emphasis.</figcaption>
+</figure>
+</div>
+</div>
+<p>Label what the colorbar measures, including units and transformations: for example, “log₂ fold change” or “row-standardized expression.” If values beyond a limit all receive the same end color, indicate that saturation in the key. Give missing values a separate labeled appearance so they cannot be mistaken for zero or the lowest measurement. <a href="#ref-color-gehlenborgcolor2012">[5]</a>; <a href="#ref-color-wilke2019">[1]</a>, chapter 4.</p>
+</section>
+</section>
+<section id="color-symbols" class="level2">
+<h2 class="anchored" data-anchor-id="color-symbols">Use symbols and labels alongside color</h2>
+<p>For a few overlaid series, combine color with distinct markers or simple line styles. Label lines near their ends when there is room; otherwise use a compact key with the actual marker, fill and line style. Arrange key entries in the same order as the curves where a clear visual order exists. Complex dash patterns become difficult to follow on tightly turning curves; direct labels or separate panels work better there. Refer to the group by name in the caption, rather than only as “the red line.” <a href="#ref-color-symbols2013">[6]</a>; <a href="#ref-color-crameri2024">[7]</a>, Figure 5; <a href="#ref-color-wilke2019">[1]</a>, chapter 20.</p>
+<p>Choose shapes that remain distinct at the final size. Circles and squares are usually easier to distinguish than several similar polygons. Adjust their sizes so they appear equally prominent; equal numerical marker sizes do not necessarily give equal visual weight. Open circles can reveal overlapping boundaries, whereas large filled symbols can merge into a solid patch. If overlap is severe, changing symbols alone will not solve it: separate groups into panels or use a distribution display. <a href="#ref-color-symbols2013">[6]</a>, Figures 1–3.</p>
+<p>Color and shape can both identify treatment, so readers have two ways to follow the same groups. If color instead identifies treatment and shape identifies genotype, each combination represents a different group. When this becomes hard to follow, use separate panels for each genotype and keep the treatment colors consistent. Show fewer groups together when readers cannot reliably match them to the key. <a href="#ref-color-symbols2013">[6]</a>; <a href="#ref-color-wilke2019">[1]</a>, chapter 19.</p>
+<div class="block" data-breakable="false">
+<p><span id="color-facets-example"><strong>Separate panels for each genotype</strong></span></p>
+<p>Separate WT and KO panels make the treatment response easier to follow within each genotype. The combined view is useful for comparing genotypes directly, but readers must distinguish both colors and symbols. Both arrangements show the same invented values.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../assets/images/color-facets.png" class="handbook-plot img-fluid figure-img" style="width:5in" alt="At top, one line graph contains four reporter-signal trajectories. Blue and vermilion identify control and stimulated treatment; circle solid and square dashed styles identify WT and KO. Below, separate WT and KO panels show the same values with blue control and vermilion stimulated trajectories."></p>
+<figcaption>A line plot with four series uses color for treatment and marker and line style for genotype. Below it, two panels labelled WT and KO show the same treatment trajectories with consistent blue and vermilion colors.</figcaption>
+</figure>
+</div>
+</div>
+<div class="block" data-breakable="false">
+<p><span id="color-identification-example"><strong>Keep series identifiable without hue</strong></span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../assets/images/color-identification.png" class="handbook-plot img-fluid figure-img" style="width:5in" alt="Two stacked plots show the same Pulse and Sustained reporter signals from zero to six hours. Pulse uses circles and a solid line; Sustained uses squares and a dashed line. Black labels identify both curves directly. The upper plot is blue and vermilion, the lower is grayscale; shapes and line styles are unchanged."></p>
+<figcaption>The same invented reporter trajectories in color and grayscale. Direct labels, circles versus squares, and solid versus dashed lines preserve the series identities.</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="color-contrast" class="level2">
+<h2 class="anchored" data-anchor-id="color-contrast">Make marks readable on their background</h2>
+<p>A palette that works in large swatches may fail on thin lines or small points. Inspect the plot at its intended reading size. Darken pale marks, increase their size or weight, or use a more distinct shape if they disappear. Large filled areas often need less saturation than small marks; intense fills can overwhelm nearby labels and grid lines. <a href="#ref-color-wongcolor2010">[2]</a>; <a href="#ref-color-wilke2019">[1]</a>, pp.&nbsp;236–242.</p>
+<p>Check colors against the background and against neighboring marks. Yellow may be clear on a dark background but nearly invisible on white. Transparency also changes the displayed color through blending, so inspect overlapping regions as well as isolated points. Keep essential labels dark enough to read; a label need not inherit the color of the series it names. <a href="#ref-color-muth2018">[8]</a>; <a href="#ref-color-wongcolor2010">[2]</a>; <a href="#ref-color-wilke2019">[1]</a>, chapters 18 and 20.</p>
+<p>For choosing colors for fluorescence channels and showing merged images, see <a href="../03-data-visualization/04-biological-images.html#bioimage-chapter">Biological images</a>. <a href="#ref-color-wongblind2011">[4]</a>, Figure 3.</p>
+</section>
+<section id="color-check" class="level2">
+<h2 class="anchored" data-anchor-id="color-check">Check accessibility and consistency</h2>
+<p>Inspect the finished figure under simulations of common red–green and blue–yellow color-vision deficiencies. Test whether the groups remain distinguishable, whether a quantitative gradient still has a clear order, and whether labels and small marks remain visible. If a distinction disappears, change the palette or supply it through labels, shapes or separate panels. Check the exported figure, not just the palette preview. <a href="#ref-color-wongblind2011">[4]</a>; <a href="#ref-color-wilke2019">[1]</a>, Figure 19-11.</p>
+<p>Grayscale reveals weak contrast and whether identification depends entirely on hue. A symmetric diverging scale will often give negative and positive values similar gray levels: it preserves distance from the center but loses direction. If that direction must survive monochrome reproduction, add signed values, explicit labels or separate views. <a href="#ref-color-crameri2024">[7]</a>, pp.&nbsp;3–8; <a href="#ref-color-wilke2019">[1]</a>, chapter 19.</p>
+<p>Check the figure alongside the rest of the paper. Do recurring groups keep their colors and symbols? Do comparable panels use the same scale and reference? Check that keys, direct labels and captions agree, including the labels for missing values and highlighted observations. <a href="#ref-color-muth2018">[8]</a>.</p>
+<div class="block" data-breakable="false">
+<p><span id="color-checklist"><strong>Before finalizing the colors and symbols</strong></span></p>
+<ul>
+<li>Does each encoding identify a group, show a quantity or mark a deliberate highlight?</li>
+<li>Do the palette type, reference and limits match the quantity being shown?</li>
+<li>Can readers distinguish the important groups without relying on hue alone?</li>
+<li>Are marks and labels readable at final size, including in grayscale and color-vision simulations?</li>
+<li>Do recurring colors and symbols mean the same thing across panels?</li>
+</ul>
+</div>
+<p>The teaching graphics use invented values or schematic encodings.</p>
+</section>
+<section id="color-references" class="level2">
+<h2 class="anchored" data-anchor-id="color-references">References</h2>
+<div class="chapter-references" typst:text:size="9.5pt">
+<div class="block" data-breakable="false">
+<ol type="1">
+<li><span id="ref-color-wilke2019"><a href="https://clauswilke.com/dataviz/">Wilke, C. O. (2019). <strong>Fundamentals of Data Visualization.</strong> O’Reilly Media.</a></span></li>
+<li><span id="ref-color-wongcolor2010"><a href="https://doi.org/10.1038/nmeth0810-573">Wong, B. (2010). <strong>Color coding.</strong> <em>Nature Methods</em>, 7, 573.</a></span></li>
+<li><span id="ref-color-wongavoid2011"><a href="https://doi.org/10.1038/nmeth.1642">Wong, B. (2011a). <strong>Avoiding color.</strong> <em>Nature Methods</em>, 8, 525.</a></span></li>
+<li><span id="ref-color-wongblind2011"><a href="https://doi.org/10.1038/nmeth.1618">Wong, B. (2011b). <strong>Color blindness.</strong> <em>Nature Methods</em>, 8, 441.</a></span></li>
+<li><span id="ref-color-gehlenborgcolor2012"><a href="https://doi.org/10.1038/nmeth.2134">Gehlenborg, N., &amp; Wong, B. (2012). <strong>Mapping quantitative data to color.</strong> <em>Nature Methods</em>, 9, 769.</a></span></li>
+<li><span id="ref-color-symbols2013"><a href="https://doi.org/10.1038/nmeth.2490">Krzywinski, M., &amp; Wong, B. (2013). <strong>Plotting symbols.</strong> <em>Nature Methods</em>, 10, 451.</a></span></li>
+<li><span id="ref-color-crameri2024"><a href="https://doi.org/10.1002/cpz1.1126">Crameri, F., Shephard, G. E., &amp; Heron, P. J. (2024). <strong>Choosing Suitable Color Palettes for Accessible and Accurate Science Figures.</strong> <em>Current Protocols</em>, 4, e1126.</a></span></li>
+<li><span id="ref-color-muth2018"><a href="https://www.datawrapper.de/blog/colors">Muth, L. C. (2018, May 29). <strong>What to consider when choosing colors for data visualization.</strong> Datawrapper Blog. Accessed September 18, 2026.</a></span></li>
+<li><span id="ref-color-rougier2014"><a href="https://doi.org/10.1371/journal.pcbi.1003833">Rougier, N. P., Droettboom, M., &amp; Bourne, P. E. (2014). <strong>Ten Simple Rules for Better Figures.</strong> <em>PLOS Computational Biology</em>, 10(9), e1003833.</a></span></li>
+</ol>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script>
+
+/* Keep the authored topic/chapter hierarchy and identify the current page. */
+
+document.addEventListener('DOMContentLoaded', () => {
+
+  document.querySelector('#quarto-sidebar a.sidebar-link.active')?.setAttribute('aria-current', 'page');
+
+});
+
+</script>
+
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../03-data-visualization/02-showing-observations-and-uncertainty.html" class="pagination-link" aria-label="Showing observations and uncertainty">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Showing observations and uncertainty</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../03-data-visualization/04-biological-images.html" class="pagination-link" aria-label="Biological images">
+        <span class="nav-page-text">Biological images</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

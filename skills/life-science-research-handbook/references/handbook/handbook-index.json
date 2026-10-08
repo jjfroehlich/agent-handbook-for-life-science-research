@@ -1,0 +1,3849 @@
+{
+  "schema_version": 1,
+  "title": "Life Science Research Handbook",
+  "content_edition": "d368454edc784852f70135f6e9e556fd760b6d21c3c9774e9dd430ad1eba625d",
+  "introduction": {
+    "title": "Life Science Research Handbook",
+    "path": "reader/index.md",
+    "html_path": "index.html",
+    "source_html_sha256": "08e60b8c18d8b1facf34a70b9cd97cc712bd51cd209425e971600c6d2624531c",
+    "text_sha256": "db9921b5460411091729093d3401d713cc86a51e42b71ba279bb14a6a4c091fa",
+    "sections": [],
+    "anchors": [
+      "quarto-document-content",
+      "title-block-header"
+    ]
+  },
+  "chapters": {
+    "C01": {
+      "title": "Choosing a scientific problem",
+      "path": "reader/01-research-strategy/01-choosing-a-scientific-problem.md",
+      "html_path": "01-research-strategy/01-choosing-a-scientific-problem.html",
+      "source_html_sha256": "eced35e4b443ebffaece0fa5d97ed1dd0c51eed6fd40d9d83c4a48a6148e364e",
+      "text_sha256": "e3d1e2f64fabc6b5ed2b94408cf129d8690dabb2e6e2a85f86a7c41d88debe3f",
+      "sections": [
+        {
+          "anchor": "problem-chapter",
+          "title": "Choosing a scientific problem",
+          "level": 1
+        },
+        {
+          "anchor": "problem-value",
+          "title": "What would you learn?",
+          "level": 2
+        },
+        {
+          "anchor": "problem-alternatives",
+          "title": "Compare realistic alternatives",
+          "level": 2
+        },
+        {
+          "anchor": "problem-support",
+          "title": "Time, experience and support",
+          "level": 2
+        },
+        {
+          "anchor": "problem-choice",
+          "title": "Making the choice",
+          "level": 2
+        },
+        {
+          "anchor": "problem-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "problem-alternatives",
+        "problem-chapter",
+        "problem-choice",
+        "problem-comparison-example",
+        "problem-references",
+        "problem-support",
+        "problem-value",
+        "problem-worked-choice",
+        "quarto-document-content",
+        "ref-problem-alon2009",
+        "ref-problem-brennan2019research",
+        "ref-problem-schwartz2008",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "Which scientific question is worth pursuing with the support available?"
+      ]
+    },
+    "C02": {
+      "title": "Developing ideas",
+      "path": "reader/01-research-strategy/02-developing-ideas.md",
+      "html_path": "01-research-strategy/02-developing-ideas.html",
+      "source_html_sha256": "ae5a5a73127b164bd512358464b0ecf37e9832e8cb19179fd3a09b2a70d6bfb6",
+      "text_sha256": "dedde0ba9741c5deda559b01cca08d57af9247cc38a70dec5828eafe7edbdbbf",
+      "sections": [
+        {
+          "anchor": "ideas-chapter",
+          "title": "Developing ideas",
+          "level": 1
+        },
+        {
+          "anchor": "ideas-exploration",
+          "title": "Start with an observation",
+          "level": 2
+        },
+        {
+          "anchor": "ideas-connections",
+          "title": "Connections with other fields",
+          "level": 2
+        },
+        {
+          "anchor": "ideas-conversation",
+          "title": "Discussing unfinished ideas",
+          "level": 2
+        },
+        {
+          "anchor": "ideas-reframing",
+          "title": "Questioning assumptions",
+          "level": 2
+        },
+        {
+          "anchor": "ideas-next-check",
+          "title": "What to check next",
+          "level": 2
+        },
+        {
+          "anchor": "ideas-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "ideas-chapter",
+        "ideas-connections",
+        "ideas-conversation",
+        "ideas-exploration",
+        "ideas-next-check",
+        "ideas-references",
+        "ideas-reframing",
+        "ideas-worked-conversation",
+        "ideas-worked-note",
+        "quarto-document-content",
+        "ref-ideas-goslingnoordam2022thesis",
+        "ref-ideas-shoresh2012",
+        "ref-ideas-yanai2020",
+        "ref-ideas-yanaicontradictions2021",
+        "ref-ideas-yanaiconversation2021",
+        "ref-ideas-yanaihypothesis2020",
+        "ref-ideas-yanaiimprov2022",
+        "ref-ideas-yanainight2019",
+        "ref-ideas-yanaipuzzle2022",
+        "ref-ideas-yanairenaissance2020",
+        "ref-ideas-yanaitwo2024",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I develop an observation or analogy into a research idea?"
+      ]
+    },
+    "C03": {
+      "title": "Connecting questions, models and experiments",
+      "path": "reader/01-research-strategy/03-connecting-questions-models-and-experiments.md",
+      "html_path": "01-research-strategy/03-connecting-questions-models-and-experiments.html",
+      "source_html_sha256": "43ace8d2a39035fbf9f698129db4288cf6ba0a20226ed03375d2314b602bc697",
+      "text_sha256": "c925211920cdd756d89fc72a197db807688262f158d8c168aa2af43cc6984c0f",
+      "sections": [
+        {
+          "anchor": "models-chapter",
+          "title": "Connecting questions, models and experiments",
+          "level": 1
+        },
+        {
+          "anchor": "models-question",
+          "title": "Defining the question",
+          "level": 2
+        },
+        {
+          "anchor": "models-predictions",
+          "title": "Comparing predictions",
+          "level": 2
+        },
+        {
+          "anchor": "models-assumptions",
+          "title": "Assumptions and controls",
+          "level": 2
+        },
+        {
+          "anchor": "models-design",
+          "title": "Designing the experiment",
+          "level": 2
+        },
+        {
+          "anchor": "models-results",
+          "title": "Interpreting negative and inconclusive results",
+          "level": 2
+        },
+        {
+          "anchor": "models-update",
+          "title": "Revising the explanation",
+          "level": 2
+        },
+        {
+          "anchor": "models-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "models-assumptions",
+        "models-chapter",
+        "models-design",
+        "models-medium-example",
+        "models-plan-example",
+        "models-predictions",
+        "models-question",
+        "models-references",
+        "models-results",
+        "models-update",
+        "quarto-document-content",
+        "ref-models-goslingnoordam2022thesis",
+        "ref-models-jose2020illusions",
+        "ref-models-kamounlab2021failed",
+        "ref-models-makin2019",
+        "ref-models-phillips2015theory",
+        "ref-models-yanai2020",
+        "ref-models-yanaicontradictions2021",
+        "ref-models-yanaiconversation2021",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "What would distinguish competing explanations?",
+        "What can an inconclusive experiment establish?"
+      ],
+      "applicability": "Scientific reasoning and design; this chapter does not prescribe a statistical analysis for every experiment.",
+      "required_context": {
+        "models-plan-example": [
+          "models-predictions",
+          "models-assumptions"
+        ]
+      }
+    },
+    "C04": {
+      "title": "Planning and reviewing a research project",
+      "path": "reader/01-research-strategy/04-planning-and-reviewing-a-research-project.md",
+      "html_path": "01-research-strategy/04-planning-and-reviewing-a-research-project.html",
+      "source_html_sha256": "dd33ee2790463291d1a974874511efac4030fa0d376d065da8fda090dcacb138",
+      "text_sha256": "d0e9265106920f08d60895ffafa0106aaf04c762585d5b41b114f19894fe2875",
+      "sections": [
+        {
+          "anchor": "project-plan-chapter",
+          "title": "Planning and reviewing a research project",
+          "level": 1
+        },
+        {
+          "anchor": "project-plan-scope",
+          "title": "Scope and milestones",
+          "level": 2
+        },
+        {
+          "anchor": "project-plan-feasibility",
+          "title": "Feasibility checks",
+          "level": 2
+        },
+        {
+          "anchor": "project-plan-sequence",
+          "title": "Scheduling the work",
+          "level": 2
+        },
+        {
+          "anchor": "project-plan-review",
+          "title": "Reviewing the plan",
+          "level": 2
+        },
+        {
+          "anchor": "project-review-evidence",
+          "title": "What have you learned?",
+          "level": 2
+        },
+        {
+          "anchor": "project-review-diagnosis",
+          "title": "Understanding setbacks",
+          "level": 2
+        },
+        {
+          "anchor": "project-review-options",
+          "title": "Deciding what to do next",
+          "level": 2
+        },
+        {
+          "anchor": "project-review-decision",
+          "title": "A constrained choice",
+          "level": 2
+        },
+        {
+          "anchor": "project-plan-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "project-plan-chapter",
+        "project-plan-example",
+        "project-plan-feasibility",
+        "project-plan-references",
+        "project-plan-review",
+        "project-plan-scope",
+        "project-plan-sequence",
+        "project-review-decision",
+        "project-review-diagnosis",
+        "project-review-evidence",
+        "project-review-example",
+        "project-review-options",
+        "quarto-document-content",
+        "ref-project-plan-goslingnoordam2022thesis",
+        "ref-project-plan-kamounlab2021failed",
+        "ref-project-plan-li2021failfast",
+        "ref-project-plan-raj2025quit",
+        "ref-project-plan-rightmoves2006",
+        "ref-project-plan-yanaiopenness2025",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How should I plan the next stage and decide whether to continue?"
+      ],
+      "required_context": {
+        "project-review-example": [
+          "project-plan-example",
+          "project-review-diagnosis"
+        ]
+      }
+    },
+    "C05": {
+      "title": "Keeping up with the literature",
+      "path": "reader/02-reading-the-literature/01-keeping-up-with-the-literature.md",
+      "html_path": "02-reading-the-literature/01-keeping-up-with-the-literature.html",
+      "source_html_sha256": "47fe6b246cd214b4c34fc740b657b388acf570d0752c5a86589cdce99a8d7657",
+      "text_sha256": "5d318e0438b4877b4560fe545c1abaf732d5b04ee487e6f9b0833bc580e6383a",
+      "sections": [
+        {
+          "anchor": "literature-chapter",
+          "title": "Keeping up with the literature",
+          "level": 1
+        },
+        {
+          "anchor": "literature-scope",
+          "title": "Choosing what to follow",
+          "level": 2
+        },
+        {
+          "anchor": "literature-discovery",
+          "title": "Finding relevant papers",
+          "level": 2
+        },
+        {
+          "anchor": "literature-triage",
+          "title": "Choosing what to read",
+          "level": 2
+        },
+        {
+          "anchor": "literature-retrieval",
+          "title": "Saving papers and notes",
+          "level": 2
+        },
+        {
+          "anchor": "literature-routine",
+          "title": "Making time to read",
+          "level": 2
+        },
+        {
+          "anchor": "literature-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "literature-chapter",
+        "literature-discovery",
+        "literature-references",
+        "literature-retrieval",
+        "literature-routine",
+        "literature-routine-example",
+        "literature-scope",
+        "literature-triage",
+        "quarto-document-content",
+        "ref-literature-carey2020reading",
+        "ref-literature-goslingnoordam2022thesis",
+        "ref-literature-ulitsky2018literature",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I keep up with relevant literature without reading everything?"
+      ]
+    },
+    "C06": {
+      "title": "Understanding a research paper",
+      "path": "reader/02-reading-the-literature/02-understanding-a-research-paper.md",
+      "html_path": "02-reading-the-literature/02-understanding-a-research-paper.html",
+      "source_html_sha256": "b76dfe4a4b793af385b48b7551e1478b63584d14807f5498c2ab9b529862095b",
+      "text_sha256": "264f521f98e799bf894bd94e8bfd73e216c4f960f2c6d3ee000adc5a6142131b",
+      "sections": [
+        {
+          "anchor": "paper-reading-chapter",
+          "title": "Understanding a research paper",
+          "level": 1
+        },
+        {
+          "anchor": "paper-reading-purpose",
+          "title": "What do you need from the paper?",
+          "level": 2
+        },
+        {
+          "anchor": "paper-reading-argument",
+          "title": "Following the argument",
+          "level": 2
+        },
+        {
+          "anchor": "paper-reading-figures-methods",
+          "title": "Figures and methods",
+          "level": 2
+        },
+        {
+          "anchor": "paper-reading-inference",
+          "title": "Assessing the evidence",
+          "level": 2
+        },
+        {
+          "anchor": "paper-reading-account",
+          "title": "Taking useful notes",
+          "level": 2
+        },
+        {
+          "anchor": "paper-reading-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "paper-reading-account",
+        "paper-reading-argument",
+        "paper-reading-chapter",
+        "paper-reading-figures-methods",
+        "paper-reading-inference",
+        "paper-reading-note-example",
+        "paper-reading-purpose",
+        "paper-reading-references",
+        "paper-reading-reporter-example",
+        "quarto-document-content",
+        "ref-paper-reading-carey2020reading",
+        "ref-paper-reading-makin2019",
+        "ref-paper-reading-mensh2017",
+        "ref-paper-reading-wilke2019",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "What does this paper actually establish?"
+      ]
+    },
+    "C07": {
+      "title": "Comparing and synthesizing papers",
+      "path": "reader/02-reading-the-literature/03-comparing-and-synthesizing-papers.md",
+      "html_path": "02-reading-the-literature/03-comparing-and-synthesizing-papers.html",
+      "source_html_sha256": "7372d22f21721514fb906ebd105e1f59ac905e2c4078d6c60b1fdd4f6612af57",
+      "text_sha256": "1cffbe6492af297559db16dee3e249536f4df27e23573b06e5facfcb8c00d447",
+      "sections": [
+        {
+          "anchor": "synthesis-chapter",
+          "title": "Comparing and synthesizing papers",
+          "level": 1
+        },
+        {
+          "anchor": "synthesis-question",
+          "title": "Defining the review question",
+          "level": 2
+        },
+        {
+          "anchor": "synthesis-comparison",
+          "title": "Comparing methods and evidence",
+          "level": 2
+        },
+        {
+          "anchor": "synthesis-disagreement",
+          "title": "Explaining differences between studies",
+          "level": 2
+        },
+        {
+          "anchor": "synthesis-writing",
+          "title": "Writing the synthesis",
+          "level": 2
+        },
+        {
+          "anchor": "synthesis-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-synthesis-carey2020reading",
+        "ref-synthesis-makin2019",
+        "ref-synthesis-pautasso2013",
+        "ref-synthesis-yanaicontradictions2021",
+        "synthesis-chapter",
+        "synthesis-comparison",
+        "synthesis-comparison-example",
+        "synthesis-disagreement",
+        "synthesis-question",
+        "synthesis-references",
+        "synthesis-worked-output",
+        "synthesis-writing",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "Can these studies be compared, and what do they establish together?"
+      ]
+    },
+    "C08": {
+      "title": "Choosing a figure or table",
+      "path": "reader/03-data-visualization/01-choosing-a-figure-or-table.md",
+      "html_path": "03-data-visualization/01-choosing-a-figure-or-table.html",
+      "source_html_sha256": "f6abe429b17b53f88ee54dbdf025900b972f751d257db33d8f56393cd7f34415",
+      "text_sha256": "fd74468b68be9d49749396fd6e4622eb52f26195ba2bea6315a05b44bf2bcf4e",
+      "sections": [
+        {
+          "anchor": "display-chapter",
+          "title": "Choosing a figure or table",
+          "level": 1
+        },
+        {
+          "anchor": "display-choice",
+          "title": "Visual glossary",
+          "level": 2
+        },
+        {
+          "anchor": "display-decision-table",
+          "title": "Choose and compare displays",
+          "level": 2
+        },
+        {
+          "anchor": "display-explore",
+          "title": "Explore alternatives",
+          "level": 2
+        },
+        {
+          "anchor": "display-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "display-bars",
+        "display-boxplot",
+        "display-bubble",
+        "display-categories",
+        "display-chapter",
+        "display-check",
+        "display-checklist",
+        "display-choice",
+        "display-comparison",
+        "display-composition",
+        "display-conditions-example",
+        "display-connected-points",
+        "display-decision-table",
+        "display-density",
+        "display-dimensions",
+        "display-distributions",
+        "display-dots",
+        "display-ecdf",
+        "display-explore",
+        "display-genomic-tracks",
+        "display-glossary",
+        "display-grouped-bars",
+        "display-heatmap",
+        "display-hexbin",
+        "display-histogram",
+        "display-lines",
+        "display-matching",
+        "display-matrix-lookup",
+        "display-network",
+        "display-order",
+        "display-paired",
+        "display-pie",
+        "display-points",
+        "display-proportions",
+        "display-readability",
+        "display-references",
+        "display-relationships",
+        "display-scales",
+        "display-scatter",
+        "display-small-multiples",
+        "display-stacked",
+        "display-table-example",
+        "display-table-icon",
+        "display-tables",
+        "display-time",
+        "display-time-example",
+        "display-upset",
+        "display-venn",
+        "display-violin",
+        "quarto-document-content",
+        "ref-display-gehlenborg2012",
+        "ref-display-holtzhealy",
+        "ref-display-jambortables",
+        "ref-display-lexgehlenborg2014",
+        "ref-display-matejka2017",
+        "ref-display-mcinerny2015",
+        "ref-display-ribecca",
+        "ref-display-rougier2014",
+        "ref-display-shoresh2012",
+        "ref-display-streit2015",
+        "ref-display-weissgerber2015",
+        "ref-display-wilke2019",
+        "ref-display-wong2010",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "Which display makes the intended comparison visible?"
+      ]
+    },
+    "C09": {
+      "title": "Showing observations and uncertainty",
+      "path": "reader/03-data-visualization/02-showing-observations-and-uncertainty.md",
+      "html_path": "03-data-visualization/02-showing-observations-and-uncertainty.html",
+      "source_html_sha256": "ed8131a6af0600759759fcc5fb5d65bc93e9283c21dd09f437615b1b81d58664",
+      "text_sha256": "2eb79d40c73f6b66aea641aec5b39cc27cb726ed681b5e46c13b986dcda73c44",
+      "sections": [
+        {
+          "anchor": "uncertainty-chapter",
+          "title": "Showing observations and uncertainty",
+          "level": 1
+        },
+        {
+          "anchor": "uncertainty-observations",
+          "title": "Identify the observations",
+          "level": 2
+        },
+        {
+          "anchor": "uncertainty-units",
+          "title": "Choose what the points show",
+          "level": 3
+        },
+        {
+          "anchor": "uncertainty-nesting",
+          "title": "Keep samples distinguishable",
+          "level": 3
+        },
+        {
+          "anchor": "uncertainty-variation",
+          "title": "Show variation and matching",
+          "level": 2
+        },
+        {
+          "anchor": "uncertainty-distributions",
+          "title": "Keep the observations visible",
+          "level": 3
+        },
+        {
+          "anchor": "uncertainty-matching",
+          "title": "Connect paired measurements",
+          "level": 3
+        },
+        {
+          "anchor": "uncertainty-estimates",
+          "title": "Show estimates and uncertainty",
+          "level": 2
+        },
+        {
+          "anchor": "uncertainty-intervals",
+          "title": "Choose the interval for the question",
+          "level": 3
+        },
+        {
+          "anchor": "uncertainty-effects",
+          "title": "Plot the effect being compared",
+          "level": 3
+        },
+        {
+          "anchor": "uncertainty-analysis",
+          "title": "Align the display with the analysis",
+          "level": 2
+        },
+        {
+          "anchor": "uncertainty-scales",
+          "title": "Keep transformations visible",
+          "level": 3
+        },
+        {
+          "anchor": "uncertainty-exclusions",
+          "title": "Show which observations enter the comparison",
+          "level": 3
+        },
+        {
+          "anchor": "uncertainty-check",
+          "title": "Check the figure and caption",
+          "level": 2
+        },
+        {
+          "anchor": "uncertainty-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-uncertainty-ho2019",
+        "ref-uncertainty-lord2020",
+        "ref-uncertainty-makin2019",
+        "ref-uncertainty-streit2014",
+        "ref-uncertainty-weissgerber2019",
+        "ref-uncertainty-wilke2019",
+        "title-block-header",
+        "uncertainty-analysis",
+        "uncertainty-caption",
+        "uncertainty-chapter",
+        "uncertainty-check",
+        "uncertainty-checklist",
+        "uncertainty-culture-example",
+        "uncertainty-distribution-example",
+        "uncertainty-distributions",
+        "uncertainty-effects",
+        "uncertainty-estimates",
+        "uncertainty-exclusions",
+        "uncertainty-interval-example",
+        "uncertainty-intervals",
+        "uncertainty-matching",
+        "uncertainty-nesting",
+        "uncertainty-observations",
+        "uncertainty-paired-example",
+        "uncertainty-references",
+        "uncertainty-scales",
+        "uncertainty-units",
+        "uncertainty-variation"
+      ],
+      "reader_questions": [
+        "How should observations, sampling units and uncertainty be shown?"
+      ]
+    },
+    "C10": {
+      "title": "Color, symbols and accessibility",
+      "path": "reader/03-data-visualization/03-color-symbols-and-accessibility.md",
+      "html_path": "03-data-visualization/03-color-symbols-and-accessibility.html",
+      "source_html_sha256": "8634f0e48067b39fb50638f81a43ad02ae15269a4945675793372dcb0068d4b9",
+      "text_sha256": "baf426eb3f15621a75e2e3a0801f83c81282650ec2cf4bad9f361898f6ed8ce0",
+      "sections": [
+        {
+          "anchor": "color-chapter",
+          "title": "Color, symbols and accessibility",
+          "level": 1
+        },
+        {
+          "anchor": "color-purpose",
+          "title": "Decide what color should show",
+          "level": 2
+        },
+        {
+          "anchor": "color-scales",
+          "title": "Match the scale to the data",
+          "level": 2
+        },
+        {
+          "anchor": "color-scale-types",
+          "title": "Groups, magnitudes and deviations",
+          "level": 3
+        },
+        {
+          "anchor": "color-limits",
+          "title": "Set the reference and limits",
+          "level": 3
+        },
+        {
+          "anchor": "color-symbols",
+          "title": "Use symbols and labels alongside color",
+          "level": 2
+        },
+        {
+          "anchor": "color-contrast",
+          "title": "Make marks readable on their background",
+          "level": 2
+        },
+        {
+          "anchor": "color-check",
+          "title": "Check accessibility and consistency",
+          "level": 2
+        },
+        {
+          "anchor": "color-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "color-chapter",
+        "color-check",
+        "color-checklist",
+        "color-contrast",
+        "color-facets-example",
+        "color-identification-example",
+        "color-limits",
+        "color-midpoint-example",
+        "color-purpose",
+        "color-range-example",
+        "color-references",
+        "color-scale-guide",
+        "color-scale-types",
+        "color-scales",
+        "color-symbols",
+        "quarto-document-content",
+        "ref-color-crameri2024",
+        "ref-color-gehlenborgcolor2012",
+        "ref-color-muth2018",
+        "ref-color-rougier2014",
+        "ref-color-symbols2013",
+        "ref-color-wilke2019",
+        "ref-color-wongavoid2011",
+        "ref-color-wongblind2011",
+        "ref-color-wongcolor2010",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can color and symbols clarify a figure accessibly?"
+      ]
+    },
+    "C12": {
+      "title": "Biological images",
+      "path": "reader/03-data-visualization/04-biological-images.md",
+      "html_path": "03-data-visualization/04-biological-images.html",
+      "source_html_sha256": "1d98fe6c2ffb4f2d422cd21521c08acb26ca1b720b8a0715196b9050bc8f1a1a",
+      "text_sha256": "7ff4f7c413bc98112f428ef65b649b1a2bcccc220566e5455947b89eeffe93d1",
+      "sections": [
+        {
+          "anchor": "bioimage-chapter",
+          "title": "Biological images",
+          "level": 1
+        },
+        {
+          "anchor": "bioimage-select",
+          "title": "Select and frame images",
+          "level": 2
+        },
+        {
+          "anchor": "bioimage-crop",
+          "title": "Crop without losing context",
+          "level": 3
+        },
+        {
+          "anchor": "bioimage-scale",
+          "title": "Calibrate each view",
+          "level": 3
+        },
+        {
+          "anchor": "bioimage-channels",
+          "title": "Show channels",
+          "level": 2
+        },
+        {
+          "anchor": "bioimage-overlays",
+          "title": "Combine an overlay with separate channels",
+          "level": 3
+        },
+        {
+          "anchor": "bioimage-range",
+          "title": "Intensity ranges and processing",
+          "level": 2
+        },
+        {
+          "anchor": "bioimage-processing",
+          "title": "Make transformations visible",
+          "level": 3
+        },
+        {
+          "anchor": "bioimage-quantification",
+          "title": "Connect images to measurements",
+          "level": 2
+        },
+        {
+          "anchor": "bioimage-labels",
+          "title": "Labels and annotations",
+          "level": 3
+        },
+        {
+          "anchor": "bioimage-record",
+          "title": "Verify the image figure",
+          "level": 2
+        },
+        {
+          "anchor": "bioimage-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "bioimage-channels",
+        "bioimage-chapter",
+        "bioimage-checklist",
+        "bioimage-crop",
+        "bioimage-intensity-example",
+        "bioimage-labels",
+        "bioimage-overlays",
+        "bioimage-processing",
+        "bioimage-quantification",
+        "bioimage-range",
+        "bioimage-record",
+        "bioimage-references",
+        "bioimage-scale",
+        "bioimage-scale-example",
+        "bioimage-segmentation-example",
+        "bioimage-select",
+        "bioimage-visibility-example",
+        "quarto-document-content",
+        "ref-bioimage-jamborimages2021",
+        "ref-bioimage-lord2020",
+        "ref-bioimage-plucinska2017a",
+        "ref-bioimage-plucinska2017b",
+        "ref-bioimage-sbiad634",
+        "ref-bioimage-schmied2024",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How should biological images be processed and presented without misleading comparisons?"
+      ]
+    },
+    "C13": {
+      "title": "Specialized displays and explanatory diagrams",
+      "path": "reader/03-data-visualization/05-specialized-displays-and-explanatory-diagrams.md",
+      "html_path": "03-data-visualization/05-specialized-displays-and-explanatory-diagrams.html",
+      "source_html_sha256": "e5000d591a1b4b8a26342488b63ebb9f9ba64bc4af90ea1ee45ba9c41e8a8ea3",
+      "text_sha256": "057548e5432504e4f88c421014239a18d6463f50fe7739863d01de1ddea073a6",
+      "sections": [
+        {
+          "anchor": "specialist-chapter",
+          "title": "Specialized displays and explanatory diagrams",
+          "level": 1
+        },
+        {
+          "anchor": "specialist-data",
+          "title": "Data displays",
+          "level": 2
+        },
+        {
+          "anchor": "specialist-heatmaps",
+          "title": "Heatmaps",
+          "level": 3
+        },
+        {
+          "anchor": "specialist-genome",
+          "title": "Genomic tracks and rearrangements",
+          "level": 3
+        },
+        {
+          "anchor": "specialist-networks",
+          "title": "Networks",
+          "level": 3
+        },
+        {
+          "anchor": "specialist-sets",
+          "title": "Set intersections",
+          "level": 3
+        },
+        {
+          "anchor": "specialist-multivariate",
+          "title": "Multivariable displays",
+          "level": 3
+        },
+        {
+          "anchor": "specialist-temporal",
+          "title": "Cycles and trajectories",
+          "level": 3
+        },
+        {
+          "anchor": "specialist-explanations",
+          "title": "Explanatory diagrams",
+          "level": 2
+        },
+        {
+          "anchor": "specialist-design",
+          "title": "Show the experimental design",
+          "level": 3
+        },
+        {
+          "anchor": "specialist-mechanism",
+          "title": "Mechanisms and pathways",
+          "level": 3
+        },
+        {
+          "anchor": "specialist-abstract",
+          "title": "Overviews and graphical abstracts",
+          "level": 3
+        },
+        {
+          "anchor": "specialist-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-specialist-arrows2011",
+        "ref-specialist-browser2012",
+        "ref-specialist-circuits2016",
+        "ref-specialist-genome2012",
+        "ref-specialist-heatmaps2012",
+        "ref-specialist-integrating2012",
+        "ref-specialist-jamborabstracts2024",
+        "ref-specialist-lexgehlenborg2014",
+        "ref-specialist-ligraphs",
+        "ref-specialist-mcinerny2015",
+        "ref-specialist-multidimensional2013",
+        "ref-specialist-natureconcept",
+        "ref-specialist-networks2012",
+        "ref-specialist-pathways2016",
+        "ref-specialist-plane2012",
+        "ref-specialist-streit2015",
+        "ref-specialist-variation2012",
+        "ref-specialist-wong2011",
+        "specialist-abstract",
+        "specialist-chapter",
+        "specialist-check",
+        "specialist-data",
+        "specialist-design",
+        "specialist-explanations",
+        "specialist-genome",
+        "specialist-heatmap-example",
+        "specialist-heatmaps",
+        "specialist-intersections-example",
+        "specialist-mechanism",
+        "specialist-multivariate",
+        "specialist-network-example",
+        "specialist-networks",
+        "specialist-references",
+        "specialist-schematic-example",
+        "specialist-sets",
+        "specialist-temporal",
+        "specialist-tracks-example",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "What assumptions and encodings matter in specialized displays and diagrams?"
+      ]
+    },
+    "C11": {
+      "title": "Preparing figures for publication",
+      "path": "reader/03-data-visualization/06-preparing-figures-for-publication.md",
+      "html_path": "03-data-visualization/06-preparing-figures-for-publication.html",
+      "source_html_sha256": "3e26f1fce6e0b6416ae4ca52e463df479d901616cf417cd1f195efffa7cd5faf",
+      "text_sha256": "de2abfd44667bbf775d7e289682eccb6a4ae17a40125714ecb14b9e18defa779",
+      "sections": [
+        {
+          "anchor": "layout-chapter",
+          "title": "Preparing figures for publication",
+          "level": 1
+        },
+        {
+          "anchor": "layout-dimensions",
+          "title": "Set the publication dimensions",
+          "level": 2
+        },
+        {
+          "anchor": "layout-order",
+          "title": "Arrange panels",
+          "level": 2
+        },
+        {
+          "anchor": "layout-grouping",
+          "title": "Group comparisons",
+          "level": 3
+        },
+        {
+          "anchor": "layout-space",
+          "title": "Allocate space",
+          "level": 3
+        },
+        {
+          "anchor": "layout-align",
+          "title": "Align axes and annotations",
+          "level": 2
+        },
+        {
+          "anchor": "layout-axes",
+          "title": "Align plotting areas",
+          "level": 3
+        },
+        {
+          "anchor": "layout-labels",
+          "title": "Place labels and keys",
+          "level": 3
+        },
+        {
+          "anchor": "layout-type",
+          "title": "Set text and graphic weights",
+          "level": 2
+        },
+        {
+          "anchor": "layout-files",
+          "title": "Export and inspect",
+          "level": 2
+        },
+        {
+          "anchor": "layout-formats",
+          "title": "Choose formats and resolution",
+          "level": 3
+        },
+        {
+          "anchor": "layout-check",
+          "title": "Check the exported file",
+          "level": 3
+        },
+        {
+          "anchor": "layout-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "layout-align",
+        "layout-axes",
+        "layout-chapter",
+        "layout-check",
+        "layout-checklist",
+        "layout-dimensions",
+        "layout-files",
+        "layout-formats",
+        "layout-grouping",
+        "layout-grouping-example",
+        "layout-labels",
+        "layout-order",
+        "layout-references",
+        "layout-resolution",
+        "layout-sizing-defaults",
+        "layout-space",
+        "layout-type",
+        "layout-type-example",
+        "quarto-document-content",
+        "ref-layout-axes2013",
+        "ref-layout-froehlichsizing",
+        "ref-layout-labels2013",
+        "ref-layout-rougier2014",
+        "ref-layout-wilke2019",
+        "ref-layout-wonggestalt2010",
+        "ref-layout-wonglayout2011",
+        "ref-layout-wongpencil2012",
+        "ref-layout-wongspace2011",
+        "ref-layout-wongtype2011",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How do I assemble and check publication figures?"
+      ]
+    },
+    "C14": {
+      "title": "Planning the paper",
+      "path": "reader/04-writing-a-paper/01-planning-the-paper.md",
+      "html_path": "04-writing-a-paper/01-planning-the-paper.html",
+      "source_html_sha256": "18a41d2722e03712d7cbeca68620b5c14ba76f8c0d2787cda5e72135103d5cd5",
+      "text_sha256": "b6f5d4b0ef7fcfc55e21be4ae1bcffa477382e6e0662c0e4c0a3892d0fb0ceed",
+      "sections": [
+        {
+          "anchor": "planning-paper",
+          "title": "Planning the paper",
+          "level": 1
+        },
+        {
+          "anchor": "planning-contribution",
+          "title": "Define the contribution",
+          "level": 2
+        },
+        {
+          "anchor": "planning-reader",
+          "title": "Identify the reader and question",
+          "level": 3
+        },
+        {
+          "anchor": "planning-scope",
+          "title": "State what the study establishes",
+          "level": 3
+        },
+        {
+          "anchor": "planning-evidence",
+          "title": "Build the argument from the evidence",
+          "level": 2
+        },
+        {
+          "anchor": "planning-claims",
+          "title": "Connect claims to results",
+          "level": 3
+        },
+        {
+          "anchor": "planning-gaps",
+          "title": "Resolve gaps and conflicting findings",
+          "level": 3
+        },
+        {
+          "anchor": "planning-figures",
+          "title": "Arrange the figures",
+          "level": 2
+        },
+        {
+          "anchor": "planning-figure-purpose",
+          "title": "Give each figure a purpose",
+          "level": 3
+        },
+        {
+          "anchor": "planning-figure-order",
+          "title": "Choose the figure sequence",
+          "level": 3
+        },
+        {
+          "anchor": "planning-supporting",
+          "title": "Decide what belongs in supporting material",
+          "level": 3
+        },
+        {
+          "anchor": "planning-outline",
+          "title": "Develop the outline",
+          "level": 2
+        },
+        {
+          "anchor": "planning-sections",
+          "title": "Section purposes",
+          "level": 3
+        },
+        {
+          "anchor": "planning-paragraphs",
+          "title": "Plan paragraph purposes",
+          "level": 3
+        },
+        {
+          "anchor": "planning-drafting-order",
+          "title": "Choose where to start drafting",
+          "level": 3
+        },
+        {
+          "anchor": "planning-coauthors",
+          "title": "Plan the writing with coauthors",
+          "level": 2
+        },
+        {
+          "anchor": "planning-responsibilities",
+          "title": "Agree the plan and responsibilities",
+          "level": 3
+        },
+        {
+          "anchor": "planning-authorship",
+          "title": "Agree authorship and credit",
+          "level": 3
+        },
+        {
+          "anchor": "planning-feedback",
+          "title": "Organize feedback",
+          "level": 3
+        },
+        {
+          "anchor": "planning-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "brake-case",
+        "planning-authorship",
+        "planning-budget-example",
+        "planning-case-contribution",
+        "planning-case-figures",
+        "planning-case-outline",
+        "planning-checklist",
+        "planning-claims",
+        "planning-coauthors",
+        "planning-contribution",
+        "planning-drafting-order",
+        "planning-evidence",
+        "planning-feedback",
+        "planning-figure-order",
+        "planning-figure-purpose",
+        "planning-figures",
+        "planning-gap-decisions",
+        "planning-gaps",
+        "planning-imaging-figures",
+        "planning-imaging-inventory",
+        "planning-imaging-outline",
+        "planning-outline",
+        "planning-paper",
+        "planning-paper-structure",
+        "planning-paragraphs",
+        "planning-reader",
+        "planning-references",
+        "planning-responsibilities",
+        "planning-scope",
+        "planning-sections",
+        "planning-supporting",
+        "quarto-document-content",
+        "ref-planning-albert2003",
+        "ref-planning-capra2022",
+        "ref-planning-carandini2022",
+        "ref-planning-gewin2018",
+        "ref-planning-huber2025",
+        "ref-planning-icmje2026",
+        "ref-planning-jjfroehlich2026budget",
+        "ref-planning-lafferty2016",
+        "ref-planning-makin2019",
+        "ref-planning-mensh2017",
+        "ref-planning-niso2022",
+        "ref-planning-pain2023",
+        "ref-planning-scitable",
+        "ref-planning-tang2024",
+        "ref-planning-wang2018",
+        "ref-planning-wilke2013",
+        "ref-planning-wong2011",
+        "ref-planning-zhang2014",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "What paper can the available evidence support?"
+      ]
+    },
+    "C15": {
+      "title": "Titles, abstracts and introductions",
+      "path": "reader/04-writing-a-paper/02-titles-abstracts-and-introductions.md",
+      "html_path": "04-writing-a-paper/02-titles-abstracts-and-introductions.html",
+      "source_html_sha256": "a960a5920d1d5452096c418d0f8ac7b7f95a3b00ab11cefe41112a41a98635a6",
+      "text_sha256": "497f5926b9f7afbff8a456fb65e5ab9273b256520540e0f9416a4b9cfb024c18",
+      "sections": [
+        {
+          "anchor": "opening-chapter",
+          "title": "Titles, abstracts and introductions",
+          "level": 1
+        },
+        {
+          "anchor": "opening-title",
+          "title": "Choose an informative title",
+          "level": 2
+        },
+        {
+          "anchor": "opening-title-subject",
+          "title": "Identify the subject and contribution",
+          "level": 3
+        },
+        {
+          "anchor": "opening-title-form",
+          "title": "Choose a descriptive or finding-based title",
+          "level": 3
+        },
+        {
+          "anchor": "opening-abstract",
+          "title": "Write an abstract that stands alone",
+          "level": 2
+        },
+        {
+          "anchor": "opening-abstract-content",
+          "title": "Connect the question, findings and implication",
+          "level": 3
+        },
+        {
+          "anchor": "opening-abstract-detail",
+          "title": "Select details that make the result understandable",
+          "level": 3
+        },
+        {
+          "anchor": "opening-abstract-format",
+          "title": "Adapt to the format and word limit",
+          "level": 3
+        },
+        {
+          "anchor": "opening-methods-abstract",
+          "title": "Give a methods paper its own emphasis",
+          "level": 3
+        },
+        {
+          "anchor": "opening-introduction",
+          "title": "Build the introduction around the question",
+          "level": 2
+        },
+        {
+          "anchor": "opening-background",
+          "title": "Select the background the reader needs",
+          "level": 3
+        },
+        {
+          "anchor": "opening-literature",
+          "title": "Use the literature fairly and precisely",
+          "level": 3
+        },
+        {
+          "anchor": "opening-paragraphs",
+          "title": "Connect paragraphs and introduce the study",
+          "level": 3
+        },
+        {
+          "anchor": "opening-check",
+          "title": "Check the opening against the paper",
+          "level": 2
+        },
+        {
+          "anchor": "opening-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "opening-abstract",
+        "opening-abstract-content",
+        "opening-abstract-detail",
+        "opening-abstract-format",
+        "opening-abstract-structure",
+        "opening-background",
+        "opening-case-abstract",
+        "opening-case-introduction",
+        "opening-case-title",
+        "opening-chapter",
+        "opening-check",
+        "opening-checklist",
+        "opening-imaging-abstract",
+        "opening-imaging-draft",
+        "opening-imaging-titles",
+        "opening-introduction",
+        "opening-introduction-structure",
+        "opening-jobs",
+        "opening-literature",
+        "opening-methods-abstract",
+        "opening-paragraphs",
+        "opening-published-introduction",
+        "opening-published-introduction-p2",
+        "opening-published-introduction-p3",
+        "opening-references",
+        "opening-title",
+        "opening-title-form",
+        "opening-title-subject",
+        "quarto-document-content",
+        "ref-opening-capra2022",
+        "ref-opening-carandini2022",
+        "ref-opening-clemens2022",
+        "ref-opening-fan2019",
+        "ref-opening-gosling2022",
+        "ref-opening-huber2025",
+        "ref-opening-lafferty2016",
+        "ref-opening-mensh2017",
+        "ref-opening-mitabstract",
+        "ref-opening-nature2019",
+        "ref-opening-scitable",
+        "ref-opening-strack2022a",
+        "ref-opening-strack2022b",
+        "ref-opening-tang2024",
+        "ref-opening-wang2018",
+        "ref-opening-weinberger2015",
+        "ref-opening-xia2019",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How do the title, abstract and introduction explain the contribution?"
+      ]
+    },
+    "C16": {
+      "title": "Methods, results and figure legends",
+      "path": "reader/04-writing-a-paper/03-methods-results-and-figure-legends.md",
+      "html_path": "04-writing-a-paper/03-methods-results-and-figure-legends.html",
+      "source_html_sha256": "f7dc23d62d330e31792d6dfa4281bdcce206b22eb0d37cdd446de83c6e6cf542",
+      "text_sha256": "5e81e9af4d045bbd6015ec717ebea8e2f316d8ad8dd90018556870321191f940",
+      "sections": [
+        {
+          "anchor": "reporting-chapter",
+          "title": "Methods, results and figure legends",
+          "level": 1
+        },
+        {
+          "anchor": "reporting-readers",
+          "title": "Plan what readers need",
+          "level": 2
+        },
+        {
+          "anchor": "reporting-placement",
+          "title": "Where details belong",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-reader-detail",
+          "title": "Choose how much detail to include",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-methods",
+          "title": "Write reproducible Methods",
+          "level": 2
+        },
+        {
+          "anchor": "reporting-methods-order",
+          "title": "Organizing Methods",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-methods-detail",
+          "title": "Include the details that determine the outcome",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-analysis",
+          "title": "Describe the analysis from input to inference",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-replicates",
+          "title": "Make the sampling and replication clear",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-results",
+          "title": "Present results as an argument",
+          "level": 2
+        },
+        {
+          "anchor": "reporting-results-order",
+          "title": "Order findings by what they establish",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-results-paragraph",
+          "title": "Build a paragraph around a finding",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-results-quantification",
+          "title": "Report magnitude, comparison and uncertainty",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-results-limits",
+          "title": "Negative and inconclusive findings",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-legends",
+          "title": "Figure captions and legends",
+          "level": 2
+        },
+        {
+          "anchor": "reporting-legends-structure",
+          "title": "Identify what each panel shows",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-legend-statistics",
+          "title": "Make the statistical display interpretable",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-legend-style",
+          "title": "Adapt the explanation to the publication stage",
+          "level": 3
+        },
+        {
+          "anchor": "reporting-check",
+          "title": "Check reporting across text and figures",
+          "level": 2
+        },
+        {
+          "anchor": "reporting-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-reporting-bioturing2018",
+        "ref-reporting-capra2022",
+        "ref-reporting-huber2025",
+        "ref-reporting-lafferty2016",
+        "ref-reporting-lord2020",
+        "ref-reporting-makin2019",
+        "ref-reporting-pain2023",
+        "ref-reporting-scitable",
+        "ref-reporting-strack2020",
+        "ref-reporting-tang2024",
+        "ref-reporting-wang2018",
+        "ref-reporting-wang2018correction",
+        "ref-reporting-wilke2013",
+        "ref-reporting-zhang2014",
+        "reporting-analysis",
+        "reporting-chapter",
+        "reporting-check",
+        "reporting-checklist",
+        "reporting-component-guide",
+        "reporting-legend-example",
+        "reporting-legend-statistics",
+        "reporting-legend-style",
+        "reporting-legends",
+        "reporting-legends-structure",
+        "reporting-methods",
+        "reporting-methods-detail",
+        "reporting-methods-example",
+        "reporting-methods-order",
+        "reporting-placement",
+        "reporting-published-legend",
+        "reporting-published-methods",
+        "reporting-published-results",
+        "reporting-reader-detail",
+        "reporting-readers",
+        "reporting-references",
+        "reporting-replicates",
+        "reporting-results",
+        "reporting-results-example",
+        "reporting-results-limits",
+        "reporting-results-order",
+        "reporting-results-paragraph",
+        "reporting-results-quantification",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How should methods, results and figure legends support reproducible interpretation?"
+      ]
+    },
+    "C17": {
+      "title": "Discussion and conclusions",
+      "path": "reader/04-writing-a-paper/04-discussion-and-conclusions.md",
+      "html_path": "04-writing-a-paper/04-discussion-and-conclusions.html",
+      "source_html_sha256": "fa144586e897ca996df3e7867b285cf8e3b7735898050d5f75ab49b46ee5ab12",
+      "text_sha256": "ea7c422a613b56de6d513c659f7e9fba7c98e45596164b05b501133ce897b653",
+      "sections": [
+        {
+          "anchor": "discussion-chapter",
+          "title": "Discussion and conclusions",
+          "level": 1
+        },
+        {
+          "anchor": "discussion-answer",
+          "title": "Opening and structure",
+          "level": 2
+        },
+        {
+          "anchor": "discussion-opening",
+          "title": "Start with an answer the evidence supports",
+          "level": 3
+        },
+        {
+          "anchor": "discussion-order",
+          "title": "Give the argument a clear order",
+          "level": 3
+        },
+        {
+          "anchor": "discussion-literature",
+          "title": "Explain findings alongside previous work",
+          "level": 2
+        },
+        {
+          "anchor": "discussion-comparison",
+          "title": "Comparing findings",
+          "level": 3
+        },
+        {
+          "anchor": "discussion-paragraphs",
+          "title": "Build paragraphs around an interpretation",
+          "level": 3
+        },
+        {
+          "anchor": "discussion-limits",
+          "title": "Evaluate limitations and alternatives",
+          "level": 2
+        },
+        {
+          "anchor": "discussion-alternatives",
+          "title": "Explain why one interpretation is better supported",
+          "level": 3
+        },
+        {
+          "anchor": "discussion-boundaries",
+          "title": "Explaining limitations",
+          "level": 3
+        },
+        {
+          "anchor": "discussion-inconclusive",
+          "title": "Inconclusive results",
+          "level": 3
+        },
+        {
+          "anchor": "discussion-implications",
+          "title": "Develop implications and conclusions",
+          "level": 2
+        },
+        {
+          "anchor": "discussion-consequences",
+          "title": "Explain what follows from the finding",
+          "level": 3
+        },
+        {
+          "anchor": "discussion-next-question",
+          "title": "Identify the next question to resolve",
+          "level": 3
+        },
+        {
+          "anchor": "discussion-conclusion",
+          "title": "Finish with what the study changes",
+          "level": 3
+        },
+        {
+          "anchor": "discussion-check",
+          "title": "Check the interpretation",
+          "level": 2
+        },
+        {
+          "anchor": "discussion-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "discussion-alternatives",
+        "discussion-answer",
+        "discussion-boundaries",
+        "discussion-brake-comparison",
+        "discussion-chapter",
+        "discussion-check",
+        "discussion-checklist",
+        "discussion-comparison",
+        "discussion-conclusion",
+        "discussion-consequences",
+        "discussion-example",
+        "discussion-imaging-model",
+        "discussion-implications",
+        "discussion-inconclusive",
+        "discussion-limits",
+        "discussion-literature",
+        "discussion-literature-example",
+        "discussion-next-question",
+        "discussion-opening",
+        "discussion-order",
+        "discussion-paragraphs",
+        "discussion-references",
+        "discussion-structure",
+        "quarto-document-content",
+        "ref-discussion-capra2022",
+        "ref-discussion-carandini2022",
+        "ref-discussion-gewin2018",
+        "ref-discussion-huber2025",
+        "ref-discussion-labareediscussion",
+        "ref-discussion-makin2019",
+        "ref-discussion-mccombes2022",
+        "ref-discussion-mensh2017",
+        "ref-discussion-scitable",
+        "ref-discussion-tang2024",
+        "ref-discussion-wang2018",
+        "ref-discussion-wilke2013",
+        "ref-discussion-xia2019",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I explain the meaning and limits of the findings?"
+      ]
+    },
+    "C18": {
+      "title": "Drafting, reviewing and revising a paper",
+      "path": "reader/04-writing-a-paper/05-drafting-reviewing-and-revising-a-paper.md",
+      "html_path": "04-writing-a-paper/05-drafting-reviewing-and-revising-a-paper.html",
+      "source_html_sha256": "5a795ed63349031993180c0fcb9aa650245e6862942d988144c88d36204770de",
+      "text_sha256": "deaa3d66ecb1ef89d113afec6b14a8747be7cdc3ddb43cfc5127f84771e498c2",
+      "sections": [
+        {
+          "anchor": "revision-chapter",
+          "title": "Drafting, reviewing and revising a paper",
+          "level": 1
+        },
+        {
+          "anchor": "revision-start",
+          "title": "Starting a draft",
+          "level": 2
+        },
+        {
+          "anchor": "revision-entry",
+          "title": "Choose a passage you can develop",
+          "level": 3
+        },
+        {
+          "anchor": "revision-sessions",
+          "title": "Make writing sessions manageable",
+          "level": 3
+        },
+        {
+          "anchor": "assessment-argument",
+          "title": "Read for the question and answer",
+          "level": 2
+        },
+        {
+          "anchor": "assessment-claims",
+          "title": "Checking claims against the evidence",
+          "level": 2
+        },
+        {
+          "anchor": "assessment-comparisons",
+          "title": "Reconstruct the comparison",
+          "level": 3
+        },
+        {
+          "anchor": "assessment-alternatives",
+          "title": "Test the interpretation against an alternative",
+          "level": 3
+        },
+        {
+          "anchor": "assessment-displays",
+          "title": "Figures and legends",
+          "level": 3
+        },
+        {
+          "anchor": "assessment-diagnosis",
+          "title": "Deciding what to revise",
+          "level": 2
+        },
+        {
+          "anchor": "revision-organization",
+          "title": "Revise the argument and organization",
+          "level": 2
+        },
+        {
+          "anchor": "revision-sequence",
+          "title": "From the argument to the paragraphs",
+          "level": 3
+        },
+        {
+          "anchor": "revision-outline",
+          "title": "Reviewing the paragraph order",
+          "level": 3
+        },
+        {
+          "anchor": "revision-paragraphs",
+          "title": "Make each paragraph advance the explanation",
+          "level": 3
+        },
+        {
+          "anchor": "revision-language",
+          "title": "Edit sentences for clarity",
+          "level": 2
+        },
+        {
+          "anchor": "revision-sentences",
+          "title": "Subjects and verbs",
+          "level": 3
+        },
+        {
+          "anchor": "revision-flow",
+          "title": "Connect sentences and comparisons",
+          "level": 3
+        },
+        {
+          "anchor": "revision-precision",
+          "title": "Keep terminology and notation stable",
+          "level": 3
+        },
+        {
+          "anchor": "revision-concision",
+          "title": "Cut words without cutting meaning",
+          "level": 3
+        },
+        {
+          "anchor": "revision-feedback",
+          "title": "Use coauthor feedback",
+          "level": 2
+        },
+        {
+          "anchor": "revision-reviewers",
+          "title": "Ask for the review the draft needs",
+          "level": 3
+        },
+        {
+          "anchor": "revision-comments",
+          "title": "Working through comments",
+          "level": 3
+        },
+        {
+          "anchor": "assessment-plan",
+          "title": "Resolving substantive disagreements",
+          "level": 2
+        },
+        {
+          "anchor": "assessment-verification",
+          "title": "Check the revised paper against the original concern",
+          "level": 3
+        },
+        {
+          "anchor": "revision-final",
+          "title": "Finish and verify the manuscript",
+          "level": 2
+        },
+        {
+          "anchor": "revision-verification",
+          "title": "Check the final version as a connected document",
+          "level": 3
+        },
+        {
+          "anchor": "revision-stop",
+          "title": "Decide when to stop revising",
+          "level": 3
+        },
+        {
+          "anchor": "revision-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "assessment-alternatives",
+        "assessment-argument",
+        "assessment-case",
+        "assessment-claims",
+        "assessment-comparisons",
+        "assessment-diagnosis",
+        "assessment-displays",
+        "assessment-plan",
+        "assessment-verification",
+        "quarto-document-content",
+        "ref-revision-carandini2022",
+        "ref-revision-gosling2022",
+        "ref-revision-grogan2019",
+        "ref-revision-huber2025",
+        "ref-revision-jjfroehlich2026budget",
+        "ref-revision-lafferty2016",
+        "ref-revision-lord2020",
+        "ref-revision-makin2019",
+        "ref-revision-mensh2017",
+        "ref-revision-pain2023",
+        "ref-revision-savage2019",
+        "ref-revision-schmied2024",
+        "ref-revision-tang2024",
+        "ref-revision-tufte2006",
+        "ref-revision-weinberger2015",
+        "ref-revision-weissgerber2019",
+        "ref-revision-wilke2013",
+        "ref-revision-wong2011review1",
+        "ref-revision-zhang2014",
+        "revision-brake-caution",
+        "revision-brake-interventions",
+        "revision-brake-outcome",
+        "revision-brake-precise",
+        "revision-budget-example",
+        "revision-case-outline",
+        "revision-case-paragraph",
+        "revision-case-qualification",
+        "revision-case-sentences",
+        "revision-chapter",
+        "revision-checklist",
+        "revision-comments",
+        "revision-concision",
+        "revision-entry",
+        "revision-feedback",
+        "revision-final",
+        "revision-flow",
+        "revision-imaging-draft",
+        "revision-imaging-outline",
+        "revision-imaging-result",
+        "revision-language",
+        "revision-organization",
+        "revision-outline",
+        "revision-paragraphs",
+        "revision-precision",
+        "revision-references",
+        "revision-reviewers",
+        "revision-sentences",
+        "revision-sequence",
+        "revision-sessions",
+        "revision-start",
+        "revision-stop",
+        "revision-verification",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I draft, assess and revise a complete paper?",
+        "Does this concern require clearer writing, new analysis or more evidence?"
+      ],
+      "required_context": {
+        "assessment-case": [
+          "assessment-claims",
+          "assessment-diagnosis"
+        ],
+        "revision-case-paragraph": [
+          "revision-paragraphs"
+        ]
+      }
+    },
+    "C19": {
+      "title": "From thesis plan to finished text",
+      "path": "reader/05-writing-a-thesis/01-from-thesis-plan-to-finished-text.md",
+      "html_path": "05-writing-a-thesis/01-from-thesis-plan-to-finished-text.html",
+      "source_html_sha256": "bab4cdc708049a5fbafb1510b263524f5bb371598b775f98895b4d5d2a90a2ec",
+      "text_sha256": "ceebe9e96e137d0087ee309dbc303696c3e82cdfe8d537b06b24413167c83b53",
+      "sections": [
+        {
+          "anchor": "thesis-chapter",
+          "title": "From thesis plan to finished text",
+          "level": 1
+        },
+        {
+          "anchor": "thesis-scope",
+          "title": "Choose the thesis scope and structure",
+          "level": 2
+        },
+        {
+          "anchor": "thesis-map",
+          "title": "Map the completed projects",
+          "level": 2
+        },
+        {
+          "anchor": "thesis-integration",
+          "title": "Develop the introduction and background",
+          "level": 2
+        },
+        {
+          "anchor": "thesis-methods-results",
+          "title": "Write the methods and results chapters",
+          "level": 2
+        },
+        {
+          "anchor": "thesis-synthesis",
+          "title": "Bring the findings together",
+          "level": 2
+        },
+        {
+          "anchor": "thesis-completion",
+          "title": "Plan the route to submission",
+          "level": 2
+        },
+        {
+          "anchor": "thesis-check",
+          "title": "Check the complete document",
+          "level": 2
+        },
+        {
+          "anchor": "thesis-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-thesis-cambridgethesislimits",
+        "ref-thesis-georgemccombes2024thesisconclusion",
+        "ref-thesis-goslingnoordam2022thesis",
+        "ref-thesis-jansen2025thesisintroduction",
+        "ref-thesis-kithesiscompilation",
+        "ref-thesis-lemprierethesisintroduction",
+        "ref-thesis-monashthesisdiscussion",
+        "ref-thesis-monashthesisintro",
+        "ref-thesis-monashthesismethods",
+        "ref-thesis-monashthesisstructure",
+        "ref-thesis-uclthesisformat",
+        "ref-thesis-uclthesisimpact",
+        "thesis-background-plan",
+        "thesis-backward-plan",
+        "thesis-chapter",
+        "thesis-check",
+        "thesis-checklist",
+        "thesis-completion",
+        "thesis-conclusion",
+        "thesis-discussion-functions",
+        "thesis-example-map",
+        "thesis-example-synthesis",
+        "thesis-format",
+        "thesis-general-introduction",
+        "thesis-integration",
+        "thesis-last-project",
+        "thesis-length",
+        "thesis-local-context",
+        "thesis-local-expectations",
+        "thesis-map",
+        "thesis-map-artifact",
+        "thesis-methods-results",
+        "thesis-opening-functions",
+        "thesis-question",
+        "thesis-references",
+        "thesis-scope",
+        "thesis-synthesis",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I organize a thesis around a coherent contribution?"
+      ],
+      "applicability": "Thesis formats and permitted content depend on local requirements and supervisory expectations."
+    },
+    "C20": {
+      "title": "Explaining research to an audience",
+      "path": "reader/06-communicating-research/01-explaining-research-to-an-audience.md",
+      "html_path": "06-communicating-research/01-explaining-research-to-an-audience.html",
+      "source_html_sha256": "8a2c696cff48e67533846d917513b18927af7fc1de7b6940a24b9c7917392bd0",
+      "text_sha256": "ebae0ed63c8939abec77d8c323940fe3f88e0c6905a157185f711d175f1777a4",
+      "sections": [
+        {
+          "anchor": "audience-chapter",
+          "title": "Explaining research to an audience",
+          "level": 1
+        },
+        {
+          "anchor": "audience-purpose",
+          "title": "Start with audience and purpose",
+          "level": 2
+        },
+        {
+          "anchor": "audience-message",
+          "title": "Choose the message and the evidence",
+          "level": 2
+        },
+        {
+          "anchor": "audience-explanation",
+          "title": "Organize the explanation",
+          "level": 2
+        },
+        {
+          "anchor": "audience-language",
+          "title": "Adapt detail and language",
+          "level": 2
+        },
+        {
+          "anchor": "audience-test",
+          "title": "Test and refine the explanation",
+          "level": 2
+        },
+        {
+          "anchor": "audience-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "audience-brake-versions",
+        "audience-chapter",
+        "audience-explanation",
+        "audience-language",
+        "audience-message",
+        "audience-outline",
+        "audience-purpose",
+        "audience-references",
+        "audience-test",
+        "quarto-document-content",
+        "ref-audience-jamborabstracts2024",
+        "ref-audience-kirchoff2021",
+        "ref-audience-lefever2012",
+        "ref-audience-meredith2010",
+        "ref-audience-rubenson2018",
+        "ref-audience-tang2024",
+        "ref-audience-wong2011",
+        "ref-audience-yanai2020",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How much context does this audience need to understand the research?"
+      ]
+    },
+    "C21": {
+      "title": "Designing a presentation",
+      "path": "reader/06-communicating-research/02-designing-a-presentation.md",
+      "html_path": "06-communicating-research/02-designing-a-presentation.html",
+      "source_html_sha256": "1b7ed2741c79b5d98412a46044eaa2505a1a8771d4483982db03860d067c83e7",
+      "text_sha256": "5631c7947221a8816215afae20f4e584d324bcfd74011700691d11a0adf1c71a",
+      "sections": [
+        {
+          "anchor": "slide-chapter",
+          "title": "Designing a presentation",
+          "level": 1
+        },
+        {
+          "anchor": "slide-sequence",
+          "title": "Plan the sequence",
+          "level": 2
+        },
+        {
+          "anchor": "slide-message",
+          "title": "Give each slide a clear message",
+          "level": 2
+        },
+        {
+          "anchor": "slide-evidence",
+          "title": "Adapt figures for live viewing",
+          "level": 2
+        },
+        {
+          "anchor": "slide-readability",
+          "title": "Make the slide readable",
+          "level": 2
+        },
+        {
+          "anchor": "slide-builds",
+          "title": "Use builds and prepare the shared version",
+          "level": 2
+        },
+        {
+          "anchor": "slide-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-slide-broadslides",
+        "ref-slide-duarte2008",
+        "ref-slide-naegle2021",
+        "ref-slide-nsestructure",
+        "ref-slide-reynolds2012",
+        "ref-slide-tang2024",
+        "slide-builds",
+        "slide-chapter",
+        "slide-evidence",
+        "slide-figure-example",
+        "slide-message",
+        "slide-readability",
+        "slide-references",
+        "slide-sequence",
+        "slide-sequence-example",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How should I organize the explanation and slides for a talk?"
+      ]
+    },
+    "C22": {
+      "title": "Delivering a talk and answering questions",
+      "path": "reader/06-communicating-research/03-delivering-a-talk-and-answering-questions.md",
+      "html_path": "06-communicating-research/03-delivering-a-talk-and-answering-questions.html",
+      "source_html_sha256": "c77b24c6b6895229c37dee9652854881a1d1b9103e40147555924752350128d7",
+      "text_sha256": "6d663a4c630726eaf7c126f474c7648bdcf870cfeac26fb57f0ba14268d6c0b1",
+      "sections": [
+        {
+          "anchor": "delivery-chapter",
+          "title": "Delivering a talk and answering questions",
+          "level": 1
+        },
+        {
+          "anchor": "delivery-rehearse",
+          "title": "Rehearse and revise",
+          "level": 2
+        },
+        {
+          "anchor": "delivery-speak",
+          "title": "Explaining figures aloud",
+          "level": 2
+        },
+        {
+          "anchor": "delivery-setup",
+          "title": "Room, equipment and remote setup",
+          "level": 2
+        },
+        {
+          "anchor": "delivery-questions",
+          "title": "Answering questions",
+          "level": 2
+        },
+        {
+          "anchor": "delivery-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "delivery-brake-question",
+        "delivery-chapter",
+        "delivery-questions",
+        "delivery-references",
+        "delivery-rehearsal-tool",
+        "delivery-rehearse",
+        "delivery-setup",
+        "delivery-speak",
+        "quarto-document-content",
+        "ref-delivery-edwards2014",
+        "ref-delivery-mole2023",
+        "ref-delivery-nsedelivery",
+        "ref-delivery-tang2024",
+        "ref-delivery-winston2018",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I rehearse, deliver and answer questions about a talk?"
+      ]
+    },
+    "C23": {
+      "title": "Posters",
+      "path": "reader/06-communicating-research/04-posters.md",
+      "html_path": "06-communicating-research/04-posters.html",
+      "source_html_sha256": "e637b103b098661b7565165ca7fd41034fe45723ff029541db3605d24ddd357e",
+      "text_sha256": "d1470d10d1fb6b71c271f1fc7b6bf13e083588aab9d3d12162bb3a252649d6d9",
+      "sections": [
+        {
+          "anchor": "poster-chapter",
+          "title": "Posters",
+          "level": 1
+        },
+        {
+          "anchor": "poster-content",
+          "title": "Choose the content",
+          "level": 2
+        },
+        {
+          "anchor": "poster-arrange",
+          "title": "Arrange the poster",
+          "level": 2
+        },
+        {
+          "anchor": "poster-readability",
+          "title": "Print and digital readability",
+          "level": 2
+        },
+        {
+          "anchor": "poster-conversation",
+          "title": "Use the poster in conversation",
+          "level": 2
+        },
+        {
+          "anchor": "poster-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "fig-poster-layout",
+        "fig-poster-layout-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca",
+        "poster-arrange",
+        "poster-brake-excerpt",
+        "poster-chapter",
+        "poster-content",
+        "poster-conversation",
+        "poster-readability",
+        "poster-references",
+        "quarto-document-content",
+        "ref-poster-broadposter",
+        "ref-poster-doumont2017",
+        "ref-poster-moralesgarcia2022",
+        "ref-poster-nsedigitalposter",
+        "ref-poster-tang2024",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can a poster support both browsing and conversation?"
+      ]
+    },
+    "C24": {
+      "title": "Elevator pitches and chalk talks",
+      "path": "reader/06-communicating-research/05-elevator-pitches-and-chalk-talks.md",
+      "html_path": "06-communicating-research/05-elevator-pitches-and-chalk-talks.html",
+      "source_html_sha256": "be058757533bfdd5a5aa53a8d3b0ac6195fcbc02ed434a7461dfe7f486f19841",
+      "text_sha256": "a99fca7c2644e723630306b68e05144180e09aeb889ca4e9c48c1aded82c49b3",
+      "sections": [
+        {
+          "anchor": "pitch-chapter",
+          "title": "Elevator pitches and chalk talks",
+          "level": 1
+        },
+        {
+          "anchor": "pitch-conversation",
+          "title": "Elevator pitches",
+          "level": 2
+        },
+        {
+          "anchor": "pitch-chalk-talk",
+          "title": "Chalk talks",
+          "level": 2
+        },
+        {
+          "anchor": "pitch-chalk-rehearse",
+          "title": "Rehearse with interruptions",
+          "level": 3
+        },
+        {
+          "anchor": "pitch-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "pitch-board-map",
+        "pitch-brake-example",
+        "pitch-chalk-rehearse",
+        "pitch-chalk-response",
+        "pitch-chalk-talk",
+        "pitch-chapter",
+        "pitch-conversation",
+        "pitch-references",
+        "quarto-document-content",
+        "ref-pitch-martin2017",
+        "ref-pitch-morganwright2021",
+        "ref-pitch-strassmann2016",
+        "ref-pitch-tang2024",
+        "ref-pitch-vosshall2015",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I explain a project briefly or discuss a future program at a chalk talk?"
+      ],
+      "required_context": {
+        "pitch-chalk-rehearse": [
+          "pitch-chalk-talk"
+        ]
+      }
+    },
+    "C29": {
+      "title": "Choosing an opportunity and planning the application",
+      "path": "reader/07-grants-and-fellowships/01-choosing-an-opportunity-and-planning-the-application.md",
+      "html_path": "07-grants-and-fellowships/01-choosing-an-opportunity-and-planning-the-application.html",
+      "source_html_sha256": "bd76ffec58fec1a55aa3c307649c039401857ed9f2fc3dcad93b70d32cae49e5",
+      "text_sha256": "fa3897ef5a45ef799e31c56a2145a0b454a18f2cf34ed19aa1d6571c656d6445",
+      "sections": [
+        {
+          "anchor": "grant-plan-chapter",
+          "title": "Choosing an opportunity and planning the application",
+          "level": 1
+        },
+        {
+          "anchor": "grant-plan-fit",
+          "title": "Eligibility and fit",
+          "level": 2
+        },
+        {
+          "anchor": "grant-plan-requirements",
+          "title": "Application requirements",
+          "level": 2
+        },
+        {
+          "anchor": "grant-plan-costs",
+          "title": "Preparing a budget",
+          "level": 2
+        },
+        {
+          "anchor": "grant-plan-contributors",
+          "title": "Contributors and reviewers",
+          "level": 2
+        },
+        {
+          "anchor": "grant-plan-schedule",
+          "title": "Scheduling and submission",
+          "level": 2
+        },
+        {
+          "anchor": "grant-plan-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "grant-plan-chapter",
+        "grant-plan-contributors",
+        "grant-plan-costs",
+        "grant-plan-fit",
+        "grant-plan-references",
+        "grant-plan-requirements",
+        "grant-plan-schedule",
+        "grant-plan-worked-choice",
+        "grant-plan-worked-plan",
+        "quarto-document-content",
+        "ref-grant-plan-consalvey2023funding",
+        "ref-grant-plan-eisenstadter2014grants",
+        "ref-grant-plan-rightmoves2006",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "Does this funding opportunity fit, and what will the application require?"
+      ]
+    },
+    "C30": {
+      "title": "Writing the proposal",
+      "path": "reader/07-grants-and-fellowships/02-writing-the-proposal.md",
+      "html_path": "07-grants-and-fellowships/02-writing-the-proposal.html",
+      "source_html_sha256": "94333e4ff3b29e4553da1293e847613cb0547679dcbac4e39046c9fb07043b61",
+      "text_sha256": "1ca64c2c26c0aed37ce85778ad2302aec7f481ace6cb95d35279a3b5eaac5f5e",
+      "sections": [
+        {
+          "anchor": "proposal-chapter",
+          "title": "Writing the proposal",
+          "level": 1
+        },
+        {
+          "anchor": "proposal-question",
+          "title": "Research question and significance",
+          "level": 2
+        },
+        {
+          "anchor": "proposal-aims",
+          "title": "Aims and experiments",
+          "level": 2
+        },
+        {
+          "anchor": "proposal-feasibility",
+          "title": "Feasibility and alternatives",
+          "level": 2
+        },
+        {
+          "anchor": "proposal-readability",
+          "title": "Structure and readability",
+          "level": 2
+        },
+        {
+          "anchor": "proposal-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "proposal-aims",
+        "proposal-chapter",
+        "proposal-excerpt",
+        "proposal-feasibility",
+        "proposal-question",
+        "proposal-readability",
+        "proposal-references",
+        "quarto-document-content",
+        "ref-proposal-burchardi2022erc",
+        "ref-proposal-consalvey2023funding",
+        "ref-proposal-eisenstadter2014grants",
+        "ref-proposal-elowitz2023grants",
+        "ref-proposal-rightmoves2006",
+        "ref-proposal-ross2021nih",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can a proposal connect significance, aims, experiments and feasibility?"
+      ]
+    },
+    "C31": {
+      "title": "Funding interviews and preparing for an award",
+      "path": "reader/07-grants-and-fellowships/03-funding-interviews-and-preparing-for-an-award.md",
+      "html_path": "07-grants-and-fellowships/03-funding-interviews-and-preparing-for-an-award.html",
+      "source_html_sha256": "1b03b4b77bee1081f8c5b4b031448e753f3315fc3fc7f039a86654e9da3dce28",
+      "text_sha256": "1ea4bfd7c4be90008b6035018a8676e76933f74af4e1c8218448ac4a11580e6c",
+      "sections": [
+        {
+          "anchor": "grant-start-chapter",
+          "title": "Funding interviews and preparing for an award",
+          "level": 1
+        },
+        {
+          "anchor": "grant-start-interview",
+          "title": "Prepare for the panel’s questions",
+          "level": 2
+        },
+        {
+          "anchor": "grant-start-rehearse",
+          "title": "Rehearsing the interview",
+          "level": 2
+        },
+        {
+          "anchor": "grant-start-decision",
+          "title": "Read the decision before making commitments",
+          "level": 2
+        },
+        {
+          "anchor": "grant-start-prepare",
+          "title": "Preparing to start",
+          "level": 2
+        },
+        {
+          "anchor": "grant-start-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "grant-start-award-example",
+        "grant-start-chapter",
+        "grant-start-decision",
+        "grant-start-interview",
+        "grant-start-interview-example",
+        "grant-start-prepare",
+        "grant-start-references",
+        "grant-start-rehearse",
+        "quarto-document-content",
+        "ref-grant-start-burchardi2022erc",
+        "ref-grant-start-consalvey2023funding",
+        "ref-grant-start-nsedelivery",
+        "ref-grant-start-pina2024grants",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How should I prepare for a funding interview and an award start?"
+      ],
+      "applicability": "Selection does not by itself establish spending authority or access to resources."
+    },
+    "C25": {
+      "title": "Choosing a journal and submitting a paper",
+      "path": "reader/08-publishing/01-choosing-a-journal-and-submitting-a-paper.md",
+      "html_path": "08-publishing/01-choosing-a-journal-and-submitting-a-paper.html",
+      "source_html_sha256": "d9564110645302d51e8663a2634d89191fa5d2bb11b479616b0f0e05c3e7f930",
+      "text_sha256": "2913e7ebc01df82e00d33b50723751adfa07e9b550f807f553ba15b6d7ca4e6d",
+      "sections": [
+        {
+          "anchor": "submission-chapter",
+          "title": "Choosing a journal and submitting a paper",
+          "level": 1
+        },
+        {
+          "anchor": "submission-choice",
+          "title": "Choose a journal for the contribution",
+          "level": 2
+        },
+        {
+          "anchor": "submission-readers",
+          "title": "Match the paper to its readers",
+          "level": 3
+        },
+        {
+          "anchor": "submission-shortlist",
+          "title": "Make a realistic shortlist",
+          "level": 3
+        },
+        {
+          "anchor": "submission-inquiry",
+          "title": "Presubmission inquiries",
+          "level": 3
+        },
+        {
+          "anchor": "submission-terms",
+          "title": "Check the terms and requirements",
+          "level": 2
+        },
+        {
+          "anchor": "submission-trust",
+          "title": "Investigate unfamiliar journals",
+          "level": 3
+        },
+        {
+          "anchor": "submission-requirements",
+          "title": "Distinguish initial submission from later production",
+          "level": 3
+        },
+        {
+          "anchor": "submission-package",
+          "title": "Prepare the submission package",
+          "level": 2
+        },
+        {
+          "anchor": "submission-files",
+          "title": "Assemble the agreed manuscript and supporting files",
+          "level": 3
+        },
+        {
+          "anchor": "submission-letter",
+          "title": "Writing the cover letter",
+          "level": 3
+        },
+        {
+          "anchor": "submission-reviewers",
+          "title": "Suggest reviewers for complementary expertise",
+          "level": 3
+        },
+        {
+          "anchor": "submission-handling",
+          "title": "Submit and follow the paper",
+          "level": 2
+        },
+        {
+          "anchor": "submission-record",
+          "title": "Check the actual submission",
+          "level": 3
+        },
+        {
+          "anchor": "submission-follow-up",
+          "title": "Following the submission",
+          "level": 3
+        },
+        {
+          "anchor": "submission-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-submission-cellsubmission",
+        "ref-submission-chat2021",
+        "ref-submission-cope2017",
+        "ref-submission-editors2019",
+        "ref-submission-gosling2022",
+        "ref-submission-huber2025",
+        "ref-submission-rightmoves2006",
+        "ref-submission-silverman2021",
+        "ref-submission-tang2024",
+        "ref-submission-thinkcheck2023",
+        "ref-submission-wang2018",
+        "submission-case-choice",
+        "submission-case-letter",
+        "submission-chapter",
+        "submission-checklist",
+        "submission-choice",
+        "submission-comparison",
+        "submission-discovery-letter",
+        "submission-files",
+        "submission-follow-up",
+        "submission-followup-letter",
+        "submission-handling",
+        "submission-imaging-choice",
+        "submission-imaging-letter",
+        "submission-inquiry",
+        "submission-letter",
+        "submission-package",
+        "submission-readers",
+        "submission-record",
+        "submission-references",
+        "submission-requirements",
+        "submission-reviewers",
+        "submission-shortlist",
+        "submission-terms",
+        "submission-trust",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How should I choose a journal and prepare a submission?"
+      ],
+      "applicability": "Verify current journal instructions; cited policies are specific consulted examples."
+    },
+    "C26": {
+      "title": "Reviewing a manuscript",
+      "path": "reader/08-publishing/02-reviewing-a-manuscript.md",
+      "html_path": "08-publishing/02-reviewing-a-manuscript.html",
+      "source_html_sha256": "f105187cde5de352c09effb2af78808fc778da5d13be076b69058fbc5204ed0c",
+      "text_sha256": "8738b5655a6859a6f60ecef6c29461e023e13546d487a3342052c650e081de43",
+      "sections": [
+        {
+          "anchor": "review-chapter",
+          "title": "Reviewing a manuscript",
+          "level": 1
+        },
+        {
+          "anchor": "review-invitation",
+          "title": "Decide whether to accept",
+          "level": 2
+        },
+        {
+          "anchor": "review-confidentiality",
+          "title": "Confidentiality and co-review",
+          "level": 3
+        },
+        {
+          "anchor": "review-reading",
+          "title": "Assess the manuscript",
+          "level": 2
+        },
+        {
+          "anchor": "review-evidence",
+          "title": "Examine the evidence needed for the claim",
+          "level": 3
+        },
+        {
+          "anchor": "review-priorities",
+          "title": "Distinguish essential revisions from extensions",
+          "level": 2
+        },
+        {
+          "anchor": "review-experiments",
+          "title": "Request experiments for a stated reason",
+          "level": 3
+        },
+        {
+          "anchor": "review-report",
+          "title": "Write the report",
+          "level": 2
+        },
+        {
+          "anchor": "review-comments",
+          "title": "Writing specific comments",
+          "level": 3
+        },
+        {
+          "anchor": "review-editor",
+          "title": "Give the editor a consistent recommendation",
+          "level": 3
+        },
+        {
+          "anchor": "review-rereview",
+          "title": "Review the revision",
+          "level": 2
+        },
+        {
+          "anchor": "review-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-review-annesley2013",
+        "ref-review-bourne2006",
+        "ref-review-cope2017",
+        "ref-review-deboer2025",
+        "ref-review-leekreviews",
+        "ref-review-makin2019",
+        "ref-review-ploegh2011",
+        "ref-review-plosreview",
+        "ref-review-plostoolbox",
+        "ref-review-silverman2021",
+        "ref-review-tang2024",
+        "review-chapter",
+        "review-checklist",
+        "review-comments",
+        "review-confidentiality",
+        "review-editor",
+        "review-evidence",
+        "review-example",
+        "review-experiments",
+        "review-invitation",
+        "review-priorities",
+        "review-reading",
+        "review-references",
+        "review-report",
+        "review-rereview",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I write a fair and useful manuscript review?"
+      ]
+    },
+    "C27": {
+      "title": "Responding to peer review",
+      "path": "reader/08-publishing/03-responding-to-peer-review.md",
+      "html_path": "08-publishing/03-responding-to-peer-review.html",
+      "source_html_sha256": "b917455b31d4e0c743ff9d1fe288a628cd4c36fbdd826e40a97a910f79d71467",
+      "text_sha256": "3e7dd1d95fde15fe08da7d9c9a39a6e6630e71000b7b5c0586b3e9d0a0b2db17",
+      "sections": [
+        {
+          "anchor": "pilot",
+          "title": "Responding to peer review",
+          "level": 1
+        },
+        {
+          "anchor": "decision",
+          "title": "Understanding the decision",
+          "level": 2
+        },
+        {
+          "anchor": "planning",
+          "title": "Planning the revision",
+          "level": 2
+        },
+        {
+          "anchor": "triage",
+          "title": "Comments and tasks",
+          "level": 3
+        },
+        {
+          "anchor": "scope",
+          "title": "Additional experiments",
+          "level": 3
+        },
+        {
+          "anchor": "alternatives",
+          "title": "Alternatives and narrower claims",
+          "level": 3
+        },
+        {
+          "anchor": "responsibilities",
+          "title": "Responsibilities and timing",
+          "level": 3
+        },
+        {
+          "anchor": "editor-questions",
+          "title": "Questions for the editor",
+          "level": 3
+        },
+        {
+          "anchor": "revision-results",
+          "title": "Carrying out the revision",
+          "level": 2
+        },
+        {
+          "anchor": "new-work",
+          "title": "New experiments and analyses",
+          "level": 3
+        },
+        {
+          "anchor": "unexpected-results",
+          "title": "Unexpected or inconclusive findings",
+          "level": 3
+        },
+        {
+          "anchor": "evidence-location",
+          "title": "Supporting material",
+          "level": 3
+        },
+        {
+          "anchor": "letter",
+          "title": "Writing the response",
+          "level": 2
+        },
+        {
+          "anchor": "letter-structure",
+          "title": "Letter structure",
+          "level": 3
+        },
+        {
+          "anchor": "point-by-point",
+          "title": "Point-by-point replies",
+          "level": 3
+        },
+        {
+          "anchor": "disagreement",
+          "title": "Disagreements and unchanged text",
+          "level": 3
+        },
+        {
+          "anchor": "conflicting-advice",
+          "title": "Conflicting requests",
+          "level": 3
+        },
+        {
+          "anchor": "checklist",
+          "title": "Checking and submitting",
+          "level": 2
+        },
+        {
+          "anchor": "references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "alternatives",
+        "case-accepted",
+        "case-conflict",
+        "case-excessive",
+        "checklist",
+        "conflicting-advice",
+        "decision",
+        "disagreement",
+        "editor-questions",
+        "evidence-location",
+        "letter",
+        "letter-structure",
+        "new-work",
+        "no-change",
+        "pilot",
+        "planning",
+        "point-by-point",
+        "quarto-document-content",
+        "ref-chat2021",
+        "ref-cope2017",
+        "ref-editors2019",
+        "ref-makin2019",
+        "ref-noble2017",
+        "ref-ploegh2011",
+        "ref-wilke2014",
+        "references",
+        "response-map",
+        "responsibilities",
+        "revision-results",
+        "revision-workflow",
+        "scope",
+        "title-block-header",
+        "triage",
+        "unexpected-results"
+      ],
+      "reader_questions": [
+        "How should I revise a paper and respond to reviewers?"
+      ]
+    },
+    "C28": {
+      "title": "Rejection, transfer and published reviews",
+      "path": "reader/08-publishing/04-rejection-transfer-and-published-reviews.md",
+      "html_path": "08-publishing/04-rejection-transfer-and-published-reviews.html",
+      "source_html_sha256": "19b81858f15a4a9459a8497b0b07856e817bf72928c1e07e7a45b4aa01cd35f5",
+      "text_sha256": "a6c8ac81065027c1061eee62fd7475f35775fff96ddda562229181ac17053869",
+      "sections": [
+        {
+          "anchor": "resubmission-chapter",
+          "title": "Rejection, transfer and published reviews",
+          "level": 1
+        },
+        {
+          "anchor": "resubmission-decision",
+          "title": "Understanding the rejection",
+          "level": 2
+        },
+        {
+          "anchor": "resubmission-appeal",
+          "title": "Decide whether to appeal",
+          "level": 2
+        },
+        {
+          "anchor": "resubmission-letter",
+          "title": "Explain the decisive issue",
+          "level": 3
+        },
+        {
+          "anchor": "resubmission-permission",
+          "title": "Resubmitting to the same journal",
+          "level": 3
+        },
+        {
+          "anchor": "resubmission-transfer",
+          "title": "Transfer or submit elsewhere",
+          "level": 2
+        },
+        {
+          "anchor": "resubmission-package",
+          "title": "Prepare the next submission",
+          "level": 3
+        },
+        {
+          "anchor": "resubmission-history",
+          "title": "Read and publish review histories",
+          "level": 2
+        },
+        {
+          "anchor": "resubmission-reading",
+          "title": "Follow the concern into the paper",
+          "level": 3
+        },
+        {
+          "anchor": "resubmission-consent",
+          "title": "Check what becomes public",
+          "level": 3
+        },
+        {
+          "anchor": "resubmission-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-resubmission-chat2021",
+        "ref-resubmission-cheeseman2018",
+        "ref-resubmission-cope2017",
+        "ref-resubmission-editors2019",
+        "ref-resubmission-gosling2022",
+        "ref-resubmission-naturetransfer",
+        "ref-resubmission-plosprocess",
+        "ref-resubmission-plostoolbox",
+        "ref-resubmission-tang2024",
+        "ref-resubmission-wilke2017",
+        "resubmission-appeal",
+        "resubmission-appeal-example",
+        "resubmission-chapter",
+        "resubmission-checklist",
+        "resubmission-consent",
+        "resubmission-decision",
+        "resubmission-history",
+        "resubmission-history-example",
+        "resubmission-letter",
+        "resubmission-package",
+        "resubmission-permission",
+        "resubmission-reading",
+        "resubmission-references",
+        "resubmission-routes",
+        "resubmission-transfer",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "What should I do after rejection, a transfer offer or publication of reviews?"
+      ],
+      "applicability": "Editorial procedures vary by journal and policy version."
+    },
+    "C32": {
+      "title": "Exploring career options",
+      "path": "reader/09-career-development/01-exploring-career-options.md",
+      "html_path": "09-career-development/01-exploring-career-options.html",
+      "source_html_sha256": "debc54bee0b3a316dab01ea26df1e4ab4646215bed96ba5a4c06a42a3be106c0",
+      "text_sha256": "9ccfa86aec55eb5dfc60161ec376b2d6dfe9fbcb0574e0565943b581cacf7822",
+      "sections": [
+        {
+          "anchor": "career-options-chapter",
+          "title": "Exploring career options",
+          "level": 1
+        },
+        {
+          "anchor": "career-options-work",
+          "title": "Compare the work",
+          "level": 2
+        },
+        {
+          "anchor": "career-options-conversations",
+          "title": "Learn from people doing the work",
+          "level": 2
+        },
+        {
+          "anchor": "career-options-evidence",
+          "title": "Experience and next steps",
+          "level": 2
+        },
+        {
+          "anchor": "career-options-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "career-options-chapter",
+        "career-options-conversations",
+        "career-options-evidence",
+        "career-options-example",
+        "career-options-references",
+        "career-options-work",
+        "quarto-document-content",
+        "ref-career-options-pain2009",
+        "ref-career-options-severjanssen2017",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "Which kinds of scientific work fit my interests and constraints?"
+      ]
+    },
+    "C33": {
+      "title": "Choosing an advisor and research environment",
+      "path": "reader/09-career-development/02-choosing-an-advisor-and-research-environment.md",
+      "html_path": "09-career-development/02-choosing-an-advisor-and-research-environment.html",
+      "source_html_sha256": "3e78feb2605fab2fcb9b17762a2169608a229c45c12f1c7b6d9c5f95f2762359",
+      "text_sha256": "4e66c341d97cb0ca8352b9b311ef930e744c053c840a8ab67756247f30a8165d",
+      "sections": [
+        {
+          "anchor": "advisor-chapter",
+          "title": "Choosing an advisor and research environment",
+          "level": 1
+        },
+        {
+          "anchor": "advisor-stage",
+          "title": "Decide what you need from the position",
+          "level": 2
+        },
+        {
+          "anchor": "advisor-evidence",
+          "title": "Learning how the laboratory works",
+          "level": 2
+        },
+        {
+          "anchor": "advisor-conversations",
+          "title": "Conversations and visits",
+          "level": 2
+        },
+        {
+          "anchor": "advisor-decision",
+          "title": "Compare the opportunities",
+          "level": 2
+        },
+        {
+          "anchor": "advisor-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "advisor-chapter",
+        "advisor-checklist",
+        "advisor-conversations",
+        "advisor-decision",
+        "advisor-evidence",
+        "advisor-evidence-example",
+        "advisor-references",
+        "advisor-stage",
+        "quarto-document-content",
+        "ref-advisor-barres2013advisor",
+        "ref-advisor-kamens2014mentor",
+        "ref-advisor-sabbagh2021postdoc",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I assess an advisor and research environment?"
+      ]
+    },
+    "C34": {
+      "title": "CVs, resumes, letters and references",
+      "path": "reader/09-career-development/03-cvs-resumes-letters-and-references.md",
+      "html_path": "09-career-development/03-cvs-resumes-letters-and-references.html",
+      "source_html_sha256": "6c3bd4d090000afb57ecc3e6e0659fe858a233ba3e2a1d94a886ea727750b4b7",
+      "text_sha256": "8ccd274d6c7f782be1ca0eab9d67c8ea9388a36528cbd763762b8d0b1485b1d4",
+      "sections": [
+        {
+          "anchor": "applications-chapter",
+          "title": "CVs, resumes, letters and references",
+          "level": 1
+        },
+        {
+          "anchor": "applications-choose",
+          "title": "Choose the document",
+          "level": 2
+        },
+        {
+          "anchor": "applications-cv-resume",
+          "title": "Organize the CV or resume",
+          "level": 2
+        },
+        {
+          "anchor": "applications-letter",
+          "title": "Writing a cover letter",
+          "level": 2
+        },
+        {
+          "anchor": "applications-references",
+          "title": "Asking for references",
+          "level": 2
+        },
+        {
+          "anchor": "applications-references-list",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "applications-chapter",
+        "applications-choose",
+        "applications-cv-resume",
+        "applications-entry-example",
+        "applications-letter",
+        "applications-letter-example",
+        "applications-references",
+        "applications-references-list",
+        "quarto-document-content",
+        "ref-applications-gsocv",
+        "ref-applications-gsoletter",
+        "ref-applications-harvardocs2016",
+        "ref-applications-kelsky2016",
+        "ref-applications-martin2017",
+        "ref-applications-nsecvresume",
+        "ref-applications-snapp2023",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can my application materials demonstrate relevant contributions?"
+      ]
+    },
+    "C35": {
+      "title": "Finding and applying for positions",
+      "path": "reader/09-career-development/04-finding-and-applying-for-positions.md",
+      "html_path": "09-career-development/04-finding-and-applying-for-positions.html",
+      "source_html_sha256": "f4276e805136c8f9b45a1957804fbf5a14dddc2da5d7e06e098b68420f7aae16",
+      "text_sha256": "ced14b56a77f38d643b07c6f37affeb816533ab7fa07d150e962360b67e9c19a",
+      "sections": [
+        {
+          "anchor": "positions-chapter",
+          "title": "Finding and applying for positions",
+          "level": 1
+        },
+        {
+          "anchor": "positions-targets",
+          "title": "Choose the appropriate application route",
+          "level": 2
+        },
+        {
+          "anchor": "positions-search",
+          "title": "Finding opportunities",
+          "level": 2
+        },
+        {
+          "anchor": "positions-contact",
+          "title": "Write a specific inquiry",
+          "level": 2
+        },
+        {
+          "anchor": "positions-interviews",
+          "title": "Prepare for the interviews",
+          "level": 2
+        },
+        {
+          "anchor": "positions-pipeline",
+          "title": "Review the search and compare offers",
+          "level": 2
+        },
+        {
+          "anchor": "positions-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "positions-chapter",
+        "positions-checklist",
+        "positions-contact",
+        "positions-interview-example",
+        "positions-interviews",
+        "positions-pipeline",
+        "positions-references",
+        "positions-search",
+        "positions-target-record",
+        "positions-targets",
+        "quarto-document-content",
+        "ref-positions-fomina-phdguide",
+        "ref-positions-jensen2010jobsearchplan",
+        "ref-positions-sabbagh2021postdoc",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How should I find and apply for suitable positions?"
+      ]
+    },
+    "C36": {
+      "title": "Finding a group leader position",
+      "path": "reader/09-career-development/05-finding-a-group-leader-position.md",
+      "html_path": "09-career-development/05-finding-a-group-leader-position.html",
+      "source_html_sha256": "a0155616876316e7143901d55cbcbb8892bac52d98ceb5efd113f3a2571fa27b",
+      "text_sha256": "974e5eac3784002a9fa73eb88265e710e19f7e8d5fe755b8ca0395a048283cc2",
+      "sections": [
+        {
+          "anchor": "faculty-chapter",
+          "title": "Finding a group leader position",
+          "level": 1
+        },
+        {
+          "anchor": "faculty-program",
+          "title": "Define an independent program",
+          "level": 2
+        },
+        {
+          "anchor": "faculty-search",
+          "title": "Finding suitable positions",
+          "level": 2
+        },
+        {
+          "anchor": "faculty-application",
+          "title": "Prepare the faculty application",
+          "level": 2
+        },
+        {
+          "anchor": "faculty-readiness",
+          "title": "Test readiness with the research statement",
+          "level": 3
+        },
+        {
+          "anchor": "faculty-interview",
+          "title": "Prepare for the interview",
+          "level": 2
+        },
+        {
+          "anchor": "faculty-offer",
+          "title": "Comparing and negotiating offers",
+          "level": 2
+        },
+        {
+          "anchor": "faculty-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "faculty-application",
+        "faculty-chapter",
+        "faculty-interview",
+        "faculty-offer",
+        "faculty-program",
+        "faculty-program-example",
+        "faculty-readiness",
+        "faculty-references",
+        "faculty-search",
+        "quarto-document-content",
+        "ref-faculty-fox2017",
+        "ref-faculty-martin2017",
+        "ref-faculty-snapp2023",
+        "ref-faculty-tregoningmcdermott2020",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I develop an independent program and evaluate a group-leader offer?"
+      ]
+    },
+    "C37": {
+      "title": "Career transitions",
+      "path": "reader/09-career-development/06-career-transitions.md",
+      "html_path": "09-career-development/06-career-transitions.html",
+      "source_html_sha256": "9d8694680a9698c7ee65a3f227b4ddf7853a520420c1d449e1e010689e40fdb8",
+      "text_sha256": "f6f851e6c15c5a8fea478323e1b902855c094176c145a3b550469266fa331759",
+      "sections": [
+        {
+          "anchor": "transitions-chapter",
+          "title": "Career transitions",
+          "level": 1
+        },
+        {
+          "anchor": "transitions-decision",
+          "title": "Decide what needs to change",
+          "level": 2
+        },
+        {
+          "anchor": "transitions-route",
+          "title": "Plan the move",
+          "level": 2
+        },
+        {
+          "anchor": "transitions-handover",
+          "title": "Handing over projects",
+          "level": 2
+        },
+        {
+          "anchor": "transitions-relationships",
+          "title": "Continuing responsibilities",
+          "level": 2
+        },
+        {
+          "anchor": "transitions-entry",
+          "title": "Begin the next role",
+          "level": 2
+        },
+        {
+          "anchor": "transitions-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-transitions-afonja2021",
+        "ref-transitions-perovic",
+        "ref-transitions-raffington2026",
+        "ref-transitions-rightmoves2006",
+        "ref-transitions-staffinglab2006",
+        "title-block-header",
+        "transitions-chapter",
+        "transitions-decision",
+        "transitions-decision-example",
+        "transitions-entry",
+        "transitions-handover",
+        "transitions-handover-example",
+        "transitions-references",
+        "transitions-relationships",
+        "transitions-route"
+      ],
+      "reader_questions": [
+        "How can I manage a career transition and continuing responsibilities?"
+      ]
+    },
+    "C38": {
+      "title": "Mentoring",
+      "path": "reader/10-mentoring-and-management/01-mentoring.md",
+      "html_path": "10-mentoring-and-management/01-mentoring.html",
+      "source_html_sha256": "7e902d3d982cccb8ec670eb0b5f678161e2c157b835904b4337ebe11d894fcad",
+      "text_sha256": "88dae84681785d53c4a818c8dacbed5d721129200252c7764ed2cf4f68ad5e4b",
+      "sections": [
+        {
+          "anchor": "mentoring-chapter",
+          "title": "Mentoring",
+          "level": 1
+        },
+        {
+          "anchor": "mentoring-agreement",
+          "title": "Agreeing expectations",
+          "level": 2
+        },
+        {
+          "anchor": "mentoring-judgment",
+          "title": "Use meetings to develop judgment",
+          "level": 2
+        },
+        {
+          "anchor": "mentoring-feedback",
+          "title": "Feedback",
+          "level": 2
+        },
+        {
+          "anchor": "mentoring-development",
+          "title": "Plan development beyond the immediate project",
+          "level": 2
+        },
+        {
+          "anchor": "mentoring-network",
+          "title": "Build a mentoring network",
+          "level": 2
+        },
+        {
+          "anchor": "mentoring-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "mentoring-agreement",
+        "mentoring-chapter",
+        "mentoring-checklist",
+        "mentoring-development",
+        "mentoring-feedback",
+        "mentoring-judgment",
+        "mentoring-judgment-example",
+        "mentoring-network",
+        "mentoring-references",
+        "quarto-document-content",
+        "ref-mentoring-allis2017",
+        "ref-mentoring-alon2009",
+        "ref-mentoring-chat2021",
+        "ref-mentoring-chopra2016",
+        "ref-mentoring-lukeman2013",
+        "ref-mentoring-martinezgoni2026",
+        "ref-mentoring-masterskreeger2017",
+        "ref-mentoring-vincent2015",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "What support and independence does this researcher need?"
+      ]
+    },
+    "C39": {
+      "title": "Lab manuals and shared expectations",
+      "path": "reader/10-mentoring-and-management/02-lab-manuals-and-shared-expectations.md",
+      "html_path": "10-mentoring-and-management/02-lab-manuals-and-shared-expectations.html",
+      "source_html_sha256": "404bcdf979260b2956641e7736547af2ef3c64c36ab06cbb39dbb03010916fdf",
+      "text_sha256": "0d7880b00b2efb3fd3eb1899442a265c2ead0645c5ae4ecd0e82271baffebb56",
+      "sections": [
+        {
+          "anchor": "manuals-chapter",
+          "title": "Lab manuals and shared expectations",
+          "level": 1
+        },
+        {
+          "anchor": "manuals-scope",
+          "title": "Decide what needs documenting",
+          "level": 2
+        },
+        {
+          "anchor": "manuals-policy",
+          "title": "Writing the policies",
+          "level": 2
+        },
+        {
+          "anchor": "manuals-drafting",
+          "title": "Draft the manual with the people affected",
+          "level": 2
+        },
+        {
+          "anchor": "manuals-maintenance",
+          "title": "Introduce, use and revise it",
+          "level": 2
+        },
+        {
+          "anchor": "manuals-data-ai",
+          "title": "Data and AI practices",
+          "level": 2
+        },
+        {
+          "anchor": "manuals-check",
+          "title": "Check whether the manual works",
+          "level": 2
+        },
+        {
+          "anchor": "manuals-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "manuals-chapter",
+        "manuals-check",
+        "manuals-data-ai",
+        "manuals-drafting",
+        "manuals-maintenance",
+        "manuals-policy",
+        "manuals-policy-example",
+        "manuals-references",
+        "manuals-revision-example",
+        "manuals-scope",
+        "quarto-document-content",
+        "ref-manuals-aly2018",
+        "ref-manuals-blekhman2026",
+        "ref-manuals-dona2025",
+        "ref-manuals-masterskreeger2017",
+        "ref-manuals-mehr2020",
+        "ref-manuals-tendler2023",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "Which shared expectations belong in a usable lab manual?"
+      ]
+    },
+    "C40": {
+      "title": "Leading and reviewing a research group",
+      "path": "reader/10-mentoring-and-management/03-leading-and-reviewing-a-research-group.md",
+      "html_path": "10-mentoring-and-management/03-leading-and-reviewing-a-research-group.html",
+      "source_html_sha256": "d7d943a3d892159cb059ebd8cc08e9cd4cac33394b7ebc3a0e534a0daf657306",
+      "text_sha256": "149e33a82333213068369fa6612b16855a6eb8550e67539b966d23a36c6ba932",
+      "sections": [
+        {
+          "anchor": "leadership-chapter",
+          "title": "Leading and reviewing a research group",
+          "level": 1
+        },
+        {
+          "anchor": "leadership-direction",
+          "title": "Priorities and planning",
+          "level": 2
+        },
+        {
+          "anchor": "leadership-resources",
+          "title": "Match resources to the work",
+          "level": 2
+        },
+        {
+          "anchor": "leadership-hiring",
+          "title": "Hiring",
+          "level": 2
+        },
+        {
+          "anchor": "leadership-selection",
+          "title": "Evaluate evidence for the role",
+          "level": 3
+        },
+        {
+          "anchor": "leadership-onboarding",
+          "title": "Onboarding",
+          "level": 2
+        },
+        {
+          "anchor": "leadership-delegation",
+          "title": "Delegating responsibility",
+          "level": 2
+        },
+        {
+          "anchor": "leadership-oversight",
+          "title": "Meetings and review",
+          "level": 2
+        },
+        {
+          "anchor": "group-review-prepare",
+          "title": "Preparing the review",
+          "level": 2
+        },
+        {
+          "anchor": "group-review-discuss",
+          "title": "Discussing recurring problems",
+          "level": 2
+        },
+        {
+          "anchor": "group-review-decide",
+          "title": "Choosing changes",
+          "level": 2
+        },
+        {
+          "anchor": "group-review-follow-up",
+          "title": "Following up",
+          "level": 2
+        },
+        {
+          "anchor": "leadership-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "group-review-decide",
+        "group-review-discuss",
+        "group-review-example",
+        "group-review-follow-up",
+        "group-review-prepare",
+        "leadership-chapter",
+        "leadership-delegation",
+        "leadership-delegation-example",
+        "leadership-direction",
+        "leadership-hiring",
+        "leadership-onboarding",
+        "leadership-oversight",
+        "leadership-references",
+        "leadership-resources",
+        "leadership-selection",
+        "leadership-staffing-example",
+        "quarto-document-content",
+        "ref-leadership-beltrao2022",
+        "ref-leadership-bennett2018",
+        "ref-leadership-goldsteinavasthi2021",
+        "ref-leadership-greersamuel2019",
+        "ref-leadership-rabinak2026",
+        "ref-leadership-rightmoves2006",
+        "ref-leadership-staffinglab2006",
+        "ref-leadership-vincent2015",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How can I lead a group within its actual capacity?",
+        "How can we diagnose and improve recurring working arrangements?"
+      ],
+      "required_context": {
+        "group-review-example": [
+          "group-review-discuss",
+          "group-review-decide"
+        ],
+        "leadership-staffing-example": [
+          "leadership-resources",
+          "leadership-hiring"
+        ]
+      }
+    },
+    "C41": {
+      "title": "Collaboration, authorship and credit",
+      "path": "reader/10-mentoring-and-management/04-collaboration-authorship-and-credit.md",
+      "html_path": "10-mentoring-and-management/04-collaboration-authorship-and-credit.html",
+      "source_html_sha256": "e3701ccd2cd0fead7d9a4edc05ba755b26e3707cee1e3fca24b54a524cd2ccdb",
+      "text_sha256": "61054c1f5003e5b425be3e43af388aa659ca1a512fbc8fbc288e68bd69e3e6c9",
+      "sections": [
+        {
+          "anchor": "collaboration-chapter",
+          "title": "Collaboration, authorship and credit",
+          "level": 1
+        },
+        {
+          "anchor": "collaboration-question",
+          "title": "Start from the shared question",
+          "level": 2
+        },
+        {
+          "anchor": "collaboration-plan",
+          "title": "The collaboration agreement",
+          "level": 2
+        },
+        {
+          "anchor": "collaboration-expertise",
+          "title": "Coordinate across expertise",
+          "level": 2
+        },
+        {
+          "anchor": "collaboration-credit-decisions",
+          "title": "Contributions, authorship and order",
+          "level": 2
+        },
+        {
+          "anchor": "collaboration-disagreement",
+          "title": "Address a credit disagreement with evidence",
+          "level": 2
+        },
+        {
+          "anchor": "collaboration-ending",
+          "title": "End or transform the collaboration",
+          "level": 2
+        },
+        {
+          "anchor": "collaboration-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "collaboration-chapter",
+        "collaboration-credit-decisions",
+        "collaboration-credit-example",
+        "collaboration-credit-record",
+        "collaboration-disagreement",
+        "collaboration-ending",
+        "collaboration-expertise",
+        "collaboration-plan",
+        "collaboration-plan-example",
+        "collaboration-question",
+        "collaboration-references",
+        "quarto-document-content",
+        "ref-collaboration-albert2003",
+        "ref-collaboration-bennett2018",
+        "ref-collaboration-icmje2026",
+        "ref-collaboration-niso2022",
+        "ref-collaboration-rightmoves2006",
+        "ref-collaboration-way2021",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How should collaborators agree responsibilities, authorship and credit?"
+      ]
+    },
+    "C42": {
+      "title": "Sustainable and inclusive research workplaces",
+      "path": "reader/10-mentoring-and-management/05-sustainable-and-inclusive-research-workplaces.md",
+      "html_path": "10-mentoring-and-management/05-sustainable-and-inclusive-research-workplaces.html",
+      "source_html_sha256": "55c3024fb35d998ae32f99d16eee3bcb9511ab53f0003dba8cc0fccae7a127c0",
+      "text_sha256": "4aeff9e96979514af6fcc0d6f516db9ef1f92fea1c13349f0332879f552644ce",
+      "sections": [
+        {
+          "anchor": "workplace-chapter",
+          "title": "Sustainable and inclusive research workplaces",
+          "level": 1
+        },
+        {
+          "anchor": "workplace-workload",
+          "title": "Workload and availability",
+          "level": 2
+        },
+        {
+          "anchor": "workplace-participation",
+          "title": "Access and participation",
+          "level": 2
+        },
+        {
+          "anchor": "workplace-assessment",
+          "title": "Assessing contributions",
+          "level": 2
+        },
+        {
+          "anchor": "workplace-support",
+          "title": "Practical support",
+          "level": 2
+        },
+        {
+          "anchor": "workplace-change-plan",
+          "title": "Planning a change",
+          "level": 2
+        },
+        {
+          "anchor": "workplace-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "quarto-document-content",
+        "ref-workplace-adlerewingtaylor2008",
+        "ref-workplace-ayres2022",
+        "ref-workplace-bartlett2021",
+        "ref-workplace-gaynor2022",
+        "ref-workplace-maestre2019",
+        "ref-workplace-raffington2026",
+        "title-block-header",
+        "workplace-assessment",
+        "workplace-change-plan",
+        "workplace-chapter",
+        "workplace-participation",
+        "workplace-plan-example",
+        "workplace-references",
+        "workplace-support",
+        "workplace-workload"
+      ],
+      "reader_questions": [
+        "Which working arrangements support sustainable and fair participation?"
+      ]
+    },
+    "C43": {
+      "title": "Feedback and conflict",
+      "path": "reader/10-mentoring-and-management/06-feedback-and-conflict.md",
+      "html_path": "10-mentoring-and-management/06-feedback-and-conflict.html",
+      "source_html_sha256": "1bb9122d98716b90b8609723a469b155afa34fcc40505d495af73d54db2c6746",
+      "text_sha256": "b8ed99b8418edbada3dd63e3000870c3ebec57be88d62336264cfd37a14e6fd2",
+      "sections": [
+        {
+          "anchor": "conflict-chapter",
+          "title": "Feedback and conflict",
+          "level": 1
+        },
+        {
+          "anchor": "feedback-conflict-route",
+          "title": "Identify the issue and the right route",
+          "level": 2
+        },
+        {
+          "anchor": "feedback-conflict-feedback",
+          "title": "Giving feedback",
+          "level": 2
+        },
+        {
+          "anchor": "feedback-conflict-science",
+          "title": "Scientific disagreement",
+          "level": 2
+        },
+        {
+          "anchor": "feedback-conflict-arrangements",
+          "title": "Resolve competing needs and unclear responsibilities",
+          "level": 2
+        },
+        {
+          "anchor": "feedback-conflict-support",
+          "title": "Seeking independent support",
+          "level": 2
+        },
+        {
+          "anchor": "feedback-conflict-references",
+          "title": "References",
+          "level": 2
+        }
+      ],
+      "anchors": [
+        "conflict-chapter",
+        "feedback-conflict-arrangements",
+        "feedback-conflict-checklist",
+        "feedback-conflict-feedback",
+        "feedback-conflict-references",
+        "feedback-conflict-route",
+        "feedback-conflict-science",
+        "feedback-conflict-support",
+        "quarto-document-content",
+        "ref-feedback-conflict-ayres2022",
+        "ref-feedback-conflict-bennett2018",
+        "ref-feedback-conflict-chopra2016",
+        "ref-feedback-conflict-dona2025",
+        "ref-feedback-conflict-lakens2016criticism",
+        "ref-feedback-conflict-rabinak2026",
+        "ref-feedback-conflict-rightmoves2006",
+        "title-block-header"
+      ],
+      "reader_questions": [
+        "How should I give feedback or respond to conflict?"
+      ],
+      "applicability": "Power, confidentiality and retaliation risk may require an independent support route instead of a direct conversation."
+    }
+  }
+}

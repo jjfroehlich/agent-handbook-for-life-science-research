@@ -13,7 +13,7 @@ Move the user from vague attraction or fear to evidence-based comparison. Career
 3. Translate the user's scientific training into target-role evidence.
 4. Identify missing evidence and design small tests: informational interviews, job-ad analysis, short projects, coursework, internships, shadowing, or targeted networking.
 5. Separate acute distress from durable mismatch when the user is considering leaving a path.
-6. For offers or new roles, rank must-haves and nice-to-haves, then translate the first month into relationships, commitments, feedback loops, and early evidence of fit.
+6. For offers, distinguish must-haves and preferences. For new roles, plan relationships, commitments, feedback and early evidence of fit over an initial period appropriate to the role and first review point.
 7. End with a comparison table, experiment plan, translated materials, negotiation plan, first-month plan, or decision memo.
 
 ## Decision rules
@@ -41,7 +41,7 @@ Move the user from vague attraction or fear to evidence-based comparison. Career
 - Using salary, prestige, or title as the only comparison.
 - Applying to many roles without understanding the evidence each role requires.
 - Framing a transition as failure rather than a decision under constraints.
-- Asking people for jobs before asking useful, specific questions.
+- Making unfocused requests for jobs or referrals without explaining fit; direct applications or vacancy inquiries can be appropriate when that is the stated route.
 - Treating a first month as passive onboarding instead of an active evidence-gathering and relationship-building period.
 - Assuming every offer term is negotiable or safe to raise in every context.
 
@@ -61,7 +61,7 @@ Career comparison row:
 
 | Path | Daily work | Success metrics | Entry evidence | Fit signals | Risks | Next experiment |
 |---|---|---|---|---|---|---|
-| Biotech scientist | Team experiments toward product milestones | Reproducible data, decisions, timelines | Methods plus collaboration stories | Likes team execution | Less autonomy | Interview two recent hires |
+| Fictional platform scientist role | Team experiments toward specified platform milestones | Reproducible data, decisions, timelines | Methods plus collaboration stories | Likes this team's experimental work | Topic decisions set by platform priorities | Ask recent hires how priorities and decision rights work |
 
 Leaving-path decision memo:
 

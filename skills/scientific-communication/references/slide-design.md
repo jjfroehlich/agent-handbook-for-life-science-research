@@ -14,17 +14,17 @@ Make each slide support one step in the spoken argument. Slides should guide att
 4. Use title, size, position, contrast, color, and whitespace to show what to inspect first.
 5. Sequence complex ideas with builds or multiple slides rather than one overloaded slide.
 6. Keep layout conventions stable across related slides.
-7. Move controls, full methods, citations, and caveats to speaker notes or backup when they are not needed live.
+7. Keep controls, uncertainty and method definitions needed to assess the visible claim. Move extended procedures and secondary material to notes or backup; retain required credits on the relevant slide.
 8. Check whether the slide works at room distance or on the expected screen.
 
 ## Decision rules
 
-- If a slide has multiple competing messages, split it or choose one message.
+- If a slide has multiple competing messages, split it or choose the current question. Keep related panels together when simultaneous comparison is the point.
 - If the speaker is reading the slide, shorten visible text and move explanation into speech.
 - If a figure came from a paper, redraw, crop, annotate, or simplify it for live viewing.
 - If the slide depends on color, add labels, contrast, or grouping so meaning does not rely on color alone.
 - If a slide is a transition, make the transition explicit instead of hiding it in dense content.
-- If a required detail is too small to read, make it backup rather than pretending it is visible.
+- If an essential comparison or qualifier is too small to read, enlarge it or spread the explanation across slides. Backup is suitable for optional detail, not for evidence the main claim requires.
 
 ## Variants and edge cases
 
@@ -45,7 +45,7 @@ Make each slide support one step in the spoken argument. Slides should guide att
 ## Diagnostic questions
 
 - What should the audience look at first?
-- Can the slide be understood in five seconds before explanation?
+- Can listeners locate the intended comparison quickly, with the spoken orientation the task needs?
 - Does the title state the point, not just the topic?
 - Which element can be removed without harming the claim?
 - Are labels readable at the expected distance or screen size?

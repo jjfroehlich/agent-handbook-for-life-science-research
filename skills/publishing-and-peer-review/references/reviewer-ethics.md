@@ -21,7 +21,7 @@ Protect the integrity of the review process while still helping the reviewer pro
 - If a real or perceived conflict could affect judgment, disclose it before accepting or decline.
 - If you need help from another person to review, ask the editor before sharing the manuscript.
 - If you suspect misconduct, plagiarism, image manipulation, or serious ethics problems, tell the editor with evidence and avoid author-facing accusations.
-- If a review may be signed, published, or transferred, follow the journal's consent and confidentiality rules and write with public-context clarity.
+- If a review may be signed, published, or transferred, check each permission separately: releasing reports, identifying reviewers and moving material between journals are different choices. Check the policy's treatment of author responses and attachments as well as reports; do not infer reviewer identity from an anonymous published history.
 - If the manuscript overlaps with your own unpublished work, disclose the overlap and avoid using privileged information.
 - If you cannot complete the review on time, tell the editor early.
 - If recommending citations, make sure they are necessary, relevant, and proportionate rather than serving reviewer self-interest.

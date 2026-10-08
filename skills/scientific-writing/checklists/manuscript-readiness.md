@@ -10,7 +10,7 @@ Use for whole-paper or section-level readiness review.
 - Headings, topic sentences, and figure titles help readers recover the story.
 - The order follows reader logic rather than lab chronology unless chronology is itself the result.
 - Paragraphs follow context-content-conclusion or another clear topic/evidence/takeaway logic.
-- Paragraphs have a topic sentence, support, and clincher or transition.
+- Paragraphs have a clear point and support, with a closing inference or transition where needed.
 - Details that interrupt the main argument are moved to methods, supplement, appendix, or a later paragraph.
 
 ## Section Logic
@@ -18,7 +18,7 @@ Use for whole-paper or section-level readiness review.
 - The introduction narrows from context to gap to aim.
 - Results paragraphs state findings and evidence before broad interpretation.
 - Results contain comparison, direction or qualitative pattern, evidence type, and figure/table reference when supplied.
-- Figures or tables can be summarized as claims that advance the evidence spine.
+- Figures or tables have a clear role in the evidence spine, including descriptive resources or workflows when central to the contribution.
 - The discussion answers the research question and calibrates implications.
 - Limitations name where results do and do not apply.
 - Figures and legends are self-contained enough for inspection.
@@ -29,7 +29,7 @@ Use for whole-paper or section-level readiness review.
 - Causal language matches the design.
 - Scope, population, system, and uncertainty are explicit.
 - Limitations bound interpretation instead of apologizing for the study.
-- Future work follows from the contribution and does not undermine it.
+- Future work separates extensions of an established contribution from evidence still needed for a current claim; genuine gaps are identified and unsupported claims narrowed.
 
 ## Prose
 

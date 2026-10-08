@@ -4,13 +4,13 @@ Use this when the user needs better narrative flow, audience memory, explanation
 
 ## The job of this topic
 
-Turn facts into a clear explanatory journey without oversimplifying the science. The story should create orientation, tension, resolution, and meaning while preserving uncertainty.
+Make the inference easier to follow without oversimplifying the science. Use a narrative sequence when it clarifies that inference; an answer-first update or comparison of open choices may serve a different task better. Preserve uncertainty rather than manufacturing resolution.
 
 ## Default workflow
 
 1. Identify the audience's starting belief or confusion.
 2. Name the central question, gap, conflict, or decision.
-3. Arrange content as `context -> problem -> attempt -> evidence -> interpretation -> implication`.
+3. Choose a sequence that serves the task: question-led evidence, answer-first briefing or a comparison of unresolved choices. `Context -> problem -> attempt -> evidence -> interpretation -> implication` is one narrative option.
 4. Use examples, analogies, or visuals only when they clarify a relationship.
 5. Make transitions explicit so the audience sees why each step follows.
 6. Keep uncertainty and limitations near the claims they qualify.
@@ -29,7 +29,7 @@ Turn facts into a clear explanatory journey without oversimplifying the science.
 - Discovery story: emphasize the gap and sequence of evidence.
 - Mechanism explanation: build the causal chain step by step.
 - Translational story: connect mechanism to decision, patient, product, or policy implications.
-- Negative or null result: frame the story around what uncertainty was reduced.
+- Negative or null result: explain what the estimate and uncertainty allow. An imprecise result may leave the hypothesis unresolved rather than rule it out.
 - Public explanation: use familiar stakes and concrete examples before abstraction.
 
 ## Anti-patterns
@@ -74,9 +74,9 @@ Usable takeaway:
 
 ## Examples
 
-- Turn "we measured X, Y, and Z" into "we needed to know whether mechanism A or B explains the effect; X ruled out A, Y supported B, and Z shows the boundary."
+- If the input only says "we measured X, Y, and Z," ask what those comparisons establish before assigning them narrative roles. Do not invent a ruled-out mechanism or claim boundary to complete a story.
 - For a public explanation, begin with what the phenomenon changes for people, then introduce the scientific mechanism.
-- For a null result, make the story about the decision the result now prevents or the hypothesis it narrows.
+- For a null result, distinguish a precise bound on an effect from an inconclusive comparison before saying it changes a decision.
 
 ## When not to apply this
 

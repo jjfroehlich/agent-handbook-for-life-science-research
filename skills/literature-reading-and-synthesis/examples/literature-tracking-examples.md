@@ -22,7 +22,9 @@ Repair:
 2. Pause sources without a clear role.
 3. Narrow common-term queries.
 4. Add a backlog review date.
-5. Keep only items with an explicit next action.
+5. Keep selected items with a current reading question or a named later purpose; a background paper need not have an immediate action.
+
+For example, a method paper is saved for a pilot decision with status “abstract screened; evaluation unchecked.” A different-tissue study is retained outside the active queue for a possible project extension. If alert volume doubles, pause an overlapping broad feed and preserve the imminent method question. Saving either item does not verify its claims.
 
 ## Field Source Map
 

@@ -17,7 +17,7 @@ Turn paper notes into comparable, reusable rows. A synthesis matrix should keep 
 
 1. Define the comparison goal: methods, claims, field positions, evidence strength, or project relevance.
 2. Choose row units: one paper, one method, one figure, one claim, or one source stream item.
-3. Add core columns:
+3. Select only fields that can change this comparison from the following options:
    - paper
    - reading goal
    - article type
@@ -30,7 +30,7 @@ Turn paper notes into comparable, reusable rows. A synthesis matrix should keep 
    - relationship to other sources
    - impact on current project
 4. Add tracking context when useful: source/feed, field layer, query/topic, and action taken.
-5. End each row with a build-on-it note.
+5. Keep source locations, reading status and unresolved checks with consequential entries. Write the cross-study answer around shared questions rather than a sequence of paper summaries; add a build-on-it note when future direction is requested.
 
 ## Decision rules
 
@@ -39,6 +39,11 @@ Turn paper notes into comparable, reusable rows. A synthesis matrix should keep 
 - If mapping a field, add source layer, review source, specialty venue, method/tool stream, and known gap.
 - If preparing a presentation, add figure IDs, discussion prompts, and unresolved questions.
 - If the matrix is becoming a dumping ground, split claim/evidence fields from general notes.
+- Before selecting studies, define the issue, audience and inclusion scope. For a review, retain searches, dates, exclusions and inaccessible papers. Keep these records proportional to the task; they alone do not certify a systematic review.
+- Before declaring a research gap, check recent and overlooked older studies. When the search is stale, qualify or refresh the gap claim.
+- Apply the same scrutiny to personally authored or favored studies as to contrary findings. Invite complementary criticism when revising a substantial synthesis.
+- Compare system, intervention/comparator, timing, measured outcome and denominator before interpreting disagreement. Different endpoints can address different questions; a proposed timing or mechanism explanation remains untested until evidence distinguishes it.
+- Check whether papers reuse the same observations. Reviews, reanalyses and original reports may add different insights without supplying independent confirmation. Weight the relevant design and evidence rather than counting favorable papers.
 
 ## Variants and edge cases
 
@@ -54,7 +59,7 @@ Turn paper notes into comparable, reusable rows. A synthesis matrix should keep 
 - Mixing result and interpretation.
 - Omitting limitations because the table is "just for summary."
 - Forgetting why a paper entered the matrix.
-- Ending without a next action.
+- Forcing consensus when evidence remains in tension, or adding a next experiment when the user requested only a bounded synthesis.
 
 ## Diagnostic questions
 
@@ -63,7 +68,7 @@ Turn paper notes into comparable, reusable rows. A synthesis matrix should keep 
 - Can two papers be compared across the same fields?
 - Are source/feed and field-layer context needed?
 - Does each row separate claim, evidence, interpretation, and caveat?
-- Does each row say what to do next?
+- If future direction is requested, does the synthesis identify a next action justified by the unresolved question?
 
 ## Output patterns / mini-templates
 

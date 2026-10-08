@@ -1,6 +1,6 @@
 # Grant Writing Templates
 
-Use these templates when the user asks for a structured review, rubric, table, or rewrite plan.
+Select relevant fields when the user asks for a structured review, rubric, table, or rewrite plan. A narrow edit does not need every table. Record the supplied evidence and its status; leave unresolved facts explicit.
 
 ## Funder-Fit Preflight
 
@@ -36,9 +36,10 @@ Aim or work package:
 Rationale:
 Overall plan:
 Specific example or preliminary data:
+Evidence status and tested scope:
 Interpretable outcomes:
 Potential issue:
-Backup technique or workaround:
+Credible alternative or qualification gate, if needed:
 ```
 
 ## Budget Feasibility Check
@@ -58,7 +59,7 @@ Rescope decision:
 Ambitious claim:
 Expected scientific return:
 Scientific risk:
-Execution risk already controlled:
+Execution evidence and unresolved development:
 Feasibility evidence:
 Reviewer doubt to address:
 ```
@@ -80,8 +81,8 @@ Statements to rewrite or unbold:
 |---|---|---|---|
 | Hypothesis/goal | | Reviewer cannot tell what success means | Add explicit objective and outcome |
 | Controls/analysis | | Feasibility looks underplanned | Add controls, analysis plan, and rationale |
-| Funder budget fit | | Request looks arbitrary or inflated | Compare with visible norms and justify expenses |
-| LOI consistency | | Full proposal surprises the funder | Reconcile scope and requested amount |
+| Funder budget fit | | Costs or scope do not match the call | Check current cost rules and reconcile justified costs with scope |
+| LOI consistency, if applicable | | Full proposal changes an earlier request | Explain scope and amount changes under the actual process |
 
 ## Grant Planning Timeline
 

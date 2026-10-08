@@ -1,0 +1,268 @@
+/* Quiet reading surface, system fonts, no remote dependencies. */
+/* Generated plots: book-sized type, a centered canvas and breathing room. */
+img.handbook-plot { display: block; width: 100%; max-width: min(100%, 36rem); height: auto; margin: 1.5rem auto 1rem; }
+img.handbook-plot.compact-plot { max-width: min(100%, 27rem); }
+figure:has(img.handbook-plot) { margin-top: 1.5rem; margin-bottom: 1.8rem; }
+/* C08 visual guide: plain entries, with text outside the image. */
+.plot-entry { margin: 0 0 1.8rem; break-inside: avoid; min-width: 0; }
+.plot-label { display: block; font-size: 1.08em; margin-bottom: .6rem; }
+.plot-entry img { max-width: 100%; height: auto; }
+.plot-entry figure { margin: 0 0 .8rem; }
+.plot-entry figcaption { font-size: .88em; line-height: 1.4; }
+.plot-entry th:first-child { white-space: nowrap; }
+@media screen and (min-width: 681px) {
+  #quarto-document-content .plot-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem 1.8rem; align-items: start; }
+  #quarto-document-content .plot-entry { margin-bottom: 1rem; }
+}
+/* Compatibility styling for older comparison tables. */
+@media screen and (max-width: 575px) {
+  .display-choices table, .display-choices tbody, .display-choices tr, .display-choices td { display: block; width: 100%; }
+  .display-choices colgroup { display: none; }
+  .display-choices thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .display-choices tr { border-top: 1px solid #cbd3d7; padding: .7rem 0; }
+  .display-choices td { border: 0; padding: .25rem 0; }
+  .display-choices td:first-child { font-weight: 700; }
+  .display-choices td:nth-child(2)::before { content: "Starting display: "; font-weight: 700; }
+}
+:root { --handbook-ink: #23332f; --handbook-accent: #276652; }
+body { color: var(--handbook-ink); background: #fffefa; }
+h1, h2, h3, .sidebar-title { color: #233f35; }
+h1, h2, h3 { line-height: 1.25; }
+h1 { font-size: 2.3rem; font-family: Georgia, serif; letter-spacing: -.02em; }
+h2 { font-size: 1.6rem; margin-top: 2.4rem; }
+h3 { font-size: 1.2rem; font-weight: 700; margin-top: 1.65rem; margin-bottom: .6rem; }
+a { color: var(--handbook-accent); text-underline-offset: .18em; }
+a:hover { color: #163e31; text-decoration: underline; }
+.sidebar { background: #f5f5ef; }
+.sidebar-title { font-family: Georgia, serif; }
+blockquote { border-left: 3px solid #acc7b9; color: #344d43; background: #f5f8f4; padding: .7rem 1rem; }
+table { font-size: .92em; }
+thead { border-bottom: 2px solid #acc7b9; }
+td, th { vertical-align: top; }
+a:focus-visible, button:focus-visible { outline: 3px solid #b57931; outline-offset: 3px; }
+@media (max-width: 767px) {
+  body { font-size: 1rem; }
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.4rem; }
+  h3 { font-size: 1.12rem; }
+  .content { overflow-wrap: anywhere; }
+  .quarto-table-container { overflow-x: auto; }
+}
+
+
+/* Example boundaries and labels survive grayscale printing and reader overrides. */
+.worked-example { background: #f5f7f8; border-left: 3px solid #9aaebc; padding: 1.15rem; margin: 1rem 0 1.6rem; border-radius: 3px; }
+.review-exchange, .editor-query { background: #ffffff; color: #000000; padding: 1rem; margin: 1rem 0; }
+.reviewer-comment { color: #315b7d; margin: 1.3rem 0 1rem; }
+.reviewer-comment:first-child { margin-top: 0; }
+.manuscript-change { background: #f0f2f3; color: #000000; border-left: 2px solid #aeb7bd; padding: .85rem 1rem; margin: 1rem 0 1rem .6rem; }
+.worked-example p:last-child, .review-exchange p:last-child, .manuscript-change p:last-child { margin-bottom: 0; }
+@media (max-width: 767px) {
+  .worked-example { padding: .8rem; }
+  .review-exchange, .editor-query { padding: .75rem; }
+  .manuscript-change { padding: .7rem; margin-left: .25rem; }
+}
+
+/* Offset complete cases from the chapter text; keep mobile lines comfortably wide. */
+.example-indent { margin-left: 1.2rem; }
+@media (max-width: 767px) {
+  .example-indent { margin-left: .5rem; }
+}
+
+/* Reviewer bullets and uniformly styled replies form a readable exchange. */
+.reviewer-comment ul { list-style-type: "- "; padding-left: 1em; margin-bottom: 0; }
+.author-response { margin: .5rem 0 1.1rem 2rem; color: #000000; font-weight: 400; font-style: normal; }
+@media (max-width: 767px) {
+  .author-response { margin-left: 1.6rem; }
+}
+
+/* Example titles belong to the panel and share the scenario text alignment. */
+.example-label, .tool-label, .overview-label { font-weight: 700; scroll-margin-top: 5rem; }
+p:has(> .example-label) { margin-top: 0; margin-bottom: .85rem; }
+
+/* Preserve readable comparisons when the inventory columns cannot fit a narrow screen. */
+@media screen and (max-width: 575px) {
+  .claim-evidence table, .claim-evidence tbody,
+  .claim-evidence tr, .claim-evidence td { display: block; width: 100%; }
+  .claim-evidence colgroup { display: none; }
+  .claim-evidence thead {
+    position: absolute; width: 1px; height: 1px; padding: 0;
+    overflow: hidden; clip-path: inset(50%); white-space: nowrap;
+  }
+  .claim-evidence tbody tr { border-top: 1px solid #cbd3d7; padding: .7rem 0; }
+  .claim-evidence td { border: 0; padding: .25rem 0; }
+  .claim-evidence td::before { display: block; font-weight: 700; }
+  .claim-evidence td:nth-child(1)::before { content: "Proposed claim"; }
+  .claim-evidence td:nth-child(2)::before { content: "Supporting analysis/result"; }
+  .claim-evidence td:nth-child(3)::before { content: "Planned figure/panel"; }
+  .claim-evidence td:nth-child(4)::before { content: "Assumptions"; }
+  .claim-evidence td:nth-child(5)::before { content: "Interpretation limits"; }
+}
+
+/* Read the gap decisions as labeled entries on narrow screens. */
+@media (max-width: 767px) {
+  .gap-decisions table, .gap-decisions tbody, .gap-decisions tr, .gap-decisions td { display: block; width: 100%; }
+  .gap-decisions thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .gap-decisions tr { margin: .8rem 0; border-bottom: 1px solid #acc7b9; }
+  .gap-decisions td { border: 0; padding: .35rem 0; }
+  .gap-decisions td::before { display: block; font-weight: 700; }
+  .gap-decisions td:nth-child(1)::before { content: "Problem"; }
+  .gap-decisions td:nth-child(2)::before { content: "How to recognize it"; }
+  .gap-decisions td:nth-child(3)::before { content: "Next action"; }
+}
+
+/* Keep the opening comparison readable without narrow columns. */
+@media screen and (max-width: 575px) {
+  .opening-jobs table, .opening-jobs tbody, .opening-jobs tr, .opening-jobs td { display: block; width: 100%; }
+  .opening-jobs colgroup { display: none; }
+  .opening-jobs thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .opening-jobs tr { border-top: 1px solid #cbd3d7; padding: .7rem 0; }
+  .opening-jobs td { border: 0; padding: .25rem 0; }
+  .opening-jobs td:first-child { font-weight: 700; }
+  .opening-jobs td::before { display: block; font-weight: 700; }
+  .opening-jobs td:nth-child(2)::before { content: "What the reader needs"; }
+  .opening-jobs td:nth-child(3)::before { content: "What to include"; }
+}
+
+/* Separate manuscript quotations from the surrounding teaching commentary. */
+.sample-prose { background: #fff; color: #1f2925; border: 1px solid #dde3e0; padding: 1rem; margin: .8rem 0 1.1rem; font-style: normal; font-weight: 400; }
+.sample-prose p { font-style: normal; font-weight: 400; }
+@media (max-width: 767px) { .sample-prose { padding: .7rem; margin-left: 0; margin-right: 0; } }
+
+/* Structural outlines become labeled entries when columns would be too narrow. */
+@media screen and (max-width: 575px) {
+  .structure-outline table, .structure-outline tbody, .structure-outline tr, .structure-outline td { display: block; width: 100%; }
+  .structure-outline colgroup { display: none; }
+  .structure-outline thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .structure-outline tr { border-top: 1px solid #cbd3d7; padding: .7rem 0; }
+  .structure-outline td { border: 0; padding: .25rem 0; }
+  .structure-outline td:first-child { font-weight: 700; }
+  .structure-outline td::before { display: block; font-weight: 700; }
+  .structure-outline td:nth-child(2)::before { content: "Purpose"; }
+  .nature-outline td:nth-child(3)::before { content: "Sentences in Nature's guide"; }
+}
+
+/* Keep the reporting-component comparison readable on a phone. */
+@media screen and (max-width: 575px) {
+  .reporting-components table, .reporting-components tbody, .reporting-components tr, .reporting-components td { display: block; width: 100%; }
+  .reporting-components colgroup { display: none; }
+  .reporting-components thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .reporting-components tr { border-top: 1px solid #cbd3d7; padding: .7rem 0; }
+  .reporting-components td { border: 0; padding: .25rem 0; }
+  .reporting-components td:first-child { font-weight: 700; }
+  .reporting-components td::before { display: block; font-weight: 700; }
+  .reporting-components td:nth-child(2)::before { content: "Main question"; }
+  .reporting-components td:nth-child(3)::before { content: "Information to provide"; }
+}
+
+/* Keep study comparisons readable on narrow screens. */
+.study-comparison td:first-child, .study-comparison th:first-child { width: 25%; }
+@media screen and (max-width: 575px) {
+  .study-comparison table, .study-comparison tbody, .study-comparison tr, .study-comparison td { display: block; width: 100%; }
+  .study-comparison colgroup { display: none; }
+  .study-comparison thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .study-comparison tr { border-top: 1px solid #cbd3d7; padding: .7rem 0; }
+  .study-comparison td { border: 0; padding: .25rem 0; }
+  .study-comparison td:first-child { width: 100%; font-weight: 700; }
+}
+
+/* C25 journal comparisons become labeled entries on narrow screens. */
+@media screen and (max-width: 575px) {
+  .submission-table table, .submission-table tbody,
+  .submission-table tr, .submission-table td { display: block; width: 100%; }
+  .submission-table colgroup { display: none; }
+  .submission-table thead {
+    position: absolute; width: 1px; height: 1px; padding: 0;
+    overflow: hidden; clip-path: inset(50%); white-space: nowrap;
+  }
+  .submission-table tbody tr { border-top: 1px solid #cbd3d7; padding: .7rem 0; }
+  .submission-table td { border: 0; padding: .25rem 0; }
+  .submission-table td::before { display: block; font-weight: 700; }
+  .journal-comparison td:nth-child(1)::before { content: "Question"; }
+  .journal-comparison td:nth-child(2)::before { content: "What to examine"; }
+  .journal-comparison td:nth-child(3)::before { content: "Decision to record"; }
+  .journal-candidates td:nth-child(1)::before { content: "Candidate"; }
+  .journal-candidates td:nth-child(2)::before { content: "Match to the contribution"; }
+  .journal-candidates td:nth-child(3)::before { content: "Decision"; }
+}
+
+/* Exact source quotations remain distinct from authored and adapted samples. */
+.source-quotation { border-left: 3px solid #9aaebc; }
+/* EPUB and shared styles: invisible compatibility destinations take no space. */
+.legacy-anchor, .legacy-anchor p {
+  height: 0 !important;
+  min-height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 0 !important;
+  font-size: 0 !important;
+}
+/* Recognition glossary: images are schematic; names remain searchable text. */
+.display-glossary table { width: 100%; table-layout: fixed; font-size: .86em; }
+.display-glossary td { vertical-align: middle; text-align: center; padding: .35rem .2rem; }
+.display-glossary td:first-child { text-align: center; }
+.display-glossary thead { display: none; }
+.display-glossary .block > p { margin-bottom: .15rem; }
+.display-glossary img { display: block; width: 100%; max-width: 112px; height: auto; margin: 0 auto .15rem; }
+.display-glossary tr { break-inside: avoid; }
+@media (max-width: 600px) {
+  .display-glossary thead { display: none; }
+  .display-glossary tbody, .display-glossary table { display: block; }
+  .display-glossary tr { display: flex; flex-wrap: wrap; padding: .6rem 0; }
+  .display-glossary td { display: block; width: 33.333%; box-sizing: border-box; border: 0; }
+  .display-glossary td:first-child { font-weight: normal; }
+  .display-glossary img { max-width: 100px; }
+}
+
+@media (max-width: 600px) {
+  .display-choices table, .display-choices tbody, .display-choices tr, .display-choices td { display: block; width: 100%; }
+  .display-choices thead, .display-choices colgroup { display: none; }
+  .display-choices tr { padding: .6rem 0; border-bottom: 1px solid #e1e5e3; }
+  .display-choices td { border: 0; padding: .2rem 0; }
+  .display-choices td:first-child { font-weight: 600; }
+}
+@media (max-width: 600px) {
+  .uncertainty-definitions table,
+  .uncertainty-definitions tbody,
+  .uncertainty-definitions tr,
+  .uncertainty-definitions td { display: block; width: 100%; }
+  .uncertainty-definitions thead { display: none; }
+  .uncertainty-definitions tr { padding: .6rem 0; border-bottom: 1px solid #e2e7e5; }
+  .uncertainty-definitions td { border: 0; padding: .2rem 0; overflow-wrap: normal; }
+  .uncertainty-definitions td:first-child { font-weight: 700; }
+  .uncertainty-definitions td:nth-child(3)::before { content: "Specify: "; font-weight: 600; }
+}
+/* Keep the three-column thesis map readable on narrow screens. */
+@media (max-width: 600px) {
+  .thesis-map table, .thesis-map tbody, .thesis-map tr, .thesis-map td {
+    display: block;
+    width: 100%;
+  }
+  .thesis-map colgroup { display: none; }
+  .thesis-map thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .thesis-map tr { border-top: 1px solid #cfd7da; padding: .6rem 0; }
+  .thesis-map td { border: 0; padding: .25rem 0; overflow-wrap: normal; word-break: normal; }
+  .thesis-map td:first-child { font-weight: 700; }
+  .thesis-map td:nth-child(2)::before { content: "Question or finding: "; font-weight: 600; }
+  .thesis-map td:nth-child(3)::before { content: "Role in the thesis: "; font-weight: 600; }
+}
+
+/* Stacked planning records retain their column labels on phones. */
+@media (max-width: 600px) {
+  .thesis-completion table, .thesis-completion tbody, .thesis-completion tr, .thesis-completion td { display: block; width: 100%; }
+  .thesis-completion colgroup { display: none; }
+  .thesis-completion thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .thesis-completion tr { border-top: 1px solid #cfd7da; padding: .6rem 0; }
+  .thesis-completion td { border: 0; padding: .25rem 0; overflow-wrap: normal; }
+  .thesis-completion td:nth-child(1)::before { content: "Work item: "; font-weight: 600; }
+  .thesis-completion td:nth-child(2)::before { content: "Finished item: "; font-weight: 600; }
+  .thesis-completion td:nth-child(3)::before { content: "Dependency or decision: "; font-weight: 600; }
+  .faculty-offer table, .faculty-offer tbody, .faculty-offer tr, .faculty-offer td { display: block; width: 100%; }
+  .faculty-offer colgroup { display: none; }
+  .faculty-offer thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .faculty-offer tr { border-top: 1px solid #cfd7da; padding: .6rem 0; }
+  .faculty-offer td { border: 0; padding: .25rem 0; overflow-wrap: normal; }
+  .faculty-offer td:nth-child(1)::before { content: "Program need: "; font-weight: 600; }
+  .faculty-offer td:nth-child(2)::before { content: "What to establish from the offer: "; font-weight: 600; }
+  .faculty-offer td:nth-child(3)::before { content: "Acceptable alternative or follow-up: "; font-weight: 600; }
+}

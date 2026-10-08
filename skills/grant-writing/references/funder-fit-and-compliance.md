@@ -10,6 +10,8 @@ Prevent unreviewable or low-fit applications before narrative polish. Treat the 
 
 ## Default workflow
 
+Use the whole preflight for opportunity choice, planning, or readiness. A local edit needs only constraints that could affect that edit; do not impose a full checklist on a bounded request.
+
 1. Identify the funder, mechanism, call purpose, eligibility, deadline, and review criteria.
 2. Check whether the project type, applicant stage, location, budget size, and outputs fit the call.
 3. Convert instructions, templates, formatting, section limits, portal requirements, and assessor criteria into a checklist.
@@ -65,7 +67,7 @@ Decision: proceed / retarget / clarify
 
 Weak preflight: "The science is strong, so this funder is worth trying."
 
-Stronger preflight: "The call funds early-stage method development, the applicant is eligible, the budget cap supports the work packages, and each assessor criterion has a mapped section."
+Stronger preflight reports what the current documents and costing actually establish: fit, eligibility, allowable costs, and unresolved conditions. Do not assert that these have been verified from general advice alone.
 
 ## When not to apply this
 
@@ -74,6 +76,6 @@ Do not infer official rules from general grant-writing advice. Ask the user for 
 ## Foundation And LOI Fit
 
 - Check current instructions, eligibility, required form limits, and whether a letter of inquiry precedes the full proposal.
-- When prior award sizes or public giving records are available, use them to calibrate the request instead of defaulting to the maximum.
-- Keep the full proposal's scope and amount consistent with the LOI, or explain the change before submission.
+- When prior award sizes or public giving records are available, use them as context alongside current rules and the work's actual costs.
+- If there was an LOI, explain scope or amount changes and check the applicable process before submission.
 - File before the final deadline window when possible so clarification time is not lost in the deadline rush.

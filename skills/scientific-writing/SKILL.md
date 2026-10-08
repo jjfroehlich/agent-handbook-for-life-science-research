@@ -1,10 +1,10 @@
 ---
 name: scientific-writing
-description: "Use only when the primary requested output is audience-facing scientific prose or argument. Do not use for computational or analysis plans, pipeline or implementation documentation, README files, code comments, object or variable naming, or script terminology merely because they describe scientific work. Trigger for drafting, diagnosing, or revising manuscripts, theses, abstracts, introductions, results, discussions, conclusions, figure legends, contribution statements, acknowledgements, paper outlines, or reviewer-facing passages; and for section structure, flow, claim calibration, compression, or publication-ready wording. Technical source material qualifies only when transformed into an integrated reader-facing scientific argument. Prefer other skills for journal or reviewer-response strategy, grants, literature synthesis, slides or posters, or figure redesign."
+description: "Draft or revise manuscripts, abstracts, figure legends, thesis chapters, and scientific arguments for readers. Exclude technical documentation, grant writing, and publication-process strategy."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Scientific Writing
@@ -30,22 +30,24 @@ Help draft, diagnose, and revise scientific writing so the reader can see the cl
 
 ## Core workflow
 
-1. Identify the artifact type, target audience, venue constraints, user goal, central claim or question, evidence boundary, and requested output. If context is missing, state assumptions and ask only the minimum needed question.
-2. Diagnose the section job before editing sentences: name the intended rhetorical move, the reader confusion, paragraph job, and highest-leverage structural fix.
+1. Match the intervention to the request. For local wording or compression, edit from the supplied prose and constraints; for structural review, establish the artifact, audience, claim, and evidence boundary. Ask only for missing context that changes the work.
+2. Diagnose section or paragraph function when the problem is structural; do not require a structural diagnosis for a settled local edit.
 3. Decide the intervention level before rewriting:
    - Structure: missing claim, wrong section job, chronology instead of reader logic, overloaded paragraph, or weak transition.
    - Rhetoric: missing gap, result, implication, limitation, comparison, or contribution.
    - Sentence: hidden actor, noun stack, vague verb, unstable term, overlong modifier chain, or overclaim.
-4. For manuscripts and thesis chapters, trace the evidence spine: question or hypothesis, prediction or task, figure/table, finding, local conclusion, limitation, and final implication.
-5. Route to the relevant reference playbook and checklist before rewriting.
-6. Preserve meaning, uncertainty, statistical direction, actor, scope, caveats, and terminology while tightening language.
+4. For whole-manuscript or thesis-chapter review, trace the question, evidence, finding, conclusion, and limits. For an excerpt, check only the claims it makes.
+5. Consult a reference or checklist when its section-specific guidance would improve the requested revision.
+6. Preserve meaning, uncertainty, statistical direction, actor, scope, caveats, and terminology while tightening language. Add facts only from supplied evidence; flag consequential omissions or use explicit placeholders. A smoother story cannot replace a missing control or unsupported inference.
 7. Return a concrete output: revised text, section outline, prioritized revision plan, checklist review, or before/after diagnosis.
 
 ## Output formats
 
+Select only the format that fits the requested deliverable; these are patterns, not mandatory response sections.
+
 - `Diagnosis + rewrite`: brief problem statement, revised prose, and rationale for key changes.
 - `Section plan`: ordered rhetorical moves with one-sentence job for each paragraph or subsection.
-- `Readiness review`: pass/fail checklist with highest-priority fixes.
+- `Readiness review`: prioritized findings, required fixes and unresolved checks with their evidence limits.
 - `Compression pass`: what to cut, combine, or move while preserving the claim.
 - `Contribution wording`: careful authorship, contribution, or acknowledgement language with caveats.
 
@@ -59,8 +61,11 @@ Help draft, diagnose, and revise scientific writing so the reader can see the cl
 - Open `references/paper-structure.md` for whole-manuscript flow, central contribution, titles/headings, paragraph order, chronology-to-reader-logic problems, and style diagnostics.
 - Open `references/thesis-writing.md` for thesis/dissertation chapters and institution-sensitive structure.
 - Open `references/authorship-and-contributions.md` for contribution statements, acknowledgements, or authorship-sensitive wording.
+- Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task.
 
 ## Quick checklist
+
+Apply only the checks relevant to the requested scope and artifact. Inspect supplied context first; treat `identify` or `clarify` as analysis when the answer is already available, and ask only for missing information that could change the result.
 
 - What is the one main contribution or question?
 - Does the section do its specific job, or is it borrowing another section's job?
@@ -80,7 +85,6 @@ Help draft, diagnose, and revise scientific writing so the reader can see the cl
 - Cutting searchable method, system, comparison, or result terms during compression.
 - Treating acknowledgements as hidden authorship credit or contribution statements as praise.
 - Applying abstract or introduction patterns to every section.
-- Copying source-like phrasing, citation fragments, or provenance into the user-facing answer.
 
 ## Quality bar
 

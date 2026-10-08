@@ -1,69 +1,31 @@
-# Aims And Feasibility Examples
+# Aims and feasibility examples
 
-Use these examples when explaining how to make aims, preliminary data, and feasibility evidence more reviewer-ready.
+These are closed fictional cases. The facts stated in each case are the complete evidence available for its response.
 
-## Topic Sentence
+## A descriptive signature and a later intervention
 
-Weak:
+Given: a proposal will measure a candidate pathway signature in three neural cell classes. The signature has been observed in one class; no causal intervention has been performed. The user asks only to improve the Aim 1 title.
 
-```text
-Aim 1 studies sequencing of diverse neural cell types.
-```
+Draft: “Aim 1 studies sequencing of diverse neural cell types.”
 
-Stronger:
+Revision: “Aim 1 tests whether the candidate pathway signature recurs across three neural cell classes.”
 
-```text
-Aim 1 tests whether the candidate pathway signature recurs across diverse neural cell types, establishing whether the mechanism is general enough to justify the intervention experiment in Aim 2.
-```
+The title identifies the comparison without claiming a shared causal mechanism. The existing observation motivates the measurement; it does not establish generality or an intervention target. No whole-application checklist is needed for this title edit.
 
-Why it works: the stronger version states the claim, the scope, and the decision it enables.
+## A sequential method-development application
 
-## Co-Dependent Aims
+Given: a call funds pilot method development. A team has chamber access and seed-handling experience but has not calibrated a pulsed-light assay. It proposes to qualify treatment delivery and scoring before comparing pulse orders. No pilot result or substitute assay is available.
 
-Weak:
+Draft: “Our validated assay will establish that the pathway retains a memory of the first pulse.”
 
-```text
-Aim 2 will test the therapeutic candidate identified in Aim 1.
-```
+Revision: “We will first calibrate pulse delivery and scoring, then compare pulse orders under matched conditions if the assay meets the prespecified qualification criteria. The comparison will estimate an order effect under the tested conditions; it will not by itself identify a molecular memory mechanism.”
 
-Problem: if Aim 1 fails or is delayed, Aim 2 has no credible path.
+Review: the dependence is legitimate for this development call, but the qualification criteria, time allowance, and consequence of failing them need specification. The team's experience supports preparation, not assay validation. If calibration fails, the team should report the technical limitation and reassess the scope rather than describe failed treatment delivery as a biological null. The rewrite preserves the missing preliminary result.
 
-Stronger:
+## A candidate screen with no established backup
 
-```text
-Aim 2 will test a prioritized candidate from Aim 1 and, if that screen does not nominate a robust target, will test two candidates already supported by pilot data and published pathway evidence.
-```
+Given: Aim 2 tests a candidate nominated by Aim 1. The screen is untested and there are no pilot-supported candidates. The call expects a substantial biological test within the award period.
 
-Why it works: the downstream aim remains feasible even if the preferred path changes.
+Review: “Aim 2 has an unresolved enabling dependency: if the screen cannot nominate a suitable candidate, its test cannot proceed. A backup candidate cannot be asserted from the supplied facts. Before submission, either establish a credible candidate route, justify an assessable screening milestone and resulting scope decision under the call, or reduce the promised downstream work. A candidate's nomination would still require validation appropriate to the biological test.”
 
-## Preliminary Data
-
-Weak:
-
-```text
-We include several experiments showing the lab has experience with this disease model.
-```
-
-Stronger:
-
-```text
-The preliminary data show that the proposed assay detects the target signal at the resolution needed for Aim 1, directly reducing the main feasibility concern.
-```
-
-Why it works: the evidence answers a reviewer concern rather than displaying general productivity.
-
-## Risk Versus Missing Plan
-
-Weak:
-
-```text
-The project is high risk because we will need to obtain a large external dataset and develop the analysis strategy after funding.
-```
-
-Stronger:
-
-```text
-The scientific risk is whether the hypothesized relationship is strong enough to explain the phenotype. Execution risk is controlled because the dataset is already accessible, representative of the target population, and compatible with the proposed analysis plan.
-```
-
-Why it works: the stronger version separates fundable scientific uncertainty from unmanaged execution risk.
+This response identifies the decision rather than fabricating pilot data or claiming that a different method is ready.

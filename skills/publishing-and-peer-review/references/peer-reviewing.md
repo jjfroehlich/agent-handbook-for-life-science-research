@@ -20,7 +20,7 @@ Make peer review useful to the editor and authors. A good review is fair, priori
 
 ## Decision rules
 
-- If you lack expertise, have a conflict, or cannot meet the deadline, decline promptly and suggest alternatives when useful.
+- Disclose expertise gaps to the editor and establish whether a bounded review is useful. Decline when you cannot assess the assigned aspects competently, a conflict cannot be resolved, or the deadline cannot be met; suggest alternatives when useful.
 - If the paper is weak but salvageable, focus on the few validity or interpretation changes that would most improve it.
 - If the concern is only style or preference, keep it minor and avoid making it a condition of publication.
 - If an experiment would become a new project, ask whether the claim can instead be narrowed, caveated, clarified, or tested with existing data.
@@ -31,7 +31,7 @@ Make peer review useful to the editor and authors. A good review is fair, priori
 ## Variants and edge cases
 
 - **Very poor manuscript:** Still write a professional review. State the main validity or fit barriers without sarcasm or pile-on details.
-- **Likely accept:** Do not stop at praise. Identify residual limitations, clarity fixes, or checks the editor should know.
+- **Likely accept:** Explain why the evidence supports the claims and identify residual issues only when present. Do not manufacture criticism to make the review look substantial.
 - **Revision review:** Compare the revised manuscript against the prior decision letter and major unresolved issues; do not restart review from scratch unless the journal asks.
 - **Portable or transferred review:** Reconsider comments in the context of the new journal's criteria and any changed manuscript.
 - **Statistical paper or heavy analysis:** Check direct comparisons, independence, assumptions, uncertainty, multiplicity, and whether claims match the analysis.
@@ -51,7 +51,7 @@ Make peer review useful to the editor and authors. A good review is fair, priori
 - Can I summarize the manuscript's main claim in one or two sentences?
 - Which issues would change the editor's decision?
 - Are my major requests necessary for the current claim, or am I expanding the project?
-- Does each criticism include evidence and a feasible action?
+- Does each criticism include evidence and its consequence? Offer a remedy where one exists; explain an unsalvageable flaw rather than inventing a feasible revision.
 - Are statistical comparisons direct and are units of analysis independent?
 - Would I stand behind this wording if the review were signed or published?
 
@@ -90,7 +90,7 @@ The comparison appears to test each condition separately rather than directly co
 
 ## Examples
 
-- Instead of "The authors need many more animal experiments," write "The current data support the cellular mechanism but not the organism-level claim. Please either add evidence that directly supports that claim or narrow the conclusion to the tested system."
+- When only a cellular response was measured, replace "The authors need many more animal experiments" with "The current data support the measured cellular response but not the organism-level claim. Please either add evidence that directly supports that claim or narrow the conclusion to the tested system."
 - Instead of "This is badly written," write "The introduction does not identify the gap until paragraph four, which makes the contribution hard to evaluate. Move the gap and central claim earlier."
 
 ## When not to apply this

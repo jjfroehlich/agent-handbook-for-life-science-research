@@ -13,14 +13,14 @@ Compress research into a listener-specific opening that earns the next conversat
 3. Explain the research in plain language before naming specialized methods.
 4. Include one concrete example, result, or application.
 5. End with a specific next step: question, meeting, feedback request, collaboration angle, or memorable takeaway.
-6. Prepare versions for 15 seconds, 60 seconds, and 2 minutes.
+6. Prepare another length only when the setting or user needs it; rehearse the requested version within its actual limit.
 7. Rehearse aloud and remove phrases that sound written rather than spoken.
 
 ## Decision rules
 
 - If the listener is non-specialist, lead with impact or analogy before technique.
 - If the listener is a domain expert, state the gap and technical contribution earlier.
-- If the pitch has no ask, add the next conversation you want.
+- If the purpose is to invite collaboration or advice, make that invitation specific. A purely educational micro-explanation can finish with the bounded takeaway rather than a fabricated ask.
 - If the pitch lists credentials before the problem, move credentials later or remove them.
 - If jargon is necessary, define it by its role in the story.
 

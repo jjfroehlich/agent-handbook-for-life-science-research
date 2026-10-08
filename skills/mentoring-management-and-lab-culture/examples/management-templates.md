@@ -1,5 +1,17 @@
 # Management Templates
 
+Choose fields that help the requested decision. These templates are drafting aids, not required documents for every management question.
+
+## Completed fictional case: reviewing shared capacity
+
+**Given.** A microscopy group has two ongoing projects using an established imaging workflow. Its technician handles most troubleshooting; no trained backup is available. Sample processing is on schedule, but analyst Noor's checkpoint is delayed by repeated troubleshooting interruptions. A third pilot would use the same workflow. The PI can defer that pilot and rearrange existing work; no additional funding or core support is committed. Doctoral researcher Eva can begin supervised training, but has not demonstrated independent troubleshooting.
+
+**Agreed decision record.** After discussing workload and access, the group defers the third pilot. Noor has two protected analysis sessions each week. Eva will train with the technician during one supervised run; Eva's exploratory experiment and the technician's nonessential imaging batch are deferred to provide time. The PI will ask the core about support, keeping this request separate from any promise of capacity. At a six-week review, the group will check the analysis checkpoint, actual interruption load and demonstrated troubleshooting readiness before reconsidering the pilot. Personal disclosures stay outside the shared record.
+
+**Given follow-up and revised decision.** Noor reaches the planned analysis checkpoint. Eva completes the supervised run, but independent troubleshooting remains unassessed. The core reports that it cannot provide ongoing support. The pilot stays deferred while the group revises the workload estimate and decides what training and protected cover it can actually provide. Neither a successful supervised run nor a completed analysis establishes that adding the pilot is feasible.
+
+**Changed condition.** If only the PI reports success while a member privately reports evening troubleshooting, check actual burden through a suitable route before closing the issue. Do not publish that person's details or promise anonymity in this small group.
+
 ## IDP / Yearly Planning Agenda
 
 - Progress and wins.

@@ -64,6 +64,8 @@ An introduction moves readers from shared territory to a specific unresolved pro
 
 ## Examples
 
+Illustrative fixed facts: prior work links several pathways to cell identity, but has not established which regulatory changes precede the first stable lineage decision. This gap must be verified in the user's literature context before adopting it.
+
 Before: `Many pathways regulate cell identity, and this has been studied for decades.`
 
 After: `Although several pathways have been linked to cell identity, it remains unclear which regulatory changes occur before the first stable lineage decision.`

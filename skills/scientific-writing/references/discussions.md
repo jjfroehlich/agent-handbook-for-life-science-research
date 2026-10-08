@@ -15,21 +15,21 @@ A discussion interprets the findings. It should answer the research question, re
 5. Name limitations as boundaries on interpretation, not apologies.
 6. Convert broad implications into evidence-bounded claims.
 7. Identify what the results do not imply, especially for mechanism, population, clinical use, policy, or generality.
-8. For result-by-result discussion, give each major finding an interpretation, exception or alternative, relation to prior work, implication, and clincher.
+8. For result-by-result discussion, select the interpretation, literature comparison, alternative or implication that changes understanding of each major finding. Include a closing inference when useful; do not force every move into every paragraph.
 9. End with a concise contribution, implication, or next-step direction that follows from the data.
 
 ## Decision rules
 
 - If the discussion opens by repeating results in order, replace the opening with the main answer.
 - If a claim outruns the evidence, narrow the population, system, mechanism, timescale, or certainty.
-- If limitations are scattered after every result, consolidate them around interpretation boundaries.
-- If future work undermines the contribution, reframe it as a specific next question enabled by the study.
+- If repeated limitation statements interrupt the argument, consolidate related boundaries where that improves clarity. Keep a limitation beside the finding when it materially changes that finding's interpretation.
+- If future work appears to undermine the contribution, distinguish a poorly worded extension from a genuine evidence gap. Narrow claims that depend on the missing evidence.
 - If the conclusion introduces new data, move it to Results or remove it.
 - If recommendations sound mandatory, soften them to evidence-bound should/could language unless the evidence and venue support stronger wording.
-- If a discussion does not say where results have no implications, add the boundary condition that matters most.
+- If a reader could reasonably overextend a claim, state the consequential boundary. Do not add a routine list of uses or contexts the study never addressed.
 - If the paragraph uses "prove", "demonstrate", "transform", or "first", check whether the design and evidence justify that strength.
 - If limitations read like a weakness list, rewrite them as interpretation boundaries tied to design, measurement, sampling, or context.
-- If future work sounds necessary before the current study matters, reframe it as extension, confirmation, mechanism testing, or boundary testing.
+- Describe future work as extension, confirmation, mechanism testing, or boundary testing only when the current contribution is already supported. If the proposed work is necessary to establish it, explain the unresolved inference.
 - If a paragraph jumps from finding to broad impact, insert the missing reasoning step or reduce the impact claim.
 - If multiple interpretations are plausible, name the alternatives and state which one the supplied evidence supports best.
 
@@ -71,6 +71,8 @@ A discussion interprets the findings. It should answer the research question, re
 - Result-by-result paragraph: `[Finding]. This pattern suggests [bounded interpretation]. One exception/alternative is [boundary]. In relation to prior work, [synthesis]. Therefore, [local implication/clincher].`
 
 ## Examples
+
+Illustrative fixed facts: replicated observations establish an association between X and Y in one model; primary samples have not been tested. Both rewrites below assume these facts. If replication is instead missing or inconclusive, retain that uncertainty and narrow the current claim.
 
 Before: `These findings are very important and will transform the field.`
 

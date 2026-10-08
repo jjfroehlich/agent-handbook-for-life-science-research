@@ -31,7 +31,7 @@ Compress a scientific idea into a readable visual argument without pretending th
 - Direction, movement, transformation, sequence, or causality: use arrows as verbs.
 - Association, grouping, or structural connection: use lines without arrowheads.
 - Pathways and circuits: preserve direction, connectivity, and convention enough for the intended audience.
-- Graphical abstracts: privilege the take-home finding over exhaustive methods detail.
+- Graphical abstracts: emphasize the finding or, for a methods contribution, the distinctive operation and capability it enables.
 
 ## Variants and edge cases
 
@@ -69,7 +69,7 @@ Caveat: <known vs proposed or exact visual detail requiring inspection>.
 ## Examples
 
 - `Overloaded graphical abstract`: collapse methods into one context cue and devote the center to the discovery or mechanism.
-- `Pathway schematic with many crossings`: group steps into modules and use numbered flow rather than every edge.
+- `Pathway schematic with many crossings`: group steps into modules and reroute connections while retaining essential branches and feedback. A numbered flow can explain a sequence, but cannot substitute for causal edges. Disclose consequential simplification.
 
 ## When not to apply this
 

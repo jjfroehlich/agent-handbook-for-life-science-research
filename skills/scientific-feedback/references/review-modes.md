@@ -16,13 +16,13 @@ Match the review depth and voice to the user's goal so feedback is useful rather
 
 1. Infer the likely mode from the prompt and artifact.
 2. If mode changes the work substantially, ask one clarifying question.
-3. State the mode and what it will not cover.
+3. Explain scope when needed to avoid a misleading impression of what was reviewed.
 4. Apply only the detail level appropriate to the mode.
 5. Offer a next-pass option when deeper review would be useful.
 
 ## Decision rules
 
-- Quick scan: return top priorities, strengths, and next action; do not line edit.
+- Quick scan: return the most consequential findings at the requested scale. A short replacement phrase can help demonstrate a repair without becoming a full line edit.
 - Focused review: review the named dimension only, such as figures, claims, audience, or feasibility.
 - Deep integrated review: combine multiple lenses and return a revision sequence.
 - Reviewer-style critique: write major concerns, minor concerns, overclaim risks, and decision-relevant evidence.
@@ -64,7 +64,7 @@ Next pass: <optional deeper route>.
 
 ## Examples
 
-- "Can you quickly sanity-check this grant abstract?" -> quick scan with grant-writing and scientific-writing lenses.
+- "Can you quickly sanity-check this grant abstract?" -> quick scan through grant-writing; add a distinct second lens only when the requested judgment needs it, otherwise use the narrower skill.
 - "Review this as a journal reviewer" -> reviewer-style critique with publishing-and-peer-review plus scientific-writing or figures as needed.
 - "Help me give feedback to my student on this slide deck" -> mentor-style feedback with scientific-communication and tone/relationship routing.
 

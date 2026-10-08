@@ -13,13 +13,13 @@ Results sections present what was found and how the evidence supports it. They s
 3. Name the comparison, direction, magnitude or qualitative pattern, system, evidence type, sample or replicate context, and figure/table location when available.
 4. Build each result unit as question or prediction, minimal approach, result, detail or robustness, and local conclusion.
 5. Include only methodological detail needed to interpret the result; leave reproducibility detail in Methods.
-6. Report null or negative results when they test the question, but do not make them the main emphasis unless they are the paper's point.
-7. Remove broad implications, speculation, limitations, or future work unless used as brief local signposting.
+6. Give null, negative, conflicting or inconclusive findings the weight they deserve for the question and claim. Retain contrary evidence even when it complicates the preferred story; distinguish an uncertain estimate from evidence of negligible change.
+7. Move broad implications, speculation and future work to Discussion when they interrupt reporting. Retain limitations needed to understand the measurement, comparison or uncertainty, including those that constrain the reported finding.
 8. Check that figure references appear near the relevant claim and in a useful order.
 
 ## Decision rules
 
-- If the paragraph starts with method chronology, revise toward finding-first structure.
+- If the paragraph starts with irrelevant method chronology, orient it to the question or supported finding; retain setup needed to understand a complex or inconclusive comparison.
 - If the result is vague, add direction, comparator, effect size, sample context, or qualitative pattern from the supplied material.
 - If the paragraph interprets why the finding matters, move that reasoning to the discussion or shorten it to a transition.
 - If a figure is cited without explaining what panel supports, add panel-specific orientation.
@@ -62,18 +62,24 @@ Results sections present what was found and how the evidence supports it. They s
 - Hypothesis-linked result: `If [hypothesis], we expected [prediction]. In [comparison], [result direction/pattern] was observed ([evidence/figure]), supporting/refining/not supporting [local claim].`
 - Results edit note: `Move [broad implication] to Discussion; keep [finding + evidence] in Results.`
 - Figure-linked unit: `[Finding]. In Fig. [panel], [visual/evidence type] shows [comparison or pattern]. [Robustness/control/detail] supports [local conclusion].`
-- Null-result unit: `We tested whether [question]. [Comparison] did not show [expected change] under [conditions], indicating that [bounded conclusion] rather than [unsupported stronger claim].`
+- Inconclusive-result unit: `We tested whether [question]. The estimate was [effect] with [uncertainty] under [conditions]. These data leave [scientifically relevant possibilities] unresolved.` State negligible change only when the design and analysis support that inference.
 - Numeric-support prompt: `Add direction, comparator, estimate or magnitude, uncertainty/statistical support, and figure/table reference if supplied.`
 
 ## Examples
+
+Illustrative fixed facts for the imaging pair: marker expression increased after treatment, the largest change occurred in late-stage cells, and Fig. 2B shows that comparison. The rewrite requires these facts in addition to the before sentence.
 
 Before: `We performed imaging and then quantified marker expression.`
 
 After: `Marker expression increased after treatment, with the largest change in the late-stage cells shown in Fig. 2B.`
 
+Illustrative fixed facts for the RNA-seq pair: treated samples have increased cytokine-response gene expression relative to controls, and enrichment identifies interferon-associated programs. These findings are supplied for the example; no numerical estimates are available.
+
 Before: `RNA-seq was performed, and several genes were differentially expressed. Pathway analysis was then conducted.`
 
 After: `Treatment shifted the transcriptional response toward inflammatory signaling. Differential expression analysis identified increased cytokine-response genes in treated samples, and pathway enrichment concentrated these changes in interferon-associated programs.`
+
+Without those fixed facts, retain the available result: `RNA-seq identified differentially expressed genes, which we then examined by pathway analysis.` Flag direction, comparator and enrichment outcome as missing rather than inventing them.
 
 ## When not to apply this
 

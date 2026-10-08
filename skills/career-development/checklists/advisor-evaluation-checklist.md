@@ -27,7 +27,7 @@ Use this for a fast, evidence-based pass on advisor, mentor, or lab choice.
 - Ask recent alumni who no longer depend directly on the advisor.
 - Ask adjacent students or staff who see the lab under pressure.
 - Ask the advisor for concrete examples, then compare those examples with trainee accounts.
-- Treat repeated independent reports as stronger evidence than one enthusiastic or fearful account.
+- Use independent accounts to learn whether a concern recurs, while taking a single concerning account seriously. Further corroboration is not a prerequisite for seeking support or choosing a safer option.
 
 ## Red Flags
 
@@ -39,7 +39,7 @@ Use this for a fast, evidence-based pass on advisor, mentor, or lab choice.
 
 ## Decision Output
 
-Return a table with `criterion`, `evidence`, `risk`, `missing evidence`, and `next action`. When risk is high, prioritize safety planning and neutral support over persuasion.
+Use a table with `criterion`, `evidence`, `risk`, `missing evidence`, and `next action` when a comparison benefits from it. A focused question or explanation can be enough for a narrow request. When risk is high, prioritize safety planning and neutral support over persuasion.
 
 ## Values And Boundaries Screen
 

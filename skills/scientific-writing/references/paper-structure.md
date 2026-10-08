@@ -13,15 +13,15 @@ Paper structure turns a set of analyses into a readable argument. The reader sho
 3. Build the evidence spine: each major result should answer a subquestion or test a prediction that advances the central contribution.
 4. Check whether the current order follows reader logic rather than lab chronology.
 5. Audit headings, topic sentences, figure titles, and panel order for argumentative progress; convert method labels to result-bearing labels when evidence supports that.
-6. Apply context-content-conclusion at the paper, section, and paragraph scale: orient the reader, deliver the new content, then say what should be remembered.
-7. Check paragraph mechanics: topic sentence, support, necessary detail, clincher or transition. Split paragraphs with two jobs.
+6. Use context-content-conclusion where it clarifies the argument: orient the reader, deliver new content and make the inference recoverable. Do not require all three moves explicitly in every paragraph or repeat a conclusion the passage already makes clear.
+7. Check paragraph mechanics: topic sentence, support and necessary detail. Add a closing inference or transition when the reasoning needs one. Split competing lines of reasoning; keep related moves together when they explain one point.
 8. Move details that interrupt the main story into methods, supplement, appendix, or a later explanatory paragraph.
 9. Only after structure is sound, tighten sentence-level style by recovering base clauses, unpacking noun stacks, and making parallel evidence grammatically parallel.
 
 ## Decision rules
 
 - If the paper is a list of analyses, group them under one question and order them by the logic of the claim.
-- If a paragraph contains multiple jobs, split it or move one job to the correct section.
+- If a paragraph switches between unrelated points or misplaced section functions, split it or move the misplaced material; retain connected question, evidence and interpretation when they develop one point.
 - If results are organized by when the work happened, reorder around hypotheses, predictions, questions, or claims.
 - If headings are method labels, consider result-bearing headings unless that would overclaim or violate venue norms.
 - If multiple related findings use different syntax, use parallel form so the reader sees conceptual differences rather than grammatical noise.
@@ -29,7 +29,7 @@ Paper structure turns a set of analyses into a readable argument. The reader sho
 - If sentence-level edits make the prose smoother but leave the reader confused about the claim, prioritize structural revision.
 - If a style rule would cut necessary precision, keep the precision and improve placement, order, or base-clause clarity instead.
 - If the title states a topic rather than a result, test whether a result-stating title is accurate, short, and supported.
-- If a figure or table cannot be summarized as a claim, revise the figure purpose or move it out of the main evidence spine.
+- If a figure or table has no clear role in the argument, revise its purpose or move it to supporting material. Descriptive resources, workflows and summaries can have a main-text role without a finding-stating title.
 - If the paper has a writing-process problem, separate drafting order from final reader order; it is acceptable to draft results first while presenting context first.
 - If coauthor sections feel stitched together, impose a shared outline with one-sentence paragraph jobs before editing prose.
 
@@ -58,7 +58,7 @@ Paper structure turns a set of analyses into a readable argument. The reader sho
 - What does each section do that no other section should do?
 - Can the reader scan headings, topic sentences, and figure titles and recover the story?
 - Which figure or table carries each major claim?
-- Does each paragraph have one job and one takeaway?
+- Does each paragraph develop a coherent point, with connected moves and a recoverable inference where needed?
 - Which details are necessary in the main text, and which belong elsewhere?
 - Where does the draft over-explain, under-explain, or repeat itself?
 - Which sentence edits risk changing uncertainty, comparison, or scope?
@@ -77,6 +77,8 @@ Paper structure turns a set of analyses into a readable argument. The reader sho
 - Coauthor alignment note: `Section job: ... Required claim: ... Required evidence: ... Details to move: ...`
 
 ## Examples
+
+Illustrative fixed facts for the first three pairs: the question is whether treatment changes cell-state composition; single-cell sequencing compares treated and control samples and shows an expanded inflammatory population, which motivates subsequent cytokine-response gene analysis. Independent assays A and B consistently show increased X under condition Y; assay A establishes direction and assay B localizes it to that cell state. These are fictional supplied inputs, not findings recovered from the sparse before sentences.
 
 Before: `We performed assay A. We then performed assay B. Finally, we analyzed the data.`
 
@@ -97,6 +99,14 @@ Before: `The measurement of differences in the expression values between the tre
 After: `We compared expression between treatment and control samples to estimate pathway activation.`
 
 Why it works: the revised sentence restores actor, action, comparison, and purpose before adding modifiers.
+
+When no findings are supplied:
+
+Before: `We performed assay A. We then performed assay B. Finally, we analyzed the data.`
+
+After: `We analyzed data from assays A and B.`
+
+Needed for a claim-bearing revision: the tested question, the role of each assay and the observed finding. Do not infer agreement, direction or cell state from assay chronology.
 
 ## When not to apply this
 

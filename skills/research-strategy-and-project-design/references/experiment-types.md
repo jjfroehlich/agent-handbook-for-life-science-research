@@ -19,6 +19,8 @@ Match the research claim to the evidence type that can test it, while making bli
 ## Decision rules
 
 - Treat each method as partial: every evidence type has a scale, resolution, and blind spot.
+- When it helps expose a missing inference, distinguish perturbation (changing a component), visualization (observing location or behavior), substitution (using a measurable proxy for a component), characterization (measuring properties), reconstitution (assembling components) and simulation (exploring a model). Use this as a coverage aid, not a requirement to perform all six.
+- Check proxy and intervention assumptions: labels can change or fail to reveal the phenomenon, perturbations can induce compensation, and a reconstituted system demonstrates capability under its constructed conditions.
 - Use theory-first design when the project needs a model to specify what should be measured and what would distinguish alternatives.
 - Separate exploratory and confirmatory work. Exploration finds patterns; confirmation tests specific claims.
 - Do not demand every possible method; add methods that reduce the decisive uncertainty.

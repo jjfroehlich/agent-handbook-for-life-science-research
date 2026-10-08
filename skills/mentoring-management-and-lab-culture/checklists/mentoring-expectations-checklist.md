@@ -1,5 +1,7 @@
 # Mentoring Expectations Checklist
 
+Select items relevant to the relationship or requested change. Discuss them; record what is agreed and leave proposals visibly unresolved.
+
 ## Relationship Setup
 
 - Role, career stage, funding or evaluation dependencies.
@@ -24,7 +26,7 @@
 
 - Expected duration, weekly time, and schedule constraints are written down.
 - Training project, safety training, and protocol onboarding are defined.
-- Honest error reporting is expected and safe.
+- Honest error reporting has a clear supportive response and appropriate safety/integrity route; do not promise freedom from every consequence.
 - Supervision cadence and agenda ownership are clear.
 - Credit, pay, course credit, and letter-support expectations are explicit.
 - Sanctions and boundaries are proportionate to role and training stage.

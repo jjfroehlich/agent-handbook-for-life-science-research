@@ -2,6 +2,8 @@
 
 Use before printing, uploading, or presenting a scientific poster.
 
+Apply the checks needed for the requested scope and venue; a title edit does not require a full presenter-preparation package.
+
 ## Venue And Format
 
 - Poster size, orientation, margin, and upload requirements are known.
@@ -34,8 +36,7 @@ Use before printing, uploading, or presenting a scientific poster.
 
 ## Presenter Prep
 
-- The presenter has a 30-second walkthrough.
-- The presenter has a 3-minute walkthrough.
+- When presenting in conversation, prepare a brief orientation and a longer explanation if the setting calls for both.
 - Likely questions have concise answers.
 - The poster supports conversation rather than trying to answer everything alone.
 
@@ -45,5 +46,5 @@ When time is short, prioritize in this order:
 
 1. Rewrite the title or top claim.
 2. Enlarge and clarify the main result.
-3. Cut background and methods text.
+3. Cut secondary background and methods text while retaining information that changes interpretation.
 4. Fix reading order, labels, and distance readability.

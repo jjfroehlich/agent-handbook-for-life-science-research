@@ -18,7 +18,7 @@ Turn preparation into role-specific evidence stories and questions. Good intervi
 ## Decision rules
 
 - If the user lacks a requested skill, answer with candor, adjacent evidence, and a plan to close the gap.
-- If the interviewer asks about conflict or failure, show ownership, learning, and changed behavior.
+- If the interviewer asks about conflict or failure, explain the user's actual role, actions, and outcome. Describe responsibility, learning, or changed practice when supported; do not invent fault, resolution, or a lesson to complete a story.
 - If expectations are unclear, ask concrete questions about first-year priorities and success measures.
 - If preparing for faculty interviews, align seminar, chalk talk, one-on-one meetings, teaching, and department fit.
 - If the user is interviewing the lab or employer as well, include questions that reveal culture, support, and constraints.
@@ -48,7 +48,7 @@ Turn preparation into role-specific evidence stories and questions. Good intervi
 
 ## Output Patterns / Mini-Templates
 
-Evidence story:
+Fictional evidence story with all actions and outcomes supplied:
 
 | Prompt | Problem | Action | Result | Learning | Role relevance |
 |---|---|---|---|---|---|

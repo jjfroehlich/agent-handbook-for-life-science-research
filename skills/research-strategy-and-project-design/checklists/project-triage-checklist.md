@@ -1,6 +1,6 @@
 # Project Triage Checklist
 
-Use this checklist for a fast project decision. Keep it practical: the goal is to expose the next decision, not to make a comprehensive plan.
+Use the parts relevant to the decision; answer from available context rather than turning every item into a question for the user.
 
 ## Candidate Project
 
@@ -21,9 +21,10 @@ Use this checklist for a fast project decision. Keep it practical: the goal is t
 
 - This project is worth continuing only if: `[condition]`.
 - The most likely failure mode is: `[failure mode]`.
-- The cheapest credible check is: `[test/search/pilot/control]`.
-- Continue if: `[threshold]`.
-- Stop or pivot if: `[threshold]`.
+- The next credible check is: `[test/search/pilot/control, or a larger commitment if no cheap check is informative]`.
+- Interpretability depends on: `[assay/manipulation checks and precision needed to distinguish predictions]`.
+- Continue, repair, pause or redirect if: `[evidence or resource condition]`.
+- What remains unanswered if the project is paused?
 
 ## Evidence-Type Audit
 

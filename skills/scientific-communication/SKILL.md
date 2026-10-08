@@ -1,17 +1,17 @@
 ---
 name: scientific-communication
-description: "Use when the user needs to design, review, adapt, or rehearse scientific communication for a live, spoken, visual, or audience-facing setting: talks, slide decks, posters as presentation artifacts, chalk talks, elevator pitches, public explanations, research stories, delivery plans, timing, or Q&A preparation. Trigger from drafts, outlines, venue/audience constraints, slide or poster plans, scripts, or rehearsal concerns. Prefer writing for manuscript prose, visualization for chart/figure design decisions, and publishing for submission or peer-review logistics."
+description: "Shape scientific talks, posters, pitches, public explanations, and delivery. Exclude manuscript editing, figure-only design, and plotting-code fixes."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Scientific Communication
 
 ## Purpose
 
-Help agents turn scientific content into audience-aware live or visual communication: talks that have one argument, slides and posters that can be read in the room, pitches that fit the listener, and Q&A plans that preserve credibility.
+Help agents shape scientific content for its audience and medium: a connected talk, readable slides or poster, a listener-specific opening, or an evidence-based answer to a question. A research briefing can cover several decisions without forcing them into one discovery story.
 
 ## Use this skill when
 
@@ -29,20 +29,22 @@ Help agents turn scientific content into audience-aware live or visual communica
 
 ## Core workflow
 
-1. Identify the medium, audience, stakes, time/space limit, and the one message the audience should retain before building slides.
+1. For a whole talk, poster, or pitch, establish the medium, audience, time/space limit, and main message. For a local change, use the established context and revisit only decisions that affect it.
 2. Diagnose the main failure mode: unclear premise, overloaded detail, weak audience bridge, unreadable visuals, poor format fit, or unprepared delivery/Q&A.
 3. Route to the narrowest useful playbook. Open only the needed reference unless the artifact spans formats.
-4. Make cuts before polish. Preserve what supports audience belief, orientation, or action; move secondary details to backup, handout, speaker notes, or conversation.
+4. When structure or density needs work, make cuts before polish. Retain the decisive comparisons, controls and qualifications needed for the stated claim; move secondary details to backup, notes, or conversation where useful.
 5. Produce a concrete artifact: revised outline, slide-by-slide plan, poster redesign, pitch script, chalk-talk board plan, Q&A prep list, or prioritized checklist.
 6. State assumptions when audience, timing, venue, or visual access is missing. Ask at most the clarifying questions needed to avoid a misleading recommendation.
 
 ## Output formats
 
-- Talk outline: `audience -> premise -> hook or governing message -> 2-3 main moves -> decisive evidence -> close -> backup/Q&A`.
+Select only the format that fits the requested deliverable; these are patterns, not mandatory response sections.
+
+- Talk outline: `audience -> question or purpose -> connected questions and evidence -> conclusion or open decisions -> backup/Q&A`.
 - Slide review: `top failure -> cuts -> slide order -> per-slide job -> visual fixes -> rehearsal check`.
-- Poster redesign: `main claim -> layout hierarchy -> text cuts -> figure treatment -> standing-distance checks -> 30-second walkthrough`.
-- Elevator pitch: `listener -> opening hook -> problem -> approach -> payoff -> ask/next step`.
-- Chalk talk plan: `opening board map -> research program modules -> interruption plan -> feasibility/vision evidence -> closing ask`.
+- Poster redesign: `main claim -> layout hierarchy -> text cuts -> figure treatment -> standing-distance checks -> brief walkthrough when useful`.
+- Elevator pitch: `listener -> problem -> approach -> bounded significance -> invitation when useful`.
+- Chalk talk plan: `opening board map -> research program modules -> interruption plan -> feasibility evidence -> conclusion and open questions`.
 - Delivery/Q&A prep: `likely questions -> answer moves -> bridge phrases -> rehearsal plan -> failure recovery`.
 
 ## Reference routing
@@ -54,13 +56,16 @@ Help agents turn scientific content into audience-aware live or visual communica
 - `references/elevator-pitches.md`: Open for short spoken summaries, networking pitches, lay explanations, or timed project introductions.
 - `references/storytelling.md`: Open when the user needs narrative framing, audience memory, tension, explanation, or a stronger through-line.
 - `references/delivery-and-qa.md`: Open for rehearsal, vocal/physical delivery, question handling, nerves, timing, or audience interaction.
+- Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task. Inspect the actual image or rendered HTML when judging visual appearance.
 - `checklists/talk-review.md`: Use for a fast final review of a talk or deck.
 - `checklists/poster-review.md`: Use for a final poster review before print, upload, or presentation.
 - `examples/communication-feedback-examples.md`: Open when the user needs a model output pattern.
 
 ## Quick checklist
 
-- What is the one sentence the audience should remember?
+Apply only the checks relevant to the requested scope and artifact. Inspect supplied context first; treat `identify` or `clarify` as analysis when the answer is already available, and ask only for missing information that could change the result.
+
+- What should this audience understand or decide? Does a central message fit the format, or does the task require several clearly separated questions?
 - Who is the audience, and what do they already believe or need?
 - What can be cut, moved to backup, or left for conversation?
 - Can the visual artifact be understood at the expected distance or screen size?
@@ -71,7 +76,7 @@ Help agents turn scientific content into audience-aware live or visual communica
 
 - Treating a talk like a paper, a poster like a manuscript wall, or a chalk talk like a polished seminar.
 - Fixing wording before deciding the message, audience bridge, and cuts.
-- Letting methods, caveats, or secondary data compete with the main claim.
+- Letting secondary data obscure the main claim, or removing a method/control/caveat that changes its meaning.
 - Copying paper figures into talks or posters without redesigning labels, scale, and visual order.
 - Asking too many clarifying questions when a first-pass plan with explicit assumptions would help.
 - Starting slide production before deciding audience, message, and explanation path.
@@ -81,4 +86,3 @@ Help agents turn scientific content into audience-aware live or visual communica
 - Advice must be medium-specific and audience-specific.
 - The answer must include concrete cuts, ordering, visual hierarchy, rehearsal moves, or Q&A moves.
 - The agent must preserve scientific uncertainty while still making the communication sharper.
-- Public-facing outputs must not expose source provenance, bibliographies, raw URLs, or private-source details.

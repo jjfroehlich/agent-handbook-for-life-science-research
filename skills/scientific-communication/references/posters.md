@@ -14,14 +14,14 @@ Design the poster as a scanning and conversation medium. It must attract the rig
 4. Build a reading path with a small number of blocks, clear headings, and visible grouping.
 5. Cut background, methods, and secondary results to what viewers need for interpretation.
 6. Redraw paper figures for poster viewing with larger labels and simpler legends.
-7. Prepare a 30-second version, a 3-minute walkthrough, and likely follow-up answers.
+7. When presenter preparation is part of the task, prepare a brief orientation and a longer walkthrough if needed, plus likely follow-up answers. Thirty seconds and three minutes are possible rehearsal targets, not required versions.
 8. Check final readability at standing distance or the digital platform's expected zoom level.
 
 ## Decision rules
 
 - If the poster has many equal panels, enlarge the decisive result and demote supporting panels.
 - If the title states only the topic, rewrite it to signal the main finding or question.
-- If methods dominate, compress them to the minimum needed for trust.
+- If methods dominate, compress secondary procedures while retaining controls and definitions needed to interpret the claim.
 - If viewers need a verbal tour to find the conclusion, strengthen title, hierarchy, and headings.
 - If the poster is digital, check navigation, aspect ratio, animation, and what remains visible between panels.
 - If the poster must also serve as a handout, create a separate handout or QR-linked supplement rather than crowding the poster.
@@ -68,8 +68,8 @@ Final checks:
 Poster walkthrough:
 
 ```text
-30 seconds:
-3 minutes:
+Brief orientation, if needed:
+Longer walkthrough, if needed:
 If asked for methods:
 If asked for limitations:
 If asked for next steps:
@@ -78,7 +78,7 @@ If asked for next steps:
 ## Examples
 
 - For a dense methods poster, move protocol details to a small "how" block or QR supplement and make the main result central.
-- For six equal panels, choose the panel that proves the conclusion, enlarge it, and turn the others into support or backup.
+- For six equal panels, emphasize the decisive comparison and preserve any control that changes its interpretation; demote secondary material.
 - For a digital poster, keep title, motivation, and key finding anchored while optional detail changes.
 
 ## When not to apply this

@@ -11,7 +11,7 @@ Choose the right document genre and make the user's evidence legible to the inte
 1. Identify target role, sector, country or local norm, reader, page limit, and whether the artifact is a CV or resume.
 2. Decide what the reader needs to learn first: research record, technical fit, teaching, leadership, product relevance, communication, or operations.
 3. Reorder sections so the strongest relevant evidence appears early.
-4. Rewrite bullets to show action, individual contribution, method or scope, result, and relevance.
+4. Rewrite bullets around the supplied action, individual contribution, method or scope, and relevant result. If a result is unknown, retain truthful scope or output; do not invent impact to complete a pattern.
 5. Remove or compress details that do not serve the target reader.
 6. Preserve a master CV separately from tailored exports.
 
@@ -52,7 +52,7 @@ Bullet rewrite pattern:
 
 > Verb + individual contribution + method/scope + result + relevance.
 
-Example transformation:
+Closed fictional transformation: the candidate analyzed single-cell RNA-seq datasets, identified tumor-cell states, and produced reproducible workflows used by a cross-functional cancer biology team. Those facts are supplied separately from the vague starting bullet; they cannot be inferred from it.
 
 | Academic version | Targeted resume version |
 |---|---|

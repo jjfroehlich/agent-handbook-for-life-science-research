@@ -1,10 +1,10 @@
 ---
 name: scientific-feedback
-description: 'Use only when the current deliverable is holistic, prioritized, multi-lens critique of audience-facing scientific communication or governance in a manuscript, talk, poster, grant, study proposal, research pitch, collaborator update, or lab-policy document. Reassess every turn; do not invoke or retain this skill because an earlier turn involved scientific feedback. Exclude code or data-flow review, missing-value or zero handling, requirements-to-code traceability, computational workflows, pipelines, preprocessing, statistical or model configurations, implementation, reproducibility, validation, run outputs, and technical documentation—even when scientific analyses or planning documents are involved. Results or output directories qualify only when the user explicitly wants them converted into or assessed as an audience-facing scientific argument or artifact across multiple lenses. For mixed documents-and-code tasks, default to general technical review unless audience readiness is primary.'
+description: "Give integrated critique of audience-facing scientific artifacts or lab policies using multiple review lenses. Exclude technical/code review and narrow edits."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Scientific Feedback
@@ -31,16 +31,16 @@ Give integrated, prioritized feedback on audience-facing scientific communicatio
 
 1. Reassess the current user request independently on every turn before loading references or retaining this workflow. Verify both gates: the primary deliverable is audience-facing scientific communication or governance, and the requested critique needs at least two lenses. Prior feedback work does not make later code, data-flow, run-output, or implementation review in scope.
 2. Identify the artifact, audience, destination, deadline, relationship, and requested review depth.
-3. State the inferred goal, feedback mode, and selected domain lenses before critiquing.
+3. Choose the review depth and relevant lenses from the request. Briefly explain scope or lens choice when it helps the user interpret the critique; do not require a separate declaration for an already clear task.
 4. Ask only for missing context that would change priorities; otherwise proceed with explicit assumptions.
 5. Apply the narrowest useful lenses, then integrate findings into one revision sequence.
-6. Separate strengths, blocking issues, major revisions, secondary improvements, and optional polish.
+6. Prioritize consequential findings and preserve useful strengths. Distinguish blockers from lesser improvements when present; do not manufacture issues or require every severity category.
 7. Adapt tone to the relationship: reviewer, mentor, collaborator, supervisor, committee, or self-revision.
 8. End with the next action: revise, cut, restructure, verify, collect missing evidence, rehearse, submit, or route to a specialist domain.
 
 ## Routing / specialist lenses
 
-Use portable routing language. If the environment supports loading another skill, consult the named skill; otherwise apply the summarized lens.
+Use portable routing language. Consult a named skill only if it is available and its detailed guidance would change this review; otherwise apply the summarized lens. Read only the relevant references for the selected lenses. Do not load all domain skills or follow every companion-book route automatically.
 
 - Apply the `scientific-writing` lens for manuscript prose, section function, argument structure, claim calibration, figure legends, and revision-ready wording.
 - Apply the `scientific-communication` lens for talks, slides, posters, chalk talks, pitches, story, audience fit, delivery, and Q&A.
@@ -61,7 +61,9 @@ Ask at most three, and only when the answer changes feedback priorities:
 
 ## Output formats
 
-- `Quick scan`: goal, selected lenses, top 3 priorities, strengths, risks, and next action.
+Select only the format that fits the requested deliverable; these are patterns, not mandatory response sections.
+
+- `Quick scan`: the few findings that matter most and a useful next action; honor a user-requested count without requiring three problems.
 - `Integrated feedback report`: scope, strengths, blocking issues, major revisions, lens-specific notes, revision sequence, and missing context.
 - `Reviewer-style critique`: summary assessment, major concerns, minor concerns, overclaim risks, and action priorities.
 - `Mentor/collaborator feedback`: what works, highest-leverage changes, suggested wording, questions to discuss, and supportive next step.
@@ -73,11 +75,14 @@ Ask at most three, and only when the answer changes feedback priorities:
 - Open `references/review-modes.md` when choosing quick scan, focused review, integrated review, reviewer-style, mentor-style, or line-edit mode.
 - Open `references/feedback-principles.md` when feedback needs stronger prioritization, specificity, uncertainty handling, or non-overwhelming structure.
 - Open `references/tone-and-relationship.md` when feedback must fit the role relationship or power dynamic.
+- Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task.
 - Use `checklists/feedback-report-checklist.md` before returning any integrated feedback report.
 - Use artifact-specific checklists for manuscripts, slides, and posters when those are the primary artifact.
-- Use examples when the user asks for a model report shape.
+- Use examples when a completed critique would clarify evidence limits, priority or tone; their fictional facts never establish facts about the user's artifact.
 
 ## Quick checklist
+
+Apply only the checks relevant to the requested scope and artifact. Inspect supplied context first; treat `identify` or `clarify` as analysis when the answer is already available, and ask only for missing information that could change the result.
 
 - Is the artifact goal and destination explicit?
 - Did you choose only the lenses that matter for this artifact?
@@ -102,7 +107,6 @@ Ask at most three, and only when the answer changes feedback priorities:
 - The report must teach the user what to fix first and why.
 - Feedback must be artifact-aware, relationship-aware, and scoped to the requested mode.
 - Domain lenses must be integrated into one coherent revision path.
-- User-facing outputs must not expose workbench provenance, source lists, raw URLs, or private details.
 
 ## Reference files
 

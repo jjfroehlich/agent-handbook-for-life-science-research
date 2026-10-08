@@ -4,7 +4,7 @@ Use this for scientific talks, slide decks, seminars, conference presentations, 
 
 ## Checks
 
-- Audience, time limit, venue, and one retained message are explicit.
+- Audience, time limit, venue, and the main message or connected decisions are clear enough for the requested review.
 - The deck has a clear opening, route through evidence, and close.
 - Each slide has one job.
 - Dense manuscript figures are adapted for projected viewing.
@@ -20,4 +20,4 @@ Use this for scientific talks, slide decks, seminars, conference presentations, 
 
 ## Output reminder
 
-Return slide feedback as message, structure, cuts, per-slide job issues, visual hierarchy fixes, rehearsal/Q&A notes, and next revision step.
+Select the message, structure, evidence or visual findings that matter for this pass. Include rehearsal/Q&A only when useful; do not require a full report or infer visual legibility from slide text alone.

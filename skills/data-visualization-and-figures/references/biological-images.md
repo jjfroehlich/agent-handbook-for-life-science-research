@@ -36,7 +36,8 @@ Make image evidence interpretable by exposing scale, identity, channel meaning, 
 - Multi-channel fluorescence: use single-channel panels plus a merged panel when readers must judge channel-specific signal.
 - Representative images: state the sampling or replicate context when the image supports a general claim.
 - Photographs: include orientation, specimen identity, and scale/object reference where they affect interpretation.
-- Adjusted images: disclose relevant processing and keep treatment comparable across panels.
+- Intensity comparisons: use shared display ranges and processing for corresponding channels, with acquisition and measurements that make intensities comparable. Independently adjusted ranges can reveal structure, but displayed brightness then cannot establish an intensity difference; disclose those adjustments.
+- Nonlinear or consequential processing: identify it, retain the analysis inputs and provide a linear display when needed to interpret the adjustment. Do not measure from an assembled presentation copy.
 
 ## Anti-patterns
 

@@ -29,7 +29,7 @@ Next production check:
 
 Weak: "The poster has too much text."
 
-Strong: "The methods column is taking the visual priority that should belong to the main result. Cut methods to three bullets, enlarge the result figure, and make the title state the finding."
+Strong when confirmed by the inspected poster: "The methods column dominates the main result. Compress secondary methods and enlarge the decisive comparison, retaining its control and qualification; make the title communicate the supported finding or question."
 
 ## Bad assistant behavior
 

@@ -9,7 +9,7 @@ Turn publication anxiety into a concrete process decision. The agent should chec
 ## Default workflow
 
 1. Identify the manuscript stage: first submission, presubmission inquiry, revision, transfer, appeal, or new submission after rejection.
-2. Check journal fit: scope, article type, audience, novelty threshold, method/data expectations, and practical requirements.
+2. Check journal fit: scope, article type, audience, applicable novelty or rigor criteria, method/data expectations, and practical requirements. For an unfamiliar venue, verify publisher identity, review practices, charges, rights, indexing and preservation claims; no badge or metric settles suitability alone.
 3. Check package completeness: manuscript files, figures, supplemental material, declarations, author information, data/code statements, reviewer suggestions, and any journal-specific forms.
 4. Draft the cover letter around the central claim, evidence strength, audience fit, article type, and required declarations.
 5. If suggesting reviewers, require a short expertise rationale and screen for conflicts; do not present suggestions as a way to steer the decision.
@@ -21,10 +21,12 @@ Turn publication anxiety into a concrete process decision. The agent should chec
 - If journal scope or article type is a poor match, choose a better-fitting venue instead of relying on cover-letter persuasion.
 - If the user's question is whether the work fits, use a focused presubmission inquiry when the journal welcomes it.
 - If the paper was rejected, classify the reason before acting: scope, novelty, evidence, presentation, process error, factual misunderstanding, or reviewer overreach.
-- If the rejection contains valid reviewer concerns, revise the manuscript before sending it elsewhere unless timing makes that impossible.
-- If appealing, argue only a clear factual, process, or interpretation error and keep the appeal short.
+- If the rejection identifies a valid flaw affecting a claim, correct it or narrow/remove the claim before sending the manuscript elsewhere. A deadline does not make the flaw acceptable.
+- If appealing, check the journal's permitted grounds and route, identify the decision-relevant issue and explain how resolving it could change the decision. General disappointment is insufficient; acceptable grounds vary by journal.
 - If submitting a previously reviewed version elsewhere, do not hide changes that matter to the new evaluation; use the cover letter or response package when disclosure is appropriate.
-- If a prior rejection is relevant, do not rely on cosmetic title or abstract changes; make material revisions before treating the manuscript as a new submission.
+- If returning to the rejecting journal as a new submission, check whether that route is permitted and explain substantive changes and relevant history. A sound manuscript rejected only for venue fit may move elsewhere without new experiments or artificial material revisions; update destination-specific files and required disclosures.
+- If considering transfer, choose the destination voluntarily and check its independent criteria, costs and terms. Inspect which files, reviews, correspondence and identities move; replace obsolete cover-letter material. Distinguish generic transfer suggestions from specific editorial interest and from acceptance. Explain completed and proposed responses to criticism separately. Before substantial work useful only for the receiving venue, clarify its interest; correct known flaws regardless of destination.
+- Check whether an appeal keeps the manuscript under consideration before transferring or submitting elsewhere; follow the applicable exclusivity instructions.
 
 ## Variants and edge cases
 

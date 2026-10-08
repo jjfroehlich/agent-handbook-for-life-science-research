@@ -11,7 +11,7 @@ Make the proposal easy to understand as one funding argument: a problem worth so
 ## Default workflow
 
 1. Write the objective in one sentence: "We will [test/build/define] [object] to [advance/solve] [need]."
-2. Write the active premise: the central claim, mechanism, resource, or intervention the proposal will test or make possible.
+2. State the premise or development objective. Distinguish the hypothesis being tested from established evidence; a resource-development proposal need not assert a mechanism.
 3. Put the objective and premise before extended background.
 4. Build the section order around reviewer logic: problem, significance, gap or enabling advance, approach rationale, proposed work, interpretable outcomes, risks, and long-term direction.
 5. Cut background that proves reading breadth but does not help a reviewer score importance, novelty, feasibility, or fit.
@@ -19,7 +19,7 @@ Make the proposal easy to understand as one funding argument: a problem worth so
 ## Decision rules
 
 - If the objective appears only after background, move it to the opening and make it concise.
-- If the proposal reads as a list of activities, rewrite around one active premise and the decisions each aim will enable.
+- If the proposal reads as a list of activities, connect them to the question, resource, or capability they address and the decisions they enable.
 - If the draft uses a novel structure, check whether the call expects a recognizable scoring structure before preserving it.
 - If logic is hard to follow, fix the argument before adding technical detail.
 

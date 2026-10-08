@@ -1,59 +1,23 @@
-# Paper Reading Examples
+# Paper-reading examples
 
-## Presentation Tomorrow
+## One panel, one inference
 
-Goal: explain the paper clearly and answer questions.
+Fictional input: “The caption reports lower background-corrected whole-well fluorescence with inhibitor Q than vehicle at six hours. Does this show target-specific suppression? I only have this panel and caption.”
 
-Output:
+Completed answer:
 
-| Step | What to do |
-|---|---|
-| Goal | High-depth evidence read |
-| Article type | Identify whether it is primary research, review, method, or resource |
-| Core extraction | Answer the six questions |
-| Figures | Unpack every major figure or table |
-| Appraisal | Record limitations, alternatives, and generalizability |
-| Discussion | Prepare two questions and one "what this changes" point |
+> The panel supports lower total reporter signal with Q at six hours. It does not by itself establish target-specific suppression: whole-well signal depends on the number of contributing cells as well as their signal. Viable-cell number, per-cell measurements and specificity controls remain unassessed in the supplied material. Those checks could distinguish a per-cell reporter response from cell-number or other effects of Q.
 
-## New-Field Survey
+The answer uses the available measurement definition and answers the mechanism question directly. It does not invent missing controls or require a full-paper matrix.
 
-Goal: orient quickly without over-reading every detail.
+Changed input: an additional panel reports fewer viable cells with Q.
 
-Output:
+> Fewer viable cells could contribute to the lower whole-well signal. This added finding still does not show whether signal per viable cell changed or whether cell loss explains the entire signal reduction. Target specificity remains unresolved.
 
-| Step | What to do |
-|---|---|
-| Goal | Field orientation |
-| First pass | Read title, abstract, introduction, figures, conclusion, and references |
-| Extraction | Capture problem, vocabulary, major positions, method families, and gaps |
-| Follow-up | Pick a small number of papers for deeper reading |
+## Abstract-only presentation preparation
 
-## Dense Figure Before Note Writing
+Fictional input: “Tomorrow I must discuss a paper whose abstract claims Q acts through target T. Full text is inaccessible; help me prepare an evidence note.”
 
-Goal: avoid copying the author's take-home before understanding the evidence.
+> **Reading status:** abstract only; figures, methods and supplement unavailable. **Author claim:** Q acts through T. **Current assessment:** the abstract describes that interpretation, but I cannot assess the control or comparison supporting target specificity. **Discussion question:** what evidence distinguishes T-dependent activity from other effects of Q? If full text becomes available, inspect those experiments before presenting the mechanism as established.
 
-Output:
-
-| Field | Note |
-|---|---|
-| Question answered | |
-| Data shown | |
-| Variables/groups | |
-| Statistics/uncertainty | |
-| Method dependency | |
-| Evidence take-home | |
-| Remaining caveat | |
-
-## Critical Journal Club
-
-Goal: critique substantively and fairly.
-
-Output:
-
-| Appraisal area | Prompt |
-|---|---|
-| Alternative explanation | What else could explain the result? |
-| Bias/confounder | What design issue could affect interpretation? |
-| Generalizability | Where might this not apply? |
-| Minor issue | Is this wording/citation irritation or a real evidence problem? |
-| Next step | What experiment, analysis, or source would clarify the claim? |
+A deadline changes the reading priority, not the evidence status. The note supports an attributed discussion of the claim while keeping the appraisal unfinished.

@@ -18,7 +18,7 @@ Route the artifact to the fewest domain lenses that explain the main feedback ri
 2. Do not activate or retain this orchestrator for code, scripts, notebooks, data-flow or missing-value diagnosis, analysis outputs, computational or statistical workflows, data pipelines, model choices, technical plans or specifications, requirements documents, requirements-to-code traceability, run diagnostics, or technical documentation. The filename, prior task context, or presence of a planning document does not change this rule.
 3. For an in-scope request, identify the artifact and destination: journal, funder, talk, committee, lab meeting, collaborator, mentor, trainee, or public audience.
 4. Select primary and secondary lenses; do not apply every lens just because it is available.
-5. State the chosen lenses in the response before detailed critique.
+5. Explain the selected scope or lenses when useful; an already clear request does not need a separate routing preamble.
 6. Produce one integrated priority list rather than separate disconnected reviews.
 
 ## Decision rules
@@ -35,9 +35,9 @@ Route the artifact to the fewest domain lenses that explain the main feedback ri
 
 ## Variants and edge cases
 
-- A manuscript with figures needs writing plus figure lenses, but publication-process advice only if submission or review is part of the ask.
-- A grant with aims, figures, and feasibility needs grant-writing as primary, with writing, figures, and research-strategy as secondary lenses.
-- A poster needs scientific-communication as primary; use data visualization only for figure readability or evidence display.
+- A manuscript with figures can need writing plus figure lenses when the requested critique spans both. A local legend rewrite or figure-only check can remain single-domain. Add publication-process advice only if submission or review is part of the ask.
+- A grant can use grant-writing as primary. Add a secondary lens only when the requested judgment genuinely crosses that boundary: figures for evidence display, or strategy for a question-level research choice. The presence of aims, figures or feasibility alone does not require every lens.
+- A poster can use scientific-communication as primary. Add visualization when the requested review also requires evidence-display judgment; a wording or communication-only task can remain single-domain.
 - A trainee feedback script about a manuscript may need mentoring-management for the relationship and scientific-writing for the artifact.
 - A Markdown plan can be a scientific study plan or a software implementation plan; route from the requested judgment and content, not the extension or filename.
 - Planning documents mapped directly onto an R, Python, or other script are technical review even when the documents specify scientific-analysis requirements.
@@ -71,8 +71,8 @@ Priority order: <blocking issue -> major revision -> secondary polish>.
 ## Examples
 
 - "Review my results section and Figure 3" -> scientific-writing plus data-visualization-and-figures.
-- "Is my specific aims page compelling?" -> grant-writing plus scientific-writing.
-- "Critique this poster before the conference" -> scientific-communication plus data-visualization-and-figures.
+- "Is my specific aims page compelling?" -> grant-writing alone unless the requested critique also needs a distinct secondary lens; do not presume this orchestrator applies.
+- "Critique this poster before the conference" -> scientific-communication; add data-visualization-and-figures and this orchestrator only when evidence-display judgment is also needed.
 - "Review whether this study plan connects the biological question, evidence, and decisive experiment" -> research-strategy-and-project-design plus scientific-writing when presentation also matters.
 - "Review `plan.md` for pipeline stages, code organization, and model choices" -> general technical review, not this orchestrator.
 - "Map these two scientific-analysis planning documents onto the R script and identify implementation gaps" -> general technical or code review, not this orchestrator.

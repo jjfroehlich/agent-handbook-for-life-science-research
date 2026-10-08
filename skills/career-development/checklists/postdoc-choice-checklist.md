@@ -6,7 +6,7 @@ Use this when the user is comparing postdoc labs, PI conversations, or offers.
 
 - What the postdoc must accomplish: new field, new method, publications, independence, funding, faculty readiness, industry bridge, or geographic constraint.
 - What evidence the user needs for the next role.
-- What would make the postdoc a success after one, two, and three years.
+- What progress would count as success at review points appropriate to the contract, project, and next career step.
 
 ## Lab and Project Evidence
 
@@ -36,4 +36,4 @@ Use this when the user is comparing postdoc labs, PI conversations, or offers.
 
 ## Output
 
-Return a comparison table with `lab`, `career purpose`, `ownership`, `support evidence`, `resources`, `risk flags`, and `next action`.
+For several options, a comparison table can use `lab`, `career purpose`, `ownership`, `support evidence`, `resources`, `risk flags`, and `next action`. For a focused offer question, answer that question using the relevant evidence.

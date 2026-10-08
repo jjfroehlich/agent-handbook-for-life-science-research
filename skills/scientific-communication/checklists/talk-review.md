@@ -5,18 +5,19 @@ Use for a final or fast review of a scientific talk, seminar, slide deck, pitch 
 ## Message And Audience
 
 - The intended audience and venue are explicit.
-- The talk has one main message, not only a topic.
+- The talk has a clear purpose: a main message or distinct decision questions, rather than only a topic.
 - The opening gives the audience a reason to care.
 - Terms and background match the audience's starting knowledge.
 - The close states what changed, why it matters, or what comes next.
 
 ## Structure
 
-- The talk has two or three main moves rather than a paper-like section dump.
+- The sequence fits the task: connected findings, decision questions or a small set of audience-relevant moves without an arbitrary result quota.
 - Each section answers a clear audience question.
 - Transitions explain why the next section follows.
 - Methods appear only where they support credibility or interpretation.
 - Backup material is separated from the main path.
+- Decisive controls, comparisons and qualifications remain with the claim they support.
 
 ## Slides
 
@@ -38,15 +39,15 @@ Use for a final or fast review of a scientific talk, seminar, slide deck, pitch 
 
 When time is short, prioritize in this order:
 
-1. Clarify the one-sentence message.
-2. Cut slides or details that do not support that message.
+1. Clarify the message or decision questions.
+2. Cut details that do not support those questions, preserving essential evidence and qualifications.
 3. Fix unreadable or overloaded slides.
 4. Rehearse the opening, transitions, close, and top questions.
 
 ## Bad Talk Failure Check
 
 - Did slide building start before audience, message, and explanation path were clear?
-- Is the goal to explain one idea rather than impress?
+- Is the goal to explain the intended questions rather than impress?
 - Can each slide justify its cognitive cost?
 - Are jargon, side stories, and decorative animations serving the concept?
 - Does rehearsal finish within time without rushing?

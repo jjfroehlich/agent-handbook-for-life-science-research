@@ -1,10 +1,10 @@
 ---
 name: mentoring-management-and-lab-culture
-description: "Use this skill when the user needs research-group mentoring, lab-management, or lab-culture help that turns expectations into concrete systems, documents, routines, scripts, or escalation paths. Trigger on lab handbooks, onboarding, mentoring compacts, IDP meetings, feedback scripts, authorship or credit norms, conflict diagnosis, performance concerns, PI/lab leadership systems, power dynamics, belonging, work-life boundaries, and culture repair in scientific labs. Do not trigger for personal career decisions, research-project strategy, manuscript/grant work, or legal/clinical determinations."
+description: "Improve research-group mentoring, lab policies, feedback, and management using mentoring compacts, handbook sections, onboarding plans, feedback messages, or accounts of group practices. Exclude personal job choices and clinical or legal determinations."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Mentoring Management And Lab Culture
@@ -29,12 +29,15 @@ Help research leaders, mentors, and lab members turn values into explicit routin
 ## Core workflow
 
 1. Classify the problem: mentoring, lab manual, lab leadership, healthy culture, IDP planning, or conflict and feedback.
-2. Identify roles, power asymmetries, written expectations, missing systems, and escalation constraints.
-3. Diagnose structure before blame: ask what policy, role, resource, incentive, meeting norm, authorship rule, feedback route, or power dynamic is shaping the problem.
+2. For conflict or management diagnosis, inspect roles, power asymmetries, expectations, and constraints. For a local policy or message edit, use the supplied context and resolve only issues that affect that edit.
+3. When diagnosis is needed, consider policies, roles, resources, incentives, and power dynamics before attributing individual fault.
 4. Choose the smallest concrete output: a script, checklist, handbook section, meeting agenda, role rubric, support plan, or escalation map.
-5. Make expectations observable: who does what, by when, how follow-up happens, what exceptions are allowed, and when escalation is needed.
+5. For a work agreement or change plan, identify responsibilities, available support and a relevant review point. Include exceptions or support routes where the work or risk requires them. A narrow message edit may need only revised wording.
+6. Keep observations separate from interpretations. Label offered support, proposed arrangements, agreed actions and completed outcomes accurately. Do not infer motivation, health conditions, consent or institutional authority from silence or a written document.
 
 ## Output formats
+
+Select only the format that fits the requested deliverable; these are patterns, not mandatory response sections.
 
 - Lab handbook section or outline.
 - Mentoring expectations compact.
@@ -52,12 +55,15 @@ Help research leaders, mentors, and lab members turn values into explicit routin
 - Open `references/healthy-lab-culture.md` for belonging, inclusive participation, work-life boundaries, mental-health-sensitive support, credit, and status risks.
 - Open `references/individual-development-plans.md` for IDPs, yearly planning, goal translation, feedback, and career-development routines.
 - Open `references/conflict-and-feedback.md` for unclear expectations, structural conflict diagnosis, performance concerns, criticism norms, failed experiments, and support scripts.
+- Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task.
 
 ## Quick checklist
 
-- Was the expectation written down before the problem occurred?
+Apply only the checks relevant to the requested scope and artifact. Inspect supplied context first; treat `identify` or `clarify` as analysis when the answer is already available, and ask only for missing information that could change the result.
+
+- How was the expectation communicated, and what indicates it was understood? A written record helps but does not establish understanding or agreement.
 - Is this an individual behavior issue, a role-design issue, a resource constraint, or a power-asymmetry issue?
-- Does the output include observable expectations, support, follow-up, and escalation routes?
+- Does the requested plan identify relevant expectations, feasible support and follow-up? Are additional support routes needed given the issue and power relationship?
 - Are private or sensitive details excluded from public-facing text?
 - For distress, health, harassment, retaliation, or legal risk, are qualified institutional routes named instead of overpromising?
 
@@ -67,11 +73,10 @@ Help research leaders, mentors, and lab members turn values into explicit routin
 - Giving hard feedback without owning unclear expectations or offering concrete support.
 - Treating mentoring as a single PI relationship when co-mentoring or institutional support is needed.
 - Treating long hours, prestige, or visibility as evidence of contribution.
-- Including source names, private provenance, or bibliography-like material in exportable skill files.
+- Requiring direct confrontation, joint mediation, personal disclosure or an entire management plan for every request.
 
 ## Quality bar
 
 - Advice must be power-aware, operational, and specific to research groups.
-- Public-facing outputs must be sanitized and must not expose private provenance.
 - Mental-health content must remain non-clinical and route to qualified support.
 - Low-confidence ideas must appear only as weak support, not standalone rules.

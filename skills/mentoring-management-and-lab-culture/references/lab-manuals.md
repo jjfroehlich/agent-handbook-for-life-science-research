@@ -50,7 +50,7 @@ A lab manual is a living operating system for the lab. It should answer the ques
 
 ## Output patterns / mini-templates
 
-Handbook section pattern:
+Handbook section pattern: use the fields needed for the specific policy; do not add every heading to a short edit.
 
 - Purpose.
 - Default expectation.
@@ -78,6 +78,8 @@ AI guideline pattern:
 ## When not to apply this
 
 Do not use this playbook to invent institutional policy. If the handbook touches employment, safety, harassment, discrimination, privacy, clinical care, or legal obligations, adapt only within the institution's actual rules.
+
+Check current applicable documents for variable requirements and label unconfirmed authority. Discuss a proposed section before calling it an adopted policy. A record that a member received a manual does not establish agreement to every term or waive institutional protections.
 
 ## Team Letters And Collaboration Norms
 

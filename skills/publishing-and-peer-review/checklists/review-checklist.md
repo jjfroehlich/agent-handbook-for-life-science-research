@@ -22,7 +22,7 @@ Use before sending a review or when auditing a draft reviewer report.
 - Each major concern affects validity, interpretation, scope, reproducibility, ethics, or decision relevance.
 - Each major concern includes evidence from the manuscript.
 - Each major concern states the consequence for the claim.
-- Each requested action is feasible within revision or explicitly framed as a claim-limit issue.
+- Requested actions address the claim and have a defensible remedy where one exists. An unsalvageable design flaw is explained without promising that a feasible revision can fix it.
 - Major comments are prioritized; the review does not bury the main problem.
 
 ## Statistical And Evidence Checks

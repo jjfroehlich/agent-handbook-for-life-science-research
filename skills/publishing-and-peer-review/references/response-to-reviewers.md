@@ -11,20 +11,20 @@ Make the editor's decision easier by showing exactly how each reviewer concern w
 1. Copy every reviewer and editor point into a response map, preserving numbering and sub-points.
 2. Classify each point: accepted change, clarification, new analysis, new experiment, claim narrowing, disagreement, editor-only issue, or impossible/out-of-scope request.
 3. For accepted points, state what changed and where.
-4. For misunderstandings, assume the manuscript was unclear first; revise the text, then explain the clarification.
+4. For misunderstandings, inspect whether clearer manuscript wording would help readers. Make useful clarifications; otherwise explain the existing evidence and why no change is needed.
 5. For disagreements, acknowledge the concern, give evidence or constraints, and offer a bounded change when useful.
-6. For requested new work, decide whether it is necessary for the current claim. If not, narrow the claim, add a limitation, or frame it as future work.
-7. When comments conflict, follow the editor's decision letter where possible and use a concise editor-facing note for the resolution.
+6. For requested new work, decide whether the current claim needs it before considering cost. If it does, obtain the evidence or revise/remove the unsupported claim. If it does not, explain a justified non-change, or add a limitation or future direction when useful.
+7. When comments appear to conflict, first see whether a coherent revision can address both. Ask the editor when a material conflict or editorial instruction remains unresolved.
 8. Open the letter with a concise summary of major changes and close any unresolved constraints.
 9. Final-check that reviewers can follow the response without searching the manuscript.
 
 ## Decision rules
 
 - If multiple reviewers raise the same issue, address it once in the summary and again at each relevant point.
-- If reviewers conflict, tell the editor how you balanced the conflict and make the chosen manuscript change explicit.
+- If reviewers conflict, explain the consistent resolution in the relevant responses; seek editor guidance when the remaining tradeoff affects the revision strategy.
 - If a reviewer asks for a citation, analysis, or experiment that is inappropriate, explain why and offer a text change or limitation if it addresses the underlying concern.
-- If the user did not do requested work, do not pretend it was done. State the constraint and revise the claim or limitation accordingly.
-- If a reviewer misunderstood existing text, change the manuscript rather than only saying the information was already there.
+- If the user did not do requested work, do not pretend it was done. State why and revise the claim or limitation if the available evidence requires it. Cost alone does not establish that a request is unnecessary.
+- If a reviewer misunderstood existing text, consider manuscript clarity first; quote or summarize the relevant context in the response even when no edit is justified.
 - If the response sounds defensive, convert it to concern, action, location, and rationale.
 - If emotions are high, draft privately first, then rewrite the submitted version into calm, evidence-based language.
 
@@ -51,7 +51,7 @@ Make the editor's decision easier by showing exactly how each reviewer concern w
 - Does each accepted comment include a manuscript location?
 - Are new experiments, new analyses, clarifications, and text edits distinguished?
 - Does disagreement include evidence, constraint, and a bounded alternative?
-- Did any reviewer misunderstanding trigger a manuscript clarification?
+- Were misunderstandings inspected for a useful clarification, and is any non-change explained?
 - Can the editor see the major revision package in the opening summary?
 - Are unresolved issues explicitly named rather than hidden?
 
@@ -81,6 +81,8 @@ Response: We appreciate the concern. We have not performed [requested work] beca
 
 **Reviewer misunderstanding**
 
+Use this wording only when a useful manuscript clarification was actually made. Otherwise explain the existing context and justified non-change.
+
 ```text
 Response: This comment showed that our original wording was unclear. We revised [location] to state [clarification] and now distinguish [A] from [B].
 ```
@@ -97,7 +99,7 @@ Location: [section/page/line/table/figure]
 
 ## Examples
 
-- "We did not add a new animal cohort. Instead, we narrowed the claim from organism-level efficacy to cellular mechanism and added a limitation explaining that organism-level validation remains future work."
+- "We did not add a new animal cohort. Instead, we narrowed the claim from organism-level efficacy to the measured cellular response and added a limitation explaining that organism-level validation remains future work."
 - "Reviewer 1 requested more mechanistic detail, while Reviewer 2 asked us to shorten the discussion. We added two sentences that specify the mechanism and removed a speculative paragraph so the section is clearer but not longer."
 
 ## When not to apply this

@@ -13,7 +13,7 @@ Separate the scoring arguments: why the work matters, what is new, why the appro
 1. State what has been done and what remains needed.
 2. Explain why solving the problem matters now.
 3. Name what is new: technology, application, model, dataset, mechanism, combination, or conceptual frame.
-4. Explain why the proposed approach is better suited than alternatives.
+4. Explain why the proposed approach is suited to the question and what relevant alternatives would change.
 5. For ambitious or high-risk work, distinguish scientific risk from unmanaged execution risk.
 6. If impact, engagement, or DEI sections are required, make them specific to the funder's criteria and the project context.
 
@@ -22,7 +22,7 @@ Separate the scoring arguments: why the work matters, what is new, why the appro
 - If significance only says the topic is important, add the field state, unmet need, and expected change.
 - If innovation only says "novel," specify what is new and why that novelty enables the objective.
 - If approach is a methods list, add rationale, feasibility evidence, interpretable outcomes, and alternatives.
-- If the project is high-risk, show why the return is worth it and what execution risks are already controlled.
+- If the project is high-risk, show why the return is worth it, which execution risks have evidence behind them, and which require planned development or qualification.
 
 ## Variants and edge cases
 
@@ -34,7 +34,7 @@ Separate the scoring arguments: why the work matters, what is new, why the appro
 
 - Combining significance and innovation into one vague excitement paragraph.
 - Claiming impact without a path to users, communities, policies, patients, or scientific practice.
-- Treating missing data access or undeveloped analysis strategy as acceptable scientific risk.
+- Relabeling missing access or unexplained method development as scientific uncertainty without a credible plan.
 - Using boilerplate DEI or engagement text disconnected from the proposal.
 
 ## Diagnostic questions
@@ -65,7 +65,7 @@ Risk-return-feasibility row:
 Ambitious claim:
 Expected return:
 Scientific risk:
-Execution risk already controlled:
+Execution evidence and unresolved development:
 Feasibility evidence:
 Reviewer doubt reduced:
 ```

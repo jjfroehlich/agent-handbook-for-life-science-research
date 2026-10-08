@@ -51,7 +51,9 @@ Make the postdoc an intentional career move. The answer should define what the p
 
 Postdoc goal statement:
 
-> This postdoc should give me independent ownership of a tractable project, training in X method, two strong outputs, and a mentor who will support my next move into Y.
+> This postdoc should develop [capability or evidence needed for the next role] through [feasible work], with [support and ownership needed] by [the relevant review point].
+
+Choose outputs and review timing from the user's goal, contract, and project; no fixed publication count or duration defines a successful postdoc.
 
 Offer comparison row:
 

@@ -21,8 +21,8 @@ Use before sending a revised manuscript and response letter.
 - Disagreements acknowledge the concern before explaining the rationale.
 - Constraints are stated plainly without blaming the reviewer.
 - If requested work was not done, the manuscript claim or limitation was revised where needed.
-- Reviewer misunderstandings triggered manuscript clarification.
-- Conflicting reviewer requests are explained to the editor.
+- Reviewer misunderstandings were inspected for useful manuscript clarification; any non-change is explained with enough context to stand alone.
+- Apparent conflicts have a coherent resolution or, if materially unresolved, a focused question for the editor.
 
 ## Tone
 

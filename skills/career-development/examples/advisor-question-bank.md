@@ -40,6 +40,14 @@ Use these patterns for visit days, rotations, postdoc interviews, and mentor-com
 
 ## Output Pattern
 
+### Closed fictional visit example
+
+**Given.** Sam is a prospective PhD student who wants frequent feedback while learning a new assay. The advisor promises “plenty of independence,” but no meeting schedule or training route has been supplied. A visit with the advisor and a consenting current student is arranged; no alumnus is available.
+
+**Completed question selection.** Ask the advisor: “Who would teach me the assay, and how would we review progress in the first months?” Ask the student: “When you got stuck on a method, what help was available and how did you obtain feedback?” These questions test Sam's particular need rather than repeat every item in the bank. Record the answers as reported evidence; the visit has not yet established support, and the absence of alumni alone does not disqualify the group.
+
+The case illustrates question preparation, not completed conversations or an acceptance decision. The larger bank below remains optional.
+
 Group questions by audience:
 
 | Audience | Best questions | Evidence sought | Risk if unanswered |

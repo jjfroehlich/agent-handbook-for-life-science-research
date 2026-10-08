@@ -26,8 +26,8 @@ Make the visual claim proportional to the evidence. Readers should see magnitude
 
 - If `n` is small, show individual observations and avoid smooth density displays.
 - If observations are paired or repeated, show the pairing or within-unit difference.
-- If technical replicates sit inside biological replicates, aggregate or show the hierarchy rather than inflating `n`.
-- If the claim is an effect, show the estimate with uncertainty.
+- If observations are nested, show the hierarchy and identify the unit assigned or sampled independently for the intended inference. A replicate summary or an appropriate hierarchical estimate can accompany lower-level points. Cells are not automatically independent replicates; individually assigned cells can be units in a different design.
+- If the claim is an effect, show the direct contrast with its compatible uncertainty interval. Group-summary intervals describe their own estimates; their overlap alone does not establish uncertainty in the difference.
 - If the claim is distributional, show shape, spread, and outliers.
 - If data are overplotted, use jitter, transparency, binning, density, small multiples, or summary overlays.
 - If outliers are omitted or axes are truncated, state the rule and show enough context to prevent a misleading read.
@@ -67,7 +67,7 @@ Caption must state: <n, replicate unit, transformation, outlier rule>.
 
 ## Examples
 
-- `n=4 violin`: use points plus a median/range or interval; a violin can imply unsupported distribution shape.
+- `n=4 violin`: show all four points. A median and observed range can describe them; an uncertainty interval needs a stated estimator and method. A smooth violin can imply unsupported distribution shape.
 - `p < 0.05 bar figure`: show effect size and interval, show observations if possible, and make the conclusion about magnitude.
 - `many cells from three donors`: show cell distribution and donor-level summaries so the reader does not confuse cell count with independent `n`.
 

@@ -1,6 +1,6 @@
 # Grant Readiness Checklist
 
-Use this for a fast proposal review before submission or before a deeper rewrite.
+Use this for whole-application readiness. For a bounded section review, apply only relevant checks and mark unassessed items rather than requiring a complete audit.
 
 ## Funder Fit And Compliance
 
@@ -15,7 +15,7 @@ Use this for a fast proposal review before submission or before a deeper rewrite
 - The active premise connects the problem, aims, approach, and expected payoff.
 - The first page makes the problem matter.
 - Aims are independently valuable where possible.
-- Aim dependencies are justified by preliminary data or backup paths.
+- Aim dependencies fit the scheme and have appropriate evidence, qualification milestones, decision gates, or credible alternatives.
 - The project is grouped into a reviewer-manageable number of goals or aims.
 
 ## Significance, Innovation, And Approach
@@ -29,7 +29,7 @@ Use this for a fast proposal review before submission or before a deeper rewrite
 
 - Preliminary data or examples reduce specific reviewer concerns.
 - Budget and allowed costs support the promised work.
-- CV, team, environment, or institutional evidence proves execution capacity.
+- CV, team, environment, or institutional evidence supports execution capacity; untested capabilities remain explicit.
 - Completed work is not presented as future funded work.
 - Project-change or resubmission issues have a support plan.
 
@@ -45,7 +45,7 @@ Use this for a fast proposal review before submission or before a deeper rewrite
 - Out-of-scope project.
 - Buried objective.
 - Generic significance or novelty.
-- Co-dependent aims with no support.
+- Unexplained or unjustified dependencies without evidence or an assessable development plan.
 - Boilerplate impact, DEI, CV, or budget sections.
 - Hidden risks or missing alternatives.
 - Altered templates or hard-to-find compliance answers.
@@ -59,6 +59,6 @@ Use this for a fast proposal review before submission or before a deeper rewrite
 - Protocol choices, controls, analyses, and references are explained.
 - Budget request is calibrated against funder norms when evidence is available.
 - Every major expense has a justification.
-- LOI and full proposal scope/amount are aligned.
+- If there was an LOI, scope or amount changes are explained and checked against the applicable process.
 - Subheads, visuals, and captions help evaluators find significance.
 - Future ramifications are stated without overclaiming.

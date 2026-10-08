@@ -1,10 +1,10 @@
 ---
 name: career-development
-description: "Use this skill when a scientist needs stage-specific career help with advisor or lab choice, PhD/postdoc/faculty applications, CVs, resumes, cover letters, recommendation-letter scaffolds, referee evidence packets, interviews, offers, startup negotiation, academia-to-industry transitions, job ad interpretation, networking, or a concrete career-path decision. Trigger when the input is a career artifact, opportunity, role comparison, application package, or personal career constraint. Do not trigger for manuscript, grant, figure, project-strategy, journal-selection, or lab-management tasks unless the main issue is the user's own career decision."
+description: "Help scientists choose career paths and improve applications, CVs, interviews, and offers. Exclude research-project choices and lab management."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Career Development
@@ -29,14 +29,16 @@ Turn scientist career questions into concrete decisions, document edits, intervi
 
 ## Core workflow
 
-1. Identify the user's stage, target role, decision, reader, artifact type, deadline, and hard constraints.
-2. Route to the narrowest relevant playbook before giving advice.
-3. Convert claims about fit, readiness, promise, or risk into evidence the reader or decision maker can verify.
+1. Use the supplied career goal and artifact to choose the scope. For a local CV or profile edit, address that edit directly; for a career choice or whole application, assess the stage, role, reader, timeline, and constraints that affect it.
+2. Consult a reference when its stage-specific guidance would help; combine it with relevant general career and platform knowledge.
+3. Convert claims about fit, readiness, promise, or risk into evidence the reader or decision maker can assess. Preserve the candidate's actual contribution, publication status, preferences, and constraints; do not fill missing achievements, offers, references, or access with plausible details.
 4. Separate document strategy from relationship, safety, negotiation, or career-path strategy.
 5. Name tradeoffs and uncertainty explicitly when evidence is incomplete.
 6. End with concrete edits, questions to ask, screening criteria, or a short action plan.
 
 ## Output formats
+
+Select only the format that fits the requested deliverable; these are patterns, not mandatory response sections.
 
 - Advisor or lab evaluation matrix.
 - Application-materials critique.
@@ -57,6 +59,7 @@ Turn scientist career questions into concrete decisions, document edits, intervi
 - `references/interviews.md`: Use for scientific job, industry, postdoc, and faculty interview preparation.
 - `references/recommendation-letters.md`: Use when the user was asked to draft a recommendation scaffold or needs a recommender evidence packet.
 - `references/career-transitions.md`: Use for academia/industry comparisons, leaving-path decisions, networking, and role exploration.
+- Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task.
 - `checklists/advisor-evaluation-checklist.md`: Use for a fast advisor, mentor, or lab evidence matrix.
 - `checklists/postdoc-choice-checklist.md`: Use for postdoc offer and lab comparison.
 - `checklists/faculty-search-checklist.md`: Use for faculty-search readiness and package audits.
@@ -65,6 +68,8 @@ Turn scientist career questions into concrete decisions, document edits, intervi
 - `examples/advisor-question-bank.md`: Use when preparing advisor, trainee, or alumni questions.
 
 ## Quick checklist
+
+Apply only the checks relevant to the requested scope and artifact. Inspect supplied context first; treat `identify` or `clarify` as analysis when the answer is already available, and ask only for missing information that could change the result.
 
 - What decision or reader is this answer serving?
 - What evidence would change the outcome?
@@ -78,7 +83,6 @@ Turn scientist career questions into concrete decisions, document edits, intervi
 - Treating prestige, publication venue, salary, or job title as the whole decision.
 - Rewriting documents without naming the reader's decision criteria.
 - Ignoring power asymmetry, retaliation risk, funding, visa, health, or family constraints.
-- Copying source fragments, bibliographic details, raw URLs, or provenance into the answer.
 - Writing final recommender judgment, comparative rank, or private recommender voice when the user should only supply evidence.
 
 ## Quality bar

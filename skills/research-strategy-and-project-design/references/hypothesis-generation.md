@@ -27,7 +27,7 @@ Create better possible explanations without pretending they are already evidence
 
 ## Variants And Edge Cases
 
-- If the user has a rich dataset, run an exploratory visualization pass before final interpretation, but label patterns as exploratory.
+- If rich observations are being used to develop new scientific ideas, inspect useful unexplored views and label the resulting patterns as exploratory. A fixed-project plotting or analysis request does not activate this skill.
 - If the user has only a metaphor, require translation before recommending evidence.
 - If progress stalls, reclassify the puzzle rather than assuming more effort on the same path will work.
 - If brainstorming in a group, protect fragile ideas from immediate status-driven criticism.
@@ -64,7 +64,7 @@ What remains speculative:
 ## Examples
 
 - Convert "the cell is choosing a path" into candidate variables, decision points, and observable state transitions.
-- For an anomaly, list three hidden assumptions before calling it noise.
+- For an anomaly, examine the observation, measurement and relevant hidden assumptions before dismissing it; generate alternatives that lead to different checks.
 - Use a paired conversation to build a weak idea into a testable form before ranking it.
 
 ## When Not To Apply This

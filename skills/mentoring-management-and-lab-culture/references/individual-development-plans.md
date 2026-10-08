@@ -15,13 +15,13 @@ Turn development into a predictable mentoring routine. The meeting should celebr
 3. Diagnose: identify growth areas, project risks, unclear expectations, relationship tensions, and career uncertainties.
 4. Plan: translate personal and professional goals into concrete milestones, support, introductions, practice, and deadlines.
 5. Repair: ask what the mentor or lab should change.
-6. Document: record actions, owners, timelines, and the next review point.
+6. Record agreed actions, owners, timelines and the next relevant review point. Label offers and unresolved proposals separately; a completed meeting is not evidence that development outcomes have occurred.
 
 ## Decision rules
 
 - If goals changed, adjust projects and mentoring rather than forcing the old plan.
 - If feedback is sensitive, name power asymmetry and offer channels for later or third-party follow-up.
-- If the plan is too broad, reduce it to the next quarter's actions plus a longer-horizon direction.
+- If the plan is too broad, focus on the next useful interval plus a longer-horizon direction; use the actual placement or project stage rather than requiring a quarter.
 - If career goals do not directly serve the PI's project, still identify development steps that support the trainee's next move.
 - If the trainee is discouraged, separate project outcomes from personal worth and identify what was learned.
 

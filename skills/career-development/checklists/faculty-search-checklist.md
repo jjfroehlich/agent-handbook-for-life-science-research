@@ -5,7 +5,7 @@ Use this before or during a faculty or group-leader search to audit readiness an
 ## Readiness Audit
 
 - Independent research identity in one sentence.
-- Future program that is distinct from prior mentors.
+- Future program with clear intellectual ownership, including the boundaries of any continuing mentor collaboration; it can remain in the same field.
 - Evidence of execution: papers, methods, funding, collaborations, mentoring, or field-building.
 - Fit targets by institution type, department needs, resources, and teaching expectations.
 - Timeline for letters, statements, talks, visits, and references.
@@ -34,4 +34,4 @@ Use this before or during a faculty or group-leader search to audit readiness an
 
 ## Output
 
-Return the top readiness gaps, the next package edit, the highest-risk interview issue, and the negotiation items to clarify if an offer emerges.
+Select the readiness gaps, package edits, interview preparation, or offer questions relevant to the user's current stage.

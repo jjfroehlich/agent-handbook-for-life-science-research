@@ -1,69 +1,31 @@
-# Career Material Examples
+# Career material examples
 
-Use these as compact output patterns when the user needs a concrete artifact.
+These are closed fictional cases. Their supplied achievements, preferences and outcomes belong only to the case; never infer them from a user's vague bullet or career title.
 
-## Advisor Matrix
+## Translating a verified contribution
 
-| Criterion | Evidence | Risk | Missing evidence | Next action |
-|---|---|---:|---|---|
-| Feedback cadence | Current students report weekly meetings but slow manuscript comments | Medium | Former-trainee view | Ask two alumni how writing feedback worked |
-| Project ownership | Advisor says students choose projects | Medium | Authorship examples | Ask for a recent project that changed direction |
-| Safety | One trainee mentioned fear of disagreement | High | Independent corroboration | Talk with a neutral faculty member before committing |
+**Given.** A fictional applicant's draft says, “Studied signaling pathways in a cancer biology lab and contributed to manuscripts.” The applicant separately confirms that they designed and analyzed cell-signaling experiments testing cancer-drug response hypotheses, produced reproducible datasets and figures, and that a cross-functional research team used those outputs. No measured improvement, management role, publication acceptance or therapeutic benefit is supplied. The vacancy emphasizes experimental design, reproducible analysis and collaboration.
 
-## Academic-to-Industry Bullet
+**Completed rewrite.** “Designed and analyzed cell-signaling experiments to test cancer-drug response hypotheses; produced reproducible datasets and figures used by a cross-functional research team.”
 
-Before:
+**Why this fits.** The bullet makes the individual's design, analysis and output visible in the vacancy's language. It adds no numerical impact or clinical benefit. Without the separately confirmed facts, the starting sentence supports only a modest description of signaling work and manuscript contributions, followed by a focused question about the applicant's actual role.
 
-> Studied signaling pathways in a cancer biology lab and contributed to manuscripts.
+## Comparing two specified roles
 
-After:
+**Given.** A fictional postdoc, Ana, wants to remain in her region, enjoys assay troubleshooting and mentoring, and does not want her next job's success to depend mainly on an independent publication programme. Two written offers are local. Postdoc A funds a two-year independent assay-development project with weekly PI meetings and a publication-based progress review. Platform scientist B provides assay troubleshooting and user training, with priorities assigned by the platform lead and evaluation based on documented service quality and method reliability. Ana has visited B and spoken with a staff scientist who confirms those duties. Compensation and hours meet her stated needs in both offers. She accepts less control over topic selection.
 
-> Designed and analyzed cell-signaling experiments to test cancer-drug response hypotheses, producing reproducible datasets and figures used by a cross-functional research team.
+**Completed comparison.** Both meet Ana's location and working-condition constraints. A offers more ownership and weekly scientific feedback but retains the publication criterion she wants to change. B fits her preferred troubleshooting and mentoring work and changes that criterion, at the cost of topic control. Given her priorities and confirmed duties, B is the better fit. Another applicant seeking a faculty research programme could reasonably prefer A. This conclusion applies to these offers, not to postdocs and industry as categories.
 
-## Cover-Letter Diagnosis
+**Remaining boundary.** The decision establishes neither unrestricted project portability nor future promotion. Those terms were not supplied. No additional appointment, conversation or achievement is claimed.
 
-| Current paragraph | Problem | Revision direction |
-|---|---|---|
-| "I am passionate about your company..." | Generic motivation without evidence | Open with the role's key criterion and the user's strongest matching example |
-| Long CV summary | Repeats facts without interpretation | Select two examples and explain why they matter for this reader |
+## Handling one concerning mentoring account
 
-## Career-Path Comparison
+**Given.** One trainee tells a fictional applicant they fear disagreeing with the advisor. The applicant has no other climate evidence and has not accepted an offer.
 
-| Option | Daily work | Entry evidence | Fit signal | Main risk | Lowest-regret next step |
-|---|---|---|---|---|---|
-| Academic postdoc | Deep research, publications, grant preparation | Publications, mentor support, project ownership | Wants independent PI path | Delays non-academic transition | Ask three postdoc alumni about job-market support |
-| Biotech scientist | Team science toward product or platform milestones | Methods, collaboration, reproducible analysis | Likes team execution | Less topic autonomy | Run two informational interviews and translate resume bullets |
+**Completed advice.** Take the account seriously and keep it confidential. It is enough to seek independent support or prefer a safer option; the applicant need not prove misconduct. If further inquiry is useful and safe, ask a neutral person about support routes and gather examples of how disagreement is handled without identifying the trainee. More accounts can clarify a pattern, but lack of corroboration does not erase the concern.
 
-## Postdoc Search Pipeline
+## Supplying a reference packet
 
-| Lab | Career goal served | Contact reason | Fit evidence | Questions | Risk flags | Next action |
-|---|---|---|---|---|---|---|
-| Lab A | Build independent computational niche | Recent paper matches target method | Thesis project plus reproducible analysis record | Ownership, funding, authorship, alumni outcomes | Project portability unclear | Email PI, then ask two alumni |
+**Given.** A fictional candidate was invited to supply facts for a recommendation. The referee supervised their shared analysis workflow and observed them training two junior colleagues. The candidate has an accurate CV, the opportunity criteria and the deadline; no comparative rank or endorsement strength has been offered.
 
-## Faculty Startup Ask
-
-| Ask | Why it matters | Evidence | Priority | Tradeoff |
-|---|---|---|---|---|
-| Technician support for two years | Makes the first two projects feasible while recruiting trainees | Proposed program requires continuous assay throughput | Must-have | Smaller equipment request |
-
-## Offer Negotiation Plan
-
-| Term | Need | Evidence | Priority | Safer phrasing |
-|---|---|---|---|---|
-| Start date | Finish current project and relocate | Current contract and move timing | High | "Would a start date in X window be possible?" |
-
-## Interview Story Template
-
-| Question | Problem | Action | Result | Learning | Relevance |
-|---|---|---|---|---|---|
-| Tell us about a conflict | Teams disagreed on analysis assumptions | Built a shared review table and reran sensitivity checks | Reduced rework and clarified decision | Surface assumptions early | Useful for cross-functional research teams |
-
-## Recommendation Letter Scaffold
-
-| Section | Job | Candidate-supplied evidence | Recommender-owned judgment |
-|---|---|---|---|
-| Opening summary | Orient the reader to opportunity and relationship | Opportunity, role, time period, criteria | Final endorsement strength |
-| Relationship context | Establish credibility | How the recommender knows the candidate | How close the observation is |
-| Contribution paragraph | Show specific value | Project, role, output, obstacle, result | How distinctive the work is |
-| Attribute paragraph | Convert evidence into qualities | Examples of judgment, independence, communication, leadership, rigor | Comparative assessment |
-| Closing | Point toward fit | Accurate logistics or criteria reminders | Final recommendation language |
+**Completed packet.** Provide the CV, criteria and deadline; state that the referee supervised the workflow work; describe the candidate's actual contribution and the two training activities. Leave comparative assessment, endorsement and final voice to the referee. Do not add “top one percent,” a publication outcome or an observation the referee did not make.

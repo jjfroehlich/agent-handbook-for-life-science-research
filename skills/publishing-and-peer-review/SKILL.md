@@ -1,10 +1,10 @@
 ---
 name: publishing-and-peer-review
-description: "Use when the user is acting as an author, reviewer, or editor-facing correspondent in a scientific publication process and needs help with journal submission packages, cover letters, presubmission or editor inquiries, peer-review reports, reviewer ethics, conflicts, confidentiality, editorial decision interpretation, appeals, transfers, resubmission strategy, or response-to-reviewers letters. Trigger on concrete publication-process decisions or artifacts, not on general manuscript prose editing, figure design, grant review, literature summaries, or journal-ranking curiosity without an active submission/review context."
+description: "Handle journal submissions, peer reviews, editorial decisions, and reviewer responses. Exclude prose-only edits and work outside an active publication process."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Publishing And Peer Review
@@ -35,10 +35,12 @@ Help the user make publication-process decisions and produce bounded artifacts f
 3. Ask only for missing facts that change the next action: decision letter, target journal, review invitation, manuscript type, deadline, or policy constraint.
 4. Route to the narrow playbook: journal submission, editorial process, peer reviewing, reviewer ethics, or response to reviewers.
 5. Separate process guidance from manuscript-quality feedback.
-6. Produce the artifact in a trackable format: checklist, review outline, cover-letter plan, editor inquiry, or point-by-point response.
-7. Check for ethics, confidentiality, reviewer overreach, and unsupported claims before finalizing.
+6. Produce the requested artifact or decision at the needed scale. Use a response map or checklist when it helps track a substantial package; a short process question may need only a direct answer.
+7. Check ethics, confidentiality, reviewer overreach, or unsupported claims when relevant to the requested publication action; a local editor inquiry does not require a full submission or review audit.
 
 ## Output formats
+
+Select only the format that fits the requested deliverable; these are patterns, not mandatory response sections.
 
 - Submission-readiness review with journal-fit risks and missing package items.
 - Cover-letter or presubmission-inquiry outline.
@@ -54,8 +56,11 @@ Help the user make publication-process decisions and produce bounded artifacts f
 - `references/peer-reviewing.md`: Use for review invitations, manuscript review workflow, review structure, constructive comments, reviewer overreach, and statistical-review triage.
 - `references/reviewer-ethics.md`: Use for conflict, confidentiality, privileged information, misconduct concerns, confidential comments, open review, or review transfer.
 - `references/response-to-reviewers.md`: Use for response letters, point-by-point plans, respectful disagreement, reviewer misunderstandings, and out-of-scope requested experiments.
+- Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task.
 
 ## Quick checklist
+
+Apply only the checks relevant to the requested scope and artifact. Inspect supplied context first; treat `identify` or `clarify` as analysis when the answer is already available, and ask only for missing information that could change the result.
 
 - Role and next process action are explicit.
 - Advice is bounded to the current journal, manuscript, review invitation, or decision letter.
@@ -70,7 +75,6 @@ Help the user make publication-process decisions and produce bounded artifacts f
 - Writing peer reviews as unprioritized reactions instead of evidence-linked major and minor comments.
 - Asking authors for open-ended new projects when a claim limit, analysis clarification, or future-work statement would address the concern.
 - Responding defensively to reviewers without changing the manuscript or giving a clear rationale.
-- Exposing confidential review material, source provenance, raw URLs, or bibliography-style evidence in exported skill outputs.
 
 ## Quality bar
 
@@ -78,4 +82,3 @@ Help the user make publication-process decisions and produce bounded artifacts f
 - The answer must produce a concrete next artifact or decision, not generic publication advice.
 - Reviewer and response language must be calm, specific, actionable, and traceable to manuscript claims.
 - Disagreements must state the concern, evidence or constraint, and the bounded change or non-change.
-- Exported outputs must avoid private provenance, source lists, citation maps, raw URLs, and DOI-like identifiers.

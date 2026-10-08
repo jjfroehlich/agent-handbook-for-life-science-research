@@ -1,44 +1,39 @@
-# Project Triage Examples
+# Project triage examples
 
 ## Project Comparison Table
 
-Use this when the user asks which project to pursue or how to rank several ideas.
+This fictional researcher has eighteen months of funding, live-cell imaging experience and an interest in recovery after stress. They are choosing between within-system recovery timing and a cross-species injury comparison.
 
-| Candidate project | Feasibility | Expected knowledge gain | Decisive uncertainty | Cheapest kill test | Timeline | Stage fit | Recommendation |
-|---|---|---|---|---|---|---|---|
-| New assay for a proposed mechanism | Medium | High | Does the assay detect the relevant signal above noise? | Small positive/negative-control pilot | 2-4 weeks | Good if assay support exists | Test before committing |
-| Large dataset collection | Low | Medium | Is the expected effect visible in existing data? | Analyze public or pilot data first | 1-2 weeks for first check | Risky for early trainee | Delay unless signal appears |
-| Incremental follow-up | High | Low | Does it answer a question anyone cares about? | One-paragraph claim and audience test | 1 week | Good only as training | Narrow or drop |
+| Candidate | What an answer could add | Checked capability | Unresolved dependency | Present recommendation |
+|---|---|---|---|---|
+| Variation in cultured-cell growth after nutrient restoration | Distinguish recovery, sustained arrest and cell loss in a defined system | Facility supports repeated imaging and medium changes | Whether the measurement separates those outcomes | Pursue an assay-feasibility stage before the larger comparison |
+| Recovery after injury across species | Test the reach of a proposed recovery principle | Collaborator can provide two species | Another species is at least six months away; comparable outcome is unsettled | Retain as a programme idea; assess whether a narrower comparison would be informative |
+
+Choose the first route for the present allocation because the researcher can start evaluating its essential measurement now. This is a conditional choice: it does not establish the biology or make the wider comparative question less valuable. Reconsider if reliable cultures and comparable measurements become available. Confirm access before treating an offered capability as committed support.
+
+If the cross-species study already had established access and a shared assay, its feasibility would change. Compare it again; do not preserve the original ranking from the project labels alone.
 
 ## Cheap Decisive Test Families
 
-- Literature kill search: look for a recent result that already falsifies, solves, or trivializes the premise.
-- Existing-data analysis: test whether the signal is even plausible before collecting new data.
+- Prior-work check: assess whether a result resolves or qualifies the contribution; independent replication can still matter.
+- Existing-data analysis: assess the premise when sampling and measurement can address it; unsuitable data cannot rule it out.
 - Online or small pilot: estimate noise, recruitment, effect size, or feasibility.
 - Counterexample search: find cases that would break the proposed mechanism or model.
 - Feared control: run the control that would most damage the preferred interpretation.
 - Baseline comparison: check whether a simple alternative matches the proposed complex approach.
 
-## Example Response Shape
+## Existing evidence can inform a first commitment
 
-```text
-Recommendation: Run a one-week kill test before committing.
+**Request:** “I want to build a large collection around a pattern suggested by a public dataset. What should I check first?”
 
-Why: The idea has high potential payoff, but the core premise depends on a necessary condition that has not been checked.
+**Response:** Establish what the current dataset can test under its sampling, measurement and confounding limits. Look for a credible check of the condition on which the new collection's value depends. A pilot or existing-data comparison can reveal feasibility, but absence of a signal in unsuitable data does not disprove the premise. If the decisive test requires new material, compare that cost with the expected information instead of demanding a cheap positive first.
 
-Decisive uncertainty: Whether the signal is detectable above the current noise floor.
-
-Cheapest test: Reanalyze existing pilot data with a simple baseline and one feared negative control.
-
-Continue if: The signal appears in the expected direction and the control rules out the obvious confound.
-
-Stop or pivot if: The baseline explains the pattern or the control shows the signal is an artifact.
-```
+Select a check for the decision it changes, not its price alone.
 
 ## Stuck-Project Example
 
-If a project has become a default commitment, ask the user to write the best plausible title or claim it is becoming. If that output would not justify the remaining time, recommend a dated stop/go review and a cheaper alternative branch.
+If a project has become a default commitment, compare its best plausible contribution and remaining work with credible alternatives. A brief imagined title or claim can help when the output is unclear; it is optional. If the remaining contribution does not justify the commitment, recommend a review or redirection while addressing existing obligations.
 
 ## Hypothesis Example
 
-If the user says an observation "doesn't fit," do not immediately explain it away. Write the contradiction, list hidden assumptions, generate two or three candidate explanations, and select the prediction that best separates them.
+Processed colony images appear brighter at the edge. Nutrient access is one possible explanation, but reporter chemistry, colony thickness and illumination/processing remain alternatives. First inspect the raw images and whether the pattern follows sample coordinates. If it appears only after processing, investigate that cause. If it persists in a checked measurement, develop predictions that separate biological and reporter explanations. Keep both the initial impression and the new hypotheses provisional.

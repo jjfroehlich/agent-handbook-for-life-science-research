@@ -78,7 +78,7 @@ Reviewer comment: [Comment]
 Response: This comment showed us that the original wording was unclear. We revised [section/location] to distinguish [A] from [B] and added [clarifying phrase or sentence].
 ```
 
-Why it works: it treats misunderstanding as a manuscript clarity problem rather than a reviewer failure.
+Use this wording only when an actual clarification was made. Inspect clarity first; when no edit is needed, explain the existing context and justified non-change instead of inventing a revision.
 
 ## Response: Conflicting Reviewer Requests
 
@@ -87,3 +87,17 @@ Reviewer 1 asked us to expand [topic], whereas Reviewer 2 asked us to shorten th
 ```
 
 Why it works: it explains the tradeoff and the chosen revision path.
+
+## Completed review of a comparative claim
+
+**Fictional supplied facts:** The manuscript describes responses to compound K in cell types A and B. Figure 3 reports a treatment-versus-control test within each type. The Discussion says the effect is larger in A because its test is significant and B's is not. No direct comparison of the two effects is reported. The reviewer has no raw data and cannot determine whether a suitable comparison has already been run. Figure 3's legend also omits the number of independently prepared cultures. The reviewer has assessed the experimental and reporting sections; a specialist is covering the remaining modeling section.
+
+**Completed author-facing comment:**
+
+> The paper addresses whether compound K changes the measured response in two cell types. My principal concern is the comparative conclusion in Discussion paragraph 2. Figure 3 reports separate treatment-versus-control tests, which do not establish that the effects differ between A and B. Please report the direct contrast supporting this statement, with its estimate and uncertainty, or revise the conclusion to avoid asserting a between-type difference. If such a contrast was already performed, make that analysis and result explicit. Please also identify the independent experimental units and numbers of independently prepared cultures in the Figure 3 legend; the present description does not let me judge the replication structure. I have not inspected the raw data, so I cannot determine from the manuscript whether this is a reporting omission or an analysis error.
+
+**Completed editor-only scope note:**
+
+> I assessed the experimental design and its reporting; I did not assess the specialist modeling section assigned to the other reviewer. The comparative claim needs either direct supporting evidence or revision. I cannot infer a fatal analysis flaw from the omitted reporting alone, and I have not requested a new experiment. My author-facing comment identifies the unresolved inference and the information needed to judge it.
+
+The report asks for the evidence that changes the assessment without claiming to have executed a contrast, prescribing a model from incomplete design details or guaranteeing that a reporting edit will resolve the concern.

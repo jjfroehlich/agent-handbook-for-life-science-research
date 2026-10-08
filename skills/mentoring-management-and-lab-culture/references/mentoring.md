@@ -12,15 +12,15 @@ Make mentoring precise enough for the person in front of the mentor and plastic 
 
 1. Identify the trainee role, career stage, project stage, and dependency on the mentor.
 2. Ask what the trainee wants to become and what support, feedback, contacts, practice, and independence they need next.
-3. Write down expectations for meetings, communication, feedback, authorship, project ownership, career goals, support routes, and review timing.
+3. Discuss expectations relevant to the relationship: meetings, communication, feedback, credit, project ownership, development and support. Record shared arrangements when useful; distinguish offered support and proposed changes from what each person has agreed.
 4. Add more than one advice route when the mentor lacks expertise, has a conflict of interest, or the trainee needs independent guidance.
 5. Revisit the plan at predictable intervals and after changes in goals, performance, funding, health, project direction, or relationship quality.
 
 ## Decision rules
 
-- If expectations are implicit, write the expectations before escalating criticism.
+- If expectations are implicit, clarify them and own the ambiguity before corrective feedback. This does not require delaying an urgent safety or integrity concern.
 - If the issue involves mentor power, dependency, funding, authorship, or career access, name the power asymmetry directly.
-- If the mentor cannot provide the needed advice or is part of the conflict, add co-mentors, committee members, program leaders, or institutional support.
+- If the mentor cannot provide the needed advice or is part of the conflict, support access to other advisers or institutional routes. Independent advice does not require the supervisor to approve its content or control what the trainee shares. Each adviser must explain their own confidentiality and reporting limits.
 - If a trainee is stuck, distinguish missing skill, missing information, project mismatch, unclear expectation, overload, isolation, and avoidant feedback.
 - If feedback is hard, pair it with concrete next steps, support, and a chance for the trainee to respond.
 
@@ -52,7 +52,7 @@ Make mentoring precise enough for the person in front of the mentor and plastic 
 
 ## Output patterns / mini-templates
 
-Mentoring compact:
+Mentoring compact: select fields that matter to this relationship; a bounded question need not generate a full compact.
 
 - Meetings: frequency, agenda owner, cancellation norms.
 - Communication: channels, response windows, emergencies, after-hours boundaries.

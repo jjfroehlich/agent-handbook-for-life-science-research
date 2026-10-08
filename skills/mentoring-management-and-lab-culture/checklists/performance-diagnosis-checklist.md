@@ -1,26 +1,26 @@
 # Performance Diagnosis Checklist
 
-Use before writing a formal performance plan or escalating a repeated problem.
+Use for an ordinary work concern before considering a formal plan. Select relevant checks; urgent safety or integrity concerns use their appropriate route without waiting for this review.
 
 ## Clarify The Problem
 
 - What behavior or output is missing?
-- What expectation was written down?
+- What expectation was communicated, by whom and how?
 - What evidence shows the person understood it?
 - How long has the pattern existed?
 - What has already been tried?
 
-## Diagnose Causes
+## Examine Work Conditions
 
 - Unclear expectations.
 - Missing training or feedback.
 - Resource, equipment, data, or access constraint.
-- Workload, health, caregiving, or schedule constraint.
+- Workload, schedule, access and voluntarily reported practical constraints; do not require personal health disclosure.
 - Project mismatch or unrealistic goal.
 - Role ambiguity or authority conflict.
 - Interpersonal conflict or power asymmetry.
-- Motivation or reliability issue.
-- Misconduct or policy concern.
+- Specific missed commitments and the person's account, without diagnosing motive.
+- Evidence of a policy concern and its responsible route, without deciding misconduct.
 
 ## Before A Formal Plan
 

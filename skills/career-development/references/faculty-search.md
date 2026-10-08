@@ -9,7 +9,7 @@ Help the user present a coherent future research program and evaluate fit with t
 ## Default workflow
 
 1. Identify institution type, department needs, field, search stage, and required documents.
-2. Define the candidate's independent research identity, next five-year program, technical edge, funding path, and fit with local resources.
+2. Define the candidate's independent research identity, programme for the call's or appointment's relevant horizon, technical edge, funding path, and fit with local resources. Continuing mentor collaboration can be appropriate when ownership and boundaries are clear.
 3. Align the cover letter, research statement, teaching or mentoring evidence, CV, diversity/service material if requested, and references.
 4. Prepare interview messages for different audiences: search committee, department, students, administrators, collaborators, and non-specialists.
 5. For offers, rank startup, personnel, space, equipment, salary, moving support, start date, teaching load, protected time, and tenure-clock terms.
@@ -48,7 +48,7 @@ Help the user present a coherent future research program and evaluate fit with t
 - What will be possible in this department that would not be possible everywhere?
 - Which evidence shows the candidate can lead, fund, mentor, and finish work?
 - Which parts of the package contradict or dilute the central case?
-- What resources are required for success in year one, year three, and before tenure review?
+- What resources are needed at the programme's first projects and relevant appointment or review points?
 - Which parts of running a lab does the user actually want: ideas, people, grants, teaching, institutional service, autonomy, or long-horizon ownership?
 
 ## Output Patterns / Mini-Templates

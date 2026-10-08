@@ -1,6 +1,6 @@
 # Lab Culture Review Checklist
 
-Use this for a quick scan before deeper routing.
+Use relevant sections for a bounded scan or group review. A narrow message edit does not need the full checklist.
 
 ## Expectations
 
@@ -31,7 +31,7 @@ Use this for a quick scan before deeper routing.
 - Was the relevant expectation explicit before the problem occurred?
 - Is the proposed feedback claim-focused, evidence-based, and actionable?
 - Is the issue interpersonal, structural, or both?
-- Are support, follow-up, and escalation triggers included?
+- For an agreed change, are feasible support and follow-up clear? Does the issue need an independent or formal support route?
 
 ## Follow-Up
 
@@ -47,6 +47,6 @@ Use this for a quick scan before deeper routing.
 - Does after-hours social participation feel optional in practice?
 - Are hidden factions or post-meeting disagreements appearing?
 - Are contribution, authorship, and credit tracked?
-- Can members give confidential feedback without identity exposure?
+- Who can see feedback, what may be shared and what limits apply? Could small-group details identify someone, and is a suitable independent route available?
 - Is housekeeping or social labor distributed fairly?
 - Do newcomers have a buddy or support route?

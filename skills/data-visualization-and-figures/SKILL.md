@@ -1,10 +1,10 @@
 ---
 name: data-visualization-and-figures
-description: "Use only when the current request primarily requires unresolved judgment about how scientific evidence should be visually communicated in a scientific plot, table, image panel, figure, graphical abstract, or publication export. Reassess every turn; do not invoke or retain this skill merely because an earlier turn involved figure design. Trigger for choosing or critiquing chart form, encodings, uncertainty or replicate display, scales, axes, color accessibility, annotations, panel or page composition, typography, image channels, scale bars, or final-size readiness. A plot, PDF, report, or analysis script is not sufficient. Exclude source-code organization, report-generation plumbing, plotting syntax or debugging, and mechanical implementation, reruns, or validation of already-set visual specifications unless the current request reopens a visual-evidence decision. Prefer writing for prose-only legends and communication for talk or poster story and delivery."
+description: "Choose or critique how scientific evidence is displayed. Exclude plotting-code fixes and implementation of settled visual specifications."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Data Visualization And Figures
@@ -22,20 +22,19 @@ Help the agent make scientific figures honest, readable, accessible, and ready f
 
 ## Do not use this skill when
 
-- Do not load this skill provisionally because a task mentions plots, PDFs, reports, layouts, exports, or an analysis script.
-- The task is source-code organization, moving or grouping filename/construction/export calls, report-generation plumbing, versioning, plotting-library syntax, package errors, or data-frame debugging without a visual-design decision.
+- The task is plotting syntax, debugging, code organization, report plumbing or rerunning an unchanged analysis without a visual-design decision.
 - The user asks to implement a decision-complete set of visual specifications mechanically and does not want those choices reconsidered or evaluated.
 - The user wants statistical analysis design with no visual artifact or visual decision.
 - The request is prose-only writing feedback with no figure, table, diagram, or visual-output concern.
 
 ## Core workflow
 
-1. Reassess the current user request independently on every turn before loading references or retaining this workflow. Continue only when unresolved visual-evidence judgment is a primary requested outcome; prior figure work does not make later code organization, settled implementation, reruns, or ordinary validation in scope.
+1. Check that the current request requires choosing or judging a visual display; reassess when the task changes.
 2. Name the figure job: comparison, distribution, relationship, composition, process/overview, exact lookup, image evidence, or publication export.
 3. Identify missing context that changes the recommendation: data type, `n`, independent unit, audience, medium, venue constraints, legend, or actual figure/image.
 4. Inspect the actual figure before making exact layout, palette, microscopy, or graphical-abstract claims; if it is unavailable, state the recommendation as conditional.
 5. Route to the narrowest reference file, then diagnose the highest-risk failure before polishing style.
-6. Return recommendations as `problem -> fix -> rationale -> priority`, with assumptions and unresolved checks separated from confirmed findings.
+6. Give the requested recommendation or critique, explaining the consequential change and why it helps the reader. Prioritize findings when several compete; distinguish inspected findings from assumptions and unperformed checks. Use the supplied context and ask only for missing details that could change the result.
 
 ## Reference routing
 
@@ -47,15 +46,20 @@ Help the agent make scientific figures honest, readable, accessible, and ready f
 - Open `references/layout-and-typography.md` for multi-panel hierarchy, labels, legends, axes, callouts, salience, spacing, typography, and final-size readability.
 - Open `references/conceptual-figures.md` for graphical abstracts, overview figures, mechanism diagrams, pathways, neural-circuit diagrams, arrows, and schematic grammar.
 - Open `references/publication-technical-requirements.md` for manuscript, poster, slide, preprint, raster/vector, font, resolution, color-mode, and venue-specific checks.
+- Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task. Inspect the actual image or rendered HTML when judging visual appearance.
 
 ## Output formats
 
-- `Figure critique`: prioritized findings in the order evidence-job mismatch, hidden data, statistical ambiguity, accessibility/color, layout/labels, export risk, and visual-review needs.
+Select only the format that fits the requested deliverable; these are patterns, not mandatory response sections.
+
+- `Figure critique`: prioritize evidence-job mismatch, hidden data or inference risks before cosmetic changes; include only relevant accessibility, layout and export findings.
 - `Redesign plan`: recommended form, encodings, layout changes, caveats, and required context.
 - `Publication-readiness pass`: ready/needs revision/blocked status with must-fix items and venue assumptions.
 - `Before/after guidance`: concise contrast between the current design and the stronger alternative.
 
 ## Quick checklist
+
+Apply only the checks relevant to the requested scope and artifact. Inspect supplied context first; treat `identify` or `clarify` as analysis when the answer is already available, and ask only for missing information that could change the result.
 
 - Does the visual form match the scientific task and data structure?
 - Are raw observations, sample size, spread, uncertainty, independent units, and outliers visible when they affect interpretation?
@@ -67,7 +71,6 @@ Help the agent make scientific figures honest, readable, accessible, and ready f
 
 - Recommending a prettier chart before naming the figure job.
 - Confusing source-code layout with visual layout, or report-generation structure with page composition.
-- Activating first for a technical plot/report task and relying on the body to reverse the decision later.
 - Hiding continuous or small-n data behind mean-only bars or lines.
 - Treating p values, stars, or summary statistics as the visual evidence.
 - Using diverging heatmap colors without a meaningful midpoint.
@@ -79,4 +82,3 @@ Help the agent make scientific figures honest, readable, accessible, and ready f
 - Give specific, executable figure advice, not taste-level comments.
 - Separate confirmed visual findings from conditional guidance and missing context.
 - Treat accessibility, uncertainty, replicate structure, and final-size legibility as core checks.
-- Keep provenance, source names, and extraction notes out of user-facing responses.

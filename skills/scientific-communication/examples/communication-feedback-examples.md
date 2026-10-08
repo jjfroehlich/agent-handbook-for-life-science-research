@@ -1,78 +1,42 @@
 # Communication Feedback Examples
 
-Use these as output patterns for scientific-communication responses. Do not copy source provenance into user-facing answers.
+The cases below are fictional. Their supplied facts constrain the revisions; do not transfer their findings to a user's project.
 
-## Talk Outline Feedback
+## Talk outline with an essential control
 
-```text
-Top diagnosis: The talk is organized like a paper, so the audience will not know what claim each result supports.
+**Given:** A ten-minute talk compares reporter signal with and without a candidate regulator. Signal decreases, cell number also decreases, and normalization by surviving cells has not been performed. The audience wants to know whether to pursue a regulation experiment.
 
-Revision plan:
-1. Open with the unresolved problem and the one-sentence premise.
-2. Collapse the literature background into one orientation slide.
-3. Keep Results 1 and 3 in the main path because they prove the premise.
-4. Move Result 2 and the extended controls to backup.
-5. Add transitions that say why each result is the next test of the premise.
+**Revised evidence path:**
 
-New structure:
-- Slide 1: Why this problem matters now.
-- Slide 2: Premise and experimental logic.
-- Slides 3-5: Result 1, with the key comparison highlighted.
-- Slides 6-8: Result 3, with caveat and interpretation.
-- Slide 9: What this changes and what remains uncertain.
-- Backup: methods, controls, extra data.
-```
+1. Introduce the question: does the regulator alter reporter output, or does the signal fall because fewer cells remain?
+2. Show the reporter comparison and the cell-count control together, with conditions and uncertainty readable.
+3. State the limit: the current measurements do not separate regulation from cell loss.
+4. Close with the proposed discriminating measurement: reporter output per surviving cell, accompanied by a viability check.
 
-## Poster Redesign Feedback
+Cut the extended cloning history. Keep the cell-count control in the main path because it changes the interpretation. Label the discriminating measurement as proposed, rather than describing it as a completed rescue.
 
-```text
-Top diagnosis: The poster has six equal panels and no dominant claim, so viewers must read before they know why to care.
+## Poster revision
 
-Redesign:
-1. Rewrite the title as a finding or focused question.
-2. Make the decisive result the largest visual block.
-3. Reduce methods to a compact "how we tested it" strip.
-4. Replace paragraphs with short labels and figure-side annotations.
-5. Add a 30-second walkthrough for viewers who stop briefly.
+**Given:** The same fictional project has a six-panel poster, and viewers can encounter it without the presenter. Its title currently claims that the regulator suppresses expression.
 
-Cut or move:
-- Full protocol detail -> QR supplement.
-- Secondary result -> small support panel.
-- Long background -> two-sentence motivation.
-```
+**Revised title:** “Reporter signal falls alongside cell number after regulator treatment.”
 
-## Elevator Pitch Rewrite
+Place the reporter and cell-count comparisons in one prominent evidence block. Beside it, write: “A direct effect on expression remains unresolved; output per surviving cell has not yet been measured.” Keep the treatment definition, replicate information and uncertainty with the plots. Shorten the cloning history and link the extended protocol from a supplement. Check the actual poster at its intended size before asserting that its labels are readable.
 
-```text
-Audience: Cross-disciplinary scientist at a networking event.
+## Educational micro-explanation
 
-60-second pitch:
-I study why some immune cells ignore signals that should make them respond to tumors. The problem is that we often know the drug target but not which cells are actually ready to respond. My project combines single-cell measurements with perturbation experiments to identify the cell states that predict response. The useful outcome is a shorter list of biomarkers that could guide which samples or patients to test next. I would be interested in your thoughts on whether this framing matches what clinicians need from a predictive assay.
-```
+**Given:** A visitor asks what the fictional reporter project measures, with no request for collaboration or advice.
 
-## Chalk Talk Plan
+“We use a light-producing reporter to ask whether a treatment changes gene output. The light fell after treatment, but so did the number of cells. We still need to separate a change within each cell from having fewer cells to measure.”
 
-```text
-Board map:
-- Top: Big question and long-term program.
-- Left: What is known and the key gap.
-- Center: Three project modules.
-- Right: impact, funding logic, and department fit.
-- Bottom: risks and alternatives.
+The explanation ends at the scientific boundary. An invitation or networking ask is unnecessary for this encounter.
 
-Module pattern:
-Question -> approach -> expected result -> risk -> alternative -> what this enables.
+## Q&A when a check is missing
 
-Interruption move:
-"That is the key risk for Aim 2. The short answer is X; the backup is Y. I will mark that on the board and connect it to the alternative path here."
-```
+**Given:** In the fictional project, all treated samples were measured on one day and all controls on another. No within-day comparison or balanced repeat has been run.
 
-## Q&A Prep
+**Question:** “Could this be a batch effect?”
 
-```text
-Likely question: How do you know the effect is not a batch artifact?
-Short answer: We tested that by balancing condition across batches and checking whether the signal persists within each batch.
-Evidence: Mention the control slide or backup analysis.
-Limit: The current sample size still limits subgroup interpretation.
-Bridge: "That is why the next experiment is designed around prospective replication rather than more retrospective slicing."
-```
+**Answer:** “Yes. Treatment and measurement day are confounded in these data, so we cannot separate them. A repeat with both conditions represented on each day would test that explanation, but we have not run it yet.”
+
+Do not replace this answer with invented balanced batches, subgroup analyses or a completed replication.

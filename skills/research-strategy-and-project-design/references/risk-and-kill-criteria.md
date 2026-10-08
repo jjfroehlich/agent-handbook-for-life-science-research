@@ -12,16 +12,18 @@ Find the condition that must be true for the project to be worth continuing, the
 
 1. State the project as: "This is worth doing only if P."
 2. Identify the evidence that would make P unlikely enough to stop, pivot, or redesign.
-3. Choose the cheapest test that could expose that failure.
-4. Add the feared control or counterexample search the team most wants to avoid.
-5. Decide in advance what result triggers continue, revise, or stop.
+3. Prefer an early inexpensive check when it can actually address P. If no such check exists, compare the information and cost of the larger commitment with the alternatives.
+4. Examine an avoided control or counterexample when it targets a real ambiguity; nervousness alone does not make it decisive.
+5. Agree on what interpretable evidence would change the commitment. Distinguish an assay or manipulation failure, insufficient precision, and a result that challenges the prediction. Keep the scientific conclusion separate from a practical pause.
 
 ## Decision rules
 
-- Test necessary conditions before optimizing details.
+- Test cheaply checkable necessary conditions before work that depends on them.
 - Prefer killer experiments that change the decision, not demonstrations that merely feel productive.
 - Include feared controls because ignored controls often reveal the decisive confound.
 - When observation contradicts expectation, check whether the contradiction reveals a hidden assumption before discarding it as noise.
+- A negative biological inference needs a working manipulation and assay, appropriate conditions, and uncertainty narrow enough to challenge the predicted effect. A failed control calls for diagnosis; a non-significant result alone does not establish absence.
+- Choose review conditions with the user; do not invent a universal number of failed experiments or require a definitive scientific answer before pausing an unaffordable route.
 
 ## Variants And Edge Cases
 
@@ -33,7 +35,7 @@ Find the condition that must be true for the project to be worth continuing, the
 
 - Choosing tests that can only confirm enthusiasm.
 - Moving to expensive scale before checking the necessary condition.
-- Treating a missing or weak effect as merely technical before checking the core premise.
+- Explaining away a valid challenging result as technical, or treating a failed assay as evidence that the biology is absent.
 - Ignoring a contradiction because it threatens the preferred story.
 
 ## Diagnostic Questions
@@ -51,8 +53,9 @@ Only worth continuing if:
 Most likely failure mode:
 Cheapest decisive check:
 Feared control/counterexample:
-Continue threshold:
-Stop or pivot threshold:
+Evidence needed for an interpretable decision:
+Continue, repair, pause or redirect if:
+Scientific uncertainty that remains:
 Review date:
 ```
 

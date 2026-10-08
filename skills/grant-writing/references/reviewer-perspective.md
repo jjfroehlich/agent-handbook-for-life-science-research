@@ -66,6 +66,8 @@ Interview doubt map:
 Likely doubt:
 Short answer:
 Backup evidence:
+What is established, planned, or unresolved:
+Limit of the answer:
 What not to repeat from the written proposal:
 ```
 
@@ -73,7 +75,7 @@ What not to repeat from the written proposal:
 
 Weak signpost: "Approach 1: Sequencing diverse samples."
 
-Stronger signpost: "Aim 1 establishes whether [signal] is conserved across [sample classes], creating the basis for the intervention test in Aim 2."
+Stronger signpost: "Aim 1 tests whether [signal] recurs across [sample classes]." Explain separately whether and how that descriptive result informs a later intervention; recurrence alone does not establish a general causal mechanism.
 
 ## When not to apply this
 

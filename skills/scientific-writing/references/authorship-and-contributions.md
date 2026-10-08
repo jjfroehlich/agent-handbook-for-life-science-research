@@ -65,6 +65,8 @@ This topic helps word contribution and acknowledgement text clearly while respec
 
 ## Examples
 
+Illustrative fixed facts: A advised on experimental design and commented on an earlier manuscript draft; naming A is permitted. Use these roles only if supplied, rather than inferring them from vague thanks.
+
 Before: `We thank A for helping a lot with the project.`
 
 After: `We thank A for advice on the experimental design and comments on an earlier manuscript draft.`

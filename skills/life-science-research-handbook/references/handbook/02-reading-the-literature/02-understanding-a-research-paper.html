@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Understanding a research paper – Life Science Research Handbook</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../02-reading-the-literature/03-comparing-and-synthesizing-papers.html" rel="next">
+<link href="../02-reading-the-literature/01-keeping-up-with-the-literature.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-b1e86aa134d1406440609b53160c2c75.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../assets/styles/styles.css">
+<link rel="stylesheet" href="../assets/styles/web.css">
+</head>
+
+<body class="nav-sidebar docked fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../02-reading-the-literature/01-keeping-up-with-the-literature.html">Reading the literature</a></li><li class="breadcrumb-item"><a href="../02-reading-the-literature/02-understanding-a-research-paper.html">Understanding a research paper</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">Life Science Research Handbook</a> 
+        <div class="sidebar-tools-main">
+    <a href="../life-science-research-handbook.pdf" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About this handbook</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
+ <span class="menu-text">Research strategy and project design</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-research-strategy/01-choosing-a-scientific-problem.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Choosing a scientific problem</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-research-strategy/02-developing-ideas.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Developing ideas</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-research-strategy/03-connecting-questions-models-and-experiments.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Connecting questions, models and experiments</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-research-strategy/04-planning-and-reviewing-a-research-project.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Planning and reviewing a research project</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Reading the literature</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02-reading-the-literature/01-keeping-up-with-the-literature.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Keeping up with the literature</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02-reading-the-literature/02-understanding-a-research-paper.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Understanding a research paper</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02-reading-the-literature/03-comparing-and-synthesizing-papers.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Comparing and synthesizing papers</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
+ <span class="menu-text">Data visualization</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/01-choosing-a-figure-or-table.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Choosing a figure or table</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/02-showing-observations-and-uncertainty.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Showing observations and uncertainty</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/03-color-symbols-and-accessibility.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Color, symbols and accessibility</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/04-biological-images.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Biological images</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/05-specialized-displays-and-explanatory-diagrams.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Specialized displays and explanatory diagrams</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-data-visualization/06-preparing-figures-for-publication.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preparing figures for publication</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
+ <span class="menu-text">Writing a paper</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-writing-a-paper/01-planning-the-paper.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Planning the paper</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-writing-a-paper/02-titles-abstracts-and-introductions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Titles, abstracts and introductions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-writing-a-paper/03-methods-results-and-figure-legends.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Methods, results and figure legends</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-writing-a-paper/04-discussion-and-conclusions.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Discussion and conclusions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04-writing-a-paper/05-drafting-reviewing-and-revising-a-paper.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Drafting, reviewing and revising a paper</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
+ <span class="menu-text">Writing a thesis</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../05-writing-a-thesis/01-from-thesis-plan-to-finished-text.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">From thesis plan to finished text</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false">
+ <span class="menu-text">Communicating research</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06-communicating-research/01-explaining-research-to-an-audience.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Explaining research to an audience</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06-communicating-research/02-designing-a-presentation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Designing a presentation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06-communicating-research/03-delivering-a-talk-and-answering-questions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Delivering a talk and answering questions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06-communicating-research/04-posters.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Posters</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06-communicating-research/05-elevator-pitches-and-chalk-talks.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Elevator pitches and chalk talks</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="false">
+ <span class="menu-text">Writing grants and fellowships</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../07-grants-and-fellowships/01-choosing-an-opportunity-and-planning-the-application.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Choosing an opportunity and planning the application</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../07-grants-and-fellowships/02-writing-the-proposal.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Writing the proposal</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../07-grants-and-fellowships/03-funding-interviews-and-preparing-for-an-award.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Funding interviews and preparing for an award</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false">
+ <span class="menu-text">Publishing</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08-publishing/01-choosing-a-journal-and-submitting-a-paper.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Choosing a journal and submitting a paper</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08-publishing/02-reviewing-a-manuscript.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Reviewing a manuscript</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08-publishing/03-responding-to-peer-review.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Responding to peer review</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08-publishing/04-rejection-transfer-and-published-reviews.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Rejection, transfer and published reviews</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="false">
+ <span class="menu-text">Career development</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/01-exploring-career-options.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Exploring career options</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/02-choosing-an-advisor-and-research-environment.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Choosing an advisor and research environment</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/03-cvs-resumes-letters-and-references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">CVs, resumes, letters and references</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/04-finding-and-applying-for-positions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Finding and applying for positions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/05-finding-a-group-leader-position.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Finding a group leader position</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../09-career-development/06-career-transitions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Career transitions</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="false">
+ <span class="menu-text">Work Culture &amp; Management</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/01-mentoring.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mentoring</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/02-lab-manuals-and-shared-expectations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lab manuals and shared expectations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/03-leading-and-reviewing-a-research-group.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Leading and reviewing a research group</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/04-collaboration-authorship-and-credit.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Collaboration, authorship and credit</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/05-sustainable-and-inclusive-research-workplaces.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sustainable and inclusive research workplaces</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10-mentoring-and-management/06-feedback-and-conflict.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Feedback and conflict</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../02-reading-the-literature/01-keeping-up-with-the-literature.html">Reading the literature</a></li><li class="breadcrumb-item"><a href="../02-reading-the-literature/02-understanding-a-research-paper.html">Understanding a research paper</a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span id="paper-reading-chapter" class="quarto-section-identifier">Understanding a research paper</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>You may understand every word in a paper yet be unsure why an experiment supports its conclusion. Work through that connection using the figures, captions and relevant methods. Aim to explain what the study found and which questions remain open.</p>
+<section id="paper-reading-purpose" class="level2">
+<h2 class="anchored" data-anchor-id="paper-reading-purpose">What do you need from the paper?</h2>
+<p>Decide what you need from this paper: orientation in an unfamiliar field, evidence for a particular claim, a method you might adopt or preparation for a discussion. That purpose changes where to spend time. For orientation, the Introduction can identify the question and useful earlier work. To adopt a method, concentrate on the procedure, its validation and conditions of use. To rely on a biological conclusion, follow the experiments supporting it, including controls and supplementary material <a href="#ref-paper-reading-carey2020reading">[1, Rules 1–3]</a>.</p>
+<p>Identify the article type as well. A review can orient you and lead to original studies; its account of an experiment is not a substitute for reading that experiment when your conclusion depends on it. A methods paper needs evidence about performance and limits. An original research article presents observations and an argument about what they mean. The workflow below concentrates on that argument.</p>
+<p>Begin with enough of the abstract and Introduction to state the question and proposed answer. Then move between Results, figures and methods. Reading the figures first can work when you know the system; reading each Results passage alongside its figure can work when you need more context. Neither order is compulsory. Look up an unfamiliar term or follow a cited method when it blocks your understanding of a consequential step, rather than allowing every unfamiliar word to start a separate literature search <a href="#ref-paper-reading-carey2020reading">[1, Rules 4 and 8]</a>.</p>
+<p>For an overview, it may be enough to understand the question, approach and main finding. Before adopting a method, check how its performance was assessed and whether that assessment covers the samples you plan to use. Before citing a proposed mechanism as established, read the experiments that distinguish it from other explanations. Note anything you still need to check.</p>
+</section>
+<section id="paper-reading-argument" class="level2">
+<h2 class="anchored" data-anchor-id="paper-reading-argument">Following the argument</h2>
+<p>State the research question in your own words, then identify the comparison intended to answer it. What changed between the groups or conditions? What was measured? Why would that measurement help answer the question?</p>
+<p>Follow the main claim through its supporting experiments. One may establish that the measurement works, another show a response and another test an alternative explanation. The order of Results usually expresses this logic rather than the order in which the work happened. Ask what each experiment adds and which later conclusion depends on it <a href="#ref-paper-reading-mensh2017">[3, Rule 7]</a>.</p>
+<p>Write an observation before accepting the interpretation: <em>reporter fluorescence was lower</em> describes a measurement; <em>the treatment suppresses a specific pathway</em> proposes why it changed. Results headings and figure titles can contain interpretations too. Check whether the panels support them <a href="#ref-paper-reading-carey2020reading">[1, Rules 3–6]</a>.</p>
+<div class="example-indent block" data-inset="(left: 12pt)" data-breakable="true">
+<div class="worked-example block" data-fill="rgb(&quot;f5f7f8&quot;)" data-inset="12pt" data-radius="3pt" data-breakable="false">
+<div class="block" data-breakable="false" data-sticky="true">
+<p><span id="paper-reading-reporter-example" class="example-label"><strong>Example: what a reporter measurement establishes</strong></span></p>
+<p>In this fictional paper, cultured cells receive inhibitor Q or vehicle. At six hours, Figure 1A shows lower background-corrected whole-well reporter fluorescence with Q. The authors propose that Q suppresses the reporter through a specific molecular target. The material considered so far does not identify viable-cell number or fluorescence per cell.</p>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Part of the argument</th>
+<th>What the reader can establish</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Question</td>
+<td>Does Q suppress reporter activity through the proposed target?</td>
+</tr>
+<tr class="even">
+<td>Observation</td>
+<td>Whole-well fluorescence is lower with Q than with vehicle at six hours.</td>
+</tr>
+<tr class="odd">
+<td>Unresolved inference</td>
+<td>Total signal depends on contributing cells and their signal. This measurement alone does not distinguish fewer cells from lower signal per cell, or establish target specificity.</td>
+</tr>
+</tbody>
+</table>
+<p>To assess the proposed mechanism, look for measurements of cell number and signal per cell, then for experiments testing whether Q acts through the proposed target. The whole-well measurement alone cannot answer those questions.</p>
+</div>
+</div>
+</section>
+<section id="paper-reading-figures-methods" class="level2">
+<h2 class="anchored" data-anchor-id="paper-reading-figures-methods">Figures and methods</h2>
+<p>For each panel supporting the conclusion, establish what its points or other marks represent. A point may be a cell, a culture, an animal or an average across several measurements. Read the axes, units, group labels and legend. Check whether values are totals, proportions or normalized measurements. For a fold change, identify the baseline used to calculate it <a href="#ref-paper-reading-carey2020reading">[1, Rule 4]</a>.</p>
+<p>Use the caption to find the relevant method. Follow how samples were selected and measured, then how those measurements became the plotted values. For a normalized result, find the denominator; for an analysis that excludes observations, find the exclusion criteria. These details may be in supplementary methods.</p>
+<p>In the reporter example, background correction does not account for how many viable cells contribute to the signal. The measurement also tells you only what happened at six hours, not when the response began or how long it lasts.</p>
+<p>Ask whether the display supplies the evidence claimed. A representative image can show a phenotype, but to assess how common it is, you need to know how samples were selected and how the phenotype was counted. A smooth curve may be a fitted model rather than additional observations. For an unfamiliar figure type, consult <a href="../03-data-visualization/05-specialized-displays-and-explanatory-diagrams.html#specialist-chapter">specialized displays and explanatory diagrams</a>, then return to the paper’s caption and methods to check how it was constructed.</p>
+<p>If a necessary detail remains missing, name it specifically. “The caption does not identify whether points are cultures or repeated measurements from one culture” is a question you can resolve. “The experiment is unreliable” goes beyond what that absence establishes.</p>
+</section>
+<section id="paper-reading-inference" class="level2">
+<h2 class="anchored" data-anchor-id="paper-reading-inference">Assessing the evidence</h2>
+<p>Examine controls by the alternative explanation they address. In a before-and-after experiment, a change may reflect elapsed time or repeated measurement as well as the intervention. A suitable concurrent control helps separate these effects. In the reporter example, vehicle supplies a treatment comparison, but it does not by itself settle cell number, assay interference or target specificity. Read what the controls test and what they leave open <a href="#ref-paper-reading-makin2019">[2]</a>.</p>
+<p>Also identify the independent units behind the comparison. Repeated images from one culture can describe that culture more thoroughly; they do not create additional independently treated cultures. Check how the analysis handles this dependence and whether the replication supports the scope of the claim. If the paper says the treatment works differently in two conditions, look for a direct comparison of those effects. A significant result in one condition and a non-significant result in the other does not establish that they differ <a href="#ref-paper-reading-makin2019">[2]</a>.</p>
+<p>Read the estimated effect together with its uncertainty. Identify what error bars represent: standard deviation describes spread among observations; standard error or a confidence interval concerns precision of an estimate. To compare groups, look for an analysis of their difference rather than judging whether their separate error bars overlap <a href="#ref-paper-reading-wilke2019">[4, pp.&nbsp;186–191]</a>. See <a href="../03-data-visualization/02-showing-observations-and-uncertainty.html#uncertainty-effects">showing observations and uncertainty</a> for an explanation of these intervals.</p>
+<p>A non-significant result alone does not establish that an effect is absent. Check the range of effects compatible with the estimate and its uncertainty interval. If that range includes both no change and the change predicted by a proposed mechanism, the measurement does not resolve the prediction. A narrower interval may rule out an effect as large as predicted without establishing an exact zero. Base that judgment on the analysis the paper reports <a href="#ref-paper-reading-makin2019">[2]</a>.</p>
+<p>Distinguish an association, the effect of an intervention and evidence for its mechanism. Observational covariation can have several explanations. Manipulating a treatment strengthens some inferences, but the treatment may act through routes other than the proposed one. Ask which experiment distinguishes those routes before describing the mechanism as established <a href="#ref-paper-reading-makin2019">[2]</a>.</p>
+<p>Judge a descriptive study by the description it supports. An atlas need not identify a mechanism to be useful, but its coverage depends on which specimens, conditions and measurements it includes. Ask whether the sampling supports the claimed population and whether the method could miss the feature being described. A missing mechanism and an inadequate measurement are different limitations. <a href="#ref-paper-reading-carey2020reading">[1, Rules 3–6]</a>.</p>
+<p>Apply the same scrutiny to findings you agree with and those you doubt. Would you ask for the same control if the result supported your expectations? Distinguish a missing explanation of a method from evidence that the method was used incorrectly. Likewise, a study confined to one cell model may answer its stated question while leaving open whether the finding applies elsewhere <a href="#ref-paper-reading-carey2020reading">[1, Rules 6–7]</a>.</p>
+</section>
+<section id="paper-reading-account" class="level2">
+<h2 class="anchored" data-anchor-id="paper-reading-account">Taking useful notes</h2>
+<p>Close the paper and explain the question, main evidence and conclusion in a few sentences, including any important limits. Then reopen it to check your account and add the relevant figure, table or method locations. If you cannot explain a step, reread it or discuss it with someone who understands the method <a href="#ref-paper-reading-carey2020reading">[1, Rules 3, 8–9]</a>.</p>
+<p>Keep the paper’s citation or stable link with the note. Include the experimental system, treatment and measurement time when these define the finding you plan to use. In the reporter example, the note needs to say that the measurement is whole-well fluorescence in cultured cells at six hours. Separate what the authors conclude from what you have checked yourself.</p>
+<div class="example-indent block" data-inset="(left: 12pt)" data-breakable="true">
+<div class="worked-example block" data-fill="rgb(&quot;f5f7f8&quot;)" data-inset="12pt" data-radius="3pt" data-breakable="true">
+<div class="block" data-breakable="false" data-sticky="true">
+<p><span id="paper-reading-note-example" class="example-label"><strong>Example: a short reading note</strong></span></p>
+<div class="block" data-inset="(left: 12pt)" data-breakable="true">
+<p>The paper asks whether inhibitor Q suppresses reporter activity through its proposed target. In cultured cells, Q produces lower background-corrected whole-well fluorescence than vehicle at six hours (Fig. 1A). The authors interpret it as target-specific suppression, but I have not yet found viable-cell counts or per-cell signal measurements. Replication and estimate precision also need checking in the caption and Methods. Before using the paper as evidence for the mechanism, I need to look for cell-normalized measurements and experiments testing target specificity.</p>
+</div>
+</div>
+<p>Suppose you then find an additional panel reporting fewer viable cells with Q. Update the note:</p>
+<div class="block" data-inset="(left: 12pt)" data-breakable="true">
+<p>The additional viable-cell-count panel shows fewer viable cells with Q. Cell number may therefore contribute to the lower whole-well fluorescence. The findings still do not establish whether signal per viable cell changes or whether the proposed target mediates the response. I will look for a per-cell measurement, check how it was obtained and examine whether specificity experiments distinguish the proposed mechanism from other effects of Q.</p>
+</div>
+<p>Fewer viable cells alone do not establish how much of the fluorescence difference is explained by cell number.</p>
+</div>
+</div>
+<p>If you are preparing a journal review, see <a href="../08-publishing/02-reviewing-a-manuscript.html#review-report">writing the report</a> for organizing your comments.</p>
+</section>
+<section id="paper-reading-references" class="level2">
+<h2 class="anchored" data-anchor-id="paper-reading-references">References</h2>
+<div class="chapter-references" typst:text:size="9.5pt">
+<div class="block" data-breakable="false">
+<ol type="1">
+<li><p><span id="ref-paper-reading-carey2020reading"><a href="https://doi.org/10.1371/journal.pcbi.1008032">Carey, M. A., Steiner, K. L., &amp; Petri, W. A., Jr.&nbsp;(2020). <strong>Ten simple rules for reading a scientific paper.</strong> <em>PLOS Computational Biology</em>, 16(7), e1008032.</a></span></p></li>
+<li><p><span id="ref-paper-reading-makin2019"><a href="https://elifesciences.org/articles/48175">Makin, T. R., &amp; Orban de Xivry, J.-J. (2019). <strong>Science Forum: Ten common statistical mistakes to watch out for when writing or reviewing a manuscript.</strong> <em>eLife</em>, 8, e48175.</a></span></p></li>
+<li><p><span id="ref-paper-reading-mensh2017"><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619">Mensh, B., &amp; Kording, K. (2017). <strong>Ten simple rules for structuring papers.</strong> <em>PLOS Computational Biology</em>, 13(9), e1005619.</a></span></p></li>
+<li><p><span id="ref-paper-reading-wilke2019"><a href="https://clauswilke.com/dataviz/">Wilke, C. O. (2019). <strong>Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures.</strong> O’Reilly Media.</a></span></p></li>
+</ol>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script>
+
+/* Keep the authored topic/chapter hierarchy and identify the current page. */
+
+document.addEventListener('DOMContentLoaded', () => {
+
+  document.querySelector('#quarto-sidebar a.sidebar-link.active')?.setAttribute('aria-current', 'page');
+
+});
+
+</script>
+
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../02-reading-the-literature/01-keeping-up-with-the-literature.html" class="pagination-link" aria-label="Keeping up with the literature">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Keeping up with the literature</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../02-reading-the-literature/03-comparing-and-synthesizing-papers.html" class="pagination-link" aria-label="Comparing and synthesizing papers">
+        <span class="nav-page-text">Comparing and synthesizing papers</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

@@ -1,10 +1,10 @@
 ---
 name: grant-writing
-description: "Use when the user is planning, drafting, revising, or reviewing a grant or fellowship application, including specific aims, project summaries, significance/innovation/approach sections, funder-fit checks, budget-feasibility alignment, risk/alternative plans, resubmissions, interviews, or reviewer-facing funding narratives. Trigger only when the artifact or decision is part of a funding mechanism; for manuscript peer review, journal submission, general prose editing, or career materials without a funding context, use a different skill."
+description: "Plan, draft, or review grant and fellowship applications. Exclude manuscript work and career materials outside a funding application."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Grant Writing
@@ -26,10 +26,10 @@ Use this skill for grant or fellowship applications, specific aims pages, resear
 
 ## Core workflow
 
-1. Identify the funder, mechanism, required sections, review criteria, audience breadth, deadline, available proposal text, review-team availability, and time left for critique.
-2. Run the funder-fit, compliance, schedule, and internal-review preflight before improving prose.
-3. State the objective and active premise early, then test whether the narrative makes the problem, payoff, approach, and applicant fit visible.
-4. Review significance, innovation, aims, feasibility evidence, budget alignment, risks, alternatives, and reviewer readability.
+1. Scope the preflight to the deliverable. For whole applications, planning, or readiness judgments, identify the funder, mechanism, required sections, review criteria, audience breadth, deadline, available proposal text, review-team availability, and time left for critique. For a local edit, inspect the supplied text and constraints and identify only missing information that could change that edit.
+2. Run the full funder-fit, compliance, schedule, and internal-review preflight only for whole-application planning or submission readiness. For local edits, use the supplied constraints and flag only a consequential compliance uncertainty.
+3. For narrative or structural work, make the objective, premise, payoff, approach, and applicant fit visible. For local prose edits, preserve meaning and supplied constraints.
+4. Review significance, innovation, aims, feasibility, budget, risks, and alternatives only where they bear on the requested section or readiness judgment.
 5. Return prioritized edits, not generic encouragement: what to move, cut, relabel, evidence, reframe, or verify against the call.
 
 ## Reference routing
@@ -40,8 +40,12 @@ Use this skill for grant or fellowship applications, specific aims pages, resear
 - Open `references/significance-innovation-approach.md` when significance, innovation, impact, DEI, ambition, or approach rationale need work.
 - Open `references/reviewer-perspective.md` when the draft needs panel readability, skim tests, non-specialist framing, reader feedback, or interview preparation.
 - Open `references/budget-and-feasibility.md` when budget, preliminary data, applicant capacity, risk, alternatives, or future-work integrity are at issue.
+- Open `references/award-start-and-conditions.md` when an application decision or planned handoff raises award conditions, authorization, or readiness to begin. Keep financial and legal decisions with the responsible institution.
+- Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task.
 
 ## Output formats
+
+Select only the format that fits the requested deliverable; these are patterns, not mandatory response sections.
 
 - Proposal triage memo with funder-fit, reviewer-risk, and next edits.
 - Specific aims revision plan.
@@ -52,9 +56,11 @@ Use this skill for grant or fellowship applications, specific aims pages, resear
 
 ## Quick checklist
 
+Apply only the checks relevant to the requested scope and artifact. Inspect supplied context first; treat `identify` or `clarify` as analysis when the answer is already available, and ask only for missing information that could change the result.
+
 - Is the opportunity a real fit, and are current instructions reflected in the draft?
 - Can a reviewer find the objective, premise, significance, innovation, approach, and feasibility evidence quickly?
-- Are aims independent enough, cognitively manageable, and supported by preliminary data or other feasibility evidence?
+- Are aims understandable and their dependencies assessable for this scheme and development stage, with appropriate evidence, qualification milestones, or decision gates?
 - Are risks named with alternatives, rather than hidden?
 - Do figures, headings, topic sentences, and emphasis let a busy reviewer recover the proposal logic?
 
@@ -64,11 +70,13 @@ Use this skill for grant or fellowship applications, specific aims pages, resear
 - Burying the objective under background.
 - Blurring significance, innovation, and approach into one enthusiasm section.
 - Treating preliminary data, CV, budget, impact, or DEI as boilerplate rather than scoring evidence.
-- Calling execution gaps "high risk" when they are actually missing feasibility plans.
+- Calling execution gaps "high risk" without a credible development or access plan.
+- Adding pilot findings, secured access, or institutional commitments that the user has not supplied.
 
 ## Quality bar
 
 - Ground advice in the user's funder, mechanism, review criteria, and draft text when available.
 - Translate reviewer expectations into concrete edits or checks.
-- Preserve uncertainty about official rules and ask for the current call when compliance is unclear.
+- Check the current call when a compliance question could change the requested work; a local wording edit does not require a full call review.
+- Distinguish completed evidence, planned work, unresolved feasibility, selection, spending authority, and technical readiness. A rewrite must preserve their status.
 - Avoid generic encouragement unless it is attached to a specific revision action.

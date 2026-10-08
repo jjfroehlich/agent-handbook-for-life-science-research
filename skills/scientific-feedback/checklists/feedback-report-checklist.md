@@ -25,6 +25,8 @@ Use this before returning an integrated scientific feedback report.
 
 ## Final pass
 
+Use only the fields that help this request. A short integrated answer need not contain separate headings, a fixed issue count, or empty severity categories. State actual inspection limits, especially for unavailable figures or policies.
+
 ```text
 Scope:
 Selected lenses:

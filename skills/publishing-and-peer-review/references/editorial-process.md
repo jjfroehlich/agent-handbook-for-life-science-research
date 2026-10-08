@@ -29,7 +29,7 @@ Explain editorial decisions as process judgments that combine scope, audience, n
 - **Desk rejection:** The editor may be signaling fit, novelty, audience, or presentation problems before peer review. Diagnose each possibility.
 - **Major revision:** The decision is not acceptance. Treat it as a bounded negotiation with required changes and residual risk.
 - **Conflicting reviewers:** Editors often need the authors to explain a defensible path through the conflict.
-- **Appeal:** Appeals are narrow. They should be based on a specific decision-relevant error, not general disagreement.
+- **Appeal:** Check permitted grounds and the formal route. Explain a specific issue whose resolution could change the decision; general disagreement is insufficient.
 - **Editor relationship:** Prior conversations can improve clarity but do not replace manuscript quality or journal criteria.
 
 ## Anti-patterns
@@ -72,8 +72,8 @@ Residual risk: [remaining uncertainty]
 
 ## Examples
 
-- "The reviewers ask for two additional analyses, but the editor highlights claims that are too broad. The safest revision is to narrow the claim and add one feasible analysis, then explain why the second request is outside the current scope."
-- "This looks like a scope rejection, not a quality rejection. The next move is to revise the cover letter and target a venue whose readers need the method."
+- In a fictional case where existing evidence supports the narrower claim, one analysis resolves a validity concern and a second only explores a new setting: narrow the claim, plan the necessary analysis and explain the optional extension. Feasibility alone does not select the analysis, and planned work must not be described as completed.
+- If the decision explicitly says the technically sound method falls outside the journal's audience, seek a better-fitting venue and update the cover letter. A sparse rejection letter does not establish that scope was the only issue.
 
 ## When not to apply this
 

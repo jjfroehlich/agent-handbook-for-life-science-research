@@ -1,10 +1,10 @@
 ---
 name: literature-reading-and-synthesis
-description: "Use only when the current deliverable is active reading or synthesis of scientific literature: claim/evidence extraction, figure unpacking, cross-paper comparison, a synthesis matrix, literature tracking, reusable evidence notes, or journal-club readiness. Reassess every turn; do not invoke or retain this skill merely because papers were relevant earlier. Do not use when literature is supporting evidence for computational analysis, pipelines, model architecture, fine-tuning, feature engineering, or implementation strategy, even if the user asks to consult or compare papers. Also exclude a completed review used only to update plans, workflows, scripts, manuscripts, or documentation; dataset/download provenance; literature search alone; simple one-paper summaries; citation formatting; grant writing; peer review; and slide design unless renewed literature examination is the primary work."
+description: "Produce scientific claim/evidence notes, figure interpretations, cross-paper syntheses, or reading workflows. Exclude literature consultation that only supports a technical task."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Literature Reading And Synthesis
@@ -37,12 +37,14 @@ Help users read scientific papers actively, extract claims and evidence without 
 2. Clarify the goal: orient, skim, present, compare, decide, track, or synthesize.
 3. Route to the right playbook: paper reading, claim extraction, literature tracking, or synthesis matrices.
 4. Pick the appropriate depth: quick triage, targeted section read, figure/evidence read, or high-stakes deep read.
-5. Separate motivation, approach, results, interpretation, limitations, and next steps.
+5. Record the material actually inspected: abstract only, selected sections or figures, full article, and any supplement checked. Separate reported observations, author interpretations and your appraisal; do not upgrade a screening note to verified evidence.
 6. For figures and tables, decode the evidence before writing the take-home.
-7. Convert the read into a concrete output: reading plan, extraction table, figure note, tracking queue, or synthesis matrix.
+7. Return the requested literature artifact at the necessary depth. A focused evidence question may need one supported paragraph; use a table or full extraction only when it helps the comparison or the user requests it.
 8. State caveats when advice is about habit design, dated source lists, or unsupported citation-manager mechanics.
 
 ## Output formats
+
+Select only the format that fits the requested deliverable; these are patterns, not mandatory response sections.
 
 - Reading-depth plan.
 - Six-question paper note.
@@ -59,10 +61,13 @@ Help users read scientific papers actively, extract claims and evidence without 
 - Open `references/claim-extraction.md` for six-question extraction, figure/table unpacking, claim appraisal, and critique discipline.
 - Open `references/literature-tracking.md` for alert streams, source portfolios, query tuning, weekly triage, and backlog pruning.
 - Open `references/synthesis-matrices.md` for matrix fields, field-source maps, build-on-it notes, and comparison outputs.
+- Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task.
 - Use checklists for quick execution once the relevant reference route is clear.
 - Use examples when the user asks for a template, worked pattern, or concrete artifact.
 
 ## Quick checklist
+
+Apply only the checks relevant to the requested scope and artifact. Inspect supplied context first; treat `identify` or `clarify` as analysis when the answer is already available, and ask only for missing information that could change the result.
 
 - What is the user's reading goal and deadline?
 - Is this quick triage, targeted reading, or high-stakes deep reading?
@@ -83,7 +88,7 @@ Help users read scientific papers actively, extract claims and evidence without 
 ## Quality bar
 
 - The answer must name the reading/tracking goal and choose a matching depth.
-- Claims, evidence, interpretation, limitations, and next actions must be distinct.
+- Keep claims, evidence and interpretation distinct at the requested scope. Include limitations that could change the answer; add next actions when they serve the user's task.
 - Figure and table advice must include concrete evidence-decoding steps.
 - Literature tracking advice must be sustainable and volume-aware.
 - Outputs must be reusable by the user after the conversation.

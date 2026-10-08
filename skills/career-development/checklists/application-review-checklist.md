@@ -41,7 +41,7 @@ Avoid inventing metrics. If no result is supplied, ask for one or use a truthful
 
 ## Output
 
-Return the top three fixes in priority order, then provide targeted rewrites only for sections that affect the reader's decision.
+Prioritize the fixes that matter for the requested document or passage, and provide useful targeted rewrites. Do not require three problems when fewer are present.
 
 ## Recommendation Letter Scaffold Final Pass
 

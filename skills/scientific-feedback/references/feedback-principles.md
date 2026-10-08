@@ -26,7 +26,7 @@ Turn critique into a bounded, useful decision aid: what works, what fails, what 
 - Give fewer, sharper comments when the user asks for quick feedback.
 - Put feasibility, compliance, evidence, and audience failures before style polish.
 - Preserve the artifact's useful core before recommending large restructuring.
-- Make line edits only after the review mode permits line-level work.
+- Use brief replacement wording when it clarifies an authorized critique. Keep a larger rewrite within the user's requested scope rather than requiring a separate mode declaration.
 - Use examples or replacement wording when a comment would otherwise be abstract.
 - State assumptions instead of silently judging unavailable context.
 
@@ -67,7 +67,7 @@ Assumptions or missing context: <limits>.
 ## Examples
 
 - Weak: "The introduction is confusing." Strong: "The introduction has three problem statements; choose one and make the rest supporting context."
-- Weak: "Make the poster cleaner." Strong: "Cut the methods paragraph by half and use that space to enlarge the result figure the audience must read first."
+- Weak: "Make the poster cleaner." Strong, if the inspected poster gives excessive space to secondary methods: "Compress those methods and enlarge the result comparison, retaining the control and qualification needed to interpret it."
 
 ## When not to apply this
 

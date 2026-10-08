@@ -40,7 +40,7 @@ Expose the scientific structure without letting algorithmic defaults, arbitrary 
 ## Anti-patterns
 
 - Interpreting heatmap clusters without knowing scaling and ordering.
-- Using diverging palettes for all-positive heatmap values.
+- Using diverging palettes without a meaningful reference. All-positive ratios can still have a substantive midpoint at one.
 - Treating network layout proximity as evidence when layout is algorithmic.
 - Using Venn diagrams for too many sets.
 - Adding 3D effects for decoration.

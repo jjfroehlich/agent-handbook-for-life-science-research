@@ -11,12 +11,12 @@ Use this when the user needs to identify claims, evidence, methods, limitations,
 
 ## The job of this topic
 
-Turn reading into structured evidence review. Do not produce a generic summary. Separate what the authors wanted to know, what they did, why that method was appropriate, what the data show, how the authors interpret it, and what should happen next.
+Inspect the connection between a claim and its evidence. The six questions below are a reading scaffold; a focused request may need only the relevant observation, inference and missing check.
 
 ## Default workflow
 
 1. Name the evidence unit: whole paper, figure, table, experiment, or section.
-2. Ask six questions:
+2. Select the relevant questions from this scaffold:
    - Why was this done?
    - What was done?
    - Why was it done that way?
@@ -26,7 +26,7 @@ Turn reading into structured evidence review. Do not produce a generic summary. 
 3. For each major claim, record the supporting evidence object.
 4. Separate results from interpretation.
 5. Check alternative explanations, bias, limitations, confounders, and generalizability.
-6. Write a short reuse decision: use, use with caveat, background only, or do not rely on it yet.
+6. State the strongest supported conclusion and its consequential limit. Add a reuse decision when the user needs one.
 
 ## Decision rules
 
@@ -35,6 +35,8 @@ Turn reading into structured evidence review. Do not produce a generic summary. 
 - If the article is a review, extract field map and major positions rather than forcing a primary-research claim table.
 - If the article is a method or resource paper, extract procedure, validation, scope, and reuse constraints.
 - If critique focuses on wording or citation irritation, recenter on evidence, design, bias, limitations, and generalizability.
+- Distinguish association from a causal explanation. An intervention can test causality, but off-target effects, measurement definitions and missing controls can leave the proposed mechanism unresolved.
+- Treat an alternative explanation as a hypothesis to test, not a finding. Record the inspected figure/section and reading status beside consequential evidence notes.
 
 ## Variants and edge cases
 
@@ -54,7 +56,7 @@ Turn reading into structured evidence review. Do not produce a generic summary. 
 
 ## Diagnostic questions
 
-- Can the note answer all six extraction questions?
+- Does the note answer the user's evidence question without implying that uninspected material was assessed?
 - Is each major claim tied to a concrete evidence object?
 - Are result and interpretation separate?
 - Are limitations, bias, confounders, and generalizability recorded?
@@ -68,6 +70,8 @@ Turn reading into structured evidence review. Do not produce a generic summary. 
 | Field | Entry |
 |---|---|
 | Evidence unit | Paper / figure / table / experiment |
+| Inspected material/status | Abstract / selected sections / article; supplement checked separately |
+| Supporting location | Figure/panel, caption, section or method |
 | Why was it done? | |
 | What was done? | |
 | Why this approach? | |
@@ -79,8 +83,8 @@ Turn reading into structured evidence review. Do not produce a generic summary. 
 
 ### Claim-evidence row
 
-| Claim | Evidence object | Method | Result | Interpretation | Limitation | Reuse decision |
-|---|---|---|---|---|---|---|
+| Claim | Evidence object/location | Reading status | Result | Interpretation | Consequential limit |
+|---|---|---|---|---|---|
 
 ## Examples
 
