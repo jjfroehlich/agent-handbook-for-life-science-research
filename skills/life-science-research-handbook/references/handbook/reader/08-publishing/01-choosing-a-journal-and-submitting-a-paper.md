@@ -18,19 +18,19 @@ The examples continue the fictional [Brake study](../04-writing-a-paper/01-plann
 
 ### Match the paper to its readers
 
-Summarize the contribution and identify who would use it. Match both the subject and kind of advance: a journal that publishes work on your organism may have little interest in the particular question or method. [[1, pp. 175–180]](#ref-submission-rightmoves2006).
+Summarize the contribution and identify who would use it. Match both the subject and kind of advance: a journal that publishes work on your organism may have little interest in the particular question or method. [[1]](#ref-submission-rightmoves2006).
 
-Read the aims, scope and article types, then several recent papers close to yours in purpose. Compare their questions, evidence and intended readers with your own. One similar article can suggest a candidate journal; a pattern across several papers gives a firmer basis for judging fit. [[1, p. 178]](#ref-submission-rightmoves2006); [[3]](#ref-submission-editors2019).
+Read the aims, scope and article types, then several recent papers close to yours in purpose. Compare their questions, evidence and intended readers with your own. One similar article can suggest a candidate journal; a pattern across several papers gives a firmer basis for judging fit. [[1]](#ref-submission-rightmoves2006); [[3]](#ref-submission-editors2019).
 
 Use the journal’s editorial criteria to judge what kind of advance it expects. A broad journal may expect relevance beyond the immediate system; a methods journal will usually look for a useful capability and evidence of its performance. [[3]](#ref-submission-editors2019).
 
-Ask a colleague familiar with the journals to read the abstract and main figures. Which journal would they recommend, and what additional evidence might its editors expect? [[1, p. 178]](#ref-submission-rightmoves2006).
+Ask a colleague familiar with the journals to read the abstract and main figures. Which journal would they recommend, and what additional evidence might its editors expect? [[1]](#ref-submission-rightmoves2006).
 
 <a id="submission-shortlist"></a>
 
 ### Make a realistic shortlist
 
-Agree a first choice and a few alternatives with coauthors, weighing scientific fit, practical constraints and likely delay. An ambitious first submission can be reasonable when the case for that readership is clear and the authors accept the time cost of a possible rejection. [[2, pp. 125–126]](#ref-submission-gosling2022); [[1, pp. 177–179]](#ref-submission-rightmoves2006).
+Agree a first choice and a few alternatives with coauthors, weighing scientific fit, practical constraints and likely delay. An ambitious first submission can be reasonable when the case for that readership is clear and the authors accept the time cost of a possible rejection. [[2]](#ref-submission-gosling2022); [[1]](#ref-submission-rightmoves2006).
 
 First rule out journals whose charges you cannot cover, whose license conflicts with your requirements or whose format would force you to omit essential explanation. Then compare the remaining choices. When weighing delay, check whether advertised decision times cover only the initial editorial assessment or also external review. They are estimates, not promises. Recheck the chosen journal’s current instructions before submission.
 
@@ -116,7 +116,7 @@ Send a presubmission inquiry when an answer about scope, article type or expecte
 
 Briefly explain the scientific question, finding and approach, adding the abstract if requested. Ask the question that affects your decision. For example, if your paper tests a method in one system, ask whether the journal would consider that evidence or expect validation in additional systems.
 
-An encouraging reply does not guarantee external review. Keep the correspondence and refer to it accurately when submitting. You can contact an editor directly without a prior meeting or senior introduction. [[4]](#ref-submission-chat2021); [[1, p. 179]](#ref-submission-rightmoves2006).
+An encouraging reply does not guarantee external review. Keep the correspondence and refer to it accurately when submitting. You can contact an editor directly without a prior meeting or senior introduction. [[4]](#ref-submission-chat2021); [[1]](#ref-submission-rightmoves2006).
 
 <a id="submission-terms"></a>
 
@@ -134,11 +134,11 @@ Establish the total charges, when payment is due, available waivers, the publica
 
 ### Distinguish initial submission from later production
 
-Read the instructions for the exact article type and submission stage. Some journals allow flexible initial formatting; others require specific forms or structures. Distinguish what is needed for initial assessment from what will be required later, while keeping editable text, figures and data ready for production. [[5, pp. 8–10]](#ref-submission-cellsubmission).
+Read the instructions for the exact article type and submission stage. Some journals allow flexible initial formatting; others require specific forms or structures. Distinguish what is needed for initial assessment from what will be required later, while keeping editable text, figures and data ready for production. [[5]](#ref-submission-cellsubmission).
 
 Check limits on text, figures and supporting material. If they prevent a clear account, reconsider the article type or journal before removing essential explanation. The [reporting chapter](../04-writing-a-paper/03-methods-results-and-figure-legends.md#reporting-chapter) helps decide what the scientific account needs.
 
-Check policies on preprints, related manuscripts and previous dissemination. Disclose overlapping work where requested. Pursue alternative journals sequentially: the usual declaration requires that the manuscript is not under consideration elsewhere. [[2, p. 126]](#ref-submission-gosling2022); [[5, p. 7]](#ref-submission-cellsubmission).
+Check policies on preprints, related manuscripts and previous dissemination. Disclose overlapping work where requested. Pursue alternative journals sequentially: the usual declaration requires that the manuscript is not under consideration elsewhere. [[2]](#ref-submission-gosling2022); [[5]](#ref-submission-cellsubmission).
 
 <a id="submission-package"></a>
 
@@ -148,11 +148,11 @@ Check policies on preprints, related manuscripts and previous dissemination. Dis
 
 ### Assemble the agreed manuscript and supporting files
 
-Assign a submission coordinator and agree on corresponding-author responsibilities. Circulate the submission version, resolve coauthor comments and confirm names, order, affiliations and contribution statements. Resolve authorship disputes before submission. [[2, pp. 125–126]](#ref-submission-gosling2022).
+Assign a submission coordinator and agree on corresponding-author responsibilities. Circulate the submission version, resolve coauthor comments and confirm names, order, affiliations and contribution statements. Resolve authorship disputes before submission. [[2]](#ref-submission-gosling2022).
 
 Assemble the agreed manuscript, figures, legends, tables, supporting files and forms in one submission folder. Label versions clearly and assign the remaining checks to named coauthors.
 
-Start repository preparation early because metadata and access queries can delay release. Before submission, test accession numbers and reviewer links, check access permissions, and identify the code version accompanying the paper. [[8, p. 5]](#ref-submission-huber2025).
+Start repository preparation early because metadata and access queries can delay release. Before submission, test accession numbers and reviewer links, check access permissions, and identify the code version accompanying the paper. [[8]](#ref-submission-huber2025).
 
 Check which declarations apply to the study and collect them from the responsible authors, including funding, conflicts of interest, ethics, consent, contributions and data availability as required. Include requested reporting checklists and follow anonymization instructions for blinded review.
 
@@ -160,11 +160,11 @@ Check which declarations apply to the study and collect them from the responsibl
 
 ### Writing the cover letter
 
-Use the cover letter to explain what was unresolved, what the paper establishes and why the finding matters to the journal’s readers. Draw on the abstract, keeping the findings that establish the advance and omitting secondary results or unnecessary technical detail. A concise letter, often about a page, is usually sufficient unless the journal specifies otherwise. [[5, pp. 4–7]](#ref-submission-cellsubmission); [[6]](#ref-submission-silverman2021).
+Use the cover letter to explain what was unresolved, what the paper establishes and why the finding matters to the journal’s readers. Draw on the abstract, keeping the findings that establish the advance and omitting secondary results or unnecessary technical detail. A concise letter, often about a page, is usually sufficient unless the journal specifies otherwise. [[5]](#ref-submission-cellsubmission); [[6]](#ref-submission-silverman2021).
 
-Open with the title and article type, then state the scientific advance early. For a broad readership, explain how the finding changes understanding of a wider question. For a specialist readership, identify the particular uncertainty it resolves. Mention earlier work in the journal when the connection helps explain the contribution. [[5, pp. 5–6]](#ref-submission-cellsubmission); [[1, pp. 179–180]](#ref-submission-rightmoves2006).
+Open with the title and article type, then state the scientific advance early. For a broad readership, explain how the finding changes understanding of a wider question. For a specialist readership, identify the particular uncertainty it resolves. Mention earlier work in the journal when the connection helps explain the contribution. [[5]](#ref-submission-cellsubmission); [[1]](#ref-submission-rightmoves2006).
 
-Include requested declarations and relevant editorial information, such as an earlier inquiry, related manuscript or potential reviewer conflict. Use designated portal fields where provided. If you claim to be first, check the relevant prior work and state exactly what is new. [[5, pp. 5–7]](#ref-submission-cellsubmission).
+Include requested declarations and relevant editorial information, such as an earlier inquiry, related manuscript or potential reviewer conflict. Use designated portal fields where provided. If you claim to be first, check the relevant prior work and state exactly what is new. [[5]](#ref-submission-cellsubmission).
 
 <a id="submission-case-letter"></a>**Example: a discovery paper and a narrower follow-up**
 
@@ -250,9 +250,9 @@ The same experiments make different contributions depending on what was already 
 
 Suggest reviewers with complementary expertise in the paper’s main methods and scientific questions. Give a short reason for each nomination and follow the journal’s requested number and information fields. [[6]](#ref-submission-silverman2021).
 
-Check potential conflicts involving institutional colleagues, recent collaborators, mentors or mentees. Follow the journal’s definitions, disclose uncertain relationships and verify contact details independently. [[9, p. 4]](#ref-submission-cope2017).
+Check potential conflicts involving institutional colleagues, recent collaborators, mentors or mentees. Follow the journal’s definitions, disclose uncertain relationships and verify contact details independently. [[9]](#ref-submission-cope2017).
 
-For permitted exclusions, give a concise reason relevant to fair review. Scientific disagreement alone does not establish bias. Keep exclusions proportionate; the editor makes the appointments. [[5, p. 6]](#ref-submission-cellsubmission); [[9, p. 4]](#ref-submission-cope2017); [[3]](#ref-submission-editors2019).
+For permitted exclusions, give a concise reason relevant to fair review. Scientific disagreement alone does not establish bias. Keep exclusions proportionate; the editor makes the appointments. [[5]](#ref-submission-cellsubmission); [[9]](#ref-submission-cope2017); [[3]](#ref-submission-editors2019).
 
 <a id="submission-handling"></a>
 
@@ -264,7 +264,7 @@ For permitted exclusions, give a concise reason relevant to fair review. Scienti
 
 Enter metadata from the agreed manuscript, checking author order, affiliations, funding and special characters after pasting. Assign files to the correct categories and remove superseded uploads before generating the review PDF.
 
-Inspect the assembled review PDF for text and figure order, legibility, equations and symbols. Open supporting files and check any figures converted or compressed by the system. [[5, pp. 8–10]](#ref-submission-cellsubmission).
+Inspect the assembled review PDF for text and figure order, legibility, equations and symbols. Open supporting files and check any figures converted or compressed by the system. [[5]](#ref-submission-cellsubmission).
 
 Once the assembled files are correct, complete the final approval step and retain the receipt, manuscript identifier and submitted files. Share them with coauthors and agree who monitors correspondence. If no receipt arrives, check the portal or contact the office before submitting again.
 
@@ -272,7 +272,7 @@ Once the assembled files are correct, complete the final approval step and retai
 
 ### Following the submission
 
-Journal staff may return a submission for missing files, declarations or unreadable material. Supply the correction with the manuscript identifier. Direct portal problems to staff and scientific questions to the handling editor. [[5, p. 3]](#ref-submission-cellsubmission).
+Journal staff may return a submission for missing files, declarations or unreadable material. Supply the correction with the manuscript identifier. Direct portal problems to staff and scientific questions to the handling editor. [[5]](#ref-submission-cellsubmission).
 
 The editor assesses fit, contribution and whether the evidence warrants review. Read the reason for an early rejection before deciding what to change. After external review, the reports inform the editor’s decision. [[3]](#ref-submission-editors2019).
 

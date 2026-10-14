@@ -26,7 +26,7 @@ Write a short statement of what the thesis investigates and what the completed w
 
 Identify how the projects relate. For example, one may test an explanation suggested by another, or provide a method used in a later study. Projects can also examine different aspects of the same problem. An unfinished project can belong if its available findings contribute to the thesis; explain what those findings establish and what remains unresolved.
 
-Develop the agreed contents into headings, figure and table titles, with notes about what each chapter will explain. [[1, chs. 19–20, pp. 143–159]](#ref-thesis-goslingnoordam2022thesis).
+Develop the agreed contents into headings, figure and table titles, with notes about what each chapter will explain. [[1]](#ref-thesis-goslingnoordam2022thesis).
 
 <a id="thesis-format"></a>**Select a format that the programme permits.**
 
@@ -40,7 +40,7 @@ Three useful starting patterns are:
 
 Front matter usually includes the title, declarations, abstract and contents; references and appendices complete the document. Their required order, additional summaries and any separate impact statement are local choices or requirements. A hybrid structure can be sensible where permitted, but agree its logic before drafting.
 
-Check which parts of published papers you may edit for the thesis. Where changes are permitted, adapt the opening to explain the paper’s place in the thesis, update references and remove repeated overview figures that add no new information. Shared methods can reduce repetition, but each chapter still needs enough context to understand its experiments and assess its findings. [[1, ch. 20, pp. 155–157]](#ref-thesis-goslingnoordam2022thesis).
+Check which parts of published papers you may edit for the thesis. Where changes are permitted, adapt the opening to explain the paper’s place in the thesis, update references and remove repeated overview figures that add no new information. Shared methods can reduce repetition, but each chapter still needs enough context to understand its experiments and assess its findings. [[1]](#ref-thesis-goslingnoordam2022thesis).
 
 <a id="thesis-map"></a>
 
@@ -98,7 +98,7 @@ In this fictional thesis, three projects examine whether brief heat pulses affec
 
 <a id="thesis-local-context"></a>**Give chapters enough local context.**
 
-Put broad background and shared methods in a common chapter where the format permits. Give each research chapter a short introduction to its question and enough methodological context to interpret its results. Cross-reference the common account for detail. [[1, ch. 20, pp. 155–156]](#ref-thesis-goslingnoordam2022thesis).
+Put broad background and shared methods in a common chapter where the format permits. Give each research chapter a short introduction to its question and enough methodological context to interpret its results. Cross-reference the common account for detail. [[1]](#ref-thesis-goslingnoordam2022thesis).
 
 A schematic may need to appear again if readers use it to understand a new comparison. A general overview figure usually belongs in the introduction. Revisit the literature for paper-derived chapters: work published since submission may change how you interpret their findings.
 
@@ -110,7 +110,7 @@ A schematic may need to appear again if readers use it to understand a new compa
 
 Introduce the research area, explain the unresolved problem and state the thesis contribution early. Use the chapter map to select the background readers need before the first research chapter. Explain the scope of the work and finish with a brief account of how the chapters develop the answer. [[2]](#ref-thesis-jansen2025thesisintroduction); [[3]](#ref-thesis-lemprierethesisintroduction).
 
-Draft a short introduction early to test the proposed structure. Keep collecting relevant literature and notes, then develop the full account once the research chapters are stable. [[1, ch. 20, p. 157]](#ref-thesis-goslingnoordam2022thesis). For project-level openings and literature transitions, see [Titles, abstracts and introductions](../04-writing-a-paper/02-titles-abstracts-and-introductions.md#opening-chapter).
+Draft a short introduction early to test the proposed structure. Keep collecting relevant literature and notes, then develop the full account once the research chapters are stable. [[1]](#ref-thesis-goslingnoordam2022thesis). For project-level openings and literature transitions, see [Titles, abstracts and introductions](../04-writing-a-paper/02-titles-abstracts-and-introductions.md#opening-chapter).
 
 <a id="thesis-opening-functions"></a>**Introduction, background, motivation and significance**
 
@@ -227,11 +227,11 @@ For work that may not finish, agree when to decide whether to continue and what 
 </tbody>
 </table>
 
-Discuss what you would do if a critical step is delayed. You may need to narrow a claim, change the chapter order or revise the submission date. Agree the response with supervisors and update the affected chapters and schedule. [[1, ch. 19, pp. 145–150]](#ref-thesis-goslingnoordam2022thesis).
+Discuss what you would do if a critical step is delayed. You may need to narrow a claim, change the chapter order or revise the submission date. Agree the response with supervisors and update the affected chapters and schedule. [[1]](#ref-thesis-goslingnoordam2022thesis).
 
 <a id="thesis-last-project"></a>**Decide what to do with the last project.**
 
-When the last project has not yet become a paper, decide which deadline matters more. Write the paper first if competition, priority or a coauthor commitment requires rapid submission. Write the thesis chapter first if the thesis needs the fuller account and publication timing allows it. Reconsider the choice when the data, competition or graduation deadline changes. [[1, ch. 20, pp. 157–159]](#ref-thesis-goslingnoordam2022thesis).
+When the last project has not yet become a paper, decide which deadline matters more. Write the paper first if competition, priority or a coauthor commitment requires rapid submission. Write the thesis chapter first if the thesis needs the fuller account and publication timing allows it. Reconsider the choice when the data, competition or graduation deadline changes. [[1]](#ref-thesis-goslingnoordam2022thesis).
 
 If the selected thesis format requires accepted publications, include that dependency in the submission plan. Finishing the prose cannot substitute for a publication requirement; discuss permitted alternatives early if acceptance is uncertain.
 

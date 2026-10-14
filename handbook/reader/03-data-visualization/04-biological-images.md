@@ -8,27 +8,29 @@
 
 Show images in which readers can inspect the feature you discuss, alongside its measurements when available. Prepare the figure from copies and preserve the images used for analysis.
 
+First decide what readers should compare: shape and location, signal intensity, or the output of an image-analysis procedure. A display adjustment that reveals a faint structure can remove an intensity difference. A clean segmentation overlay can make boundaries visible without establishing that they are correct. Choose the presentation for the claim, then retain the original pixels, acquisition information and quantitative analysis needed to assess it. [[2]](#ref-bioimage-schmied2024).
+
 <a id="bioimage-select"></a>
 
 ## Select and frame images
 
-Choose fields from the images used in the analysis that reflect the reported result. When a phenotype varies substantially, show several examples spanning that variation rather than one especially striking cell. Place them beside the corresponding quantitative results. [[2]](#ref-bioimage-schmied2024), image formatting.
+Choose fields from the images used in the analysis that reflect the reported result. When a phenotype varies substantially, show several examples spanning that variation rather than one especially striking cell. Place them beside the corresponding quantitative results. [[2]](#ref-bioimage-schmied2024).
 
-A tissue overview shows how structures are arranged; a closer view can reveal cell shape or where a marker lies within a cell. If readers need both, pair the overview with an enlarged region. Check that the feature remains visible at the figure’s final size before deciding how many images fit in a panel. [[1]](#ref-bioimage-jamborimages2021), Figure 3.
+A tissue overview shows how structures are arranged; a closer view can reveal cell shape or where a marker lies within a cell. If readers need both, pair the overview with an enlarged region. Check that the feature remains visible at the figure’s final size before deciding how many images fit in a panel. [[1]](#ref-bioimage-jamborimages2021).
 
 <a id="bioimage-crop"></a>
 
 ### Crop without losing context
 
-Crop empty margins or irrelevant regions, but retain neighboring structures that affect the interpretation. Mark the exact enlarged region on the overview and place the detail beside it. An inset within the overview saves space only when it does not cover relevant data. Use a visible gap between separate images so their edges cannot be mistaken for a continuous field. [[1]](#ref-bioimage-jamborimages2021), Figure 3; [[2]](#ref-bioimage-schmied2024), Figure 4a–c.
+Crop empty margins or irrelevant regions, but retain neighboring structures that affect the interpretation. Mark the exact enlarged region on the overview and place the detail beside it. An inset within the overview saves space only when it does not cover relevant data. Use a visible gap between separate images so their edges cannot be mistaken for a continuous field. [[1]](#ref-bioimage-jamborimages2021); [[2]](#ref-bioimage-schmied2024).
 
-Keep the image’s proportions when resizing. If rotating images makes anatomical comparisons easier, use a consistent orientation and label it. Rotation by an arbitrary angle resamples pixels in many image editors; make measurements on the analysis images before preparing rotated copies for the figure. [[2]](#ref-bioimage-schmied2024), image formatting.
+Keep the image’s proportions when resizing. If rotating images makes anatomical comparisons easier, use a consistent orientation and label it. Rotation by an arbitrary angle resamples pixels in many image editors; make measurements on the analysis images before preparing rotated copies for the figure. [[2]](#ref-bioimage-schmied2024).
 
 <a id="bioimage-scale"></a>
 
 ### Calibrate each view
 
-Add a scale bar with its length and unit. Use the image’s spatial calibration; an objective label such as “40×” does not specify the size of a feature in a resized figure. Put the bar where it contrasts with the background without covering the feature of interest. When no suitable area exists, place it just outside the image. [[1]](#ref-bioimage-jamborimages2021), Figure 4; [[2]](#ref-bioimage-schmied2024), image annotation.
+Add a scale bar with its length and unit. Use the image’s spatial calibration; an objective label such as “40×” does not specify the size of a feature in a resized figure. Put the bar where it contrasts with the background without covering the feature of interest. When no suitable area exists, place it just outside the image. [[1]](#ref-bioimage-jamborimages2021); [[2]](#ref-bioimage-schmied2024).
 
 <a id="bioimage-scale-example"></a>An enlarged crop needs its own scale indication. Keep a scale bar attached to its image when resizing, or regenerate it from the final calibration. [[1]](#ref-bioimage-jamborimages2021); [[2]](#ref-bioimage-schmied2024).
 
@@ -36,7 +38,7 @@ Add a scale bar with its length and unit. Use the image’s spatial calibration;
 
 ## Show channels
 
-For a single fluorescence channel, start with grayscale. Dark blue or red against black can hide fine structures that are readily visible in grayscale. An inverted grayscale display can help with thin structures on a light page; keep the choice consistent across comparable panels. [[3]](#ref-bioimage-plucinska2017a); [[1]](#ref-bioimage-jamborimages2021), Figures 5–6.
+For a single fluorescence channel, start with grayscale. Dark blue or red against black can hide fine structures that are readily visible in grayscale. An inverted grayscale display can help with thin structures on a light page; keep the choice consistent across comparable panels. [[3]](#ref-bioimage-plucinska2017a); [[1]](#ref-bioimage-jamborimages2021).
 
 <a id="bioimage-visibility-example"></a>**The same structures under different color mappings**
 
@@ -50,19 +52,19 @@ Figure 6 reproduced unchanged from [Jambor and colleagues (2021)](https://journa
 
 ### Combine an overlay with separate channels
 
-Use a merged image to show where labeled structures lie relative to one another. Include separate grayscale channels when overlap or unequal brightness makes either component difficult to inspect. Keep the field, crop and orientation identical across the component images and merge. Label channels with their markers or targets, and use those labels consistently throughout the figure. [[4]](#ref-bioimage-plucinska2017b); [[1]](#ref-bioimage-jamborimages2021), Figures 7–8.
+Use a merged image to show where labeled structures lie relative to one another. Include separate grayscale channels when overlap or unequal brightness makes either component difficult to inspect. Keep the field, crop and orientation identical across the component images and merge. Label channels with their markers or targets, and use those labels consistently throughout the figure. [[4]](#ref-bioimage-plucinska2017b); [[1]](#ref-bioimage-jamborimages2021).
 
 Choose display colors for visibility rather than to match fluorophore names. Cyan and magenta are useful starting choices for two channels; assess the actual merge under color-vision simulations. A palette that separates bright objects may still hide a weak channel. Separate grayscale panels let readers inspect that channel without relying on the composite color. [[4]](#ref-bioimage-plucinska2017b); [[1]](#ref-bioimage-jamborimages2021).
 
-Keep colors assigned to the same targets across conditions. Do not compare the abundance of two targets from their apparent brightness in different colors: color mapping, staining and acquisition affect that appearance. If you make a claim about how much two markers overlap, show how overlap was measured. The color of a merge alone does not establish its extent. [[4]](#ref-bioimage-plucinska2017b); [[2]](#ref-bioimage-schmied2024), image colors and channels.
+Keep colors assigned to the same targets across conditions. Do not compare the abundance of two targets from their apparent brightness in different colors: color mapping, staining and acquisition affect that appearance. If you make a claim about how much two markers overlap, show how overlap was measured. The color of a merge alone does not establish its extent. [[4]](#ref-bioimage-plucinska2017b); [[2]](#ref-bioimage-schmied2024).
 
 <a id="bioimage-range"></a>
 
 ## Intensity ranges and processing
 
-Choose the displayed minimum and maximum while inspecting both the image and its intensity histogram. A range that is too wide can make real structures nearly invisible. A range that is too narrow clips dim pixels to black or bright pixels to white, concealing differences within those regions. Start with a linear mapping and retain the features needed for the comparison. [[2]](#ref-bioimage-schmied2024), Figure 4d.
+Choose the displayed minimum and maximum while inspecting both the image and its intensity histogram. A range that is too wide can make real structures nearly invisible. A range that is too narrow clips dim pixels to black or bright pixels to white, concealing differences within those regions. Start with a linear mapping and retain the features needed for the comparison. [[2]](#ref-bioimage-schmied2024).
 
-For images intended to compare signal intensity, use the same display range and processing for the corresponding channel across conditions. Automatic contrast applied separately to each image can make a weak signal look as bright as a strong one. Check how the images were acquired and analyzed too: identical display settings cannot correct differences introduced during acquisition or analysis. [[2]](#ref-bioimage-schmied2024), image colors and channels.
+For images intended to compare signal intensity, use the same display range and processing for the corresponding channel across conditions. Automatic contrast applied separately to each image can make a weak signal look as bright as a strong one. [[2]](#ref-bioimage-schmied2024).
 
 <a id="bioimage-intensity-example"></a>**Shared and independent intensity ranges**
 
@@ -72,21 +74,23 @@ Synthetic calibration pattern shown with a shared 0–1 a.u. display range (top)
 
 Independent stretching makes both patterns look alike despite their different intensity ranges. It helps inspect their structure but removes the brightness comparison.
 
-When the purpose is to compare structure and the images differ greatly in brightness, separately adjusted views may reveal details that a common range hides. Identify those adjustments in the caption, and use the quantitative measurements to compare intensity. Keep each view’s range visible when the numerical intensity scale is important. [[2]](#ref-bioimage-schmied2024), Figure 2 and image colors and channels.
+When the purpose is to compare structure and the images differ greatly in brightness, separately adjusted views may reveal details that a common range hides. Identify those adjustments in the caption, and use the quantitative measurements to compare intensity. Keep each view’s range visible when the numerical intensity scale is important. [[2]](#ref-bioimage-schmied2024).
+
+If acquisition settings differ or are unknown, do not infer an abundance difference from displayed brightness. A morphology comparison can still be useful if the structures are adequately resolved and the display adjustments are disclosed. An intensity comparison needs compatible acquisition and a justified quantitative analysis; forcing both images onto the same color scale cannot create that comparability.
 
 <a id="bioimage-processing"></a>
 
 ### Make transformations visible
 
-Gamma adjustment and other nonlinear mappings change the relative display of weak and strong intensities. If one is needed to reveal structure, identify it and provide a linearly mapped comparison. Include a labeled intensity scale for pseudocolor or nonlinear displays. [[2]](#ref-bioimage-schmied2024), Figures 2 and 4g.
+Gamma adjustment and other nonlinear mappings change the relative display of weak and strong intensities. If one is needed to reveal structure, identify it and provide a linearly mapped comparison. Include a labeled intensity scale for pseudocolor or nonlinear displays. [[2]](#ref-bioimage-schmied2024).
 
-Filtering, deconvolution and learned image restoration can also change the appearance of structures. Identify these operations in the caption and describe their settings in Methods. Preserve the input images so readers can inspect them before restoration. State which processing was used for measurements and which adjustments were made only for display. [[2]](#ref-bioimage-schmied2024), image colors and channels; image-analysis workflows.
+Filtering, deconvolution and learned image restoration can also change the appearance of structures. Identify these operations in the caption and describe their settings in Methods. Preserve the input images so readers can inspect them before restoration. State which processing was used for measurements and which adjustments were made only for display. [[2]](#ref-bioimage-schmied2024).
 
 <a id="bioimage-quantification"></a>
 
 ## Connect images to measurements
 
-When a result comes from image analysis, show an example input image. If segmentation determines which objects or regions were measured, add outlines or masks showing those boundaries. Keep an unobstructed image alongside a dense overlay. Include difficult cases when errors, such as merging neighboring objects, could change the counts or measurements. [[2]](#ref-bioimage-schmied2024), image formatting and image-analysis workflows; [[1]](#ref-bioimage-jamborimages2021), Figure 11.
+When a result comes from image analysis, show an example input image. If segmentation determines which objects or regions were measured, add outlines or masks showing those boundaries. Keep an unobstructed image alongside a dense overlay. Include difficult cases when errors, such as merging neighboring objects, could change the counts or measurements. [[2]](#ref-bioimage-schmied2024); [[1]](#ref-bioimage-jamborimages2021).
 
 <a id="bioimage-segmentation-example"></a>**Example: inspect the segmentation before counting**
 
@@ -104,19 +108,19 @@ In the accompanying quantitative plot, preserve the grouping of cells or fields 
 
 ### Labels and annotations
 
-Use a few arrows, outlines or direct labels to identify the structures relevant to the comparison. Place labels beside small features rather than on top of them. Distinguish annotation types by shape or line style when they have different meanings; color alone can be difficult to distinguish against a multicolored image. If numerous labels obscure the image, provide a separate annotated copy. [[1]](#ref-bioimage-jamborimages2021), Figures 10–13 and Table 1.
+Use a few arrows, outlines or direct labels to identify the structures relevant to the comparison. Place labels beside small features rather than on top of them. Distinguish annotation types by shape or line style when they have different meanings; color alone can be difficult to distinguish against a multicolored image. If numerous labels obscure the image, provide a separate annotated copy. [[1]](#ref-bioimage-jamborimages2021).
 
-For a time series, put elapsed time on each frame and keep the framing and scale consistent. Label the anatomical orientation of a section and identify any projection, so readers know which view of the specimen they are seeing. [[2]](#ref-bioimage-schmied2024), image annotation and Figure 5.
+For a time series, put elapsed time on each frame and keep the framing and scale consistent. Label the anatomical orientation of a section and identify any projection, so readers know which view of the specimen they are seeing. [[2]](#ref-bioimage-schmied2024).
 
-**In the caption**, identify the specimen and tissue, markers or stains, channel colors, scale and annotations. Explain any inset or projection. State whether images have separate intensity adjustments and identify processing that changes their appearance, as described above. Put acquisition and analysis details in Methods, including the software, version, parameters and manual selections needed to reproduce the workflow. [[1]](#ref-bioimage-jamborimages2021), section 7; [[2]](#ref-bioimage-schmied2024), image-analysis workflows.
+**In the caption**, identify the specimen and tissue, markers or stains, channel colors, scale and annotations. Explain any inset or projection. State whether images have separate intensity adjustments and identify processing that changes their appearance, as described above. Put acquisition and analysis details in Methods, including the software, version, parameters and manual selections needed to reproduce the workflow. [[1]](#ref-bioimage-jamborimages2021); [[2]](#ref-bioimage-schmied2024).
 
 <a id="bioimage-record"></a>
 
 ## Verify the image figure
 
-Keep the original images and metadata, the analysis inputs and outputs, and the assembled figure as separate files. Record which source image produced each panel and which crop, channel mapping and adjustments were applied. Share the images used in figures and quantification through an appropriate repository where possible, together with the workflow and example inputs and outputs. [[2]](#ref-bioimage-schmied2024), image availability and image-analysis workflows.
+Keep the original images and metadata, the analysis inputs and outputs, and the assembled figure as separate files. Record which source image produced each panel and which crop, channel mapping and adjustments were applied. Share the images used in figures and quantification through an appropriate repository where possible, together with the workflow and example inputs and outputs. [[2]](#ref-bioimage-schmied2024).
 
-Inspect the exported figure at publication size. Check that the crop markers still point to the correct regions, scale bars remain attached to their images, weak structures are visible and annotations do not cover the evidence. [[1]](#ref-bioimage-jamborimages2021), sections 1–6.
+Inspect the exported figure at publication size. Check that the crop markers still point to the correct regions, scale bars remain attached to their images, weak structures are visible and annotations do not cover the evidence. [[1]](#ref-bioimage-jamborimages2021).
 
 <a id="bioimage-checklist"></a>**Final image check**
 

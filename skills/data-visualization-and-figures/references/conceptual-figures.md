@@ -1,76 +1,25 @@
-# Conceptual Figures
+# Explain relationships without inventing them
 
-Use this for graphical abstracts, overview figures, mechanism diagrams, pathway schematics, process diagrams, conceptual models, neural-circuit diagrams, and arrow-heavy explanatory figures.
+Read this for graphical abstracts, mechanisms, pathways, circuits or experimental overviews. Write the supported message and identify the audience before drawing. Sketch alternative arrangements to expose assumptions; polish only after the relationships are clear.
 
-## Use this when...
+## Choose grammar from the relationship
 
-- The figure explains an idea, process, model, mechanism, or story rather than plotting raw measurements.
-- The user wants a graphical abstract or overview that is clear to readers outside the immediate specialty.
-- The schematic is overloaded, decorative, or unclear about what arrows and symbols mean.
+A sequence can use ordered flow, a genuinely recurring process a cycle, a hierarchy nested groups and a comparison parallel panels. Do not choose a cycle merely for visual variety. An association or structural link may use a plain connector; movement, transformation or a supported directional relation may use an explained arrow. Arrowheads also serve as feature pointers in images, so meaning depends on context. Explain different connector roles rather than assuming every arrow means causation.
 
-## The job of this topic
+Keep entity identity and state changes consistent. Show what is introduced, transformed or removed between steps, including parallel controls. Do not let a reagent become visually more prominent than the main tracked entity. A schematic should be simpler than the full system while retaining relationships that change the conclusion.
 
-Compress a scientific idea into a readable visual argument without pretending the schematic is raw evidence.
+## Limit spatial and causal claims to the evidence
 
-## Default workflow
+Position, size, containment and arrow direction make claims beyond the words. Intracellular localization alone does not establish a nuclear, cytoplasmic or membrane position. Observed binding does not establish regulation. Distinguish supported relations from hypotheses using explicit labels or a small, explained style distinction. Here a dashed connector can be useful because it carries meaning.
 
-1. Write the one sentence the reader should remember.
-2. List essential entities, relationships, and sequence steps.
-3. Remove secondary details or move them to labels, caption, or supplement.
-4. Choose visual grammar from relationship type.
-5. Keep arrow, line, color, and container meanings consistent.
-6. Distinguish evidence, model, hypothesis, and speculation when uncertainty matters.
-7. Inspect the actual figure before making exact layout or composition claims.
+Preserve relevant anatomy and topology in pathways and neural circuits. Nodes may be rearranged when physical location is irrelevant; partial anatomical realism can otherwise imply unwarranted precision. Group supported subsystems, reduce crossings and retain essential branches and feedback. A numbered sequence cannot replace causal edges in a network. Meaningful protein shapes can help; arbitrary shape changes simply to fit labels weaken identity.
 
-## Decision rules
+Changed condition: an exploratory hypothesis sketch may be loose and incomplete. A published mechanism figure needs clear distinctions between observation, proposed relation and established mechanism. Do not convert the hypothesis into certainty while cleaning up the artwork.
 
-- Sequence: use ordered flow.
-- Repeating process: use a cycle.
-- Hierarchy or compartment: use nested containers or grouped regions.
-- Comparison: use side-by-side parallel structure.
-- Direction, movement, transformation, sequence, or causality: use arrows as verbs.
-- Association, grouping, or structural connection: use lines without arrowheads.
-- Pathways and circuits: preserve direction, connectivity, and convention enough for the intended audience.
-- Graphical abstracts: emphasize the finding or, for a methods contribution, the distinctive operation and capability it enables.
+## Make the visual vocabulary coherent
 
-## Variants and edge cases
+Use consistent icons, level of detail and entity colors. Keep biological landmarks that orient the reader; remove decorative imagery that competes with the relationship. Proximity, similarity and whitespace can group elements without boxing everything. Avoid common styling that falsely groups unrelated items. Natural colors and familiar conventions can remain useful when readable.
 
-- Overview figure: orient the reader in the system; do not include every result.
-- Mechanism model: label speculative steps as model or hypothesis.
-- Pathway diagram: break into modules when edge crossings dominate.
-- Broad-audience visual abstract: reduce jargon and make the primary relation visually obvious.
+A compact abstract cannot show every result. Give space to the finding or, for a methods contribution, the distinctive operation and capability. If the content merely enumerates categories, a table or text may be clearer than an ornamental diagram. Clearly separate illustrative chart placeholders from measured results; evidence-bearing plots still need quantitative decoding.
 
-## Anti-patterns
-
-- Decorative icons that encode no relationship.
-- Many arrows with inconsistent meanings.
-- Unlabeled symbols that require insider knowledge.
-- Mixing raw data panels and speculative model elements without visual separation.
-- Graphical abstracts that try to summarize every experiment.
-
-## Diagnostic questions
-
-- What sentence should the reader remember?
-- Which arrow or relationship is most important?
-- Can any element be removed without changing the message?
-- Are observations, evidence, and hypotheses visually distinct?
-- Would the figure still work if the caption were read after the visual scan?
-
-## Output patterns / mini-templates
-
-```text
-Message: <one sentence>.
-Keep: <essential entities and relationships>.
-Remove: <secondary elements>.
-Visual grammar: <sequence/cycle/containers/arrows/labels/color>.
-Caveat: <known vs proposed or exact visual detail requiring inspection>.
-```
-
-## Examples
-
-- `Overloaded graphical abstract`: collapse methods into one context cue and devote the center to the discovery or mechanism.
-- `Pathway schematic with many crossings`: group steps into modules and reroute connections while retaining essential branches and feedback. A numbered flow can explain a sequence, but cannot substitute for causal edges. Disclose consequential simplification.
-
-## When not to apply this
-
-Do not use this for statistical plot selection unless the user is converting results into a conceptual summary.
+Test comprehension with an unfamiliar reader when possible: what draws attention first, what relation do the arrows express, and what message is recovered? A polished icon set does not establish clarity. Inspect the actual figure at its intended size and retain essential explanation in labels or caption. Do not impose a fixed number of panels, colors or remembered items as a scientific limit.

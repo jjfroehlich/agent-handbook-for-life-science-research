@@ -16,7 +16,9 @@ Use this for a fast but rigorous review of a scientific figure.
 - Raw evidence is visible when needed: observations, sample size, spread, outliers, uncertainty, and replicate structure are not hidden.
 - Encoding is honest: axes, scales, baselines, transformations, clustering, color maps, and summaries do not exaggerate or conceal.
 - Statistical context is clear: effect sizes, intervals, p-values, and independent units are labeled appropriately.
-- Color is accessible: meaning does not depend on hue alone and remains interpretable in grayscale or common color-vision deficiencies.
+- Group comparison is readable: show a named center as well as observations when needed; adapt box/density layers to each group's support and label unequal `n`.
+- Identification is accessible: important distinctions remain interpretable under the intended viewing conditions; inspect relevant color-vision simulations and grayscale when required.
+- Restraint is deliberate: position/labels may already identify groups; extra dashes, shapes and saturated fills need a reason. Preserve settled specifications.
 - Image context is present: scale, channels, insets, annotations, sample context, and analysis workflow are clear where relevant.
 - Layout guides reading: panel order, alignment, grouping, labels, legends, and whitespace support the argument.
 - Final size works: text, symbols, line weights, image details, and annotations remain legible.

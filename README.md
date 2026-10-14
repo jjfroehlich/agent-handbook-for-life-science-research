@@ -4,11 +4,11 @@
 
 # Agent Handbook and Skills for Life Science Research
 
-The **Life Science Research Handbook** and agent skills cover research methodology. They are for agents! Based on a collection of **317 sources**, inspired by [awesome-life-science-resources](https://github.com/jjfroehlich/awesome-life-science-resources). The handbook covers explanations, examples, and references, while the skills apply these principles. 
+Scientific reasoning and professional practice in life science research for agents! Based on a collection of **317 sources**, inspired by [awesome-life-science-resources](https://github.com/jjfroehlich/awesome-life-science-resources). The handbook covers explanations, examples, and references, while the skills apply these principles. 
 
 ## Handbook
 
-Due to slop it might be hard to read for humans. You can read the [HTML handbook](https://jjfroehlich.github.io/agent-handbook-for-life-science-research/handbook/) or [PDF](handbook/life-science-research-handbook.pdf). 
+Due to slop it might be hard to read for humans, here available as [HTML](https://jjfroehlich.github.io/agent-handbook-for-life-science-research/handbook/) or [PDF](handbook/life-science-research-handbook.pdf). 
 
 ## Skills
 
@@ -36,19 +36,19 @@ Give your agent the repository link and let it install. For example `Please inst
 The skills should be triggered automatically in the right conditions. Just ask for advice on anything related to the above topics.
 
 ## Related Work
-There are existing agent skills for scientific work; some also cover scientific writing or research workflows: [K-Dense-AI scientific writer](https://github.com/K-Dense-AI/claude-scientific-writer/tree/main), [Imbad0202 academic research skills](https://github.com/Imbad0202/academic-research-skills), [K-Dense-AI science-superpowers](https://github.com/K-Dense-AI/science-superpowers), and [John Kitchin research skills](https://github.com/jkitchin/skillz/tree/main/skills/research). Many others focus on computational biology or bioinformatics: [GPTomics bioSkills](https://github.com/GPTomics/bioSkills), [ClawBio skills](https://github.com/ClawBio/ClawBio/tree/main/skills), [Google Deepmind science-skills](https://github.com/google-deepmind/science-skills), and [K-Dense-AI scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills). 
+Some existing skills also cover research workflows or scientific writing: [Imbad0202 academic research skills](https://github.com/Imbad0202/academic-research-skills), [K-Dense-AI science-superpowers](https://github.com/K-Dense-AI/science-superpowers), [John Kitchin research skills](https://github.com/jkitchin/skillz/tree/main/skills/research), and [K-Dense-AI scientific writer](https://github.com/K-Dense-AI/claude-scientific-writer/tree/main). Many others focus on bioinformatics: [GPTomics bioSkills](https://github.com/GPTomics/bioSkills), [ClawBio skills](https://github.com/ClawBio/ClawBio/tree/main/skills), [Google Deepmind science-skills](https://github.com/google-deepmind/science-skills), and [K-Dense-AI scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills). 
 
 
 ## Limitations
 
-- This handbook and the skills are experimental and I am unsure if they are useful, useless or harmful.
-- The extraction and synthesis process can miss context or overgeneralize from the source material.
-- Cannot replace advice from human experts or organizations.
+- This handbook and the skills are experimental. I am unsure if they are useful, useless or harmful.
+- The synthesis process can miss context or overgeneralize from the source material.
+- Cannot replace advice from human experts.
 
 
 ## Repository Layout
 
-Each skill is a self-contained folder with a `SKILL.md` entry point plus supporting references, checklists, and examples. The `life-science-research-handbook` "skill" works as a reference package.
+Each skill is a self-contained folder with a `SKILL.md` entry point plus supporting references, checklists, and examples. `SKILL.md` defines when the skill should trigger, how the agent should work, which reference files to open, or what output formats to use. 
 
 ```text
 README.md
@@ -66,13 +66,12 @@ skills/
     references/
     checklists/
     examples/
-  life-science-research-handbook/
+  life-science-research-handbook/     # "Skill" that works as a reference package
     SKILL.md
     agents/openai.yaml                # Disables automatic triggering
     references/handbook/              # Complete local handbook edition
 ```
 
-`SKILL.md` defines when the skill should trigger, how the agent should work, which reference files to open, and what output formats to use.
 
 ## License
 

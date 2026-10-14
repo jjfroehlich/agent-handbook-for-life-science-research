@@ -14,7 +14,7 @@ Plan the work in stages. Decide what you can do now and which later steps depend
 
 Define what the next stage should establish. “Understand heat stress” is too broad to plan. “Check whether this imaging method can measure division timing after a heat pulse” gives the first stage a specific purpose. The method may work even if the heat pulse does not change division timing.
 
-Work out what you can do with the time, equipment and help available. Check sample access and any commitments already made to collaborators. If a stage depends on an instrument booking, confirm the booking before scheduling work that requires it. Do the same for other resources you are counting on [[1, pp. 127–130]](#ref-project-plan-rightmoves2006).
+Work out what you can do with the time, equipment and help available. Check sample access and any commitments already made to collaborators. If a stage depends on an instrument booking, confirm the booking before scheduling work that requires it. Do the same for other resources you are counting on [[1]](#ref-project-plan-rightmoves2006).
 
 Agree on scope with the people who will do and support the work. Include what this stage will leave unanswered. A first experiment may establish a response without identifying its mechanism; a technical pilot may establish whether a response can be measured at all. These are different milestones. For the scientific design itself, use [connecting questions, models and experiments](03-connecting-questions-models-and-experiments.md#models-chapter).
 
@@ -28,17 +28,17 @@ Define what the pilot needs to establish. For an imaging experiment, you might c
 
 Not every important uncertainty has a cheap test. A larger commitment may still be worthwhile, but consider what it would teach and which other work it would displace.
 
-An unexpected observation may suggest a better question. Yanai and Lercher distinguish this evolution of a research programme from the design of each study within it: the programme can change direction while its experiments retain clear comparisons. Before following a new direction, decide which existing work to stop or postpone and whether the change affects commitments to collaborators. Keep exploratory work distinguishable from tests of predictions specified beforehand. [[6, p. 667]](#ref-project-plan-yanaiopenness2025).
+An unexpected observation may suggest a better question. Yanai and Lercher distinguish this evolution of a research programme from the design of each study within it: the programme can change direction while its experiments retain clear comparisons. Before following a new direction, decide which existing work to stop or postpone and whether the change affects commitments to collaborators. Keep exploratory work distinguishable from tests of predictions specified beforehand. [[6]](#ref-project-plan-yanaiopenness2025).
 
 <a id="project-plan-sequence"></a>
 
 ## Scheduling the work
 
-Break the near-term work into tasks, with a responsible person and a clear endpoint for each. Tasks taking one or two weeks can be a useful starting scale; unfamiliar procedures may need smaller steps. Plan distant stages more broadly and add detail as you learn what they will require [[1, pp. 129–130]](#ref-project-plan-rightmoves2006).
+Break the near-term work into tasks, with a responsible person and a clear endpoint for each. Tasks taking one or two weeks can be a useful starting scale; unfamiliar procedures may need smaller steps. Plan distant stages more broadly and add detail as you learn what they will require [[1]](#ref-project-plan-rightmoves2006).
 
 Identify which tasks must wait for others. You can sometimes check an analysis script on existing data while preparing new samples. But two experiments that could run independently may still need the same microscope or the same person’s time. Check these conflicts before scheduling them together.
 
-Estimate elapsed time as well as hands-on work. Culture growth, deliveries, training, access queues and feedback can determine the completion date even when they require little active work. Use records of comparable tasks to improve estimates, and name uncertainty where a method is new. Include data inspection, documentation and interpretation; a schedule that ends at acquisition has left part of the research unplanned [[1, pp. 131–133]](#ref-project-plan-rightmoves2006).
+Estimate elapsed time as well as hands-on work. Culture growth, deliveries, training, access queues and feedback can determine the completion date even when they require little active work. Use records of comparable tasks to improve estimates, and name uncertainty where a method is new. Include data inspection, documentation and interpretation; a schedule that ends at acquisition has left part of the research unplanned [[1]](#ref-project-plan-rightmoves2006).
 
 A short table or shared document may be enough. For a larger project, a timeline can help you see which tasks overlap and where a delay would hold up other work.
 
@@ -58,11 +58,11 @@ In this fictional project, Mira asks whether a short heat pulse changes the time
 
 ## Reviewing the plan
 
-For an extended project, start with a monthly review, as Gosling and Noordam suggest. Compare progress with the previous plan, discuss why work took a different course and agree on the next goals [[3, pp. 37–41]](#ref-project-plan-goslingnoordam2022thesis). Use a shorter interval when a decision cannot wait until the next month.
+For an extended project, start with a monthly review, as Gosling and Noordam suggest. Compare progress with the previous plan, discuss why work took a different course and agree on the next goals [[3]](#ref-project-plan-goslingnoordam2022thesis). Use a shorter interval when a decision cannot wait until the next month.
 
 Review sooner if an essential control fails, access is lost or new evidence changes the question. Routine troubleshooting can usually stay within the current plan.
 
-Revise the plan with the people affected. Record what will change and what will be postponed. If the remaining work no longer fits the time available, agree on a smaller scope, a later deadline or additional help. When a deadline slips repeatedly, address the cause of the delay before setting another date [[1, pp. 134–135]](#ref-project-plan-rightmoves2006).
+Revise the plan with the people affected. Record what will change and what will be postponed. If the remaining work no longer fits the time available, agree on a smaller scope, a later deadline or additional help. When a deadline slips repeatedly, address the cause of the delay before setting another date [[1]](#ref-project-plan-rightmoves2006).
 
 <a id="project-review-evidence"></a>
 
@@ -72,7 +72,7 @@ Begin with the current question and what you agreed to do at the previous review
 
 Explain what the work establishes, with a link to the experiment or analysis record. “We completed four imaging runs” says how much was done. “We can follow cells through the required period in one condition but not the other” explains why the planned comparison is not yet possible.
 
-Compare this account with the previous plan. Was an estimate unrealistic? Did access disappear? Did the experiment answer a different question than expected? Or did useful new evidence change the aim? A regular comparison of planned and actual work can reveal recurring obstacles that a list of achievements conceals [[3, pp. 37–41]](#ref-project-plan-goslingnoordam2022thesis).
+Compare this account with the previous plan. Was an estimate unrealistic? Did access disappear? Did the experiment answer a different question than expected? Or did useful new evidence change the aim? A regular comparison of planned and actual work can reveal recurring obstacles that a list of achievements conceals [[3]](#ref-project-plan-goslingnoordam2022thesis).
 
 <a id="project-review-diagnosis"></a>
 
@@ -82,9 +82,9 @@ A result that disagrees with the preferred explanation is not necessarily a fail
 
 Even a technically successful experiment can be inconclusive. An uncertain estimate may allow both a meaningful effect and little or no effect. A negative finding may apply only to the tested dose, time, system or detection limit. Before treating it as evidence against a model, ask what that model actually predicted under those conditions. The fuller reasoning belongs in [connecting questions, models and experiments](03-connecting-questions-models-and-experiments.md#models-chapter) and [showing observations and uncertainty](../03-data-visualization/02-showing-observations-and-uncertainty.md#uncertainty-chapter).
 
-If work has stopped because samples, equipment or help are unavailable, discuss whether and when access can be restored. The scientific question may still be worth answering, but you may need another way to study it or a different project while you wait [[1, pp. 131–135]](#ref-project-plan-rightmoves2006).
+If work has stopped because samples, equipment or help are unavailable, discuss whether and when access can be restored. The scientific question may still be worth answering, but you may need another way to study it or a different project while you wait [[1]](#ref-project-plan-rightmoves2006).
 
-When discussing a setback, ask what prevented progress and what help would make a difference. If a control is missing, agree on how to establish it. If equipment is unavailable, resolve access or change the plan. Assess the work without treating the setback as a judgment of the researcher [[3, pp. 43–48]](#ref-project-plan-goslingnoordam2022thesis).
+When discussing a setback, ask what prevented progress and what help would make a difference. If a control is missing, agree on how to establish it. If equipment is unavailable, resolve access or change the plan. Assess the work without treating the setback as a judgment of the researcher [[3]](#ref-project-plan-goslingnoordam2022thesis).
 
 <a id="project-review-options"></a>
 
@@ -94,7 +94,7 @@ Decide whether the next period of work is worth its time and cost. Having alread
 
 Before adding an experiment, ask what it could resolve and how the answer would affect the plan. If every possible outcome leads to the same next step, the experiment may not be needed for that decision. It could still be necessary to document a method or complete an agreed obligation; be clear about that purpose.
 
-Compare credible alternatives. Continuing may be justified when the method is sound and the remaining question is valuable. A bounded repair may be preferable when one identifiable technical problem blocks an otherwise useful comparison. Changing direction can make sense when the evidence points to a more informative question. Pausing may be appropriate when a necessary resource cannot be obtained soon enough. Closure can be reasonable when the remaining contribution no longer warrants its cost [[1, pp. 128, 134–135]](#ref-project-plan-rightmoves2006).
+Compare credible alternatives. Continuing may be justified when the method is sound and the remaining question is valuable. A bounded repair may be preferable when one identifiable technical problem blocks an otherwise useful comparison. Changing direction can make sense when the evidence points to a more informative question. Pausing may be appropriate when a necessary resource cannot be obtained soon enough. Closure can be reasonable when the remaining contribution no longer warrants its cost [[1]](#ref-project-plan-rightmoves2006).
 
 If another group publishes on the same question, read what their study establishes before deciding to stop. It may answer your question, leave a limitation you could investigate or make independent replication more valuable. Assess a new project just as carefully before replacing the current one.
 

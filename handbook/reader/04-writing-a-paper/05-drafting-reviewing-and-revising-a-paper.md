@@ -38,21 +38,21 @@ When stuck, ask why. If you do not understand a result, inspect it or discuss it
 
 ## Read for the question and answer
 
-Read the draft through before making extensive local edits. If you have just finished writing it, a break can help you notice what the page actually says. Record places where the explanation stops making sense, but continue far enough to see whether the missing information appears later. [[8, pp. 124–126]](#ref-revision-gosling2022); [[14, rule 8]](#ref-revision-zhang2014).
+Read the draft through before making extensive local edits. If you have just finished writing it, a break can help you notice what the page actually says. Record places where the explanation stops making sense, but continue far enough to see whether the missing information appears later. [[8]](#ref-revision-gosling2022); [[14]](#ref-revision-zhang2014).
 
-Write a brief account of the paper’s question, answer and decisive evidence. Include the condition or unresolved issue that most limits the answer. Then compare that account with the title, abstract, final Introduction paragraph and Discussion. These passages can differ in detail, but they should identify the same contribution. An abstract that promises a mechanism while the Results establish an association creates a substantive discrepancy, even if each section reads smoothly on its own. [[4, rules 1 and 5–8]](#ref-revision-mensh2017); [[9, tips 4 and 9]](#ref-revision-huber2025).
+Write a brief account of the paper’s question, answer and decisive evidence. Include the condition or unresolved issue that most limits the answer. Then compare that account with the title, abstract, final Introduction paragraph and Discussion. These passages can differ in detail, but they should identify the same contribution. An abstract that promises a mechanism while the Results establish an association creates a substantive discrepancy, even if each section reads smoothly on its own. [[4]](#ref-revision-mensh2017); [[9]](#ref-revision-huber2025).
 
-Ask whether the answer addresses the question the Introduction led readers to expect. Sometimes the experiments have resolved a narrower question, or an unexpected finding has become the main contribution. In that case, revise the framing without presenting an explanation developed afterward as the original prediction. If the answer is supported but difficult to recognize, identify the missing connection before deciding to collect more data. [[14, rules 1–5]](#ref-revision-zhang2014); [[15]](#ref-revision-makin2019).
+Ask whether the answer addresses the question the Introduction led readers to expect. Sometimes the experiments have resolved a narrower question, or an unexpected finding has become the main contribution. In that case, revise the framing without presenting an explanation developed afterward as the original prediction. If the answer is supported but difficult to recognize, identify the missing connection before deciding to collect more data. [[14]](#ref-revision-zhang2014); [[15]](#ref-revision-makin2019).
 
-Check what the paper adds to existing knowledge. If the contribution depends on differing from an earlier study, reread that study’s relevant result and method. Did it use the same system, measurement and intervention? A difference may explain why the findings disagree, or show that your work extends a finding to another setting. See [comparing with previous work](04-discussion-and-conclusions.md#discussion-comparison). [[9, tips 1 and 10]](#ref-revision-huber2025).
+Check what the paper adds to existing knowledge. If the contribution depends on differing from an earlier study, reread that study’s relevant result and method. Did it use the same system, measurement and intervention? A difference may explain why the findings disagree, or show that your work extends a finding to another setting. See [comparing with previous work](04-discussion-and-conclusions.md#discussion-comparison). [[9]](#ref-revision-huber2025).
 
-Ask a colleague who is less immersed in the project to explain the paper’s question and answer. If their account differs from yours, reread the passage that led to it and check whether the problem lies in the explanation or the evidence. [[4, rules 2 and 10]](#ref-revision-mensh2017); [[2]](#ref-revision-pain2023).
+Ask a colleague who is less immersed in the project to explain the paper’s question and answer. If their account differs from yours, reread the passage that led to it and check whether the problem lies in the explanation or the evidence. [[4]](#ref-revision-mensh2017); [[2]](#ref-revision-pain2023).
 
 <a id="assessment-claims"></a>
 
 ## Checking claims against the evidence
 
-Start with the claims needed for the paper’s main conclusion. Follow each claim through the cited panels and legend to the Methods, supporting material and analysis. What was measured, what was compared, and why does that comparison support the claim? Pay particular attention when the conclusion combines several experiments or proposes a biological explanation for a measurement. [[14, rules 4–5]](#ref-revision-zhang2014); [[9, tips 6 and 9]](#ref-revision-huber2025).
+Start with the claims needed for the paper’s main conclusion. Follow each claim through the cited panels and legend to the Methods, supporting material and analysis. What was measured, what was compared, and why does that comparison support the claim? Pay particular attention when the conclusion combines several experiments or proposes a biological explanation for a measurement. [[14]](#ref-revision-zhang2014); [[9]](#ref-revision-huber2025).
 
 A legend may omit the meaning of *n* even though the analysis uses the correct units. Check the analysis before deciding whether the problem is an unclear description or repeated measurements treated as independent samples. [[15]](#ref-revision-makin2019); [[16]](#ref-revision-lord2020).
 
@@ -60,9 +60,9 @@ A legend may omit the meaning of *n* even though the analysis uses the correct u
 
 ### Reconstruct the comparison
 
-For a quantitative claim, identify the measured quantity, reference group, sampled or treated units and any pairing or nesting. Then check which observations entered the analysis and how the reported effect and uncertainty were calculated. A label such as “six replicates” does not explain whether the six are independently treated cultures, measurements within a culture or matched experimental runs. The appropriate unit follows from the design and the intended inference. [[16, pp. 1–3]](#ref-revision-lord2020).
+For a quantitative claim, identify the measured quantity, reference group, sampled or treated units and any pairing or nesting. Then check which observations entered the analysis and how the reported effect and uncertainty were calculated. A label such as “six replicates” does not explain whether the six are independently treated cultures, measurements within a culture or matched experimental runs. The appropriate unit follows from the design and the intended inference. [[16]](#ref-revision-lord2020).
 
-Follow the same samples through exclusions, transformations and summaries. If the reported counts differ between a figure and Methods, establish whether different subsets were intended and whether the distinction is explained. Reconcile the reported number with the final analysis output rather than choosing whichever version appears more plausible. For a ratio or fold change, check its direction and denominator as well as its magnitude. See [reporting quantitative findings](03-methods-results-and-figure-legends.md#reporting-results-quantification). [[9, tips 15–17]](#ref-revision-huber2025); [[17, pp. 1514–1515]](#ref-revision-weissgerber2019).
+Follow the same samples through exclusions, transformations and summaries. If the reported counts differ between a figure and Methods, establish whether different subsets were intended and whether the distinction is explained. Reconcile the reported number with the final analysis output rather than choosing whichever version appears more plausible. For a ratio or fold change, check its direction and denominator as well as its magnitude. See [reporting quantitative findings](03-methods-results-and-figure-legends.md#reporting-results-quantification). [[9]](#ref-revision-huber2025); [[17]](#ref-revision-weissgerber2019).
 
 Examine whether the analysis answers the comparison stated in the prose. A significant change in one condition and a non-significant change in another do not establish that the changes differ. Likewise, an imprecise estimate may remain compatible with a biologically substantial effect. If a claim depends on the absence of that effect, a non-significant test alone cannot supply the required evidence. [[15]](#ref-revision-makin2019).
 
@@ -70,31 +70,31 @@ Examine whether the analysis answers the comparison stated in the prose. A signi
 
 ### Test the interpretation against an alternative
 
-Choose a plausible alternative that would change an important conclusion and identify what distinguishes it from the preferred explanation. For an intervention experiment, ask what else the intervention changes and which control separates those effects. If the two explanations predict the same observed result, that experiment cannot choose between them. [[15]](#ref-revision-makin2019); [[9, tip 9]](#ref-revision-huber2025).
+Choose a plausible alternative that would change an important conclusion and identify what distinguishes it from the preferred explanation. For an intervention experiment, ask what else the intervention changes and which control separates those effects. If the two explanations predict the same observed result, that experiment cannot choose between them. [[15]](#ref-revision-makin2019); [[9]](#ref-revision-huber2025).
 
 Include findings that challenge the preferred explanation. Check whether the difference reflects conditions, samples or analytical choices; if it persists, decide how it limits the answer. Preserve the distinction between a prediction tested as planned and an explanation suggested by inspecting the results. In particular, selecting observations because they show an effect and then using them to confirm that effect can make apparently strong support circular. [[15]](#ref-revision-makin2019).
 
-A study can establish that a protein is required for a phenotype without identifying its molecular target. But if the perturbation also removes an upstream product, the loss of the phenotype could result from either change. Further evidence would be needed to distinguish them. Decide which unresolved question affects the conclusion you intend to retain, and update the [claim inventory](01-planning-the-paper.md#planning-claims) accordingly. [[9, tips 4 and 9]](#ref-revision-huber2025); [[4, rule 7]](#ref-revision-mensh2017).
+A study can establish that a protein is required for a phenotype without identifying its molecular target. But if the perturbation also removes an upstream product, the loss of the phenotype could result from either change. Further evidence would be needed to distinguish them. Decide which unresolved question affects the conclusion you intend to retain, and update the [claim inventory](01-planning-the-paper.md#planning-claims) accordingly. [[9]](#ref-revision-huber2025); [[4]](#ref-revision-mensh2017).
 
 <a id="assessment-displays"></a>
 
 ### Figures and legends
 
-Read the figures and legends independently of the main text, then compare the inference they invite with the analysis actually performed. Visual grouping can suggest a comparison the authors never tested; connecting points can imply pairing that did not occur. Check whether the display reveals the variation needed to assess the summary and whether exclusions or overlapping points hide relevant observations. [[17, figure 8]](#ref-revision-weissgerber2019).
+Read the figures and legends independently of the main text, then compare the inference they invite with the analysis actually performed. Visual grouping can suggest a comparison the authors never tested; connecting points can imply pairing that did not occur. Check whether the display reveals the variation needed to assess the summary and whether exclusions or overlapping points hide relevant observations. [[17]](#ref-revision-weissgerber2019).
 
 For a schematic, follow the material or process from beginning to end. Check that symbols, colors and names remain consistent and that the sequence agrees with Methods. [[18]](#ref-revision-wong2011review1).
 
 For light-microscopy results, compare the selected image with the range of observations it is meant to illustrate. Check that readers can identify the specimen, channels and scale, and trace image processing into the reported measurements. Example input and output data can expose a segmentation or processing problem that a polished final image conceals. Use the applicable Schmied and colleagues (2024) [[19]](#ref-revision-schmied2024) checklist to investigate missing information; it does not establish that the experiment itself was well designed.
 
-Inspect the assembled figures at their intended reading size for unreadable labels and inconsistent colors. [[9, tips 31–32]](#ref-revision-huber2025).
+Inspect the assembled figures at their intended reading size for unreadable labels and inconsistent colors. [[9]](#ref-revision-huber2025).
 
 <a id="assessment-diagnosis"></a>
 
 ## Deciding what to revise
 
-For each concern, name the passage, explain the problem and state what needs checking. Replace “Strengthen the Discussion” with a task such as “The abstract infers survival from growth arrest; check whether recovery was measured and revise the claim accordingly.” [[14, rules 8–10]](#ref-revision-zhang2014).
+For each concern, name the passage, explain the problem and state what needs checking. Replace “Strengthen the Discussion” with a task such as “The abstract infers survival from growth arrest; check whether recovery was measured and revise the claim accordingly.” [[14]](#ref-revision-zhang2014).
 
-If the evidence supports the claim but the explanation is incomplete, clarify the comparison or explain what a control rules out. Put any needed background before the result that depends on it. If the analysis is wrong, correct it and reassess the claim before rewriting the conclusion. If essential evidence is absent, obtain it or narrow the claim. Another interesting question can remain future work when its answer is not needed for the conclusion. [[4, rules 7–8]](#ref-revision-mensh2017); [[15]](#ref-revision-makin2019); [[9, tips 4 and 9]](#ref-revision-huber2025).
+If the evidence supports the claim but the explanation is incomplete, clarify the comparison or explain what a control rules out. Put any needed background before the result that depends on it. If the analysis is wrong, correct it and reassess the claim before rewriting the conclusion. If essential evidence is absent, obtain it or narrow the claim. Another interesting question can remain future work when its answer is not needed for the conclusion. [[4]](#ref-revision-mensh2017); [[15]](#ref-revision-makin2019); [[9]](#ref-revision-huber2025).
 
 <a id="assessment-case"></a>**Example: assessing the complete Brake draft**
 
@@ -279,7 +279,7 @@ Choose the subject that continues the paragraph’s topic. “We measured induct
 
 ### Connect sentences and comparisons
 
-Connect each sentence to what the reader has just learned: after introducing the RNA-derived DNA, explain what that DNA encodes. In comparisons, parallel constructions put interventions and effects in corresponding positions, making differences easier to follow. Repeat the relevant terms rather than introducing synonyms that might suggest a different measurement or condition. [[3]](#ref-revision-carandini2022); [[4, rule 4]](#ref-revision-mensh2017); [[10, pp. 217–218]](#ref-revision-tufte2006).
+Connect each sentence to what the reader has just learned: after introducing the RNA-derived DNA, explain what that DNA encodes. In comparisons, parallel constructions put interventions and effects in corresponding positions, making differences easier to follow. Repeat the relevant terms rather than introducing synonyms that might suggest a different measurement or condition. [[3]](#ref-revision-carandini2022); [[4]](#ref-revision-mensh2017); [[10]](#ref-revision-tufte2006).
 
 <a id="revision-case-sentences"></a>**Example: choosing the focus of a comparison**
 
@@ -297,9 +297,9 @@ Intact Brake restricted phage propagation. Phage restriction was lost when trans
 
 We used two genetic tests to examine the Brake protein’s role. Blocking its translation removed phage restriction; expressing the protein separately restored restriction.
 
-Words such as “however” and “therefore” signal a relationship that the sentences must also explain. Check what is being contrasted or what evidence supports the stated consequence; add the missing connection if necessary. [[10, pp. 239–240]](#ref-revision-tufte2006).
+Words such as “however” and “therefore” signal a relationship that the sentences must also explain. Check what is being contrasted or what evidence supports the stated consequence; add the missing connection if necessary. [[10]](#ref-revision-tufte2006).
 
-Keep related findings together when one sentence makes their relationship clear. Split a sentence when competing points hide the subject or comparison. A short sentence can emphasize a conclusion; a longer one can keep a result beside its necessary qualification. [[10, pp. 9–10]](#ref-revision-tufte2006); [[6]](#ref-revision-savage2019).
+Keep related findings together when one sentence makes their relationship clear. Split a sentence when competing points hide the subject or comparison. A short sentence can emphasize a conclusion; a longer one can keep a result beside its necessary qualification. [[10]](#ref-revision-tufte2006); [[6]](#ref-revision-savage2019).
 
 Read aloud to find awkward phrases and ambiguous pronouns. Then read silently, checking the text against figures and equations. [[6]](#ref-revision-savage2019); [[9]](#ref-revision-huber2025).
 
@@ -367,19 +367,19 @@ Maintain one working version with recoverable history. Assign an editor to integ
 
 ## Resolving substantive disagreements
 
-If coauthors disagree about a central conclusion, settle what the evidence supports before polishing that conclusion’s wording. Investigate possible analysis errors early and update any changed estimate in the figure, Results and abstract. Coauthors can continue work on unaffected sections. [[14, rules 8–10]](#ref-revision-zhang2014); [[4, rules 9–10]](#ref-revision-mensh2017).
+If coauthors disagree about a central conclusion, settle what the evidence supports before polishing that conclusion’s wording. Investigate possible analysis errors early and update any changed estimate in the figure, Results and abstract. Coauthors can continue work on unaffected sections. [[14]](#ref-revision-zhang2014); [[4]](#ref-revision-mensh2017).
 
-For a disputed control, state which explanations it would distinguish. An author may reasonably want to finish a paper with a narrower conclusion while another wants to pursue the larger mechanism. Agree first on what the existing evidence supports, then discuss whether the additional question belongs in this paper. Combining their preferred wording will not settle a disagreement about its scope. [[15]](#ref-revision-makin2019); [[4, rule 10]](#ref-revision-mensh2017).
+For a disputed control, state which explanations it would distinguish. An author may reasonably want to finish a paper with a narrower conclusion while another wants to pursue the larger mechanism. Agree first on what the existing evidence supports, then discuss whether the additional question belongs in this paper. Combining their preferred wording will not settle a disagreement about its scope. [[15]](#ref-revision-makin2019); [[4]](#ref-revision-mensh2017).
 
-Check whether the authors are answering different questions. An experiment can be technically successful yet leave the proposed mechanism unresolved. If disagreement remains, record the assumption or missing evidence that would settle it. [[2]](#ref-revision-pain2023); [[4, rule 10]](#ref-revision-mensh2017).
+Check whether the authors are answering different questions. An experiment can be technically successful yet leave the proposed mechanism unresolved. If disagreement remains, record the assumption or missing evidence that would settle it. [[2]](#ref-revision-pain2023); [[4]](#ref-revision-mensh2017).
 
 <a id="assessment-verification"></a>
 
 ### Check the revised paper against the original concern
 
-Return to each concern with the revised passage and its evidence beside you. Check whether the change resolves the problem. If a claim has narrowed, read its other appearances; if an analysis has changed, verify every reported value derived from it. [[9, tip 30]](#ref-revision-huber2025); [[2]](#ref-revision-pain2023).
+Return to each concern with the revised passage and its evidence beside you. Check whether the change resolves the problem. If a claim has narrowed, read its other appearances; if an analysis has changed, verify every reported value derived from it. [[9]](#ref-revision-huber2025); [[2]](#ref-revision-pain2023).
 
-Local repairs can leave an Introduction promising an abandoned conclusion, a Discussion relying on an old figure or a legend describing an earlier analysis. Read the complete revision for those consequences. [[14, rules 8–9]](#ref-revision-zhang2014); [[4, rule 10]](#ref-revision-mensh2017); [[2]](#ref-revision-pain2023).
+Local repairs can leave an Introduction promising an abandoned conclusion, a Discussion relying on an old figure or a legend describing an earlier analysis. Read the complete revision for those consequences. [[14]](#ref-revision-zhang2014); [[4]](#ref-revision-mensh2017); [[2]](#ref-revision-pain2023).
 
 <a id="revision-final"></a>
 

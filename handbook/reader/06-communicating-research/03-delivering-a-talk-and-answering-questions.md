@@ -14,7 +14,7 @@ Rehearse the complete talk aloud while it is still easy to change. Listen for aw
 
 Time the complete talk, including the opening, transitions and close. If the run reaches the end of the allotted slot, remove a secondary result, shorten a detour or move a detail to material for discussion. Keep the comparison that makes the central claim credible, and leave the agreed time for questions. [[2]](#ref-delivery-mole2023).
 
-Mark a few timing checkpoints in your notes, and decide which slides you can skip if questions or interruptions use the spare time. Use a visible timer during the talk. If you fall behind, move to the prepared shorter version and preserve the conclusion. [[1, p. 10]](#ref-delivery-edwards2014).
+Mark a few timing checkpoints in your notes, and decide which slides you can skip if questions or interruptions use the spare time. Use a visible timer during the talk. If you fall behind, move to the prepared shorter version and preserve the conclusion. [[1]](#ref-delivery-edwards2014).
 
 Rehearse the shorter version, including what you will say between the slides that remain. Skipping a result may leave a later reference or explanation without its context.
 
@@ -92,7 +92,7 @@ Keep additional slides ready for likely questions, such as a control or methods 
 
 Let the question finish. If its target is unclear, ask a short clarification or repeat the part you will answer: “Are you asking whether the protein, rather than the DNA intermediate, accounts for phage restriction?” Repeating the question lets the room hear it and gives you a moment to formulate the response. Then answer that part first, using the relevant comparison. [[3]](#ref-delivery-nsedelivery).
 
-If you do not know the answer, say so. Explain what the study can establish about the question and, when useful, suggest how the unresolved point could be tested. If a challenge reveals a limitation, acknowledge it and explain how it affects the conclusion. If it rests on a false premise, correct that premise before answering. When repeated interruptions prevent you from continuing, ask the chair to help or suggest returning to the discussion in the question period. [[1, pp. 11–12]](#ref-delivery-edwards2014).
+If you do not know the answer, say so. Explain what the study can establish about the question and, when useful, suggest how the unresolved point could be tested. If a challenge reveals a limitation, acknowledge it and explain how it affects the conclusion. If it rests on a false premise, correct that premise before answering. When repeated interruptions prevent you from continuing, ask the chair to help or suggest returning to the discussion in the question period. [[1]](#ref-delivery-edwards2014).
 
 When a question requires a separate conversation, say so and offer to continue after the session. If the chair closes the discussion, stop. [[2]](#ref-delivery-mole2023).
 

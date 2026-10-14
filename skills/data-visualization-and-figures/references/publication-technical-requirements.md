@@ -1,73 +1,25 @@
-# Publication Technical Requirements
+# Prepare and verify the delivered figure
 
-Use this when a figure is headed to a journal, preprint, poster, slide deck, grant, report, or public-facing scientific output.
+Read this for export, final sizing or a change of medium. Use the supplied destination requirements; verify current venue instructions when needed rather than treating archived recipes as current rules. When the venue is unknown, state assumptions and identify only the checks that remain material.
 
-## Use this when...
+## Design for the actual medium
 
-- The user asks if a figure is ready for submission, presentation, or export.
-- The figure may fail because of final size, file type, font, line weight, resolution, raster/vector choice, or venue constraints.
-- The target medium changes the design recommendation.
+Test manuscript figures at final column/page width, posters at their reading distance and slides at projected viewing size. A slide often needs fewer simultaneous claims and larger labels than a manuscript figure. A narrated slide can rely on spoken context that a standalone figure cannot. Splitting a dense figure can preserve its comparison better than shrinking everything. Check scale bars and annotations after assembly and resizing.
 
-## The job of this topic
+Inspect the exported file itself: text, glyphs, lines, transparency, legends, image details, panel associations and clipping. A source file that looks correct does not establish a correct PDF or raster export. State which outputs were actually opened and inspected; leave unperformed checks explicit.
 
-Catch medium and export failures that can make an otherwise strong figure unreadable, noncompliant, or misleading at final delivery size.
+## Match format to content
 
-## Default workflow
+Vectors preserve editable geometry and scale well for text, lines and diagrams. Dense plots can become unwieldy as vectors; an appropriately rasterized data layer with vector labels can be useful. Image panels remain raster evidence even inside a vector container. Check effective resolution at final size; resampling or wrapping a low-resolution image in PDF does not restore missing detail.
 
-1. Ask for target medium and venue if size, file type, color mode, accessibility, or export constraints matter.
-2. Check final physical or pixel dimensions before judging text size and line weight.
-3. Verify labels, legends, symbols, annotations, scale bars, and image details at final reduction or projection size.
-4. Choose raster output for image data and vector output for plots/diagrams when the venue permits.
-5. Check resolution, embedded fonts, transparency, color mode, and panel assembly requirements when known.
-6. State assumptions when venue specifications are missing; do not invent current journal rules.
+Lossless raster formats preserve sharp boundaries well. Lossy compression can introduce artifacts, especially around text and lines; judge the actual output and destination requirements. Embed fonts where supported and verify glyph rendering. Outlined text can preserve appearance in some workflows but loses normal text editability/searchability; retain the editable master. Verify required color mode and transparency handling rather than making RGB, CMYK or flattening universal defaults.
 
-## Decision rules
+## Preserve a reliable revision path
 
-- Manuscript figures need final column/page width testing.
-- Posters need distance readability and stronger hierarchy than manuscripts.
-- Slides need fewer simultaneous claims and larger labels.
-- Raster image panels should not be repeatedly resampled or enlarged beyond useful resolution.
-- Vector charts and diagrams should preserve editable text/lines unless the venue requires flattening.
-- Manual edits must be reproducible or documented enough not to break future revision.
-- Current journal instructions override generic style preferences.
+Separate data transformations from styling. Keep the data/version, plotting code or editable source, relevant settings and export dimensions sufficient to regenerate or revise the figure. Automate recurring preparation where it helps. Manual finishing and drawn schematics can be legitimate when their edits are recorded and the scientific content remains traceable.
 
-## Variants and edge cases
+Exact jitter or other random placement additionally needs controlled random state and compatible software; analytical reproducibility does not automatically imply identical pixels. Record consequential exclusions, transformations and image processing. Never overwrite quantitative image inputs with presentation edits.
 
-- Composite figures: confirm that labels, legends, scale bars, and annotations remain tied to the correct panel.
-- Preprints: optimize for screen readability and downloadable PDF use.
-- Grants: prioritize review readability and explanatory captions over journal-specific file minutiae unless required.
-- Unknown venue: return a generic readiness pass and list the venue checks still needed.
+Changed condition: a recurring numerical plot benefits from scripted regeneration as data change. A carefully recorded hand-finished schematic can be appropriate for a different task. Choose tools for the work instead of requiring one software workflow or manual polishing of every figure.
 
-## Anti-patterns
-
-- Reviewing at zoomed-in size only.
-- Using software defaults for font size or line width without final-size testing.
-- Ignoring color mode, resolution, transparency, or font embedding until submission.
-- Treating posters, slides, and manuscripts as interchangeable.
-- Guessing exact venue requirements from memory.
-
-## Diagnostic questions
-
-- What is the final display size?
-- What venue requirements are known?
-- Which elements become illegible when reduced or projected?
-- Are fonts embedded, labels readable, and line weights visible?
-- Does the figure work in print, screen, and projection contexts as needed?
-
-## Output patterns / mini-templates
-
-```text
-Readiness status: <ready/needs revision/blocked>.
-Known constraints: <venue/medium specs supplied>.
-Must fix before export: <items>.
-Assumptions: <unknown specs to verify>.
-```
-
-## Examples
-
-- `Manuscript panel that looks fine full-screen`: test at single-column width before accepting labels and line weights.
-- `Slide made from a manuscript figure`: split into fewer panels and enlarge the key comparison.
-
-## When not to apply this
-
-Do not let technical export checks replace chart-choice, uncertainty, accessibility, or image-evidence critique.
+Deliver the requested artifact with a concise account of consequential design choices, validation actually performed and material limitations. Export checks complement scientific review; they do not certify the analysis or the truth of the visual claim.

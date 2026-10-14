@@ -1,74 +1,31 @@
-# Color And Accessibility
+# Color, marks and identification
 
-Use this for palette choice, colorblind accessibility, grayscale robustness, fluorescence channels, heatmap colors, categorical legends, contrast, and color-as-emphasis decisions.
+Read this when choosing a palette, identifying groups or checking accessibility. Choose the meaning and hierarchy before choosing colors.
 
-## Use this when...
+## Start with the fewest useful distinctions
 
-- The figure uses color to encode category, magnitude, deviation, channel identity, annotation, or emphasis.
-- The user asks whether a palette is accessible, publication-safe, or misleading.
-- Color appears decorative, inconsistent across panels, or overloaded with too many meanings.
+Honor settled colors, line styles and symbols unless the requested review reveals a concrete problem. For unspecified ordinary trajectories, start with solid lines and circular markers only where observations need marks. Use a restrained palette with adequate contrast; a named colorblind-friendly palette is not a reason to make a quiet figure bright or saturated. Equally important groups need comparable visual weight. A neutral background and one accent suit a focal comparison, but graying all other groups can hide comparisons among peers.
 
-## The job of this topic
+Color is optional. Position, adjacency, direct labels, facets and grouping may already carry identity. Prefer a monochrome or limited-color solution when color adds no information. Conversely, small essential marks may need stronger contrast or saturation than broad filled regions. Restrained does not mean faint.
 
-Make color serve meaning without becoming the only way to read the figure.
+## Add a second cue for a reason
 
-## Default workflow
+Do not automatically cycle dashes and marker shapes across every series. Such variation adds decoding work, interrupts trajectories and can create unequal emphasis. First inspect whether labels, position, separation or facets let the reader trace each series. Direct labels should be close to their own series; use an unobtrusive legend when direct labels collide.
 
-1. Identify what color encodes: category, ordered magnitude, deviation from a midpoint, cyclic value, channel, or highlight.
-2. Choose palette type from the variable, not aesthetics.
-3. Check luminance contrast, grayscale readability, and common color-vision deficiencies.
-4. Add redundant encodings such as position, direct labels, shape, line style, order, or annotations where color carries decisions.
-5. Keep semantic colors consistent across panels and the manuscript.
-6. Inspect the actual figure before making exact palette or contrast claims; without the figure, state the check the user must perform.
+Extra cues are useful when they resolve remaining ambiguity or encode a real distinction. Examples include dashed forecasts after a clearly marked transition, distinct shapes in an overlapping categorical scatterplot, or line-style differences in crossing trajectories that must survive grayscale reproduction. Explain the cue. Filled shapes of similar apparent weight can help identification; many letters, stars and complex symbols create clutter. Facets reduce overlap but consume space and weaken same-panel comparison, so they are an alternative rather than an automatic solution.
 
-## Decision rules
+Changed condition: six well-separated observed trajectories may work with solid lines and direct labels. If the same figure must be understood in grayscale and trajectories cross, use a small set of distinguishable styles, facets or explicit local labels. Accessibility does not mandate using color, shape and dashes simultaneously.
 
-- Sequential palettes fit ordered one-direction magnitude.
-- Diverging palettes fit values around a meaningful midpoint such as zero, baseline, or control.
-- Categorical palettes fit unordered groups; limit hue count or split into panels when categories grow.
-- Cyclic palettes fit wraparound variables.
-- Avoid rainbow or jet-style maps for ordered quantitative data.
-- Use color for important distinction or emphasis; avoid saturated color on backgrounds, decoration, or secondary marks.
-- Do not rely on hue alone for essential interpretation.
+## Match the scale to the quantity
 
-## Variants and edge cases
+Use qualitative differences for categories, an ordered scale for ordered magnitude and a diverging scale when two directions from a meaningful reference matter. A reference need not be zero: a positive ratio can be centered on 1, often with symmetric log-ratio limits. The same positive numbers interpreted as concentrations generally call for a sequential scale. A standardized value is not automatically a biological change or regulation score. Even standardized data can use a sequential scale when relative ordering, rather than direction from the reference, is the task.
 
-- Heatmaps: pair palette advice with scale, clipping, clustering, missing-value, and legend checks in `specialized-figures.md`.
-- Fluorescence overlays: label each channel and biological target; consider single-channel panels plus merge when channel-specific signal matters.
-- Posters and talks: projection and distance can weaken contrast, so test the intended medium.
-- Print or PDF compression: check grayscale, low-resolution previews, and whether thin colored lines survive.
+State units, transformations, limits, reference value, clipping and missing-value appearance. Use common mappings when comparing absolute values across panels. Panel-specific mappings can reveal within-panel structure, but must be visibly identified and do not support direct color-to-color magnitude comparisons. Missing, unmeasured and genuine zero need distinct meanings.
 
-## Anti-patterns
+Monotonic lightness helps ordered reading but does not alone establish perceptual uniformity. Equal numerical steps should not create arbitrary visual boundaries or hide changes. Avoid rainbow maps for continuous magnitude unless a specific justified task demands their behavior. Perceptual uniformity also does not justify scientifically inappropriate limits or a meaningless midpoint.
 
-- Meaning encoded only by red/green, blue/purple, or other hue pairs.
-- Diverging color scale for all-positive data with no meaningful midpoint.
-- Rainbow maps that create artificial boundaries.
-- Saturated colors competing with the main signal.
-- Legends far from marks when direct labels would work.
+## Inspect the actual output
 
-## Diagnostic questions
+Check ordinary viewing, relevant color-vision simulations, grayscale when applicable, and contrast at final size. These are different checks: grayscale is not a color-vision simulation, and a simulation is not proof that every reader can decode the figure. Inspect the marks against their actual background, including overlaps and thin lines. A palette name or color count is not an accessibility guarantee.
 
-- What does color mean in this figure?
-- What remains understandable in grayscale?
-- Which distinction must survive color-vision deficiency?
-- Does the palette imply order, midpoint, or categories correctly?
-- Are labels close enough that readers do not have to memorize colors?
-
-## Output patterns / mini-templates
-
-```text
-Color role: <category/magnitude/deviation/channel/emphasis>.
-Palette issue: <problem>.
-Fix: <palette type and redundant cue>.
-Check: <grayscale/color-vision/final-medium test>.
-Do not claim: <exact color/contrast result unless figure was inspected>.
-```
-
-## Examples
-
-- `Red/green fluorescence overlay`: use an accessible channel pairing or single-channel panels, and label each channel and target.
-- `All-positive heatmap with blue-white-red`: use a sequential palette unless white represents a real baseline.
-
-## When not to apply this
-
-Do not spend the answer on palette style if the primary problem is chart choice, missing uncertainty, or missing image scale.
+Retain useful scientific conventions when they remain readable. If a convention fails, adapt the identification system and explain it. Choose the least complicated design that preserves the important comparisons under the intended viewing conditions.

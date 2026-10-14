@@ -12,23 +12,23 @@ Explain what the paper establishes and identify any problems that affect its con
 
 ## Decide whether to accept
 
-Read the invitation, abstract and reviewer instructions before accepting. Consider whether you can assess the central methods and conclusions within the requested time. You need not cover every technique in a multidisciplinary paper: tell the editor which parts you can evaluate and where another reviewer is needed. If you cannot take the assignment, decline promptly and, when possible, suggest suitable alternatives. [[2, rules 1 and 5]](#ref-review-bourne2006); [[10]](#ref-review-silverman2021).
+Read the invitation, abstract and reviewer instructions before accepting. Consider whether you can assess the central methods and conclusions within the requested time. You need not cover every technique in a multidisciplinary paper: tell the editor which parts you can evaluate and where another reviewer is needed. If you cannot take the assignment, decline promptly and, when possible, suggest suitable alternatives. [[2]](#ref-review-bourne2006); [[10]](#ref-review-silverman2021).
 
-Disclose relationships or interests that could affect—or reasonably appear to affect—your judgment. These can include recent collaboration, supervision, financial interests or close competition. Follow the journal’s definitions and ask the editor about uncertain cases before reading further. If a conflict becomes apparent only after you receive the manuscript, pause the review and contact the editor. [[3, pp. 4–5]](#ref-review-cope2017).
+Disclose relationships or interests that could affect—or reasonably appear to affect—your judgment. These can include recent collaboration, supervision, financial interests or close competition. Follow the journal’s definitions and ask the editor about uncertain cases before reading further. If a conflict becomes apparent only after you receive the manuscript, pause the review and contact the editor. [[3]](#ref-review-cope2017).
 
-Check what the journal asks reviewers to judge. Some decisions depend mainly on technical soundness; others also require a particular advance or relevance to a defined readership. Distinguish disagreement with a conclusion from lack of interest in the question. A result that challenges your preferred explanation deserves the same examination of methods and evidence as one that supports it. [[2]](#ref-review-bourne2006); [[3, pp. 5–6]](#ref-review-cope2017).
+Check what the journal asks reviewers to judge. Some decisions depend mainly on technical soundness; others also require a particular advance or relevance to a defined readership. Distinguish disagreement with a conclusion from lack of interest in the question. A result that challenges your preferred explanation deserves the same examination of methods and evidence as one that supports it. [[2]](#ref-review-bourne2006); [[3]](#ref-review-cope2017).
 
 <a id="review-confidentiality"></a>
 
 ### Confidentiality and co-review
 
-Establish whether your report will be published, whether your identity will be disclosed, and how communication with authors is handled. Published reports can be anonymous; signing a review and publishing it are separate choices. Follow the agreed process, including any later request to share a report. [[3, p. 3]](#ref-review-cope2017).
+Establish whether your report will be published, whether your identity will be disclosed, and how communication with authors is handled. Published reports can be anonymous; signing a review and publishing it are separate choices. Follow the agreed process, including any later request to share a report. [[3]](#ref-review-cope2017).
 
-Keep the submission and review correspondence confidential. Do not circulate them to colleagues, use unpublished information in your own work or contact the authors directly without the journal’s permission. Before involving a trainee or specialist, obtain the editor’s agreement and arrange how their contribution will be acknowledged. The invited reviewer remains responsible for the submitted report. [[3, pp. 5 and 8]](#ref-review-cope2017).
+Keep the submission and review correspondence confidential. Do not circulate them to colleagues, use unpublished information in your own work or contact the authors directly without the journal’s permission. Before involving a trainee or specialist, obtain the editor’s agreement and arrange how their contribution will be acknowledged. The invited reviewer remains responsible for the submitted report. [[3]](#ref-review-cope2017).
 
 Apply the same confidentiality check to external tools. Before entering manuscript material or an identifiable draft report into an AI service, check the journal’s current policy, the service’s handling of the content and any required disclosure. Ask the editor if permission is unclear. Permission to use a tool does not transfer responsibility for the assessment or its accuracy.
 
-If you can no longer meet the agreed deadline, tell the editor early and propose a date you can meet. [[2, rule 1]](#ref-review-bourne2006).
+If you can no longer meet the agreed deadline, tell the editor early and propose a date you can meet. [[2]](#ref-review-bourne2006).
 
 <a id="review-reading"></a>
 
@@ -44,25 +44,25 @@ Return to the results on which the main conclusions depend. Read each figure wit
 
 Ask whether the design distinguishes the proposed explanation from plausible alternatives. Identify the role of the controls and whether the intervention changes other features that could explain the result. When important information is missing, identify the comparison you cannot assess and request the relevant detail. The [whole-paper assessment chapter](../04-writing-a-paper/05-drafting-reviewing-and-revising-a-paper.md#assessment-claims) develops this reasoning in more detail. [[6]](#ref-review-makin2019).
 
-For quantitative conclusions, first identify the comparison and its independent units, including any pairing or repeated measurements. Check the uncertainty around the estimated effect. Examine how observations were selected and whether the analysis accounts for testing many outcomes. If an analysis was chosen after seeing the results, consider how that choice affects the conclusion. A significant result in one group and a non-significant result in another do not establish a difference between groups; non-significance alone does not establish that an effect is absent. If you cannot assess a statistical issue that could change a main conclusion, ask the editor for specialist review. [[6]](#ref-review-makin2019); [[3, p. 6]](#ref-review-cope2017).
+For quantitative conclusions, first identify the comparison and its independent units, including any pairing or repeated measurements. Check the uncertainty around the estimated effect. Examine how observations were selected and whether the analysis accounts for testing many outcomes. If an analysis was chosen after seeing the results, consider how that choice affects the conclusion. A significant result in one group and a non-significant result in another do not establish a difference between groups; non-significance alone does not establish that an effect is absent. If you cannot assess a statistical issue that could change a main conclusion, ask the editor for specialist review. [[6]](#ref-review-makin2019); [[3]](#ref-review-cope2017).
 
 Inspect the supporting data and code to the extent needed for your assessment and expected by the journal. Check that the files are accessible, identifiable and connected to the reported results. If access is restricted, assess the stated reason and available review arrangements rather than assuming unrestricted release is possible. Tell the editor when inaccessible material prevents an important check. [[4]](#ref-review-plostoolbox).
 
-When novelty or interpretation depends on an earlier publication, check the relevant passage in that paper. If the manuscript overlooks it, explain the consequence: perhaps a claimed discovery was already reported, or an apparent disagreement arises from different experimental conditions. Give the reference and the specific connection. A list of loosely related papers, especially your own, does not establish a substantive omission. [[1, pp. 1029–1030]](#ref-review-annesley2013); [[3, p. 7]](#ref-review-cope2017).
+When novelty or interpretation depends on an earlier publication, check the relevant passage in that paper. If the manuscript overlooks it, explain the consequence: perhaps a claimed discovery was already reported, or an apparent disagreement arises from different experimental conditions. Give the reference and the specific connection. A list of loosely related papers, especially your own, does not establish a substantive omission. [[1]](#ref-review-annesley2013); [[3]](#ref-review-cope2017).
 
 <a id="review-priorities"></a>
 
 ## Distinguish essential revisions from extensions
 
-Sort your concerns by their effect on the paper’s conclusions and your ability to assess them. A **major concern** challenges an important conclusion or the claimed contribution, or prevents you from judging whether they are supported. A **minor concern** is a local clarification or presentation problem that leaves the main conclusions intact. The amount of work is a separate question: an unsupported claim may be fixed by deleting a sentence, while an optional experiment could take months. [[1, pp. 1028–1029]](#ref-review-annesley2013); [[5]](#ref-review-plosreview).
+Sort your concerns by their effect on the paper’s conclusions and your ability to assess them. A **major concern** challenges an important conclusion or the claimed contribution, or prevents you from judging whether they are supported. A **minor concern** is a local clarification or presentation problem that leaves the main conclusions intact. The amount of work is a separate question: an unsupported claim may be fixed by deleting a sentence, while an optional experiment could take months. [[1]](#ref-review-annesley2013); [[5]](#ref-review-plosreview).
 
-State what remains unresolved before proposing a remedy. If the Methods omit information, ask for it. If the analysis does not answer the stated comparison, explain the mismatch. If the evidence supports a narrower conclusion, identify that option. Make clear when a concern prevents you from assessing the paper, rather than presenting your suspicion as an established flaw. [[1, pp. 1029–1030]](#ref-review-annesley2013); [[7]](#ref-review-deboer2025).
+State what remains unresolved before proposing a remedy. If the Methods omit information, ask for it. If the analysis does not answer the stated comparison, explain the mismatch. If the evidence supports a narrower conclusion, identify that option. Make clear when a concern prevents you from assessing the paper, rather than presenting your suspicion as an established flaw. [[1]](#ref-review-annesley2013); [[7]](#ref-review-deboer2025).
 
 <a id="review-experiments"></a>
 
 ### Request experiments for a stated reason
 
-An additional experiment is justified when its answer is needed for a claim the paper retains. Explain which alternative it would distinguish or which essential observation is missing. You can suggest a design, but allow another valid way to resolve the concern. Sometimes an existing analysis, a clearer explanation or a narrower claim is sufficient. [[3, p. 7]](#ref-review-cope2017); [[7]](#ref-review-deboer2025).
+An additional experiment is justified when its answer is needed for a claim the paper retains. Explain which alternative it would distinguish or which essential observation is missing. You can suggest a design, but allow another valid way to resolve the concern. Sometimes an existing analysis, a clearer explanation or a narrower claim is sufficient. [[3]](#ref-review-cope2017); [[7]](#ref-review-deboer2025).
 
 Consider whether the requested work is needed for the paper’s conclusion or asks a new question. Identifying a protein’s molecular target may be valuable without being necessary to establish its role in a phenotype; label such work as an optional future direction. For an essential concern, consider whether a different analysis or narrower claim could resolve it without costly new experiments. If neither would leave the paper’s conclusions supported, explain to the editor which evidence is still needed. [[8]](#ref-review-ploegh2011); [[9]](#ref-review-leekreviews).
 
@@ -70,17 +70,17 @@ Consider whether the requested work is needed for the paper’s conclusion or as
 
 ## Write the report
 
-Use the journal’s form. Where the format is open, begin with a short summary of the question, main result and overall assessment, then present numbered major concerns followed by minor points. Identify strengths precisely—for example, a comparison that separates two competing explanations—rather than adding generic praise. You do not need to manufacture a list of weaknesses in a sound paper. [[1, pp. 1028–1029]](#ref-review-annesley2013); [[5]](#ref-review-plosreview).
+Use the journal’s form. Where the format is open, begin with a short summary of the question, main result and overall assessment, then present numbered major concerns followed by minor points. Identify strengths precisely—for example, a comparison that separates two competing explanations—rather than adding generic praise. You do not need to manufacture a list of weaknesses in a sound paper. [[1]](#ref-review-annesley2013); [[5]](#ref-review-plosreview).
 
 <a id="review-comments"></a>
 
 ### Writing specific comments
 
-For each substantive concern, identify the passage or figure, explain the problem and state what would resolve it. Quote a short phrase when its wording is the issue. If a comment contains several independently answerable questions, split them. Use continuous numbering or a clear section scheme so the response can refer to each point. [[1, pp. 1029–1030]](#ref-review-annesley2013); [[5]](#ref-review-plosreview).
+For each substantive concern, identify the passage or figure, explain the problem and state what would resolve it. Quote a short phrase when its wording is the issue. If a comment contains several independently answerable questions, split them. Use continuous numbering or a clear section scheme so the response can refer to each point. [[1]](#ref-review-annesley2013); [[5]](#ref-review-plosreview).
 
-Write directly about the manuscript. “Figure 2 does not distinguish these explanations because…” is more useful than a judgment about the authors’ competence. Be equally clear when the problem is serious: courteous wording should still let the reader recognize a conclusion you consider unsupported. When you may have misunderstood, say what you could not determine and ask the authors to clarify it. [[3, pp. 6–7]](#ref-review-cope2017); [[7]](#ref-review-deboer2025).
+Write directly about the manuscript. “Figure 2 does not distinguish these explanations because…” is more useful than a judgment about the authors’ competence. Be equally clear when the problem is serious: courteous wording should still let the reader recognize a conclusion you consider unsupported. When you may have misunderstood, say what you could not determine and ask the authors to clarify it. [[3]](#ref-review-cope2017); [[7]](#ref-review-deboer2025).
 
-Concentrate language comments on scientific meaning and readability. Show where an ambiguous sentence changes the interpretation or a missing transition obscures the argument. Correcting every stylistic preference can bury more important concerns; widespread language problems can be described with a few representative examples. [[3, pp. 6–7]](#ref-review-cope2017).
+Concentrate language comments on scientific meaning and readability. Show where an ambiguous sentence changes the interpretation or a missing transition obscures the argument. Correcting every stylistic preference can bury more important concerns; widespread language problems can be described with a few representative examples. [[3]](#ref-review-cope2017).
 
 <a id="review-example"></a>**Example: a report on the Brake manuscript**
 
@@ -114,25 +114,25 @@ I recommend revision. The evidence connecting an RNA-derived DNA intermediate to
 
 ### Give the editor a consistent recommendation
 
-In the editor’s recommendation field, explain whether the problem can be corrected, requires a different study design or concerns the journal’s scope and expected advance. State any clarification you need before deciding. Do not request a substantial revision if you would still recommend rejection after the authors resolved your concerns. [[1, p. 1030]](#ref-review-annesley2013); [[10]](#ref-review-silverman2021); [[9]](#ref-review-leekreviews).
+In the editor’s recommendation field, explain whether the problem can be corrected, requires a different study design or concerns the journal’s scope and expected advance. State any clarification you need before deciding. Do not request a substantial revision if you would still recommend rejection after the authors resolved your concerns. [[1]](#ref-review-annesley2013); [[10]](#ref-review-silverman2021); [[9]](#ref-review-leekreviews).
 
 The editor makes the publication decision, but may ask for your assessment of both scientific merit and journal fit. Explain which criterion underlies a negative recommendation. A sound paper may fall outside the journal’s scope or offer less of an advance than it requires. A result that would interest its readers may still lack the evidence needed for publication. [[2]](#ref-review-bourne2006); [[9]](#ref-review-leekreviews).
 
-Keep scientific criticisms visible to the authors. A favorable author-facing report paired with a hidden negative assessment leaves them unable to respond and makes the editor’s decision harder. Use confidential comments for matters requiring editorial handling, such as a competing interest, a limit to your expertise or a suspected ethical irregularity. [[3, pp. 5–6]](#ref-review-cope2017); [[1, p. 1030]](#ref-review-annesley2013).
+Keep scientific criticisms visible to the authors. A favorable author-facing report paired with a hidden negative assessment leaves them unable to respond and makes the editor’s decision harder. Use confidential comments for matters requiring editorial handling, such as a competing interest, a limit to your expertise or a suspected ethical irregularity. [[3]](#ref-review-cope2017); [[1]](#ref-review-annesley2013).
 
-For a suspected irregularity, describe the observation and give precise locations or a relevant reference. Do not turn a suspicion into an accusation or conduct your own investigation with the authors. Ask the editor how to proceed. A substantive problem may need correction regardless of its cause; establishing misconduct is a separate matter. [[3, p. 5]](#ref-review-cope2017).
+For a suspected irregularity, describe the observation and give precise locations or a relevant reference. Do not turn a suspicion into an accusation or conduct your own investigation with the authors. Ask the editor how to proceed. A substantive problem may need correction regardless of its cause; establishing misconduct is a separate matter. [[3]](#ref-review-cope2017).
 
 <a id="review-rereview"></a>
 
 ## Review the revision
 
-Read the decision letter, your earlier report and the response alongside the revised manuscript. For each substantive point, assess whether the underlying concern has been resolved. The authors may have used a different analysis, supplied an explanation you overlooked or narrowed the conclusion. Judge that answer on its merits rather than requiring your preferred solution. [[3, p. 8]](#ref-review-cope2017); [[9]](#ref-review-leekreviews).
+Read the decision letter, your earlier report and the response alongside the revised manuscript. For each substantive point, assess whether the underlying concern has been resolved. The authors may have used a different analysis, supplied an explanation you overlooked or narrowed the conclusion. Judge that answer on its merits rather than requiring your preferred solution. [[3]](#ref-review-cope2017); [[9]](#ref-review-leekreviews).
 
 Check the revised evidence and wording, not just the response letter. A clear reply may describe a change that has not reached the manuscript, or a new analysis may alter the interpretation elsewhere. If an experiment remains inconclusive, reassess what the retained claim requires. [[9]](#ref-review-leekreviews).
 
-Avoid adding a new list of desirable experiments after the authors have addressed the original review. A revision can introduce a problem, and you may discover a serious issue missed earlier; raise it with a specific explanation of why it now affects your assessment. If your original criticism was mistaken, acknowledge that and withdraw it. [[3, p. 8]](#ref-review-cope2017); [[9]](#ref-review-leekreviews).
+Avoid adding a new list of desirable experiments after the authors have addressed the original review. A revision can introduce a problem, and you may discover a serious issue missed earlier; raise it with a specific explanation of why it now affects your assessment. If your original criticism was mistaken, acknowledge that and withdraw it. [[3]](#ref-review-cope2017); [[9]](#ref-review-leekreviews).
 
-If another journal asks you to review a manuscript you have seen before, tell the editor about your earlier involvement. Assess the current version afresh against the new journal’s criteria. Obtain the original journal’s permission before sharing your earlier report. [[3, p. 6]](#ref-review-cope2017).
+If another journal asks you to review a manuscript you have seen before, tell the editor about your earlier involvement. Assess the current version afresh against the new journal’s criteria. Obtain the original journal’s permission before sharing your earlier report. [[3]](#ref-review-cope2017).
 
 Tell the editor which important concerns are resolved, what remains and how that affects your recommendation. When no substantive issue remains, a short report can be sufficient. [[10]](#ref-review-silverman2021); [[9]](#ref-review-leekreviews).
 

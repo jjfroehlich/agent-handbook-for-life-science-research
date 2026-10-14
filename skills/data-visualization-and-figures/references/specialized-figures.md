@@ -1,73 +1,45 @@
-# Specialized Figures
+# Choose a specialized view by its task
 
-Use this for heatmaps, networks, genomic or temporal tracks, set intersections, dense matrices, multidimensional views, and 3D plots.
+Read this for matrices, networks, genomic views, intersections, maps or multidimensional displays. Identify which ordering, transformation, filter or layout creates the visible pattern before interpreting it.
 
-## Use this when...
+## Heatmaps: magnitude, pattern or comparison to a reference?
 
-- The figure is too dense for ordinary plot-selection advice.
-- The data have meaningful ordering, clustering, connectivity, genomic coordinates, set membership, time, or spatial dimensions.
-- The user asks whether a specialized display is interpretable rather than merely impressive.
+Name the quantity, units, transformation, limits, clipping and missing-value appearance. Explain row/column ordering and relevant clustering distance/linkage. A clustered arrangement is an analysis choice, not independent evidence of biological groups. Standardization changes the comparison: within-row relative patterns do not preserve between-row absolute magnitude. A positive ratio can have a meaningful reference at 1; concentration usually has an ordered magnitude scale. Consult `color-and-accessibility.md` before choosing the palette.
 
-## The job of this topic
+Keep common mappings for absolute comparisons across panels. Separate mappings can reveal local structure but require explicit ranges and relinquish direct color-to-color magnitude comparison. Distinguish zero, missing, unmeasured and censored values. A matrix of exact values may need numeric labels or an accompanying table; color is better for broad pattern than precise lookup.
 
-Expose the scientific structure without letting algorithmic defaults, arbitrary ordering, or visual density manufacture a pattern.
+## Networks: paths and edges are different questions
 
-## Default workflow
+Node-link geometry helps trace neighbors and indirect routes. An ordered adjacency matrix can make dense direct-edge lookup or blocks clearer but is poor for tracing multistep paths. For directed data, explicitly state whether rows are sources and columns targets, and retain that convention throughout. Do not mirror a directed matrix as though it were undirected.
 
-1. Name the specialized structure: matrix, network, track, set intersection, time series, spatial/3D, or multidimensional projection.
-2. Identify the reader task: find clusters, compare groups, locate features, follow change, inspect intersections, or understand connectivity.
-3. Check whether ordering, scaling, filtering, aggregation, or faceting is doing the main interpretive work.
-4. Demand labels, legends, and method notes for transformations, clustering, clipping, missing values, and thresholds.
-5. Reduce complexity before polishing the graphic.
-6. Inspect the actual figure before claiming that exact layout, palette, or visual pattern is successful.
+Explain edge meaning, direction, weights and absence. An absent record, an untested relationship and a measured zero need not mean the same thing. Layout proximity and apparent clusters are not extra measurements or causal proof. Disclose filtering and aggregation; weak edges may be scientifically important. A question-specific subnetwork can help if the omitted context remains recoverable. Embed measurements inside nodes only when the profiles and connectivity both remain readable. Quantitative flow diagrams need defined flows, not merely relationships.
 
-## Decision rules
+Changed condition: direct connectivity lookup in a dense network favors a matrix; tracing a biochemical route may favor a small node-link view. Density alone does not select one universal winner.
 
-- Heatmaps: check color scale, range clipping, missing-value encoding, row/column order, clustering method, annotations, and legend before interpreting blocks.
-- Networks: use node-link diagrams for small readable networks; use adjacency matrices, aggregation, filtering, or facets for dense networks.
-- Genomic displays: preserve coordinate order, use overview plus detail when scale changes, and label tracks and feature types clearly.
-- Set intersections: use matrix/UpSet-style displays when more than a few sets make Venn diagrams unreadable.
-- Temporal data: preserve time order and avoid arbitrary sorting that hides sequence.
-- 3D displays: use only when depth is part of the scientific structure and can be read reliably.
+## Genomic coordinates versus functional relationships
 
-## Variants and edge cases
+Keep coordinate order, track identities and relevant assembly/units recoverable. Pair an overview with detail when binning hides local features. Mark removed distances or rescaled intervals. Feature-aligned stacks reveal local patterns while discarding genomic arrangement; spatially adjacent cells in a space-filling curve can represent distant loci. Overlaid tracks can occlude values or mix colors, while a heatmap sacrifices precise magnitude reading.
 
-- Multidimensional projections can suggest clusters; pair them with explanation of what was reduced or lost.
-- Genome browsers and track stacks may need both a high-level locator and a zoomed panel.
-- Clustered heatmaps need the clustering distance, linkage, and scale context when those choices affect the conclusion.
-- Dense networks often need a question-specific subnetwork rather than a complete hairball.
+Arcs can locate breakpoints without conveying full variant order or orientation. Sequence graphs can clarify rearranged connections while giving up physical distance. Inferred states and average tracks are computed summaries; keep primary variation accessible when it matters. Do not present a prospective visualization idea as an established measurement method.
 
-## Anti-patterns
+## Intersections and hierarchies
 
-- Interpreting heatmap clusters without knowing scaling and ordering.
-- Using diverging palettes without a meaningful reference. All-positive ratios can still have a substantive midpoint at one.
-- Treating network layout proximity as evidence when layout is algorithmic.
-- Using Venn diagrams for too many sets.
-- Adding 3D effects for decoration.
+State the population and whether an intersection count is exclusive to a combination or inclusive of additional sets. Simple Venn/Euler forms can serve a few easily read relations; a matrix/intersection-bar view can handle more combinations but still needs explicit counting semantics. Visual area is not quantitative unless the construction makes it so. Supplied hierarchy, inferred clustering and overlapping membership are distinct structures; describe the method when the tree is inferred.
 
-## Diagnostic questions
+## Multiple dimensions, space and geography
 
-- Which transformation, order, or filter creates the visible pattern?
-- Is the ordering meaningful, clustered, or arbitrary?
-- Are missing values, clipping, thresholds, and normalization visible?
-- Would a matrix, table, facet, or zoomed detail reveal the structure better?
-- Does the specialized display still answer one clear scientific question?
+Use a scatterplot matrix or facets when the reader needs recoverable pairwise relations. PCA displays variance along linear components under the chosen centering/scaling; show explained variance and meaningful loadings where needed. Two dimensions omit variation, and separated groups in a projection do not automatically establish discrete biological classes. Parallel coordinates depend strongly on axis order and scaling.
 
-## Output patterns / mini-templates
+PCA scores locate observations; loadings describe variable contributions. A variable poorly represented on the retained components cannot be interpreted reliably from its apparent two-dimensional relationship alone. Do not treat a projection's geometry as the full original distance structure.
 
-```text
-Specialized structure: <heatmap/network/genome/set/time/3D>.
-Interpretation risk: <ordering/scaling/filtering/density issue>.
-Required disclosure: <method or legend detail>.
-Better display: <matrix/facet/filter/overview-detail/table>.
-Visual inspection needed: <exact pattern/palette/layout claim>.
-```
+A correlation matrix summarizes selected associations and cannot replace inspection of the bivariate patterns. Zero Pearson correlation does not exclude a strong nonlinear relationship.
 
-## Examples
+Reserve 3D for genuine spatial/depth relationships that can be read through the chosen view; occlusion and projection can hide structure. Multiple views, slices or interaction can help, while perspective bars distort ordinary magnitude comparisons. A map is useful when geography matters; large regions can dominate attention. Distinguish counts from rates and choose projection/area treatment for the question. Aligned plots may compare values more precisely when location is secondary.
 
-- `Clustered heatmap`: check whether rows and columns were clustered, what distance was used, and whether color limits hide extreme values.
-- `Network hairball`: filter to the claim-relevant subnetwork or switch to an adjacency matrix.
+For warranted 3D, keep projected labels readable and inspect whether transparency obscures surfaces or creates misleading apparent intersections. Transparency is an option, not a general solution to occlusion.
 
-## When not to apply this
+Choropleths retain geography but give large regions more area; cartograms encode a quantity through area while distorting familiar shapes, and tile maps equalize visual units while sacrificing geographic precision. Choose according to the comparison. An inset can relocate a region without changing its scale or can rescale it; label which occurred rather than implying unchanged spatial relationships.
 
-Do not route ordinary group comparisons here unless the figure is genuinely dense or specialized.
+## Time and dense trajectories
+
+Preserve actual time spacing and explain missing intervals, aggregation and phase alignment. A line implies a connection; distinguish observations, interpolation, fitted values and forecasts. For dense series, selected detail, facets or summaries with defined spread/uncertainty can help. Sparklines suit qualitative overview, not exact reading without scale context. Animation can show change but makes across-time comparison depend on memory; small multiples often make that comparison easier. Smooth transitions can imply temporal continuity that the data do not contain.

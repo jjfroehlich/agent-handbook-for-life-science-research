@@ -1,5 +1,15 @@
 # Visual Readiness Examples
 
+## A calm line plot without a style cycle
+
+Input: "Three treatment trajectories have solid lines and round points. They are labeled at their ends. Improve readability but keep the understated look."
+
+Response: Keep the solid lines and round points unless inspection shows a tracing problem. Check label placement, line weight and spacing at final size first. A restrained palette is compatible with accessibility when the paths and labels preserve identities; verify the exported figure in the intended reproduction and with color-vision simulations before claiming success. If crossings make a path ambiguous, try a local label or separate panel. Add a dash or shape distinction only if that solves the ambiguity with less effort for the reader.
+
+Changed condition: "The last segment is a prediction." A dashed continuation can now convey a meaningful difference. Label the prediction and its uncertainty. The preference for solid lines does not override this semantic distinction.
+
+Changed condition: "These are overlapping groups in a monochrome scatterplot." Distinct open/filled shapes or facets may now help; direct endpoint labels do not apply. Choose equal visual weights and inspect overlap.
+
 These completed fictional cases illustrate a review based on supplied descriptions. Exact image, palette and layout quality require the exported figure.
 
 ## Hidden n and uncertainty

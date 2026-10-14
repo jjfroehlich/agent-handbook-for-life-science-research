@@ -6,7 +6,7 @@
 
 # Choosing a scientific problem
 
-Choose a question you want to spend time answering. Consider what you could learn and whether you can do the work with the time and support available. Comparing a few possible projects can help you decide [[1, pp. 726–727]](#ref-problem-alon2009).
+Choose a question you want to spend time answering. Consider what you could learn and whether you can do the work with the time and support available. Comparing a few possible projects can help you decide [[1]](#ref-problem-alon2009).
 
 <a id="problem-value"></a>
 
@@ -16,9 +16,9 @@ Describe what you want to find out. “Single-cell analysis of regeneration” n
 
 Read the literature. What is already established, in which systems and under what conditions? What is being assumed? Which observation remains unexplained?
 
-A gap in the literature can suggest a project, but explain what answering the question would add to our understanding [[2, Rules 15–18]](#ref-problem-brennan2019research). For example, a treatment that works in cultured cells may fail in intact tissue. Testing it in tissue would establish whether the effect occurs there too. A project can also be valuable without testing an explanation: describing which cells appear during recovery may be a useful first step when little is known about the process.
+A gap in the literature can suggest a project, but explain what answering the question would add to our understanding [[2]](#ref-problem-brennan2019research). For example, a treatment that works in cultured cells may fail in intact tissue. Testing it in tissue would establish whether the effect occurs there too. A project can also be valuable without testing an explanation: describing which cells appear during recovery may be a useful first step when little is known about the process.
 
-Your own interest matters too. Notice the questions you keep returning to and the work you enjoy doing. You will spend time on routine tasks as well as discoveries, so consider whether the day-to-day work appeals to you [[1, pp. 726–727]](#ref-problem-alon2009).
+Your own interest matters too. Notice the questions you keep returning to and the work you enjoy doing. You will spend time on routine tasks as well as discoveries, so consider whether the day-to-day work appeals to you [[1]](#ref-problem-alon2009).
 
 <a id="problem-alternatives"></a>
 
@@ -26,7 +26,7 @@ Your own interest matters too. Notice the questions you keep returning to and th
 
 Compare projects you could undertake within the available time. For each one, describe the question and how you would begin answering it. Identify anything you would need to obtain or establish first, such as access to samples or a reliable assay. This makes it easier to compare the work involved as well as the scientific interest.
 
-Alon proposes comparing interest with feasibility. A question that interests you more and is easier to investigate is usually the better choice. The harder decision is between an ambitious question that may take years to answer and a smaller project you could complete sooner. Consider how much time and support you have. If you need to develop a new method first, will enough time remain to investigate the question? [[1, p. 726]](#ref-problem-alon2009).
+Alon proposes comparing interest with feasibility. A question that interests you more and is easier to investigate is usually the better choice. The harder decision is between an ambitious question that may take years to answer and a smaller project you could complete sooner. Consider how much time and support you have. If you need to develop a new method first, will enough time remain to investigate the question? [[1]](#ref-problem-alon2009).
 
 Check the assumptions that could change your choice. If a project depends on a collaborator’s samples, ask whether they can provide them, when they would arrive and whether you can use them for the proposed study. Until you have an agreement, sample access remains uncertain.
 
@@ -50,11 +50,11 @@ Before choosing, the researcher needs to check whether A’s imaging assay can d
 
 ## Time, experience and support
 
-For a first project, it can help to choose a question you can begin investigating with established methods and regular guidance. That gives you time to learn how to do research without also having to develop every method. A less predictable project may be reasonable when you have more experience, longer funding or colleagues who can share the work [[1, p. 726]](#ref-problem-alon2009).
+For a first project, it can help to choose a question you can begin investigating with established methods and regular guidance. That gives you time to learn how to do research without also having to develop every method. A less predictable project may be reasonable when you have more experience, longer funding or colleagues who can share the work [[1]](#ref-problem-alon2009).
 
 When you feel out of your depth, ask what you need to learn. You may be missing background knowledge or a technique that someone can teach you. But you may also have reached a question that nobody knows how to answer yet. Schwartz describes this difference between learning established knowledge and doing research [[3]](#ref-problem-schwartz2008). Reading and discussion can help you distinguish the two; an unknown answer alone is no reason to abandon a question.
 
-Set aside time to read, discuss possible questions and check feasibility before committing. Alon’s laboratory gives new researchers three months for this, though he acknowledges that funding and deadlines can limit the time available [[1, pp. 726–727]](#ref-problem-alon2009). Agree with your supervisor how much time you can spend exploring and when you need to choose.
+Set aside time to read, discuss possible questions and check feasibility before committing. Alon’s laboratory gives new researchers three months for this, though he acknowledges that funding and deadlines can limit the time available [[1]](#ref-problem-alon2009). Agree with your supervisor how much time you can spend exploring and when you need to choose.
 
 If your broad topic is assigned, ask your supervisor which decisions are still open. You may be able to choose the specific question or the system in which to study it, even when the overall aim is fixed.
 
@@ -62,7 +62,7 @@ If your broad topic is assigned, ask your supervisor which decisions are still o
 
 ## Making the choice
 
-Write down why you chose the project and what you learned about its feasibility. Note the main risk and what would make you reconsider. As Alon describes, research may lead to a more interesting question than the one you started with [[1, p. 728]](#ref-problem-alon2009).
+Write down why you chose the project and what you learned about its feasibility. Note the main risk and what would make you reconsider. As Alon describes, research may lead to a more interesting question than the one you started with [[1]](#ref-problem-alon2009).
 
 The fictional researcher contacts the imaging facility and the potential collaborator. The facility can support repeated imaging and medium changes for A. For B, the collaborator can provide two species, but an additional species is not expected for at least six months. The teams have not yet agreed how to measure recovery across species.
 

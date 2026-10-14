@@ -8,6 +8,22 @@
 
 <a id="display-comparison"></a>Choose a display for the comparison you want to make. Try alternatives while exploring the data: a pattern hidden by a group average may become visible when you plot the individual observations. [[4]](#ref-display-shoresh2012).
 
+Decide what readers should notice first, then choose the layers that make it visible. A group comparison may need both a readily visible median and the observations around it; a time course may need only a few clearly labeled solid lines. More colors, symbols and layers are useful only when they make a needed distinction easier to read. The glossary below names the available forms; it is not a list of mutually exclusive choices.
+
+<a id="display-design-process"></a>
+
+## Design the comparison
+
+Start with a question a reader should be able to answer from the figure: which treatment has the larger response, how consistently a response occurs across experiments, or where a protein lies within a cell. These questions need different evidence and different arrangements. A visually attractive figure can still make the intended comparison difficult. Wong describes design as solving a communication problem under known objectives and constraints, rather than adding decoration at the end. [[14]](#ref-display-wongdesign2011).
+
+Identify what each observation represents and which variables must remain visible. For a treatment applied to cultures, cells within a culture and independent cultures are different levels of observation. For a time course, the elapsed time and the order of measurements both matter. Put the main comparison on a common positional scale where possible; use labels, grouping and color to carry the remaining distinctions. The chapter on [observations and uncertainty](02-showing-observations-and-uncertainty.md#uncertainty-units) develops the choice of observational unit. [[2]](#ref-display-wong2010); [[3]](#ref-display-weissgerber2015).
+
+Compare a few plausible arrangements before refining one. An overlaid time course makes treatment differences at each time easy to compare; aligned small multiples make each trajectory easier to follow when many curves cross. Neither is universally better. Sketches or quick plots can expose this tradeoff before you spend time adjusting fonts and colors. Keep the data and the intended reading size the same while comparing designs. [[14]](#ref-display-wongdesign2011); [[1]](#ref-display-wilke2019).
+
+Then establish a visual hierarchy. Give the main comparison enough space, make its labels easy to find, and keep guides and secondary annotations quieter than the data. A summary can deserve more emphasis than the surrounding observations when readers need to compare centers; the observations still need to remain available for assessing variation. Inspect the result at its intended size and ask someone to make the comparison without your explanation. Their answer tests whether the arrangement works. [[6]](#ref-display-rougier2014).
+
+Duarte offers a useful way to separate the visual roles: background, data and emphasis. Background guides orient the reader; data remain readable; emphasis directs attention to the comparison. A small contrast change can be enough, and changing the emphasis need not remove the surrounding evidence. The book’s presentation examples are practitioner guidance, with an explicit warning against oversimplifying substantive data for scientific audiences. A standalone scientific figure also needs context that a narrated slide might supply in speech. [[15]](#ref-display-duarte2008).
+
 <a id="display-choice"></a>
 
 ## Visual glossary
@@ -217,7 +233,7 @@
 </tbody>
 </table>
 
-For fuller comparisons and examples, see Wong [[2]](#ref-display-wong2010), Wilke [[1, chapters 6–13 and 18]](#ref-display-wilke2019), Lex and Gehlenborg [[13]](#ref-display-lexgehlenborg2014), and Jambor [[10]](#ref-display-jambortables). The catalogs by Holtz and Healy [[11]](#ref-display-holtzhealy) and Ribecca [[12]](#ref-display-ribecca) show further display options.
+For fuller comparisons and examples, see Wong [[2]](#ref-display-wong2010), Wilke [[1]](#ref-display-wilke2019), Lex and Gehlenborg [[13]](#ref-display-lexgehlenborg2014), and Jambor [[10]](#ref-display-jambortables). The catalogs by Holtz and Healy [[11]](#ref-display-holtzhealy) and Ribecca [[12]](#ref-display-ribecca) show further display options.
 
 <a id="display-explore"></a>
 
@@ -225,11 +241,13 @@ For fuller comparisons and examples, see Wong [[2]](#ref-display-wong2010), Wilk
 
 Inspect the observations before settling on a summary. Datasets with similar means and spreads can have quite different patterns; a boxplot, for example, can hide two clusters. If the data include several treatments or sample types, examine them separately as well as together. [[4]](#ref-display-shoresh2012); [[5]](#ref-display-matejka2017).
 
-Change histogram bin widths and density smoothing to see whether an apparent feature persists. Coarse bins merge nearby features, while fine bins can make small fluctuations prominent. Check a violin’s shape against the observations. [[1]](#ref-display-wilke2019), chapters 7–9 and 18.
+Change histogram bin widths and density smoothing to see whether an apparent feature persists. Coarse bins merge nearby features, while fine bins can make small fluctuations prominent. Check a violin’s shape against the observations. [[1]](#ref-display-wilke2019).
+
+Change the display when the question changes. A density helps locate modes; an ECDF makes the fraction below a threshold readable without choosing bins. A Q–Q plot instead compares quantiles with a specified distribution or another sample. Its reference and line convention need explanation, and apparent agreement is a diagnostic rather than proof of the generating model. These views complement one another because they expose different features. [[1]](#ref-display-wilke2019).
 
 <a id="display-time-example"></a>**Categories or a time course?**
 
-The same fifteen readings appear in both displays below: one reporter culture per strain measured at 0, 1, 2, 4 and 8 hours. The grouped bars place the strains side by side at each time. In the aligned line panels, it is easier to follow Cedar’s early rise and decline and Hazel’s later rise. The horizontal spacing preserves elapsed time, including the longer interval between the final two measurements. Lines connect the recorded observations; they do not supply measurements between them. [[7]](#ref-display-streit2015); [[1]](#ref-display-wilke2019), chapters 13 and 21.
+The same fifteen readings appear in both displays below: one reporter culture per strain measured at 0, 1, 2, 4 and 8 hours. The grouped bars place the strains side by side at each time. In the aligned line panels, it is easier to follow Cedar’s early rise and decline and Hazel’s later rise. The horizontal spacing preserves elapsed time, including the longer interval between the final two measurements. Lines connect the recorded observations; they do not supply measurements between them. [[7]](#ref-display-streit2015); [[1]](#ref-display-wilke2019).
 
 ![Bars for Cedar, Hazel and Willow grouped at 0, 1, 2, 4 and 8 hours, with equal spacing between groups.](../../assets/images/display-time-bars.png)
 
@@ -245,15 +263,17 @@ All plotted values are illustrative; the glossary icons are schematic.
 
 <a id="display-order"></a>
 
-Sort categories by value when readers need to identify the largest and smallest amounts. Keep an established sequence, such as developmental stages, when that order helps explain the result. Put the quantities readers need to compare next to one another, using a shared axis or aligned panels. [[1]](#ref-display-wilke2019), chapters 6 and 21; [[12]](#ref-display-ribecca).
+Sort categories by value when readers need to identify the largest and smallest amounts. Keep an established sequence, such as developmental stages, when that order helps explain the result. Put the quantities readers need to compare next to one another, using a shared axis or aligned panels. [[1]](#ref-display-wilke2019).
 
 <a id="display-scales"></a>
 
-Use the same axis scales across panels when comparing response sizes. If a smaller response becomes difficult to see, add a clearly labeled expanded view beside the full-range comparison. Giving each panel its own scale can make small and large fluctuations look alike. A linear axis uses equal distances for equal differences; a logarithmic axis uses equal distances for equal ratios, which helps compare positive values spanning orders of magnitude. [[1]](#ref-display-wilke2019), chapters 12 and 21; [[8]](#ref-display-mcinerny2015).
+Use the same axis scales across panels when comparing response sizes. If a smaller response becomes difficult to see, add a clearly labeled expanded view beside the full-range comparison. Giving each panel its own scale can make small and large fluctuations look alike. A linear axis uses equal distances for equal differences; a logarithmic axis uses equal distances for equal ratios, which helps compare positive values spanning orders of magnitude. [[1]](#ref-display-wilke2019); [[8]](#ref-display-mcinerny2015).
+
+Choose the baseline according to the encoding. A bar’s length represents its value, so truncating its baseline changes the apparent ratio of lengths. Points and lines are read by their positions; a narrower, clearly labeled range can reveal small changes without making a false length comparison. Keep the full range available when it changes the biological interpretation. A logarithmic axis cannot contain zero: retain a zero-dose control in a clearly separated control panel or use another justified scale. Moving zero to an arbitrary small positive dose would misrepresent the experiment. [[1]](#ref-display-wilke2019).
 
 <a id="display-dimensions"></a>
 
-If color identifies treatment and shape identifies genotype, try separate panels for each genotype when the symbols become difficult to distinguish. Keep treatment colors and axes consistent across panels. For spatial structures, a three-dimensional view may be needed; compare it with projections when overlap obscures the relationship. [[1]](#ref-display-wilke2019), chapters 5 and 12; [[9]](#ref-display-gehlenborg2012).
+If color identifies treatment and shape identifies genotype, try separate panels for each genotype when the symbols become difficult to distinguish. Keep treatment colors and axes consistent across panels. For spatial structures, a three-dimensional view may be needed; compare it with projections when overlap obscures the relationship. [[1]](#ref-display-wilke2019); [[9]](#ref-display-gehlenborg2012).
 
 <a id="display-check"></a>
 
@@ -298,3 +318,7 @@ Ask a colleague to answer the intended question from the display and caption; a 
 12. <a id="ref-display-ribecca"></a>[Ribecca, S. (n.d.). **The Data Visualisation Catalogue.** [Website; accessed 17 September 2026].](https://datavizcatalogue.com/)
 
 13. <a id="ref-display-lexgehlenborg2014"></a>[Lex, A., & Gehlenborg, N. (2014). **Sets and intersections.** *Nature Methods*, 11, 779.](https://doi.org/10.1038/nmeth.3033)
+
+14. <a id="ref-display-wongdesign2011"></a>[Wong, B. (2011). **The design process.** *Nature Methods*, 8, 987.](https://doi.org/10.1038/nmeth.1783)
+
+15. <a id="ref-display-duarte2008"></a>[Duarte, N. (2008). **slide:ology: The Art and Science of Creating Great Presentations.** O’Reilly Media.](https://www.oreilly.com/library/view/slide-ology/9780596522346/)

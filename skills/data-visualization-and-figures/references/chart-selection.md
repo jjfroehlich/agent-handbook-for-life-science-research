@@ -1,77 +1,40 @@
-# Chart Selection
+# Choose a display for the comparison
 
-Use this when the user asks what plot, table, or visual form to use, or when a proposed figure may not fit the data or reader task.
+Read this when the chart family or reader task is unresolved. Begin with the operation: compare amounts, judge a distribution, follow change, inspect a relationship, understand composition or look up exact values. Identify the data structure and what one mark represents. Then compare plausible designs on the same data.
 
-## Use this when...
+If the task needs one value rather than a relationship, a contextualized number can be sufficient. Include its units, population and denominator where applicable. A chart becomes useful when readers need a comparison, distribution or trend; do not remove those relationships merely to produce a striking number.
 
-- The user is choosing between bars, dots, lines, box plots, violin plots, histograms, scatter plots, tables, matrices, or small multiples.
-- The current figure may hide raw observations, spread, sample size, pairing, or exact lookup needs.
-- The figure uses a default chart and the scientific task is not yet clear.
+## Match the operation
 
-## The job of this topic
+| Reader task | Useful candidates | What to watch |
+|---|---|---|
+| Compare amounts or counts | Aligned dots or bars | Length bars need an honest baseline; position plots have different constraints. |
+| Compare continuous groups | Points, boxplots, violins, estimate/interval displays | Center, shape, sample size and uncertainty are different information. Choose layers deliberately. |
+| Follow time or another ordered coordinate | Lines, points, small multiples | Preserve actual spacing; connections must have meaning. |
+| Inspect association | Scatterplot, binned counts/density, residual display | Overlap can hide frequency; correlation and layout do not establish causality. |
+| Compare shares or totals | Aligned bars, stacks, a simple pie, hierarchy display | Denominators and additive quantities matter; internal stack segments lack common baselines. |
+| Retrieve exact values | Table, annotated matrix | Keep units, precision and row tracking readable. |
 
-Choose the simplest honest display that lets the reader do the scientific job: compare groups, inspect distributions, see relationships, follow change, judge composition, inspect exact values, or recognize a raw data pattern.
+Aligned position and length usually support more precise magnitude comparisons than area, angle or volume. That does not make every other encoding invalid: a few broad shares can work in a simple pie, and spatial structure can justify a map. Scale circle size by area when area represents amount. Do not add depth merely to decorate quantities.
 
-## Default workflow
+## Continuous data need more than a mean-only bar
 
-1. State the figure job in one sentence.
-2. Identify the data structure: categorical, continuous, paired, nested, time series, matrix, spatial, network, hierarchy, or exact lookup.
-3. Decide whether the reader needs raw observations, uncertainty, sample size, distribution shape, or exact values.
-4. Choose position/length encodings before area, angle, volume, color-only, or decorative shapes.
-5. If the display is dense, facet, aggregate, bin, sort, or use a table/matrix instead of crowding one panel.
-6. Name what the recommended display reveals and what it still hides.
+The same mean and spread can conceal different distributions, pairings or clusters. Show those features when they change the interpretation. A useful starting candidate for group distributions combines a light violin, a narrow box and visible observations. Decide each layer's contribution, rather than always drawing three layers or always reducing to dots. A tiny group can retain its points and a descriptive center while a larger group retains density and quartiles. For large groups, a readable summary/distribution may be preferable to every point. Consult `statistics-and-uncertainty.md` for units, weighting and interval meaning.
 
-## Decision rules
+Histograms expose counts and depend on bin boundaries and widths. Density curves depend on smoothing. Unequal-width histograms require correct area normalization; height alone otherwise misrepresents counts. Avoid opaque overlapping distributions when separate panels or outlines make comparison easier. Ridgelines can expose shifts or modes across many ordered groups, at the cost of exact density comparison and potential overlap.
 
-- Amounts or counts: bars or dots can support comparison. For continuous measurements, show observations or distributions when their spread, sample size or pairing affects the claim; summary points and intervals can accompany them.
-- Continuous distributions: use dot/strip, box, violin, histogram, density, empirical cumulative, or ridgeline forms according to sample size and task.
-- Small samples: show the individual observations; avoid smooth density shapes that imply unsupported information.
-- Paired, repeated, or nested observations: connect pairs, show within-unit differences, group points by replicate, or facet by independent unit.
-- Relationships: use scatter, line, residual, or binned displays with clear scales and uncertainty where needed.
-- Composition: use stacked bars for part-to-whole comparisons; internal segments lack a common baseline. Grouped bars can compare amounts across factors without implying composition. Prefer aligned lengths or positions to pies for precise comparisons.
-- Exact lookup: use a table or annotated matrix rather than forcing a plot.
-- Multiple categories: sort, group, or facet before adding many colors or symbols.
+An empirical cumulative distribution is useful for fractions below a threshold or quantiles without choosing bins. It may need explanation for unfamiliar readers. A Q–Q plot compares quantiles against a stated reference distribution or another sample; specify reference parameters and line convention. Agreement is diagnostic, not proof of a generating model. Apparent straight tails on log–log axes do not prove a power law.
 
-## Variants and edge cases
+## Preserve the question while simplifying
 
-- A table is better when exact values, many attributes, units, or lookup are the job.
-- A plot is better when pattern, trend, rank, distribution, or relative magnitude is the job.
-- If both exact values and patterns matter, use a small table plus a plot or a table with restrained visual cues.
-- Do not use the same plot type for exploratory and publication figures without checking whether the final reader task changed.
+Sorting can reveal rank when categories have no meaningful order. Retain time, dose, anatomical or other substantive order. Faceting can reduce overlap, but consumes space and makes some within-panel comparisons harder. Aggregation can clarify a trend while concealing unusual observations; name what was aggregated and keep important detail recoverable. Do not silently discard outliers or weak network edges for a cleaner picture.
 
-## Anti-patterns
+For compositions, distinguish totals, component amounts and fractions. Stacks require additive parts; medians or uncertain group means do not automatically form a meaningful whole. Proportion curves conceal changing totals, and equal-area densities conceal prevalence. State the denominator. Mosaics cross-classify groups; treemaps show nesting. Overlapping membership is not a partition. Nested rings can double-count categories, and crossing ribbons can obscure transitions. Prefer simple aligned displays when hierarchy itself is not the question.
 
-- Mean-only bars or lines for continuous small-n data.
-- Summary statistics shown as if they prove the visual pattern.
-- Pie or area encodings for small quantitative differences.
-- Default chart choice with no stated reader task.
-- Long legends created because too many categories were forced into one panel.
+Word clouds give longer words more visual area as well as encoding frequency through size. Circular bars add radial geometry to length judgments. If precise rank or magnitude matters, aligned bars or lollipops avoid these extra influences; decorative variety alone does not justify them.
 
-## Diagnostic questions
+## Exploration and explanation have different jobs
 
-- What should the reader compare first?
-- Does the figure need exact values or pattern perception?
-- Are observations, uncertainty, sample size, and outliers visible enough?
-- Are categories ordered by the task or by accident?
-- Would a table, matrix, facet, or supplement serve the job better?
+Explore several views when searching for structure. For the final figure, choose the view that supports the stated comparison and retain evidence that could change the conclusion. A compelling sequence is not evidence of mechanism. An overall comparison and a comparison conditional on a subgroup can answer different questions; do not switch silently between them.
 
-## Output patterns / mini-templates
-
-```text
-Current form: <chart/table>.
-Figure job: <comparison/distribution/relationship/etc.>.
-Main risk: <hidden or misleading feature>.
-Recommended form: <specific display>.
-Why: <data property and reader task>.
-Caveat: <context still needed>.
-```
-
-## Examples
-
-- `n=4 per group with bars`: show all four points per group and add a compatible summary interval if useful.
-- `Pooled repeated measures`: connect paired observations or show independent-unit summaries instead of treating every point as independent.
-- `Large exact results table`: keep the table for lookup, but sort rows by the comparison and move secondary columns to supplement.
-
-## When not to apply this
-
-Do not use this as a plotting-code guide. If the user only asks for syntax, answer the code question and offer design review separately.
+Changed condition: exact values across many attributes favor a table. If the reader instead needs to see a dose response, a plot can make the relationship apparent; a compact table can remain available for lookup. Explain the consequential choice and its tradeoff without forcing a full design report into a small request.

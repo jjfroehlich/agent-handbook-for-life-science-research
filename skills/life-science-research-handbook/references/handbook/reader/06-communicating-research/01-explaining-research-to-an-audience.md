@@ -66,7 +66,7 @@ Was making the DNA enough for defence, or did the system also need the protein? 
 
 The specialist version can name the DNA intermediates, coding junctions and construct comparison because its listeners can use those details. The broader version asks whether DNA production alone is enough, then gives the same decisive comparison in ordinary language.
 
-An analogy can help listeners grasp an unfamiliar relationship, provided the correspondence is clear: which part of the familiar example stands for which object or process? Keep it brief, then return to the actual system for the evidence. If the analogy implies intention or a mechanism the study has not established, use another explanation. [[2, pp. 83–92]](#ref-audience-lefever2012); [[5]](#ref-audience-yanai2020).
+An analogy can help listeners grasp an unfamiliar relationship, provided the correspondence is clear: which part of the familiar example stands for which object or process? Keep it brief, then return to the actual system for the evidence. If the analogy implies intention or a mechanism the study has not established, use another explanation. [[2]](#ref-audience-lefever2012); [[5]](#ref-audience-yanai2020).
 
 <a id="audience-test"></a>
 

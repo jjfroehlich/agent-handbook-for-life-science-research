@@ -22,7 +22,7 @@ The starting conversation should leave room for different aims. One collaborator
 
 ## The collaboration agreement
 
-Record the agreed scope, responsibilities and resources while everyone can check that they understood the conversation in the same way. The agreement need not anticipate every event. Team-science guides recommend clarifying goals, roles, resources, communication, data practices and credit early, then revisiting them as the project evolves [[2, pp. 44–49, 77–82]](#ref-collaboration-bennett2018); [[3, pp. 203–207]](#ref-collaboration-rightmoves2006).
+Record the agreed scope, responsibilities and resources while everyone can check that they understood the conversation in the same way. The agreement need not anticipate every event. Team-science guides recommend clarifying goals, roles, resources, communication, data practices and credit early, then revisiting them as the project evolves [[2]](#ref-collaboration-bennett2018); [[3]](#ref-collaboration-rightmoves2006).
 
 Include:
 
@@ -70,7 +70,7 @@ The following fictional team revisits its plan as the work develops; its eventua
 
 Ask collaborators which choices make their part of the work trustworthy and which limitations affect the shared claim. Before handing data over for analysis, discuss how measurements were acquired, which observations were excluded or missing, and what transformations and model assumptions the analysis requires. The analyst needs to understand how the measurements arose, and the experimentalist needs to understand what the analysis can distinguish.
 
-Before a meeting, circulate the protocol change, diagnostic plot, discrepant result or draft claim that needs discussion. Record what the group decides, why, who will act and what they will check next. Invite disagreement while the group can still change its interpretation or planned work. If a collaborator cannot raise concerns about the design or interpretation, their expertise has little opportunity to shape the result [[2, pp. 45, 50–51]](#ref-collaboration-bennett2018).
+Before a meeting, circulate the protocol change, diagnostic plot, discrepant result or draft claim that needs discussion. Record what the group decides, why, who will act and what they will check next. Invite disagreement while the group can still change its interpretation or planned work. If a collaborator cannot raise concerns about the design or interpretation, their expertise has little opportunity to shape the result [[2]](#ref-collaboration-bennett2018).
 
 Review the plan when the evidence changes the work. A new analysis may become a central intellectual contribution; a planned method may become routine; a contributor may leave or join. Revise responsibilities, resources and credit expectations together.
 
@@ -90,11 +90,11 @@ First describe each person’s contribution. Then apply the relevant authorship 
 
 3. Have approved the version being published.
 
-4. Accept responsibility for helping resolve concerns about the work, including parts carried out by others. [[4, section 2]](#ref-collaboration-icmje2026).
+4. Accept responsibility for helping resolve concerns about the work, including parts carried out by others. [[4]](#ref-collaboration-icmje2026).
 
-If someone questions the work’s reliability, authors must help ensure that the concern is investigated and any problem addressed. They should know who carried out the other parts of the study and have confidence in those contributions. This does not mean personally repeating every specialist check. Consult the full ICMJE criteria when deciding eligibility, and confirm that every author has reviewed and approved the version being submitted. [[4, section 2]](#ref-collaboration-icmje2026).
+If someone questions the work’s reliability, authors must help ensure that the concern is investigated and any problem addressed. They should know who carried out the other parts of the study and have confidence in those contributions. This does not mean personally repeating every specialist check. Consult the full ICMJE criteria when deciding eligibility, and confirm that every author has reviewed and approved the version being submitted. [[4]](#ref-collaboration-icmje2026).
 
-Corresponding authorship involves managing communication with the journal and ensuring that submission requirements are met; it does not by itself establish a larger scientific contribution. [[4, section 2]](#ref-collaboration-icmje2026).
+Corresponding authorship involves managing communication with the journal and ensuring that submission requirements are met; it does not by itself establish a larger scientific contribution. [[4]](#ref-collaboration-icmje2026).
 
 **Decide order collectively.** Name the convention being used and the rationale. Order conventions differ across fields and journals. Shared-first or shared-senior designations also depend on journal policy. A contribution statement can clarify the work, but displayed order may still affect evaluation [[6]](#ref-collaboration-way2021).
 
@@ -136,7 +136,7 @@ Journal editors usually lack the evidence and authority to adjudicate who qualif
 
 A project can end while a collaboration continues, and a person can leave while papers, software or datasets remain active. Name which event is happening. Review the outputs still expected, stewardship of shared records and materials, permitted access, remaining consultation, credit review and the date when obligations end. Follow the applicable institutional agreements for data, confidentiality, intellectual property and employment; a collaboration plan does not decide those rights.
 
-State what was learned, what remains unresolved and who can answer questions about each part. If the team begins a new question, write a new scope and contribution record [[2, pp. 46, 132–134]](#ref-collaboration-bennett2018).
+State what was learned, what remains unresolved and who can answer questions about each part. If the team begins a new question, write a new scope and contribution record [[2]](#ref-collaboration-bennett2018).
 
 <a id="collaboration-references"></a>
 

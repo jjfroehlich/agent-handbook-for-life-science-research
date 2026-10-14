@@ -14,7 +14,7 @@ Prepare to discuss the proposal’s most important questions and its weakest poi
 
 Read the invitation alongside the submitted proposal and assessment criteria. Confirm the presentation time, question period, permitted materials, submission arrangements and interview format. Use those instructions to choose what fits. A previous applicant’s slide deck can show how they explained their project; it cannot establish this year’s rules.
 
-Prepare a concise opening that explains the question and the work proposed to answer it. Why does the question matter? Which comparison is decisive, and why can this team carry it out? Leave time for the panel to examine those choices. In his account of an ERC panel, Burchardi recommends short, focused answers about contribution and feasibility, with backup material for likely questions [[1, points 4 and 7]](#ref-grant-start-burchardi2022erc).
+Prepare a concise opening that explains the question and the work proposed to answer it. Why does the question matter? Which comparison is decisive, and why can this team carry it out? Leave time for the panel to examine those choices. In his account of an ERC panel, Burchardi recommends short, focused answers about contribution and feasibility, with backup material for likely questions [[1]](#ref-grant-start-burchardi2022erc).
 
 Reread the application for assumptions the panel may question. If a facility has not confirmed access, explain how you would obtain it and what happens if it remains unavailable. If an aim depends on an earlier result, prepare to discuss other outcomes. Check the evidence for an untested assay and the basis of a tight cost estimate. State what you have already checked and what still needs to be arranged.
 
@@ -24,7 +24,7 @@ Choose backup slides by the question they answer: a control, a sampling plan, a 
 
 ## Rehearsing the interview
 
-Rehearse aloud with someone who can challenge the science and someone less familiar with the project. Ask them to interrupt, request a simpler explanation and question a central assumption. Notice where you answer a different question, rely on an unexplained term or take too long to reach the point. Revise those passages, then rehearse again [[3, §§ 1–2]](#ref-grant-start-nsedelivery).
+Rehearse aloud with someone who can challenge the science and someone less familiar with the project. Ask them to interrupt, request a simpler explanation and question a central assumption. Notice where you answer a different question, rely on an unexplained term or take too long to reach the point. Revise those passages, then rehearse again [[3]](#ref-grant-start-nsedelivery).
 
 Listen to the whole question. Clarify an ambiguity if it changes the answer, then answer directly and explain your reasoning. If the answer is unknown, say so. Explain how the proposed work would investigate it, or why it lies outside the project’s scope. When discussing an alternative experiment, explain whether it answers the same question or changes what the project can establish.
 
@@ -40,7 +40,7 @@ This fictional proposal compares two preservation methods using paired aliquots 
 
 **Applicant:** We would first look at the untreated control and the detection limits. If the control also gives poor recovery, the experiment may not tell us much about preservation. If the control works, low recovery would show a problem under the tested conditions, but it would not establish that the methods are equivalent. We would use the paired estimates and their uncertainty to decide whether the difference is resolved. If it is not, we would report that limit rather than select a winner from noise.
 
-Test the presentation setup, including opening the files and sharing slides. For a remote interview, check that you can hear questions and know how to reconnect or contact the organizer if the connection fails. Arrange accessibility or technical support with the organizer and keep a permitted backup copy. For pacing, voice and general question handling, see [delivering a talk and answering questions](../06-communicating-research/03-delivering-a-talk-and-answering-questions.md#delivery-chapter) [[3, § 3]](#ref-grant-start-nsedelivery).
+Test the presentation setup, including opening the files and sharing slides. For a remote interview, check that you can hear questions and know how to reconnect or contact the organizer if the connection fails. Arrange accessibility or technical support with the organizer and keep a permitted backup copy. For pacing, voice and general question handling, see [delivering a talk and answering questions](../06-communicating-research/03-delivering-a-talk-and-answering-questions.md#delivery-chapter) [[3]](#ref-grant-start-nsedelivery).
 
 <a id="grant-start-decision"></a>
 
@@ -50,7 +50,7 @@ If the application is unsuccessful, separate the funding decision from the lesso
 
 If the proposal is selected, read what the notification actually confirms. It may begin a period of award preparation rather than settle every term. Bring the notification and proposed work to the institutional team responsible for research awards. Establish the agreed start date, funded activities, available resources, outstanding conditions and who has authority to make commitments. Check any proposed early spending through the applicable institutional and funder process; do not infer permission from an encouraging message.
 
-Pina’s guide to EU research grants treats preparation of the grant agreement as substantive work for the researcher and institutional support staff. Its broader lesson is to understand the conditions attached to the award, including its financial form, rather than reading only the scientific description. The specific obligations come from the applicable agreement, not from a general guide [[4, Rules 3–6]](#ref-grant-start-pina2024grants).
+Pina’s guide to EU research grants treats preparation of the grant agreement as substantive work for the researcher and institutional support staff. Its broader lesson is to understand the conditions attached to the award, including its financial form, rather than reading only the scientific description. The specific obligations come from the applicable agreement, not from a general guide [[4]](#ref-grant-start-pina2024grants).
 
 <a id="grant-start-prepare"></a>
 
@@ -72,7 +72,7 @@ Later in the same fictional project, the proposal is selected for funding and aw
 
 **Release condition.** Begin the dependent work after the necessary award arrangements and facility access are confirmed. If access remains unavailable, assess an adequate alternative or seek an agreed change; financial authorization alone does not make the assay feasible.
 
-Keep a short record of the agreed start arrangements. Name who will do the first tasks and which commitments are confirmed. Include reporting dates and where to raise a proposed change. The amount of coordination depends on the award: an individual fellowship usually needs less than a multi-institutional programme. Plan required outputs early and retain the records needed for reporting [[4, Rules 7–10]](#ref-grant-start-pina2024grants).
+Keep a short record of the agreed start arrangements. Name who will do the first tasks and which commitments are confirmed. Include reporting dates and where to raise a proposed change. The amount of coordination depends on the award: an individual fellowship usually needs less than a multi-institutional programme. Plan required outputs early and retain the records needed for reporting [[4]](#ref-grant-start-pina2024grants).
 
 <a id="grant-start-references"></a>
 

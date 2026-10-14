@@ -14,9 +14,9 @@ Choose a few ways to find papers on your current questions and wider interests. 
 
 Write down the question, method or research area you currently need to follow. “Single-cell biology” is a broad interest. A more focused question is how to distinguish a change in the abundance of a cell type from a change in gene expression within that type. You can search for methods that make this distinction while still reading more widely about single-cell biology.
 
-How closely you read depends on what you need from the paper. In a new field, an article may help you learn the vocabulary and find earlier work. If you plan to adopt its method, examine the procedure, the assumptions it relies on and the evidence that it works under conditions like yours [[1, Rule 1 and Table 1]](#ref-literature-carey2020reading).
+How closely you read depends on what you need from the paper. In a new field, an article may help you learn the vocabulary and find earlier work. If you plan to adopt its method, examine the procedure, the assumptions it relies on and the evidence that it works under conditions like yours [[1]](#ref-literature-carey2020reading).
 
-Alerts help you notice new work. Before designing an experiment or making a claim in a manuscript, also search for earlier studies that address the question. Reviews can help you find them; read the original studies when you need to assess their methods or rely on their findings [[2, pp. 93–95]](#ref-literature-goslingnoordam2022thesis).
+Alerts help you notice new work. Before designing an experiment or making a claim in a manuscript, also search for earlier studies that address the question. Reviews can help you find them; read the original studies when you need to assess their methods or rely on their findings [[2]](#ref-literature-goslingnoordam2022thesis).
 
 <a id="literature-discovery"></a>
 
@@ -24,7 +24,7 @@ Alerts help you notice new work. Before designing an experiment or making a clai
 
 A topic search can find papers across journals, but it depends on the terms you know to search for. Following a few journals or research groups may reveal work you would otherwise miss. Suggestions from colleagues and seminars can also take you beyond your usual searches [[3]](#ref-literature-ulitsky2018literature).
 
-Start with a query that describes the biological question or method, then inspect what it returns. Try alternative terms used by authors, including names for the system, intervention or measurement. Check whether it finds a few papers you already know are relevant. If an important paper is absent, ask why: missing terminology, a narrow condition in the query or a database that does not cover the material. An experienced colleague or research librarian can help with terminology and search strategy [[2, pp. 94–95]](#ref-literature-goslingnoordam2022thesis).
+Start with a query that describes the biological question or method, then inspect what it returns. Try alternative terms used by authors, including names for the system, intervention or measurement. Check whether it finds a few papers you already know are relevant. If an important paper is absent, ask why: missing terminology, a narrow condition in the query or a database that does not cover the material. An experienced colleague or research librarian can help with terminology and search strategy [[2]](#ref-literature-goslingnoordam2022thesis).
 
 Use alerts or feeds for searches and publications you want to follow, or revisit their pages regularly. Check what each subscription adds: perhaps one finds new applications of your assay while another follows a neighboring field. When several alerts return the same paper, keep one record.
 
@@ -44,13 +44,13 @@ Decide what to do with the paper:
 
 - **Leave it.** If you cannot name a reason to return to it, you need not save it. This is a decision about your reading priorities, not a judgment of the paper’s quality.
 
-Reading a selected paper may reveal a method or concept you need to learn first. Allow time for that background reading, and keep your note labeled as a screening note until you have examined the evidence [[1, Rule 1 and Table 1]](#ref-literature-carey2020reading). [Understanding a research paper](02-understanding-a-research-paper.md#paper-reading-chapter) explains how to follow the connection between a paper’s experiments and its conclusions.
+Reading a selected paper may reveal a method or concept you need to learn first. Allow time for that background reading, and keep your note labeled as a screening note until you have examined the evidence [[1]](#ref-literature-carey2020reading). [Understanding a research paper](02-understanding-a-research-paper.md#paper-reading-chapter) explains how to follow the connection between a paper’s experiments and its conclusions.
 
 <a id="literature-retrieval"></a>
 
 ## Saving papers and notes
 
-Keep papers and their notes together in a searchable reference manager or document collection. Include the authors, title, year and a stable link or identifier so you can reopen the source [[2, pp. 95–97]](#ref-literature-goslingnoordam2022thesis).
+Keep papers and their notes together in a searchable reference manager or document collection. Include the authors, title, year and a stable link or identifier so you can reopen the source [[2]](#ref-literature-goslingnoordam2022thesis).
 
 For a screened paper, note why you saved it and what you have read. After closer reading, add the finding you expect to use and where its supporting evidence appears. Keep your interpretation and unanswered questions distinct from what the authors report. If you highlight a passage, add a note when you might otherwise forget why it mattered.
 

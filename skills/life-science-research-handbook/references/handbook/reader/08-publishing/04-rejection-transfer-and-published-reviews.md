@@ -14,7 +14,7 @@ Start with the editor’s reasons for rejection and discuss them with coauthors.
 
 Read the decision letter alongside the reports. Identify the concerns the editor considers decisive: the journal’s audience, the contribution, a weakness in the evidence, or some combination. Reviewers can disagree, and the editor may give one concern more weight than several favorable assessments. [[1]](#ref-resubmission-editors2019).
 
-Discuss the next step with your coauthors before writing to the journal. Separate work that would improve the paper wherever it is submitted from work intended to meet this journal’s expectations. Consider the time required, available resources and whether the revised contribution would justify another attempt there. Agree on an alternative destination as well. [[2, pp. 126–127]](#ref-resubmission-gosling2022).
+Discuss the next step with your coauthors before writing to the journal. Separate work that would improve the paper wherever it is submitted from work intended to meet this journal’s expectations. Consider the time required, available resources and whether the revised contribution would justify another attempt there. Agree on an alternative destination as well. [[2]](#ref-resubmission-gosling2022).
 
 <a id="resubmission-routes"></a>**Choosing the next route**
 
@@ -91,29 +91,29 @@ If the reports raise a possible conflict of interest or inappropriate conduct, d
 
 A substantially revised manuscript may be eligible for a fresh submission to the same journal, but check its rules or obtain the editor’s agreement first. Disclose the previous submission and explain the changes. Wilke advocates this route as an alternative to appeal; its suitability depends on the journal and the extent of revision. [[4]](#ref-resubmission-wilke2017).
 
-If you abandon a pending appeal, notify the journal and resolve its status before submitting elsewhere. After a final rejection, return to the scientific concerns and the next journal’s criteria with your coauthors. Keep an appeal and a transfer or new submission as separate routes; do not pursue them at the same time. [[5]](#ref-resubmission-plosprocess); [[7]](#ref-resubmission-naturetransfer); [[2, pp. 126–127]](#ref-resubmission-gosling2022).
+If you abandon a pending appeal, notify the journal and resolve its status before submitting elsewhere. After a final rejection, return to the scientific concerns and the next journal’s criteria with your coauthors. Keep an appeal and a transfer or new submission as separate routes; do not pursue them at the same time. [[5]](#ref-resubmission-plosprocess); [[7]](#ref-resubmission-naturetransfer); [[2]](#ref-resubmission-gosling2022).
 
 <a id="resubmission-transfer"></a>
 
 ## Transfer or submit elsewhere
 
-A transfer offer is worth considering alongside other suitable journals. Check the destination’s audience, publication criteria, article type, charges and licensing arrangements using the approach in [Choosing a journal and submitting a paper](01-choosing-a-journal-and-submitting-a-paper.md#submission-chapter). Agree the choice with your coauthors. [[2, pp. 126–127]](#ref-resubmission-gosling2022).
+A transfer offer is worth considering alongside other suitable journals. Check the destination’s audience, publication criteria, article type, charges and licensing arrangements using the approach in [Choosing a journal and submitting a paper](01-choosing-a-journal-and-submitting-a-paper.md#submission-chapter). Agree the choice with your coauthors. [[2]](#ref-resubmission-gosling2022).
 
 Find out whether the offer is an automated suggestion, a recommendation from the original editor, or follows consultation with the receiving editor. Nature Portfolio describes all three; the receiving journal makes its own editorial decision, and authors choose whether to transfer. [[7]](#ref-resubmission-naturetransfer).
 
 Check which files and correspondence will transfer, including earlier versions, and remove confidential material you do not want to send. The Nature Portfolio guide consulted for this chapter permits file changes during transfer. It also prohibits an appeal while the paper is being transferred for consideration elsewhere. Check the receiving journal’s applicable instructions before proceeding. [[7]](#ref-resubmission-naturetransfer).
 
-Review transfer follows the journals’ agreements about confidentiality and identity. Do not forward an editor’s confidential material or reveal a reviewer on the assumption that permission to use the report also permits disclosure. COPE advises journals and reviewers to establish what can be shared in a transfer. [[8, p. 6]](#ref-resubmission-cope2017).
+Review transfer follows the journals’ agreements about confidentiality and identity. Do not forward an editor’s confidential material or reveal a reviewer on the assumption that permission to use the report also permits disclosure. COPE advises journals and reviewers to establish what can be shared in a transfer. [[8]](#ref-resubmission-cope2017).
 
 <a id="resubmission-package"></a>
 
 ### Prepare the next submission
 
-Correct known errors and unsupported claims in the next version. For a new submission, address valid criticisms and decide whether requests for a broader study are necessary for the new destination. If a claim depends on missing evidence, obtain it or revise the claim throughout the paper. [[2, pp. 126–127]](#ref-resubmission-gosling2022).
+Correct known errors and unsupported claims in the next version. For a new submission, address valid criticisms and decide whether requests for a broader study are necessary for the new destination. If a claim depends on missing evidence, obtain it or revise the claim throughout the paper. [[2]](#ref-resubmission-gosling2022).
 
 Some transfer routes allow a plan for outstanding work. Nature Portfolio advises distinguishing completed changes from proposed work and explaining the effort required. Establish the receiving journal’s interest before undertaking substantial destination-specific work. [[7]](#ref-resubmission-naturetransfer). Detailed response planning is covered in [Responding to peer review](03-responding-to-peer-review.md#pilot).
 
-Update the cover letter and replace obsolete files. With an ordinary submission, previous reports may not reach the receiving editor automatically; follow its instructions on submission history and earlier correspondence. For transfers, check that the intended response and revised files accompany the manuscript. [[7]](#ref-resubmission-naturetransfer); [[2, pp. 126–127]](#ref-resubmission-gosling2022).
+Update the cover letter and replace obsolete files. With an ordinary submission, previous reports may not reach the receiving editor automatically; follow its instructions on submission history and earlier correspondence. For transfers, check that the intended response and revised files accompany the manuscript. [[7]](#ref-resubmission-naturetransfer); [[2]](#ref-resubmission-gosling2022).
 
 <a id="resubmission-history"></a>
 
@@ -151,7 +151,7 @@ When using published correspondence to learn about reviewing, examine how the re
 
 Before agreeing to publish a review history, inspect what it includes and who can consent to publication. In the PLOS One process consulted for this chapter, authors can opt into publication of decision letters, reports, responses and attachments; names appear when reviewers have signed their reports, and ethical considerations can limit publication. Recheck the journal’s model and permissions for the history you intend to publish. [[5]](#ref-resubmission-plosprocess).
 
-If earlier reports came from another journal, ask how their publication is authorized and how the original context will be identified. Keep confidential correspondence private until the applicable permissions are clear. For teaching or quoting from an already published report, check its stated license and cite the particular report and version. [[8, pp. 5–6]](#ref-resubmission-cope2017); [[9]](#ref-resubmission-cheeseman2018).
+If earlier reports came from another journal, ask how their publication is authorized and how the original context will be identified. Keep confidential correspondence private until the applicable permissions are clear. For teaching or quoting from an already published report, check its stated license and cite the particular report and version. [[8]](#ref-resubmission-cope2017); [[9]](#ref-resubmission-cheeseman2018).
 
 <a id="resubmission-checklist"></a>**Before taking the next step**
 

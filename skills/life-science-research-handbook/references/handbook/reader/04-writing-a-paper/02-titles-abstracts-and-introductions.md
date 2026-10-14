@@ -236,7 +236,7 @@ Use the sequence below to select the background and plan the paragraphs. [[1]](#
 </tbody>
 </table>
 
-Combine these functions when they form one point: a paragraph describing a method can also explain the limitation your study addresses. Start a new paragraph when the point changes. [[1, Rule 6]](#ref-opening-mensh2017); [[12]](#ref-opening-scitable).
+Combine these functions when they form one point: a paragraph describing a method can also explain the limitation your study addresses. Start a new paragraph when the point changes. [[1]](#ref-opening-mensh2017); [[12]](#ref-opening-scitable).
 
 Choose background in relation to the question, rather than trying to summarize the whole field. Explain what remains unresolved and what an answer would change. For a methods paper, this means identifying the measurement that is difficult or unreliable and why researchers need it. [[13]](#ref-opening-carandini2022); [[4]](#ref-opening-huber2025).
 

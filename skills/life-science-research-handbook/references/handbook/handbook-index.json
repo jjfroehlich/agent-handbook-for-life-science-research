@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "title": "Life Science Research Handbook",
-  "content_edition": "d368454edc784852f70135f6e9e556fd760b6d21c3c9774e9dd430ad1eba625d",
+  "content_edition": "a35629576b23968d34d9b47418afb24b3fa193c697ebcef3ba3eaf4e1f096e99",
   "introduction": {
     "title": "Life Science Research Handbook",
     "path": "reader/index.md",
@@ -19,8 +19,8 @@
       "title": "Choosing a scientific problem",
       "path": "reader/01-research-strategy/01-choosing-a-scientific-problem.md",
       "html_path": "01-research-strategy/01-choosing-a-scientific-problem.html",
-      "source_html_sha256": "eced35e4b443ebffaece0fa5d97ed1dd0c51eed6fd40d9d83c4a48a6148e364e",
-      "text_sha256": "e3d1e2f64fabc6b5ed2b94408cf129d8690dabb2e6e2a85f86a7c41d88debe3f",
+      "source_html_sha256": "76e6c108d1449b3ef92141d1ac3dc23710a14b3a55cbeef46f768950a5f13fd9",
+      "text_sha256": "0dfd7ba65b4d6a61842a8a9f8176942a91c80667c0a4d567940fb152b43cd21b",
       "sections": [
         {
           "anchor": "problem-chapter",
@@ -76,8 +76,8 @@
       "title": "Developing ideas",
       "path": "reader/01-research-strategy/02-developing-ideas.md",
       "html_path": "01-research-strategy/02-developing-ideas.html",
-      "source_html_sha256": "ae5a5a73127b164bd512358464b0ecf37e9832e8cb19179fd3a09b2a70d6bfb6",
-      "text_sha256": "dedde0ba9741c5deda559b01cca08d57af9247cc38a70dec5828eafe7edbdbbf",
+      "source_html_sha256": "322e514788e791bd6970c6c2a3e8a7caed93cdb8a8a7b6131b10ef0b0b3e3f11",
+      "text_sha256": "653e76a82b4c712da0aa8dfe2be4393e8518f99ca06ff7503b22f409ad56e5fe",
       "sections": [
         {
           "anchor": "ideas-chapter",
@@ -147,8 +147,8 @@
       "title": "Connecting questions, models and experiments",
       "path": "reader/01-research-strategy/03-connecting-questions-models-and-experiments.md",
       "html_path": "01-research-strategy/03-connecting-questions-models-and-experiments.html",
-      "source_html_sha256": "43ace8d2a39035fbf9f698129db4288cf6ba0a20226ed03375d2314b602bc697",
-      "text_sha256": "c925211920cdd756d89fc72a197db807688262f158d8c168aa2af43cc6984c0f",
+      "source_html_sha256": "3b918eb12e9430859d429d5f9dfb20bcbeb937051ef5a9706764b23cb2e1ece3",
+      "text_sha256": "ac77375efb6438af3946225ba66485fd744acbbec283d93035fc519b52b9b573",
       "sections": [
         {
           "anchor": "models-chapter",
@@ -229,8 +229,8 @@
       "title": "Planning and reviewing a research project",
       "path": "reader/01-research-strategy/04-planning-and-reviewing-a-research-project.md",
       "html_path": "01-research-strategy/04-planning-and-reviewing-a-research-project.html",
-      "source_html_sha256": "dd33ee2790463291d1a974874511efac4030fa0d376d065da8fda090dcacb138",
-      "text_sha256": "d0e9265106920f08d60895ffafa0106aaf04c762585d5b41b114f19894fe2875",
+      "source_html_sha256": "0f569bce523c3a450b38f71b54aefced87261f0d8c4beb877aa940951f22ea34",
+      "text_sha256": "07918e895bb529413d08e3f9d959246560d2a7028f2baf931628de4d1124d294",
       "sections": [
         {
           "anchor": "project-plan-chapter",
@@ -319,8 +319,8 @@
       "title": "Keeping up with the literature",
       "path": "reader/02-reading-the-literature/01-keeping-up-with-the-literature.md",
       "html_path": "02-reading-the-literature/01-keeping-up-with-the-literature.html",
-      "source_html_sha256": "47fe6b246cd214b4c34fc740b657b388acf570d0752c5a86589cdce99a8d7657",
-      "text_sha256": "5d318e0438b4877b4560fe545c1abaf732d5b04ee487e6f9b0833bc580e6383a",
+      "source_html_sha256": "7aa5a03b29ad93b276c7c54f81f71d8b729a0ec60c76642374df9c83d39781f4",
+      "text_sha256": "b2e9df9c6eb484ff6cc5662cc75a4984f524057b22eac6e43d8b6a8b53086937",
       "sections": [
         {
           "anchor": "literature-chapter",
@@ -381,8 +381,8 @@
       "title": "Understanding a research paper",
       "path": "reader/02-reading-the-literature/02-understanding-a-research-paper.md",
       "html_path": "02-reading-the-literature/02-understanding-a-research-paper.html",
-      "source_html_sha256": "b76dfe4a4b793af385b48b7551e1478b63584d14807f5498c2ab9b529862095b",
-      "text_sha256": "264f521f98e799bf894bd94e8bfd73e216c4f960f2c6d3ee000adc5a6142131b",
+      "source_html_sha256": "b5c1e533cf1a63692ddfde00728c18b4b7d58b834136b76df574a6307423b057",
+      "text_sha256": "2dbb0c380ed12287b2006cf9914cfe52d183cd2a8b29168caa820a9d7e2db467",
       "sections": [
         {
           "anchor": "paper-reading-chapter",
@@ -445,8 +445,8 @@
       "title": "Comparing and synthesizing papers",
       "path": "reader/02-reading-the-literature/03-comparing-and-synthesizing-papers.md",
       "html_path": "02-reading-the-literature/03-comparing-and-synthesizing-papers.html",
-      "source_html_sha256": "7372d22f21721514fb906ebd105e1f59ac905e2c4078d6c60b1fdd4f6612af57",
-      "text_sha256": "1cffbe6492af297559db16dee3e249536f4df27e23573b06e5facfcb8c00d447",
+      "source_html_sha256": "bed3cf5aabf4d8596d25bc3945d59545a0fb2ce4b2cadc3e9e4da5de893d624f",
+      "text_sha256": "c3a2679118376fd7a33ec91c19a2b8dfb03017e5e96261c543180272ed7271b5",
       "sections": [
         {
           "anchor": "synthesis-chapter",
@@ -503,13 +503,18 @@
       "title": "Choosing a figure or table",
       "path": "reader/03-data-visualization/01-choosing-a-figure-or-table.md",
       "html_path": "03-data-visualization/01-choosing-a-figure-or-table.html",
-      "source_html_sha256": "f6abe429b17b53f88ee54dbdf025900b972f751d257db33d8f56393cd7f34415",
-      "text_sha256": "fd74468b68be9d49749396fd6e4622eb52f26195ba2bea6315a05b44bf2bcf4e",
+      "source_html_sha256": "8abbfc6ac6cec0132c66ee2ca8dd0733816e351c4501dcc6a78ee7b0cd8be8f5",
+      "text_sha256": "f92380960de6a799433b33cc7f27270ff5b4e0b599dbeab1094591faabc13857",
       "sections": [
         {
           "anchor": "display-chapter",
           "title": "Choosing a figure or table",
           "level": 1
+        },
+        {
+          "anchor": "display-design-process",
+          "title": "Design the comparison",
+          "level": 2
         },
         {
           "anchor": "display-choice",
@@ -547,6 +552,7 @@
         "display-connected-points",
         "display-decision-table",
         "display-density",
+        "display-design-process",
         "display-dimensions",
         "display-distributions",
         "display-dots",
@@ -583,6 +589,7 @@
         "display-venn",
         "display-violin",
         "quarto-document-content",
+        "ref-display-duarte2008",
         "ref-display-gehlenborg2012",
         "ref-display-holtzhealy",
         "ref-display-jambortables",
@@ -596,18 +603,26 @@
         "ref-display-weissgerber2015",
         "ref-display-wilke2019",
         "ref-display-wong2010",
+        "ref-display-wongdesign2011",
         "title-block-header"
       ],
       "reader_questions": [
-        "Which display makes the intended comparison visible?"
-      ]
+        "How should I develop and compare figure designs?",
+        "Which display makes the intended comparison visible?",
+        "When should axes start at zero or use a log scale?"
+      ],
+      "required_context": {
+        "display-scales": [
+          "display-design-process"
+        ]
+      }
     },
     "C09": {
       "title": "Showing observations and uncertainty",
       "path": "reader/03-data-visualization/02-showing-observations-and-uncertainty.md",
       "html_path": "03-data-visualization/02-showing-observations-and-uncertainty.html",
-      "source_html_sha256": "ed8131a6af0600759759fcc5fb5d65bc93e9283c21dd09f437615b1b81d58664",
-      "text_sha256": "2eb79d40c73f6b66aea641aec5b39cc27cb726ed681b5e46c13b986dcda73c44",
+      "source_html_sha256": "c699b95a35ea57b44f2f1b328ee08f57564666c5b0ff91c622fec500d7a79641",
+      "text_sha256": "317915936b4670417074986f0c07981491d89be6c0712af3fa4bf05fa9e59c4f",
       "sections": [
         {
           "anchor": "uncertainty-chapter",
@@ -636,7 +651,7 @@
         },
         {
           "anchor": "uncertainty-distributions",
-          "title": "Keep the observations visible",
+          "title": "Show observations and summaries together",
           "level": 3
         },
         {
@@ -707,6 +722,7 @@
         "uncertainty-exclusions",
         "uncertainty-interval-example",
         "uncertainty-intervals",
+        "uncertainty-layered-example",
         "uncertainty-matching",
         "uncertainty-nesting",
         "uncertainty-observations",
@@ -717,15 +733,26 @@
         "uncertainty-variation"
       ],
       "reader_questions": [
-        "How should observations, sampling units and uncertainty be shown?"
-      ]
+        "How should observations, sampling units and uncertainty be shown?",
+        "When should I combine points, boxes and violins?",
+        "Which mean or median answers the comparison?"
+      ],
+      "required_context": {
+        "uncertainty-layered-example": [
+          "uncertainty-distributions"
+        ],
+        "uncertainty-interval-example": [
+          "uncertainty-units",
+          "uncertainty-intervals"
+        ]
+      }
     },
     "C10": {
       "title": "Color, symbols and accessibility",
       "path": "reader/03-data-visualization/03-color-symbols-and-accessibility.md",
       "html_path": "03-data-visualization/03-color-symbols-and-accessibility.html",
-      "source_html_sha256": "8634f0e48067b39fb50638f81a43ad02ae15269a4945675793372dcb0068d4b9",
-      "text_sha256": "baf426eb3f15621a75e2e3a0801f83c81282650ec2cf4bad9f361898f6ed8ce0",
+      "source_html_sha256": "f386ce6d4ee12c82e45eab29640a1fddc201027899410afe8d902bcc3d474688",
+      "text_sha256": "571885ecaafac59a9c105d392b0ac4a298b7224eded196c8cced1d0a0fef4d7c",
       "sections": [
         {
           "anchor": "color-chapter",
@@ -754,7 +781,7 @@
         },
         {
           "anchor": "color-symbols",
-          "title": "Use symbols and labels alongside color",
+          "title": "Keep series identifiable without unnecessary variation",
           "level": 2
         },
         {
@@ -784,6 +811,7 @@
         "color-midpoint-example",
         "color-purpose",
         "color-range-example",
+        "color-reference-example",
         "color-references",
         "color-scale-guide",
         "color-scale-types",
@@ -802,15 +830,26 @@
         "title-block-header"
       ],
       "reader_questions": [
-        "How can color and symbols clarify a figure accessibly?"
-      ]
+        "How can color and symbols clarify a figure accessibly?",
+        "When do direct labels, facets, dashes or shapes help?",
+        "Can positive values need a diverging color scale?"
+      ],
+      "required_context": {
+        "color-reference-example": [
+          "color-scale-types"
+        ],
+        "color-identification-example": [
+          "color-symbols",
+          "color-check"
+        ]
+      }
     },
     "C12": {
       "title": "Biological images",
       "path": "reader/03-data-visualization/04-biological-images.md",
       "html_path": "03-data-visualization/04-biological-images.html",
-      "source_html_sha256": "1d98fe6c2ffb4f2d422cd21521c08acb26ca1b720b8a0715196b9050bc8f1a1a",
-      "text_sha256": "7ff4f7c413bc98112f428ef65b649b1a2bcccc220566e5455947b89eeffe93d1",
+      "source_html_sha256": "6b0e46f35e0410c98ad993541e74be81114fe74409d3d6d1361b304270e5216c",
+      "text_sha256": "b166b7ce76dd9f8bfb0c2b829abe207f61d0d78b62d0020f43960ccd1df67c22",
       "sections": [
         {
           "anchor": "bioimage-chapter",
@@ -908,8 +947,8 @@
       "title": "Specialized displays and explanatory diagrams",
       "path": "reader/03-data-visualization/05-specialized-displays-and-explanatory-diagrams.md",
       "html_path": "03-data-visualization/05-specialized-displays-and-explanatory-diagrams.html",
-      "source_html_sha256": "e5000d591a1b4b8a26342488b63ebb9f9ba64bc4af90ea1ee45ba9c41e8a8ea3",
-      "text_sha256": "057548e5432504e4f88c421014239a18d6463f50fe7739863d01de1ddea073a6",
+      "source_html_sha256": "dbc197a54912816d342f57bdd03b071ad75aa73b2c1ce1d50d810c7daea20f14",
+      "text_sha256": "abb7a75cebcab947715564bb346ff0666ce1208563f3301d0b14ddfd8aa38945",
       "sections": [
         {
           "anchor": "specialist-chapter",
@@ -997,6 +1036,7 @@
         "ref-specialist-streit2015",
         "ref-specialist-variation2012",
         "ref-specialist-wong2011",
+        "ref-specialist-wongpencil2012",
         "specialist-abstract",
         "specialist-chapter",
         "specialist-check",
@@ -1026,8 +1066,8 @@
       "title": "Preparing figures for publication",
       "path": "reader/03-data-visualization/06-preparing-figures-for-publication.md",
       "html_path": "03-data-visualization/06-preparing-figures-for-publication.html",
-      "source_html_sha256": "3e26f1fce6e0b6416ae4ca52e463df479d901616cf417cd1f195efffa7cd5faf",
-      "text_sha256": "de2abfd44667bbf775d7e289682eccb6a4ae17a40125714ecb14b9e18defa779",
+      "source_html_sha256": "199c67ec75611a7f7f9ffe83c72d80a14d90ce806a6bf5d9b05e0d175cdfb861",
+      "text_sha256": "4c4561377c6599976a0933dd70a103183de68476852f473bd6d06a5c5b4aa8d0",
       "sections": [
         {
           "anchor": "layout-chapter",
@@ -1135,8 +1175,8 @@
       "title": "Planning the paper",
       "path": "reader/04-writing-a-paper/01-planning-the-paper.md",
       "html_path": "04-writing-a-paper/01-planning-the-paper.html",
-      "source_html_sha256": "18a41d2722e03712d7cbeca68620b5c14ba76f8c0d2787cda5e72135103d5cd5",
-      "text_sha256": "b6f5d4b0ef7fcfc55e21be4ae1bcffa477382e6e0662c0e4c0a3892d0fb0ceed",
+      "source_html_sha256": "6db63dec347a7d1f5ae668480173693004a7994aded67f90e705eca2623f214f",
+      "text_sha256": "cbfa6daf63f4f8bb1fa27dac909235dc023f924a626cf29d58795ed51c80e2f6",
       "sections": [
         {
           "anchor": "planning-paper",
@@ -1300,8 +1340,8 @@
       "title": "Titles, abstracts and introductions",
       "path": "reader/04-writing-a-paper/02-titles-abstracts-and-introductions.md",
       "html_path": "04-writing-a-paper/02-titles-abstracts-and-introductions.html",
-      "source_html_sha256": "a960a5920d1d5452096c418d0f8ac7b7f95a3b00ab11cefe41112a41a98635a6",
-      "text_sha256": "497f5926b9f7afbff8a456fb65e5ab9273b256520540e0f9416a4b9cfb024c18",
+      "source_html_sha256": "238fb7790c3583f4230fa64983e4cf888282b7956bbcee0c8854b75df3bc32b1",
+      "text_sha256": "2d6a2567086b38f24353bf59cfb97a76e66b5191bde2ac4a688c0f220a4c855a",
       "sections": [
         {
           "anchor": "opening-chapter",
@@ -1731,8 +1771,8 @@
       "title": "Drafting, reviewing and revising a paper",
       "path": "reader/04-writing-a-paper/05-drafting-reviewing-and-revising-a-paper.md",
       "html_path": "04-writing-a-paper/05-drafting-reviewing-and-revising-a-paper.html",
-      "source_html_sha256": "5a795ed63349031993180c0fcb9aa650245e6862942d988144c88d36204770de",
-      "text_sha256": "deaa3d66ecb1ef89d113afec6b14a8747be7cdc3ddb43cfc5127f84771e498c2",
+      "source_html_sha256": "4bccf9420ab7d95bdc9b382ca14c9f06c382f276f6b7db463f21f5f0e191c160",
+      "text_sha256": "85407775571b76041100b1a78d2673c296026c927d85245124d9194e32654219",
       "sections": [
         {
           "anchor": "revision-chapter",
@@ -1958,8 +1998,8 @@
       "title": "From thesis plan to finished text",
       "path": "reader/05-writing-a-thesis/01-from-thesis-plan-to-finished-text.md",
       "html_path": "05-writing-a-thesis/01-from-thesis-plan-to-finished-text.html",
-      "source_html_sha256": "bab4cdc708049a5fbafb1510b263524f5bb371598b775f98895b4d5d2a90a2ec",
-      "text_sha256": "ceebe9e96e137d0087ee309dbc303696c3e82cdfe8d537b06b24413167c83b53",
+      "source_html_sha256": "278261443d23e520e18d0055f0fe0f32a5c3b137e0befe5d03e96bfd6c6e0e12",
+      "text_sha256": "ae1c7bc17f62ff2ded6d98220579e076615c7285230fcfb157ec2c92b7d5b66c",
       "sections": [
         {
           "anchor": "thesis-chapter",
@@ -2057,8 +2097,8 @@
       "title": "Explaining research to an audience",
       "path": "reader/06-communicating-research/01-explaining-research-to-an-audience.md",
       "html_path": "06-communicating-research/01-explaining-research-to-an-audience.html",
-      "source_html_sha256": "8a2c696cff48e67533846d917513b18927af7fc1de7b6940a24b9c7917392bd0",
-      "text_sha256": "ebae0ed63c8939abec77d8c323940fe3f88e0c6905a157185f711d175f1777a4",
+      "source_html_sha256": "ede239ec68f34cd99cba71ff447891bc87f17bbe937a994391bb6cda839eb7d9",
+      "text_sha256": "6c7a823509383f900405514133a5805a6d686396f62bbbe90a452d8346b7b870",
       "sections": [
         {
           "anchor": "audience-chapter",
@@ -2125,8 +2165,8 @@
       "title": "Designing a presentation",
       "path": "reader/06-communicating-research/02-designing-a-presentation.md",
       "html_path": "06-communicating-research/02-designing-a-presentation.html",
-      "source_html_sha256": "1b7ed2741c79b5d98412a46044eaa2505a1a8771d4483982db03860d067c83e7",
-      "text_sha256": "5631c7947221a8816215afae20f4e584d324bcfd74011700691d11a0adf1c71a",
+      "source_html_sha256": "97f650df8246b9606f5e53828a66c033c725c2c9305168e8cf063a10c2f0ad46",
+      "text_sha256": "3895265fb06c620054357deaf670c4e15fc2a0ccaa9e0bddb641aab8744f706c",
       "sections": [
         {
           "anchor": "slide-chapter",
@@ -2191,8 +2231,8 @@
       "title": "Delivering a talk and answering questions",
       "path": "reader/06-communicating-research/03-delivering-a-talk-and-answering-questions.md",
       "html_path": "06-communicating-research/03-delivering-a-talk-and-answering-questions.html",
-      "source_html_sha256": "c77b24c6b6895229c37dee9652854881a1d1b9103e40147555924752350128d7",
-      "text_sha256": "6d663a4c630726eaf7c126f474c7648bdcf870cfeac26fb57f0ba14268d6c0b1",
+      "source_html_sha256": "ab40e47c50d7f4f14b77b7ff858d4b51f41e72989fc66f5e36663c7c77627628",
+      "text_sha256": "636a0599f32df663ef09bea67f838e82422bc88ef25f9a488e6596b0384bbabd",
       "sections": [
         {
           "anchor": "delivery-chapter",
@@ -2250,8 +2290,8 @@
       "title": "Posters",
       "path": "reader/06-communicating-research/04-posters.md",
       "html_path": "06-communicating-research/04-posters.html",
-      "source_html_sha256": "e637b103b098661b7565165ca7fd41034fe45723ff029541db3605d24ddd357e",
-      "text_sha256": "d1470d10d1fb6b71c271f1fc7b6bf13e083588aab9d3d12162bb3a252649d6d9",
+      "source_html_sha256": "51f30e8966547802b6f851c3e797003f1cb0a939cfb19da5ac2fa1e3a74a7e7a",
+      "text_sha256": "56db56b3c0bf18e2f4fbc207c0d576038f74362f0b1047385056fb04b4a54576",
       "sections": [
         {
           "anchor": "poster-chapter",
@@ -2369,8 +2409,8 @@
       "title": "Choosing an opportunity and planning the application",
       "path": "reader/07-grants-and-fellowships/01-choosing-an-opportunity-and-planning-the-application.md",
       "html_path": "07-grants-and-fellowships/01-choosing-an-opportunity-and-planning-the-application.html",
-      "source_html_sha256": "bd76ffec58fec1a55aa3c307649c039401857ed9f2fc3dcad93b70d32cae49e5",
-      "text_sha256": "fa3897ef5a45ef799e31c56a2145a0b454a18f2cf34ed19aa1d6571c656d6445",
+      "source_html_sha256": "644a22d5a648f7f415dea1bde56a99c7ae89dc9bdf7cdec4d748ae659534f8db",
+      "text_sha256": "e30531d363fb57023c4e968cd4ad2f0d0234b1c88616dda9035721d7417caff6",
       "sections": [
         {
           "anchor": "grant-plan-chapter",
@@ -2432,8 +2472,8 @@
       "title": "Writing the proposal",
       "path": "reader/07-grants-and-fellowships/02-writing-the-proposal.md",
       "html_path": "07-grants-and-fellowships/02-writing-the-proposal.html",
-      "source_html_sha256": "94333e4ff3b29e4553da1293e847613cb0547679dcbac4e39046c9fb07043b61",
-      "text_sha256": "1ca64c2c26c0aed37ce85778ad2302aec7f481ace6cb95d35279a3b5eaac5f5e",
+      "source_html_sha256": "038f80f01439cfea34d0cb75c798ced89f12b90b9863dd545d2ee347bcc0c327",
+      "text_sha256": "19a25c0f29af4caa35b98e019645df8424aebd8b099e6ed01019748920d0bfba",
       "sections": [
         {
           "anchor": "proposal-chapter",
@@ -2491,8 +2531,8 @@
       "title": "Funding interviews and preparing for an award",
       "path": "reader/07-grants-and-fellowships/03-funding-interviews-and-preparing-for-an-award.md",
       "html_path": "07-grants-and-fellowships/03-funding-interviews-and-preparing-for-an-award.html",
-      "source_html_sha256": "1b03b4b77bee1081f8c5b4b031448e753f3315fc3fc7f039a86654e9da3dce28",
-      "text_sha256": "1ea4bfd7c4be90008b6035018a8676e76933f74af4e1c8218448ac4a11580e6c",
+      "source_html_sha256": "bce70697bb0a382869796daa69eda09f93312d41be0efbe44a98b9eb0cf60a8c",
+      "text_sha256": "c921332d17b9179a05903fe8c35ce49c4154578102fcd3ad9ade7b11141b7706",
       "sections": [
         {
           "anchor": "grant-start-chapter",
@@ -2550,8 +2590,8 @@
       "title": "Choosing a journal and submitting a paper",
       "path": "reader/08-publishing/01-choosing-a-journal-and-submitting-a-paper.md",
       "html_path": "08-publishing/01-choosing-a-journal-and-submitting-a-paper.html",
-      "source_html_sha256": "d9564110645302d51e8663a2634d89191fa5d2bb11b479616b0f0e05c3e7f930",
-      "text_sha256": "2913e7ebc01df82e00d33b50723751adfa07e9b550f807f553ba15b6d7ca4e6d",
+      "source_html_sha256": "559c0a581b21bea249610b0a7fff7291d1f7b00dddeaed2437726acc9f727b01",
+      "text_sha256": "06c518d0c10fc791fa9cd0ce983a1c3b122db257227d4ada8236fef5a64425fe",
       "sections": [
         {
           "anchor": "submission-chapter",
@@ -2682,8 +2722,8 @@
       "title": "Reviewing a manuscript",
       "path": "reader/08-publishing/02-reviewing-a-manuscript.md",
       "html_path": "08-publishing/02-reviewing-a-manuscript.html",
-      "source_html_sha256": "f105187cde5de352c09effb2af78808fc778da5d13be076b69058fbc5204ed0c",
-      "text_sha256": "8738b5655a6859a6f60ecef6c29461e023e13546d487a3342052c650e081de43",
+      "source_html_sha256": "09ddf56f665a3a41ccb2c544b3b81d0dfa0c3222df0d91da4501eba31cc58a24",
+      "text_sha256": "def4be3c1d602cedad4728e39743d0de7840823bed1fe844460017005fc12ff1",
       "sections": [
         {
           "anchor": "review-chapter",
@@ -2783,8 +2823,8 @@
       "title": "Responding to peer review",
       "path": "reader/08-publishing/03-responding-to-peer-review.md",
       "html_path": "08-publishing/03-responding-to-peer-review.html",
-      "source_html_sha256": "b917455b31d4e0c743ff9d1fe288a628cd4c36fbdd826e40a97a910f79d71467",
-      "text_sha256": "3e7dd1d95fde15fe08da7d9c9a39a6e6630e71000b7b5c0586b3e9d0a0b2db17",
+      "source_html_sha256": "78e4f5ab6624a5bcb7bbf97ab88f13c7a3f1ea7f808e0276d44d2fbff8caa8d9",
+      "text_sha256": "912899f4df0ba2aca8ef9851f099c405cb68b0cd4a9d6d38bc89e73df634a8a9",
       "sections": [
         {
           "anchor": "pilot",
@@ -2926,8 +2966,8 @@
       "title": "Rejection, transfer and published reviews",
       "path": "reader/08-publishing/04-rejection-transfer-and-published-reviews.md",
       "html_path": "08-publishing/04-rejection-transfer-and-published-reviews.html",
-      "source_html_sha256": "19b81858f15a4a9459a8497b0b07856e817bf72928c1e07e7a45b4aa01cd35f5",
-      "text_sha256": "a6c8ac81065027c1061eee62fd7475f35775fff96ddda562229181ac17053869",
+      "source_html_sha256": "61f874b837b081eb93a75f7b78f6f9ec64fb44fdfce0e116c26d5053e2971262",
+      "text_sha256": "9161d129f2729a225749f97d44258e7561730f86c9e8c86296a5c773aecce197",
       "sections": [
         {
           "anchor": "resubmission-chapter",
@@ -3528,8 +3568,8 @@
       "title": "Leading and reviewing a research group",
       "path": "reader/10-mentoring-and-management/03-leading-and-reviewing-a-research-group.md",
       "html_path": "10-mentoring-and-management/03-leading-and-reviewing-a-research-group.html",
-      "source_html_sha256": "d7d943a3d892159cb059ebd8cc08e9cd4cac33394b7ebc3a0e534a0daf657306",
-      "text_sha256": "149e33a82333213068369fa6612b16855a6eb8550e67539b966d23a36c6ba932",
+      "source_html_sha256": "251e5842a14a1de5b3c52b748d2c99558f93b463bfad0cc8e978ff430bf9aaf4",
+      "text_sha256": "f096823135969cb8e6a099af91cb1aa50735b897db9643ada03ae7f4be562a48",
       "sections": [
         {
           "anchor": "leadership-chapter",
@@ -3644,8 +3684,8 @@
       "title": "Collaboration, authorship and credit",
       "path": "reader/10-mentoring-and-management/04-collaboration-authorship-and-credit.md",
       "html_path": "10-mentoring-and-management/04-collaboration-authorship-and-credit.html",
-      "source_html_sha256": "e3701ccd2cd0fead7d9a4edc05ba755b26e3707cee1e3fca24b54a524cd2ccdb",
-      "text_sha256": "61054c1f5003e5b425be3e43af388aa659ca1a512fbc8fbc288e68bd69e3e6c9",
+      "source_html_sha256": "35dd359a6b206a4913a38c5ba3ee1f8d720e1a178bfffa5cab830574c929efc9",
+      "text_sha256": "8d7975a571c0f3f0c7f5db592cdb96d3e0b31cd61014e8023ff9f127ca0b1442",
       "sections": [
         {
           "anchor": "collaboration-chapter",
@@ -3717,8 +3757,8 @@
       "title": "Sustainable and inclusive research workplaces",
       "path": "reader/10-mentoring-and-management/05-sustainable-and-inclusive-research-workplaces.md",
       "html_path": "10-mentoring-and-management/05-sustainable-and-inclusive-research-workplaces.html",
-      "source_html_sha256": "55c3024fb35d998ae32f99d16eee3bcb9511ab53f0003dba8cc0fccae7a127c0",
-      "text_sha256": "4aeff9e96979514af6fcc0d6f516db9ef1f92fea1c13349f0332879f552644ce",
+      "source_html_sha256": "d4fbee0da3c4ebdd7763b54a5a78bdcc228866f278d15cd91f1f34834929cf16",
+      "text_sha256": "b5a313b25b344386684ae7bce9ebee5280989d219ddd582a3be8b4c04e2e050a",
       "sections": [
         {
           "anchor": "workplace-chapter",
@@ -3782,8 +3822,8 @@
       "title": "Feedback and conflict",
       "path": "reader/10-mentoring-and-management/06-feedback-and-conflict.md",
       "html_path": "10-mentoring-and-management/06-feedback-and-conflict.html",
-      "source_html_sha256": "1bb9122d98716b90b8609723a469b155afa34fcc40505d495af73d54db2c6746",
-      "text_sha256": "b8ed99b8418edbada3dd63e3000870c3ebec57be88d62336264cfd37a14e6fd2",
+      "source_html_sha256": "a4c458cb29312d1698f3141336ce1771284dc4a6d7670ddbc5fa2c5e613a7c50",
+      "text_sha256": "0eaf28d5a91327d9953768e66ae639e490506aa80ee1caccb14ebddc5eb550a7",
       "sections": [
         {
           "anchor": "conflict-chapter",

@@ -1,76 +1,33 @@
-# Biological Images
+# Make image evidence interpretable
 
-Use this for microscopy, photographs, electron microscopy, clinical images, image panels, overlays, insets, scale bars, channels, stains, annotations, and quantified image displays.
+Read this for microscopy, photographs, channels, crops, annotations or image quantification. Inspect the actual image before judging contrast, artifacts, exact placement or visibility. Do not invent specimen identity, calibration, acquisition settings or processing history.
 
-## Use this when...
+## Decide what the image must establish
 
-- The figure uses images as evidence rather than only decoration.
-- The user asks about scale bars, insets, annotation hierarchy, channel identity, overlays, representative images, or image-analysis reporting.
-- The biological claim depends on what can be seen in the image.
+A morphology comparison, an intensity comparison and a demonstration of an analysis pipeline need different displays. Choose the scale at which the decisive feature is visible. Pair an overview with an accurately located detail when both context and small structures matter. Supply recoverable physical scale and units; a clearly applicable shared scale can serve multiple panels, but each differently resized crop needs correct scale context. Magnification alone does not survive resizing reliably.
 
-## The job of this topic
+Identify specimen, channel/target, orientation and time when they affect interpretation. Mark the inset's source region accurately. Check annotations and scale bars after resizing and export; moving an inset box changes the implied evidence. Crop and rotate without changing the represented phenotype. Pixel rotations other than multiples of 90 degrees generally interpolate; inspect the actual processing/export path and retain quantitative originals.
 
-Make image evidence interpretable by exposing scale, identity, channel meaning, annotation logic, selection context, and analysis workflow.
+## Distinguish structure from intensity
 
-## Default workflow
+Before comparing brightness, establish whether acquisition settings, calibration and preprocessing make the inputs comparable. Shared display limits cannot repair incomparable acquisition. When inputs are comparable, use a common relevant mapping for corresponding channels and disclose it. Preserve real differences rather than normalizing each panel to its own maximum.
 
-1. Identify image type and specimen: organism, tissue, cell type, structure, stain/channel, and acquisition context if supplied.
-2. Inspect the actual image before judging contrast, artifact, exact annotation placement, scale-bar adequacy, or visual quality.
-3. Check scale: use scale bars or dimensions with units where interpretation requires them.
-4. Check insets: mark source regions, state the magnification relationship, and keep crop boundaries clear.
-5. Check channel/color mapping: explain each channel color and biological target; ensure merged views remain interpretable.
-6. Check annotations: arrows, outlines, labels, and symbols should identify features without covering evidence.
-7. If images are quantified, separate representative-image display from analysis workflow and replicate reporting.
+Independent contrast ranges can reveal morphology if clearly disclosed; displayed brightness then does not establish an intensity difference. Nonlinear adjustments can affect interpretation and need explanation. Supply an intensity scale or linear reference where the question requires it. Do not turn every ideal reporting practice into a universal requirement for every image.
 
-## Decision rules
+Changed condition: images acquired at different gains may illustrate morphology with independently disclosed ranges if signals are unsaturated and relevant features remain recoverable; contrast adjustment cannot repair acquisition damage. Intensity remains uninterpretable without calibration. Comparable images with one signal twice as large need a shared mapping if the reader is to see that difference.
 
-- Scale information is required when size, morphology, distance, or localization matters.
-- Magnification alone is weaker than a scale bar or explicit dimension at final display size.
-- Insets need both source-region markers and their own scale context.
-- Channels need both color identity and biological target identity.
-- Dense annotations should move outside the image, use callouts, or provide annotated and unannotated versions.
-- Quantified image claims need acquisition, preprocessing, segmentation or selection criteria, measurement definition, replicate structure, statistics, and software/data availability where relevant.
+## Choose channels and annotations for the feature
 
-## Variants and edge cases
+Grayscale often makes single-channel detail easier to inspect, while natural-color photographs or meaningful pseudocolor can serve other tasks. Color changes perceived brightness even when the underlying histogram is unchanged. A brighter hue can reveal a weak channel without making its measured signal stronger. Explain channel mappings and inspect their actual combination; separate-channel panels can make merges easier to interpret.
 
-- Multi-channel fluorescence: use single-channel panels plus a merged panel when readers must judge channel-specific signal.
-- Representative images: state the sampling or replicate context when the image supports a general claim.
-- Photographs: include orientation, specimen identity, and scale/object reference where they affect interpretation.
-- Intensity comparisons: use shared display ranges and processing for corresponding channels, with acquisition and measurements that make intensities comparable. Independently adjusted ranges can reveal structure, but displayed brightness then cannot establish an intensity difference; disclose those adjustments.
-- Nonlinear or consequential processing: identify it, retain the analysis inputs and provide a linear display when needed to interpret the adjustment. Do not measure from an assembled presentation copy.
+A white-plus-color overlay can clarify organization but can impede judging the degree of colocalization. An attractive merge is not quantitative colocalization evidence. Gamma applied after colorization can also alter hue. Inspect the output after rendering or print conversion rather than assuming a palette name guarantees readable structures.
 
-## Anti-patterns
+Use pointers, outlines, brackets and labels according to what they identify. A direction arrow, a feature pointer and a region boundary have different meanings. Keep annotations off decisive structures; use an annotated companion when necessary. Explain symbols locally without multiplying colors and shapes gratuitously.
 
-- Missing scale bars or units.
-- Insets without parent-location boxes.
-- Channel colors unexplained in the legend.
-- Arrows or labels covering the feature they identify.
-- Representative images used as the only support for a quantitative claim.
+## Separate representative views from quantitative evidence
 
-## Diagnostic questions
+State selection and replicate context when an image represents a broader result. Quantification needs the measurement definition, sampling/independent units and relevant preprocessing, segmentation or manual selection. Measure from appropriate analysis inputs, not an assembled presentation copy.
 
-- Can a reader tell what organism, tissue, cell, or object is shown?
-- Are all compared panels interpretable at compatible scales?
-- Does the legend explain channels, stains, annotations, insets, and sample context?
-- Would the image still work in grayscale or for common color-vision deficiencies?
-- Does quantification rely on image-processing choices that need disclosure?
+Describe software versions, settings, manual steps and availability sufficiently to understand the result. An established workflow and a new or retrained model have different reporting needs; the latter needs applicable training provenance, validation examples and limitations. Distinguish source recommendations from current venue requirements. Large-data sharing may use faithful cropped or reduced versions when appropriate, while preserving originals and explaining what was omitted. Do not claim unavailable datasets or unknown metadata were inspected.
 
-## Output patterns / mini-templates
-
-```text
-Image-panel issue: <scale/inset/channel/annotation/workflow>.
-Fix: <specific change>.
-Legend addition: <required explanatory text>.
-Visual inspection needed: <contrast/artifact/exact placement claim, if not inspected>.
-Risk if unfixed: <interpretive failure>.
-```
-
-## Examples
-
-- `Inset with no box`: add a rectangle on the parent panel and label the inset scale.
-- `Merged fluorescence only`: add single-channel panels if the reader must judge channel-specific signal.
-- `Representative image plus quantification`: report how images were selected, segmented, measured, and summarized.
-
-## When not to apply this
-
-Do not give acquisition-protocol advice unless asked; keep the answer on figure interpretation, presentation, and reporting.
+Use legends and accessible descriptions to identify the material, channels and consequential processing. They complement legible images; they cannot repair a structure that disappears at final size.

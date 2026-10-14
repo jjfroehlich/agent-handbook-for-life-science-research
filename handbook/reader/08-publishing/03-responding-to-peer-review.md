@@ -36,7 +36,7 @@ The examples continue the fictional [Brake study](../04-writing-a-paper/01-plann
 
 Start with the editor’s decision, which sets the conditions and deadline for revision. Read those conditions alongside the reports, and ask the editor which requests are essential if this is unclear. [[4]](#ref-editors2019); [[5]](#ref-chat2021).
 
-Read all reviews before answering individual points. Identify recurring concerns and challenges to the central result; these may require more work than a long list of minor corrections. Read the relevant manuscript passages beside the comments. A question whose answer seems obvious may reveal an unstated assumption, while several questions may point to one poorly explained idea. [[1, rules 2–3 and 10]](#ref-noble2017); [[2]](#ref-wilke2014).
+Read all reviews before answering individual points. Identify recurring concerns and challenges to the central result; these may require more work than a long list of minor corrections. Read the relevant manuscript passages beside the comments. A question whose answer seems obvious may reveal an unstated assumption, while several questions may point to one poorly explained idea. [[1]](#ref-noble2017); [[2]](#ref-wilke2014).
 
 Work through possible responses privately with coauthors, then draft the reply around the scientific concern.
 
@@ -48,7 +48,7 @@ Work through possible responses privately with coauthors, then draft the reply a
 
 ### Comments and tasks
 
-Copy the full comments into a working document and number the points. Separate the issues within a compound comment so that each receives an answer. Beneath each point, sketch a response or specify the work needed. [[2]](#ref-wilke2014); [[1, rule 5]](#ref-noble2017).
+Copy the full comments into a working document and number the points. Separate the issues within a compound comment so that each receives an answer. Beneath each point, sketch a response or specify the work needed. [[2]](#ref-wilke2014); [[1]](#ref-noble2017).
 
 Name what to inspect and what to change: “Define the experimental unit in the legend and check that the analysis uses independent cultures.” An unclear error bar might need only a better legend, or its calculation might be wrong. Inspect the analysis before choosing the remedy. Likewise, check whether an overstated claim results from an analysis error or an interpretation that goes beyond the findings.
 
@@ -56,17 +56,17 @@ Name what to inspect and what to change: “Define the experimental unit in the 
 
 ### Additional experiments
 
-Identify the conclusion the reviewer is questioning and ask what the requested experiment would establish. If you intend to retain that conclusion, you need evidence that resolves the concern—for example, a test of a necessary assumption or a comparison that distinguishes plausible explanations. The requested experiment may provide that evidence; propose a different test if it answers the same question more directly. [[6, p. 7]](#ref-cope2017).
+Identify the conclusion the reviewer is questioning and ask what the requested experiment would establish. If you intend to retain that conclusion, you need evidence that resolves the concern—for example, a test of a necessary assumption or a comparison that distinguishes plausible explanations. The requested experiment may provide that evidence; propose a different test if it answers the same question more directly. [[6]](#ref-cope2017).
 
-Other checks may strengthen a conclusion that is already supported. Weigh the concern they resolve against the time and resources needed. If you do the work, describe its result in the response and include evidence necessary for the published conclusion with the paper. [[1, rules 1 and 8]](#ref-noble2017); [[6, p. 7]](#ref-cope2017).
+Other checks may strengthen a conclusion that is already supported. Weigh the concern they resolve against the time and resources needed. If you do the work, describe its result in the response and include evidence necessary for the published conclusion with the paper. [[1]](#ref-noble2017); [[6]](#ref-cope2017).
 
-A request may also open a new project. Establishing a cellular effect does not necessarily require explaining its mechanism or testing a treatment application. Whether that further work is needed depends on what the paper claims. Discuss the intended scope with the editor when a reviewer expects work beyond that question. [[3]](#ref-ploegh2011); [[1, rule 8]](#ref-noble2017).
+A request may also open a new project. Establishing a cellular effect does not necessarily require explaining its mechanism or testing a treatment application. Whether that further work is needed depends on what the paper claims. Discuss the intended scope with the editor when a reviewer expects work beyond that question. [[3]](#ref-ploegh2011); [[1]](#ref-noble2017).
 
 <a id="alternatives"></a>
 
 ### Alternatives and narrower claims
 
-A narrower claim may resolve the concern when the available evidence supports it. Explain what the revised paper would establish and what would remain unanswered, then change the claim wherever it appears, including the title and abstract when affected. If you propose an alternative experiment instead, explain how it answers the reviewer’s question. Distinguish a scientifically unsuitable test from one blocked by access, equipment or time. [[6, p. 7]](#ref-cope2017); [[1, rule 8]](#ref-noble2017).
+A narrower claim may resolve the concern when the available evidence supports it. Explain what the revised paper would establish and what would remain unanswered, then change the claim wherever it appears, including the title and abstract when affected. If you propose an alternative experiment instead, explain how it answers the reviewer’s question. Distinguish a scientifically unsuitable test from one blocked by access, equipment or time. [[6]](#ref-cope2017); [[1]](#ref-noble2017).
 
 Consult the editor when an alternative changes a revision condition or the paper’s scope. If essential evidence is unavailable, assess whether a narrower contribution remains sound and suitable for the journal. [[5]](#ref-chat2021); [[4]](#ref-editors2019).
 
@@ -143,7 +143,7 @@ Use one entry per comment or subpoint to track the work and record the final ans
 
 ### Questions for the editor
 
-Contact the editor before substantial work if the revision conditions are unclear. Describe the concern, propose the work that would address it and ask whether that plan is suitable. If the work will exceed the deadline, explain why and propose a realistic date. [[5, p. 221]](#ref-chat2021).
+Contact the editor before substantial work if the revision conditions are unclear. Describe the concern, propose the work that would address it and ask whether that plan is suitable. If the work will exceed the deadline, explain why and propose a realistic date. [[5]](#ref-chat2021).
 
 <a id="revision-results"></a>
 
@@ -155,7 +155,7 @@ After each experiment or analysis, check whether the result answers the reviewer
 
 ### New experiments and analyses
 
-For new experiments, report the additional data and findings. For reanalyses, identify the existing data and explain what changed in the analysis and why. If you uncover an error, describe its consequences and check all affected figures and passages before stating that the conclusions are unchanged. [[1, rule 9]](#ref-noble2017).
+For new experiments, report the additional data and findings. For reanalyses, identify the existing data and explain what changed in the analysis and why. If you uncover an error, describe its consequences and check all affected figures and passages before stating that the conclusions are unchanged. [[1]](#ref-noble2017).
 
 Record which analyses were specified before examining the new results and which arose during exploration. Explain changes to the analysis plan and report relevant outcomes, including those that challenge the expected interpretation. [[7]](#ref-makin2019).
 
@@ -171,7 +171,7 @@ If new evidence weakens the interpretation, revise it throughout the paper and e
 
 ### Supporting material
 
-Include the evidence needed to assess the published conclusions in the paper and its supporting material, including findings that qualify those conclusions. A figure or table may remain only in the response when it answers a reviewer’s specific question and the published account is complete without it. Label response-only material distinctly and state whether any part was added to the paper. [[1, rules 1 and 8]](#ref-noble2017).
+Include the evidence needed to assess the published conclusions in the paper and its supporting material, including findings that qualify those conclusions. A figure or table may remain only in the response when it answers a reviewer’s specific question and the published account is complete without it. Label response-only material distinctly and state whether any part was added to the paper. [[1]](#ref-noble2017).
 
 <a id="letter"></a>
 
@@ -183,7 +183,7 @@ Include the evidence needed to assess the published conclusions in the paper and
 
 Thank the editor and reviewers, then summarize the major changes and the concerns they address.
 
-Follow the overview with the reviews in order, placing your answer directly beneath each comment. If a long comment raises several issues, split it at natural boundaries and answer each part. Retain the full wording, order and meaning, including any shared context, and note that the comment has been divided for clarity. Keep the original point number when it helps the reviewer recognize the comment. [[1, rule 5]](#ref-noble2017).
+Follow the overview with the reviews in order, placing your answer directly beneath each comment. If a long comment raises several issues, split it at natural boundaries and answer each part. Retain the full wording, order and meaning, including any shared context, and note that the comment has been divided for clarity. Keep the original point number when it helps the reviewer recognize the comment. [[1]](#ref-noble2017).
 
 Make each reviewer’s section readable on its own. When concerns overlap, repeat the explanation, relevant quoted changes and manuscript locations in each section. A reviewer should be able to assess your reply without reading your answers to someone else.
 
@@ -191,13 +191,13 @@ Make each reviewer’s section readable on its own. When concerns overlap, repea
 
 ### Point-by-point replies
 
-Lead with the correction, experimental result or reason for retaining the approach. Explain how it addresses the concern and identify the corresponding manuscript passage or figure. [[1, rules 1 and 7]](#ref-noble2017).
+Lead with the correction, experimental result or reason for retaining the approach. Explain how it addresses the concern and identify the corresponding manuscript passage or figure. [[1]](#ref-noble2017).
 
 Distinguish old and new material explicitly. “This is described in the Methods” leaves the reviewer unsure whether the description was already there or has just been added. “We have added a description of the exclusion criteria to the Methods” makes the change clear.
 
-Quote short changes directly: ‘We have clarified the Figure 1B legend: “Each point represents one independently started culture.”’ Identify the revised figure, table or section for every change. Add page or line numbers when the passage is harder to find or the journal requests them, and state that they refer to the revised manuscript. For a long addition, summarize its purpose and give the section title. [[1, rules 3–4 and 9]](#ref-noble2017).
+Quote short changes directly: ‘We have clarified the Figure 1B legend: “Each point represents one independently started culture.”’ Identify the revised figure, table or section for every change. Add page or line numbers when the passage is harder to find or the journal requests them, and state that they refer to the revised manuscript. For a long addition, summarize its purpose and give the section title. [[1]](#ref-noble2017).
 
-Use consistent typography, spacing and indentation to distinguish comments, replies and manuscript quotations, including in print. [[1, rule 6]](#ref-noble2017); [[2, footnote 2]](#ref-wilke2014).
+Use consistent typography, spacing and indentation to distinguish comments, replies and manuscript quotations, including in print. [[1]](#ref-noble2017); [[2]](#ref-wilke2014).
 
 <a id="case-accepted"></a>**Example: clarifying the experimental unit**
 
@@ -225,21 +225,21 @@ The analysis already used one titre per culture and matched the cultures by day,
 
 When you disagree with a request, explain how the existing evidence answers the concern or how an alternative would resolve it. If the request concerns a different question, name that question and explain why answering it is unnecessary for the claim you retain. The phrase “beyond the scope” leaves that reasoning unstated.
 
-<a id="no-change"></a>Reread the relevant passage from the reviewer’s perspective. If it omits an explanation, leaves an assumption unstated or makes information difficult to find, improve the manuscript as well as the reply. The analysis may be sound even when its description needs revision. [[1, rule 3]](#ref-noble2017).
+<a id="no-change"></a>Reread the relevant passage from the reviewer’s perspective. If it omits an explanation, leaves an assumption unstated or makes information difficult to find, improve the manuscript as well as the reply. The analysis may be sound even when its description needs revision. [[1]](#ref-noble2017).
 
-If the passage already answers the concern or there is a sound reason to retain the approach, explain that reason, give the evidence and manuscript location, and explicitly say what is unchanged. Quote the passage when useful. Before finalizing the reply, check whether it contains an explanation the manuscript itself needs. [[1, rules 7 and 9]](#ref-noble2017); [[6, p. 7]](#ref-cope2017).
+If the passage already answers the concern or there is a sound reason to retain the approach, explain that reason, give the evidence and manuscript location, and explicitly say what is unchanged. Quote the passage when useful. Before finalizing the reply, check whether it contains an explanation the manuscript itself needs. [[1]](#ref-noble2017); [[6]](#ref-cope2017).
 
 Discuss unresolved disagreements with the editor when they affect a revision condition or the central claim.
 
-Read suggested references and add those that provide relevant context or correct an omission. Briefly explain why an unrelated citation was not added. [[6, p. 7]](#ref-cope2017).
+Read suggested references and add those that provide relevant context or correct an omission. Briefly explain why an unrelated citation was not added. [[6]](#ref-cope2017).
 
-Concerns about a conflict of interest or inappropriate conduct belong in a separate communication to the editor. Describe the relevant facts and the action you are asking the editor to consider. Keep the point-by-point scientific reply focused on the manuscript. [[1, rule 2]](#ref-noble2017).
+Concerns about a conflict of interest or inappropriate conduct belong in a separate communication to the editor. Describe the relevant facts and the action you are asking the editor to consider. Keep the point-by-point scientific reply focused on the manuscript. [[1]](#ref-noble2017).
 
 <a id="conflicting-advice"></a>
 
 ### Conflicting requests
 
-First ask whether both requests can be met. More explanation and shorter Results can often be reconciled by moving analytical detail to Methods. If requests require incompatible analyses or contradict the editor’s conditions, explain which approach you propose and why, then ask the editor to clarify the requirement. [[1, rules 2–3 and 8]](#ref-noble2017); [[5]](#ref-chat2021).
+First ask whether both requests can be met. More explanation and shorter Results can often be reconciled by moving analytical detail to Methods. If requests require incompatible analyses or contradict the editor’s conditions, explain which approach you propose and why, then ask the editor to clarify the requirement. [[1]](#ref-noble2017); [[5]](#ref-chat2021).
 
 <a id="case-conflict"></a>**Example: more explanation in a shorter Results section**
 

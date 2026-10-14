@@ -14,9 +14,9 @@ Before deciding whether papers agree, check what each study measured and under w
 
 State the question you want the papers to answer. “Does this pathway matter?” could mean a role in development, a molecular response or survival after treatment. “Does inhibiting the pathway reduce cell survival in this model?” is specific enough to guide paper selection. A developmental study may suggest a mechanism to investigate, but it does not directly answer the survival question.
 
-Decide which systems, interventions and outcomes belong in the comparison before selecting papers by their conclusions. Record how you searched, when you searched and why you excluded papers; note papers you could not obtain. A reader should be able to tell whether your account covers a few selected studies or a search intended to find all the evidence on the question [[3, Rules 1–2 and 9]](#ref-synthesis-pautasso2013).
+Decide which systems, interventions and outcomes belong in the comparison before selecting papers by their conclusions. Record how you searched, when you searched and why you excluded papers; note papers you could not obtain. A reader should be able to tell whether your account covers a few selected studies or a search intended to find all the evidence on the question [[3]](#ref-synthesis-pautasso2013).
 
-A review can orient you to the concepts and point toward original work. For a conclusion that depends on a particular experiment, inspect that experiment’s paper and relevant supplementary material. Keep a review’s account separate from your assessment of the primary evidence. Before describing an unresolved question, check both recent work and older studies that the current discussion may have overlooked [[3, Rule 10]](#ref-synthesis-pautasso2013).
+A review can orient you to the concepts and point toward original work. For a conclusion that depends on a particular experiment, inspect that experiment’s paper and relevant supplementary material. Keep a review’s account separate from your assessment of the primary evidence. Before describing an unresolved question, check both recent work and older studies that the current discussion may have overlooked [[3]](#ref-synthesis-pautasso2013).
 
 <a id="synthesis-comparison"></a>
 
@@ -67,7 +67,7 @@ Compare the studies side by side, using the same fields for each. Record where y
 </tbody>
 </table>
 
-Do not fill an absent detail with an assumption. Mark it as unreported or not yet checked and return to the source if it affects comparability. These fields extend the distinction between question, approach, observation and interpretation used by Carey and colleagues [[1, Rules 3–6 and 8]](#ref-synthesis-carey2020reading).
+Do not fill an absent detail with an assumption. Mark it as unreported or not yet checked and return to the source if it affects comparability. These fields extend the distinction between question, approach, observation and interpretation used by Carey and colleagues [[1]](#ref-synthesis-carey2020reading).
 
 Check what each study means by “pathway inhibition.” A drug may only partly inhibit its target and may affect other targets too. Deleting a gene produces a different perturbation. Check how long each treatment acts before treating the experiments as equivalent.
 
@@ -89,7 +89,7 @@ Compare the estimated effects and their uncertainty, not just their significance
 
 When studies of the same outcome still give different findings, examine how their methods differ. Start with differences that could affect the measurement or the biological response. For example, a longer exposure might allow a response to develop. That explanation predicts a change over time that could be tested. Finding a difference in exposure time does not by itself establish why the results differ.
 
-If several explanations remain possible, say which ones and what evidence would distinguish them. Apply the same scrutiny to findings you favor and those you doubt. An unexplained disagreement belongs in the synthesis even when you cannot yet resolve it [[4, pp. 4–6]](#ref-synthesis-yanaicontradictions2021).
+If several explanations remain possible, say which ones and what evidence would distinguish them. Apply the same scrutiny to findings you favor and those you doubt. An unexplained disagreement belongs in the synthesis even when you cannot yet resolve it [[4]](#ref-synthesis-yanaicontradictions2021).
 
 <a id="synthesis-comparison-example"></a>**Example: compare the evidence behind different conclusions**
 
@@ -136,7 +136,7 @@ Suppose you need to choose a follow-up now. If you need to know whether the RNA 
 
 ## Writing the synthesis
 
-Organize each paragraph around a question that the studies help answer. You might first explain whether the outcome changes, then discuss the evidence for a mechanism or for a response in other systems. Within each paragraph, show how the findings relate: one study may establish an observation while another tests whether it occurs under different conditions [[3, Rules 4 and 6–7]](#ref-synthesis-pautasso2013).
+Organize each paragraph around a question that the studies help answer. You might first explain whether the outcome changes, then discuss the evidence for a mechanism or for a response in other systems. Within each paragraph, show how the findings relate: one study may establish an observation while another tests whether it occurs under different conditions [[3]](#ref-synthesis-pautasso2013).
 
 State what the studies establish together and explain which findings support that answer. Keep the relevant conditions and uncertainty beside the conclusion. “These results are consistent with a delayed protein response” allows other explanations; “the protein response is delayed” asserts that this explanation has been established. If the studies still conflict, identify what remains unresolved.
 
@@ -146,7 +146,7 @@ For the fictional studies, the completed synthesis could read:
 
 Ligand L increased marker M mRNA after two hours in the epithelial-cell model examined by study A. Study C estimated an increase of similar magnitude, although its uncertainty interval also allowed no change. The mRNA findings therefore do not establish a disagreement between these studies. Study B measured protein abundance and reported an estimate near no change at the same endpoint. Together, the studies support an mRNA response at two hours more clearly than a protein response at that endpoint. Whether the mRNA change produces a later protein increase remains unresolved; measurements of both outcomes over time would help distinguish that possibility from a response confined to mRNA abundance.
 
-Check each conclusion against the original studies. In the example, the measurements concern a particular marker in one cell model at two hours; they do not establish a general effect on gene expression or a response at later times. Ask a colleague to check your interpretation and identify missing details that could change it [[3, Rule 8]](#ref-synthesis-pautasso2013).
+Check each conclusion against the original studies. In the example, the measurements concern a particular marker in one cell model at two hours; they do not establish a general effect on gene expression or a response at later times. Ask a colleague to check your interpretation and identify missing details that could change it [[3]](#ref-synthesis-pautasso2013).
 
 A synthesis for a whole field needs a search and appraisal design suited to that purpose. Quantitative pooling also requires comparable quantities and an analysis that accounts for their uncertainty and dependence.
 

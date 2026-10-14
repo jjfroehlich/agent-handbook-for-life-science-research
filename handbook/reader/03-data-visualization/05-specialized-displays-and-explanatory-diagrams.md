@@ -16,9 +16,9 @@ Explain how to read the display. In a heatmap, label the quantity shown by color
 
 ### Heatmaps
 
-Use a heatmap to compare patterns across many genes, samples or conditions. Decide whether color should show abundance, a ratio to a reference or a standardized value. With row standardization, each gene is centered and scaled separately. The colors then show which samples have high or low values for that gene; they cannot tell readers which gene is more abundant. Name the quantity on the color key. [[1]](#ref-specialist-heatmaps2012); [[2]](#ref-specialist-ligraphs), sections 3–7.
+Use a heatmap to compare patterns across many genes, samples or conditions. Decide whether color should show abundance, a ratio to a reference or a standardized value. With row standardization, each gene is centered and scaled separately. The colors then show which samples have high or low values for that gene; they cannot tell readers which gene is more abundant. Name the quantity on the color key. [[1]](#ref-specialist-heatmaps2012); [[2]](#ref-specialist-ligraphs).
 
-Arrange rows and columns to expose the comparison. Keep time points in chronological order and doses in concentration order. Group samples by known conditions when those conditions are the focus; cluster them when the question is which samples have similar profiles. Apply the same order to accompanying annotations and related panels. A sample-group strip beside a heatmap can show whether an apparent cluster follows treatment, batch or another recorded characteristic. [[1]](#ref-specialist-heatmaps2012); [[2]](#ref-specialist-ligraphs), section 5 and heatmap tutorial.
+Arrange rows and columns to expose the comparison. Keep time points in chronological order and doses in concentration order. Group samples by known conditions when those conditions are the focus; cluster them when the question is which samples have similar profiles. Apply the same order to accompanying annotations and related panels. A sample-group strip beside a heatmap can show whether an apparent cluster follows treatment, batch or another recorded characteristic. [[1]](#ref-specialist-heatmaps2012); [[2]](#ref-specialist-ligraphs).
 
 In hierarchical clustering, branches can rotate without changing their relationships, and neighboring rows on the page need not be close relatives in the tree. Retain the dendrogram when those relationships matter. State the transformation, distance measure and clustering method in the caption or Methods. [[1]](#ref-specialist-heatmaps2012).
 
@@ -30,7 +30,7 @@ The same six invented gene profiles in alphabetical order and grouped by the tim
 
 Equal column widths do not represent equal elapsed time here. Use a line plot with proportional time spacing when readers need to compare rates.
 
-Inspect the value distribution before fixing the color limits. A few extreme values can leave most cells nearly the same shade. A transformation may make differences among the less extreme values easier to see. Another option is to assign values above a chosen limit the same endpoint color; label the limit and make the extreme values available so readers can identify them. Use the [color-scale guidance](03-color-symbols-and-accessibility.md#color-scales) to choose a sequential or diverging palette. For close comparisons between a few profiles, aligned line plots are easier to read than small color differences. [[2]](#ref-specialist-ligraphs), section 6; [[1]](#ref-specialist-heatmaps2012), Figure 2.
+Inspect the value distribution before fixing the color limits. A few extreme values can leave most cells nearly the same shade. A transformation may make differences among the less extreme values easier to see. Another option is to assign values above a chosen limit the same endpoint color; label the limit and make the extreme values available so readers can identify them. Use the [color-scale guidance](03-color-symbols-and-accessibility.md#color-scales) to choose a sequential or diverging palette. For close comparisons between a few profiles, aligned line plots are easier to read than small color differences. [[2]](#ref-specialist-ligraphs); [[1]](#ref-specialist-heatmaps2012).
 
 <a id="specialist-genome"></a>
 
@@ -44,19 +44,21 @@ Use aligned tracks when readers need to compare signals at the same locus. Show 
 
 Track B has one quarter of A’s signal at every position. Shared ranges show that difference; separate ranges give the peaks the same apparent height. Both columns contain the same invented values and genomic positions.
 
-A chromosome-wide view can hide a narrow peak because many bases contribute to each displayed bin. Use a locus view to show local detail, adding an overview if readers also need to locate it on the chromosome. Mark any breaks where intervening sequence has been removed. To compare regions around a feature such as a transcription start site, align them at that feature and orient them consistently. The horizontal coordinate then describes distance from the feature rather than absolute position in the genome. [[3]](#ref-specialist-genome2012), Figure 2.
+A chromosome-wide view can hide a narrow peak because many bases contribute to each displayed bin. Use a locus view to show local detail, adding an overview if readers also need to locate it on the chromosome. Mark any breaks where intervening sequence has been removed. To compare regions around a feature such as a transcription start site, align them at that feature and orient them consistently. The horizontal coordinate then describes distance from the feature rather than absolute position in the genome. [[3]](#ref-specialist-genome2012).
 
-When there are too many tracks to read, a heatmap can fit them into less space while retaining a row for each sample. Exact signal magnitudes will be harder to judge from color. Averaging tracks reduces clutter too, but hides differences between samples; an inferred state also replaces measured values with a summary. Keep the individual tracks available if those differences affect the interpretation. For a few profiles, an overlay may work, provided filled areas and blended colors do not obscure one another. [[4]](#ref-specialist-browser2012), Figure 2.
+When there are too many tracks to read, a heatmap can fit them into less space while retaining a row for each sample. Exact signal magnitudes will be harder to judge from color. Averaging tracks reduces clutter too, but hides differences between samples; an inferred state also replaces measured values with a summary. Keep the individual tracks available if those differences affect the interpretation. For a few profiles, an overlay may work, provided filled areas and blended colors do not obscure one another. [[4]](#ref-specialist-browser2012).
 
-For structural variation, decide whether readers need to locate breakpoints or understand the rearranged sequence. Arcs connect the joined positions; arranging the genome in a circle brings distant loci closer, although the arcs can become crowded. To show an inversion or a new sequence order, use sequence blocks with their orientation marked, or a dot plot comparing reference and variant coordinates. In the dot plot, corresponding segments form lines whose direction shows their orientation. [[5]](#ref-specialist-variation2012), Figure 1.
+For structural variation, decide whether readers need to locate breakpoints or understand the rearranged sequence. Arcs connect the joined positions; arranging the genome in a circle brings distant loci closer, although the arcs can become crowded. To show an inversion or a new sequence order, use sequence blocks with their orientation marked, or a dot plot comparing reference and variant coordinates. In the dot plot, corresponding segments form lines whose direction shows their orientation. [[5]](#ref-specialist-variation2012).
 
 <a id="specialist-networks"></a>
 
 ### Networks
 
-Use a node-link diagram when readers need to follow a path or identify a node’s neighbors. Define what a connection represents: physical interaction, coexpression, regulation and sequence adjacency are different relationships. Add arrowheads only when direction is part of the data. Try alternative layouts, then retain one that makes the relevant paths and groups easy to follow. Unless positions have a defined biological meaning, proximity on the page is a layout choice. [[6]](#ref-specialist-networks2012); [[2]](#ref-specialist-ligraphs), section 8.
+Use a node-link diagram when readers need to follow a path or identify a node’s neighbors. Define what a connection represents: physical interaction, coexpression, regulation and sequence adjacency are different relationships. Add arrowheads only when direction is part of the data. Try alternative layouts, then retain one that makes the relevant paths and groups easy to follow. Unless positions have a defined biological meaning, proximity on the page is a layout choice. [[6]](#ref-specialist-networks2012); [[2]](#ref-specialist-ligraphs).
 
 For dense networks, an adjacency matrix avoids overlapping edges. The same nodes appear along both axes, and a marked cell records a connection between its row and column nodes. Placing related nodes together can reveal groups with many connections within them and fewer between them. To follow a chain through several nodes, use a node-link diagram instead. If you show only part of a network, explain how you selected it. [[6]](#ref-specialist-networks2012).
+
+For a directed network, label which axis contains the source and which contains the target; a row-to-column connection is different from its reverse. Explain whether an empty cell means an observed absence, an untested pair or simply no recorded connection. Keep missing or untested entries distinct when the dataset provides that information. A compact matrix improves lookup only if the reader can recover the relationship represented by each cell.
 
 <a id="specialist-network-example"></a>**Two views of the same connections**
 
@@ -66,7 +68,7 @@ An undirected six-node network beside its adjacency matrix. The C–D bridge is 
 
 Follow the path from A through C and D to F in the node-link view; use row C of the matrix to find its direct neighbors. A light cell means no connection is recorded in this invented dataset.
 
-When adding expression or activity to a network, keep node positions fixed across conditions and use color to show the measured quantity. Put each condition in a separate panel so readers can compare states side by side. With animation, they must remember earlier frames. [[7]](#ref-specialist-integrating2012), Figure 2.
+When adding expression or activity to a network, keep node positions fixed across conditions and use color to show the measured quantity. Put each condition in a separate panel so readers can compare states side by side. With animation, they must remember earlier frames. [[7]](#ref-specialist-integrating2012).
 
 <a id="specialist-sets"></a>
 
@@ -74,7 +76,7 @@ When adding expression or activity to a network, keep node positions fixed acros
 
 For a few simple overlaps, a labeled Euler or Venn diagram can be sufficient. Use UpSet when there are many sets or when readers need to compare intersection sizes. Its bars provide a common baseline for counts, and the membership matrix below identifies the set combination for each bar. Include set totals when the size of an intersection needs that context. Order intersections by size or by the combinations relevant to the question. [[8]](#ref-specialist-lexgehlenborg2014).
 
-Distinguish exclusive combinations from inclusive overlap. “A and B only” excludes members of C; “A and B” may include them. In an exclusive UpSet display, active dots identify the included sets and inactive dots exclude the others. A heatmap of pairwise overlaps can show overlap counts, but it does not identify which elements make up a three-way intersection. Define the counting rule, and identify omitted or filtered intersections. [[8]](#ref-specialist-lexgehlenborg2014), Figure 1.
+Distinguish exclusive combinations from inclusive overlap. “A and B only” excludes members of C; “A and B” may include them. In an exclusive UpSet display, active dots identify the included sets and inactive dots exclude the others. A heatmap of pairwise overlaps can show overlap counts, but it does not identify which elements make up a three-way intersection. Define the counting rule, and identify omitted or filtered intersections. [[8]](#ref-specialist-lexgehlenborg2014).
 
 <a id="specialist-intersections-example"></a>**Reading an exclusive intersection**
 
@@ -86,7 +88,7 @@ Each upper bar counts the combination marked directly below it. The blue bar cou
 
 ### Multivariable displays
 
-For a multifactor experiment, assign the main comparisons to rows and columns before adding color, size or shape. For example, a grid can put cell types in rows and treatments in columns, with the same signaling diagram in each cell. Measured responses then appear at their corresponding pathway nodes. This is useful when the pathway explains the results; a conventional plot is simpler when readers only need to compare magnitudes. [[9]](#ref-specialist-multidimensional2013), Figures 2–3.
+For a multifactor experiment, assign the main comparisons to rows and columns before adding color, size or shape. For example, a grid can put cell types in rows and treatments in columns, with the same signaling diagram in each cell. Measured responses then appear at their corresponding pathway nodes. This is useful when the pathway explains the results; a conventional plot is simpler when readers only need to compare magnitudes. [[9]](#ref-specialist-multidimensional2013).
 
 Use a scatterplot matrix to inspect pairwise relationships among variables. Use parallel coordinates when the profile of an individual sample across several variables matters: each sample becomes a line joining its values on parallel axes. Axis order and scaling affect the patterns, so keep comparable measurements on comparable scales and label any separate scaling. Too many overlapping profiles or repeated categorical values can make individual lines impossible to follow. [[10]](#ref-specialist-plane2012).
 
@@ -128,17 +130,19 @@ Arrange the main pathway in a consistent reading direction, with branches and fe
 
 Preserve spatial relationships when they are part of the explanation: a membrane crossing, a cortical layer or the location of a synaptic contact may be essential. When location is irrelevant, move nodes to make the connections clearer. Avoid drawing precise anatomical routes when only connectivity is known. Mark proposed or indirect steps explicitly, using a defined dashed line or a short label. [[17]](#ref-specialist-circuits2016).
 
+Check what the drawing implies beyond its labels: a location chosen for convenience can assert a specificity that the evidence does not establish. Rough sketches help expose such assumptions before polishing. [[19]](#ref-specialist-wongpencil2012). For example, placing a protein inside a nucleus asserts more than saying that it is intracellular. Making one object much larger can suggest abundance or importance even when size is only a drawing convenience. Use a less specific arrangement or explain schematic size and placement when those properties are unknown. Likewise, an arrow from an observed binding event to gene expression needs its own evidence; the binding result alone does not establish that causal step.
+
 <a id="specialist-abstract"></a>
 
 ### Overviews and graphical abstracts
 
-Sketch a sequence for a process, parallel views for a comparison, or a focused scene for a spatial mechanism. Reserve circular layouts for cycles. Compare rough alternatives before polishing the artwork. [[18]](#ref-specialist-jamborabstracts2024), rules 1, 4–6.
+Sketch a sequence for a process, parallel views for a comparison, or a focused scene for a spatial mechanism. Reserve circular layouts for cycles. Compare rough alternatives before polishing the artwork. [[18]](#ref-specialist-jamborabstracts2024).
 
-A graphical abstract about a finding should show the finding, not just the workflow used to obtain it. A methods contribution may instead need the distinctive operation and the capability it enables. Include a result plot only when readers can understand it at the displayed size. A procedural overview can use a simplified symbol for a measurement step; a quantitative result still needs enough labeling to identify its quantities and groups. [[13]](#ref-specialist-wong2011); [[18]](#ref-specialist-jamborabstracts2024), rules 2–3 and 7.
+A graphical abstract about a finding should show the finding, not just the workflow used to obtain it. A methods contribution may instead need the distinctive operation and the capability it enables. Include a result plot only when readers can understand it at the displayed size. A procedural overview can use a simplified symbol for a measurement step; a quantitative result still needs enough labeling to identify its quantities and groups. [[13]](#ref-specialist-wong2011); [[18]](#ref-specialist-jamborabstracts2024).
 
-Emphasize the main action and simplify the surroundings. Keep illustrations consistent in detail, stroke and color meaning. Label unfamiliar objects directly, replace decorative icons with text, and remove repeated steps that add no information. If using an icon library, check the selected asset’s attribution and publication conditions. [[14]](#ref-specialist-natureconcept); [[18]](#ref-specialist-jamborabstracts2024), rules 2 and 7–9.
+Emphasize the main action and simplify the surroundings. Keep illustrations consistent in detail, stroke and color meaning. Label unfamiliar objects directly, replace decorative icons with text, and remove repeated steps that add no information. If using an icon library, check the selected asset’s attribution and publication conditions. [[14]](#ref-specialist-natureconcept); [[18]](#ref-specialist-jamborabstracts2024).
 
-Show a rough version to a colleague before refining it. Ask what they notice first, where they start reading and what each arrow means. Then inspect the final version at its actual display size: a diagram that works across a full page may need fewer elements when used as a thumbnail. [[18]](#ref-specialist-jamborabstracts2024), rules 4 and 10.
+Show a rough version to a colleague before refining it. Ask what they notice first, where they start reading and what each arrow means. Then inspect the final version at its actual display size: a diagram that works across a full page may need fewer elements when used as a thumbnail. [[18]](#ref-specialist-jamborabstracts2024).
 
 <a id="specialist-check"></a>**Final display check**
 
@@ -193,3 +197,5 @@ Original illustrations with invented data.
 17. <a id="ref-specialist-circuits2016"></a>[Hunnicutt, B. J., & Krzywinski, M. (2016a). **Neural circuit diagrams.** *Nature Methods*, 13, 189.](https://doi.org/10.1038/nmeth.3777)
 
 18. <a id="ref-specialist-jamborabstracts2024"></a>[Jambor, H. K., & Bornhäuser, M. (2024). **Ten simple rules for designing graphical abstracts.** *PLOS Computational Biology*, 20, e1011789.](https://doi.org/10.1371/journal.pcbi.1011789)
+
+19. <a id="ref-specialist-wongpencil2012"></a>[Wong, B., & Kjærgaard, R. S. (2012). **Pencil and paper.** *Nature Methods*, 9, 1037.](https://doi.org/10.1038/nmeth.2223)

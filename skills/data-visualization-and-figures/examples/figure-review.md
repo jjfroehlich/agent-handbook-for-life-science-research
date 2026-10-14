@@ -1,5 +1,15 @@
 # Figure Review Examples
 
+## Unequal groups: observations and readable centers
+
+Input: "Compare three independent groups with n=4, 24 and 80. I want violin/box plots with dots and an easy median comparison."
+
+Response: Use a shared axis with a light violin, narrow box and small circles for the two larger groups, after checking their ties, boundaries and smoothing. Keep all four points and a median tick for the sparse group; omit its density because four values cannot support a reliable smooth shape. The same median convention across groups preserves the requested comparison. Label each n and the independent unit. Define the box and whiskers, and state whether violin widths are normalized equally or scaled by count. These descriptive layers do not show uncertainty of a population median.
+
+Use a single subdued fill when group position and labels already identify the groups. Make the median easier to see than the background density; offset or lighten points if they cover it. If the analysis targets a mean, label and display that mean rather than silently substituting a median. Without the observations or rendered plot, density adequacy and exact appearance remain unverified.
+
+Why this works: the sparse group changes only the layers it can support; it does not force every group into dots alone. The richer plot is justified by center, spread and shape, not by a compulsory recipe.
+
 These fictional cases show how to turn a description into useful advice. No image was supplied; visual appearance remains uninspected.
 
 ## Weak feedback
@@ -33,9 +43,9 @@ For the treatment comparison, retain visible group annotations or arrange sample
 - Mean-only bar chart with continuous small-n data -> observations, an appropriate descriptive summary, and a direct-contrast interval when the claim needs it.
 - P-value-focused result -> effect estimate plus uncertainty interval, with p-value secondary.
 - Red/green fluorescence merge -> accessible channel colors, single-channel panels if needed, and explicit channel legend.
-- Dense multi-panel figure -> one reading order, aligned panels, direct labels, and secondary material moved to caption or supplement.
+- Dense multi-panel figure -> coherent reading order, aligned comparisons and readable labels; move secondary material only if the main comparison and required controls remain understandable.
 - Heatmap with arbitrary diverging palette -> palette chosen from data semantics and a labeled color scale.
-- Network hairball -> filtered subnetwork, adjacency matrix, grouped layout, or supplemental interactive view.
+- Network hairball -> a task-appropriate subnetwork, adjacency matrix, grouped layout or supplemental interactive view, with disclosed selection and recoverable relevant context.
 
 ## Bad assistant traps
 
