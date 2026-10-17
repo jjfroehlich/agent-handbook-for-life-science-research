@@ -6,7 +6,7 @@ Use this when the user is choosing a funding opportunity, checking call fit, int
 
 ## The job of this topic
 
-Prevent unreviewable or low-fit applications before narrative polish. Treat the call, templates, assessor guidance, budget rules, and internal deadlines as part of the scoring system.
+Identify whether this work and applicant fit the opportunity and what actually governs the application. Current call/template and institutional requirements, assessor criteria and practitioner advice have different authority; none is supplied by a historical successful example alone.
 
 ## Default workflow
 
@@ -22,7 +22,7 @@ Use the whole preflight for opportunity choice, planning, or readiness. A local 
 ## Decision rules
 
 - If the project does not match the call scope, stop or retarget before revising prose.
-- If eligibility or format is uncertain, resolve it before drafting final text.
+- If eligibility or format is uncertain, identify what cannot yet be certified and seek authoritative clarification when it could change the work. A bounded edit can still proceed under explicit supplied constraints.
 - If the template is supplied, follow it exactly.
 - If a review-sheet answer is hard to find, add a heading, label, or explicit sentence.
 
@@ -31,6 +31,7 @@ Use the whole preflight for opportunity choice, planning, or readiness. A local 
 - Some mechanisms use broad panels, some use close-field reviewers, and some have interview stages; tune the proposal to the actual process.
 - Prior successful applications can help reveal expected structure, but current instructions override examples.
 - Internal deadlines and institutional approvals can be binding even when funder deadlines are later.
+- Scientific assessment and programmatic funding decisions are distinct. Informed advice, a favorable score or an apparent funding range does not establish an award; another program may be a better home.
 
 ## Anti-patterns
 
@@ -78,4 +79,5 @@ Do not infer official rules from general grant-writing advice. Ask the user for 
 - Check current instructions, eligibility, required form limits, and whether a letter of inquiry precedes the full proposal.
 - When prior award sizes or public giving records are available, use them as context alongside current rules and the work's actual costs.
 - If there was an LOI, explain scope or amount changes and check the applicable process before submission.
+- A permitted exploratory inquiry can test interest before a complete protocol exists. State the current plan and credible approximate need, with consequential uncertainties; do not invent a finished design or immutable cost to appear ready.
 - File before the final deadline window when possible so clarification time is not lost in the deadline rush.

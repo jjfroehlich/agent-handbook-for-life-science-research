@@ -9,9 +9,9 @@ Turn preparation into role-specific evidence stories and questions. Good intervi
 ## Default workflow
 
 1. Identify interview type, role, audience, format, stage, and known criteria.
-2. Research the organization, lab, department, products, funding model, recent work, team structure, and likely interviewers.
-3. Prepare evidence stories for technical skill, independence, collaboration, failure, conflict, leadership, communication, and motivation.
-4. Map each story to the role's criteria using problem, action, result, learning, and relevance.
+2. Research the parts of the organization, work and interview format that affect this preparation; do not expand a local answer edit into a full employer audit.
+3. Select flexible accounts of real work and decisions relevant to likely questions; not every interview needs a story for every category.
+4. Clarify problem, individual action, actual outcome and unknowns. Add learning or changed practice only when supported; an unresolved event can remain unresolved.
 5. Prepare questions about expectations, resources, team structure, supervision, evaluation, success metrics, and next steps.
 6. End with a practice plan, answer bank, question list, or risk areas to rehearse.
 
@@ -24,6 +24,10 @@ Turn preparation into role-specific evidence stories and questions. Good intervi
 - If the user is interviewing the lab or employer as well, include questions that reveal culture, support, and constraints.
 
 ## Variants and Edge Cases
+
+The interview is reciprocal inquiry, not only performance. Ask people who know about actual duties, reliable support, evaluation and promises. Investigate discomfort or inconsistent treatment without diagnosing motive. Dress, eye contact, chemistry or performed enthusiasm do not measure scientific competence, and unfair conventions are not candidate deficits. Personal questions can be answered, redirected or declined according to the applicant's preferences and risk; do not prescribe private disclosure or make legal determinations.
+
+During an unexpected question, listen, clarify what is being asked and admit what is unknown. After a mistake, return attention to the current question rather than manufacture a polished recovery story. Arrange access needs and technical logistics for the real format; test the legibility of any scientific artifact rather than assuming good wording proves the figures work.
 
 - For industry interviews, prepare stories about teamwork, decision-making, timelines, customers, and cross-functional communication.
 - For postdoc interviews, ask about project ownership, funding, authorship, independence, and job-market support.

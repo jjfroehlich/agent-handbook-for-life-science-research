@@ -40,3 +40,33 @@ The explanation ends at the scientific boundary. An invitation or networking ask
 **Answer:** “Yes. Treatment and measurement day are confounded in these data, so we cannot separate them. A repeat with both conditions represented on each day would test that explanation, but we have not run it yet.”
 
 Do not replace this answer with invented balanced batches, subgroup analyses or a completed replication.
+
+## The same short account with a different endpoint
+
+**Given:** A visitor asks for the reporter explanation above. Later, a colleague with cell-imaging expertise asks what feedback the team needs. No collaboration has been agreed.
+
+**Informative answer to the visitor:** “The treated samples gave less light, but they also had fewer cells. We cannot yet tell whether each cell produced less light.”
+
+**Opening for the colleague:** “We are trying to separate lower reporter output within a cell from simply having fewer cells. Would you be willing to discuss how to measure reporter signal and viable cell number together? We have not yet made that comparison.”
+
+The second version makes a specific request because advice is now the goal. It does not claim the proposed measurement is complete or that the colleague has agreed. The first answer is complete without an ask.
+
+## A direct validity challenge during a chalk talk
+
+**Given:** A proposed project would compare a treated culture measured on one day with a control measured on another. The board currently labels this “Test treatment effect.” The project has not started. A committee member points out the day confounding.
+
+**Response:** “That comparison would not separate treatment from day. I would revise the plan so both conditions are represented on each experimental day. I also need to check how many independent cultures and days are feasible before settling the design. The current board plan does not yet answer the treatment question.”
+
+**Board repair:** Replace the cross-day contrast with a within-day comparison, mark the allocation/replication decision as unresolved, and keep the program overview visible. Return to another module only after acknowledging this project's changed status. Calling the objection a tangent would leave a design flaw disguised as a solved question.
+
+This is a focused response and planning correction, not a complete experimental-design specification or an invented completed result.
+
+## Media preparation before permission is settled
+
+**Given:** The fictional reporter study has no clinical measurements. A draft public summary says “a new way to prevent disease.” Coauthors have not agreed what can be released. An unexpected caller asks for an interview today; the outlet, topic and deadline are not yet known.
+
+**Summary repair:** “The treatment reduced total reporter light and cell number in cultured cells. Whether reporter output changed within each surviving cell remains unresolved.”
+
+**Interview preparation note:** “Obtain the outlet, question, format and deadline. Check the actual release constraints and coauthor decisions before offering unreleased material. Prepare the observed comparison and its limitation; no clinical benefit or disease-prevention claim is supported. Arrange a feasible response time once scope and permitted material are clear.”
+
+The note is a proposed course of action. It does not say a call was returned, permission obtained, an embargo imposed or a correction published. If asked whether the work is safe or effective in patients, the supplied study cannot answer that question; an invented risk baseline would not repair the gap.

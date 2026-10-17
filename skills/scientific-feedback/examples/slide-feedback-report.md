@@ -18,15 +18,15 @@ Choose the useful fields for the requested depth.
 Scope: <talk/deck> for <audience, time, venue>.
 Selected lenses: scientific-communication; add data-visualization-and-figures or scientific-writing if relevant.
 
-Core message:
-- <one sentence the audience should remember>
+Purpose or connected questions:
+- <what the audience needs to understand or compare>
 
 Top priorities:
 1. <structure/cut/visual issue -> action -> rationale>
 2. <slide or figure issue -> action -> rationale>
 
 Slide-level notes:
-- <slide/group>: <one job and fix>
+- <slide/group>: <purpose, needed comparison and fix>
 
 Delivery/Q&A:
 - <likely question or rehearsal move>
@@ -44,5 +44,5 @@ Strong when the supplied outline lacks orientation: "Explain the model or compar
 ## Bad assistant behavior
 
 - Treating the talk like a manuscript.
-- Fixing typography before the message and cuts are clear.
+- Imposing message changes or cuts when the actual failure is unreadable decisive evidence, or polishing decoration while a consequential content problem remains.
 - Ignoring time limit and audience background.

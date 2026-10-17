@@ -14,6 +14,8 @@ The examples use the fictional [Brake study](01-planning-the-paper.md#brake-case
 
 ## Starting a draft
 
+The main workflow below concerns a research paper. For a review article, choose the form that serves its purpose. An integrative review connects findings around questions, disagreements and methodological limits; a descriptive review can introduce selected studies individually. Keep source-linked notes distinct from copied passages, explain the review’s actual scope and avoid claiming an exhaustive or current search that was not performed. [Comparing and synthesizing papers](../02-reading-the-literature/03-comparing-and-synthesizing-papers.md#synthesis-writing) develops those choices. A prose revision of an already completed review need not restart its literature search unless a consequential claim depends on missing or outdated evidence.
+
 <a id="revision-entry"></a>
 
 ### Choose a passage you can develop
@@ -320,6 +322,8 @@ Delete phrases such as “It is important to note that.” Replace vague results
 ### Cut words without cutting meaning
 
 Remove repeated caution but retain qualifications that affect the conclusion. Check that edits preserve the subject, comparison, scope and strength of the original statement. [[9]](#ref-revision-huber2025).
+
+Treat lists of troublesome words as prompts to inspect meaning, not automatic deletion rules. “Dynamics” may be vague decoration, or it may name the time-dependent behavior actually measured. Likewise, a modifier may distinguish the sampled population from a broader one. Recover the sentence’s claim before deciding what can go.
 
 <a id="revision-case-qualification"></a>**Example: replacing vague caution with a specific limit**
 

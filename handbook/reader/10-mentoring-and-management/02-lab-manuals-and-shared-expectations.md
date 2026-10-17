@@ -34,6 +34,8 @@ Use reciprocal language where responsibility is reciprocal. If members should fl
 
 The SAFE Labs authors similarly turn broad aspirations into actions that can be documented while leaving groups to choose policies suited to their setting [[3]](#ref-manuals-dona2025).
 
+Distinguish a public commitment, an internal record and an established practice. A prospective member may be able to read a promise about mentoring while the group still needs to arrange the promised meetings and support. Documentation makes a commitment inspectable; it does not demonstrate that it is fair or effective. A handbook or engagement badge cannot certify culture quality or remove the need for independent support when conduct is harmful [[3]](#ref-manuals-dona2025).
+
 <a id="manuals-policy-example"></a>**Example: a shared-equipment policy**
 
 **Northbank Imaging Group manual — shared microscope bookings, version 1.1**
@@ -50,7 +52,7 @@ This is one fictional group’s arrangement. Another facility could reserve fixe
 
 ## Draft the manual with the people affected
 
-The person accountable for the group should first state the constraints and promises they can actually uphold. Then collect cases from the people affected. A meeting can expose differing interpretations; a short form or private route lets members raise concerns they may not voice in front of a supervisor. Asking members to contribute does not transfer the leader’s responsibility for employment, safety or fair treatment.
+The person accountable for the group should state the constraints and promises they can actually uphold. One starting point is an honest leader draft followed by consultation; another is a short skeleton written with members. Choose a process the group can support rather than waiting for one ideal method. A meeting can expose differing interpretations; a short form or private route lets members raise concerns they may not voice in front of a supervisor. Asking members to contribute does not transfer the leader’s responsibility for employment, safety or fair treatment [[3]](#ref-manuals-dona2025); [[5]](#ref-manuals-mehr2020).
 
 Scale the drafting process to the group. A small lab may revise a short draft together. A larger group can assign topic teams, exchange drafts and use several meetings to resolve inconsistent language. The WIN Physics group used volunteer teams, cross-review and advice from departmental and human-resources specialists for its multi-PI group of about 30 people [[6]](#ref-manuals-tendler2023).
 
@@ -82,7 +84,9 @@ During the six-week trial, members interpret “a short shift” differently. Ve
 
 The data section should help a member find an approved place to store and work with their data and the person who can arrange access. Explain which kinds of data each environment can hold and how to record versions or changes during active work. Point to the project record used when someone joins or leaves. Keep dataset-specific retention, consent, transfer and access conditions in the data-management or ethics record that governs the project. Link to that record and explain what members need to do, rather than creating a second copy of rules that may change.
 
-For generative AI, check the current policies that apply to the institution, funder, project partners, data and intended publication. Record the version consulted, approved tools or environments, excluded inputs, uses that require a project record or disclosure, and who verifies the output. A trainee may be able to check generated syntax while still needing to develop the judgment required to choose an analysis or interpret a result. Discuss concrete tasks before writing the rule, and connect permitted use to what the member can explain and verify [[2]](#ref-manuals-blekhman2026). Detailed questions about contribution and authorship belong in [collaboration, authorship and credit](04-collaboration-authorship-and-credit.md#collaboration-chapter).
+For generative AI, separate the policies that govern the work from the learning practice a mentor proposes. Check the applicable institutional, funder, partner, data and publication requirements rather than assume the lab can authorize a tool or disclosure. Record confirmed requirements and unresolved questions as such.
+
+A trainee may be able to check generated syntax while still needing to develop the judgment required to choose an analysis or interpret a result. Discuss concrete tasks and connect assistance to what the member can explain and verify. Blekhman describes a local choice for trainees to write the first substantive manuscript draft themselves before using AI for revision. It is an educational practice, rather than a demonstrated universal learning rule or a policy on privacy and disclosure [[2]](#ref-manuals-blekhman2026). Detailed questions about contribution and authorship belong in [collaboration, authorship and credit](04-collaboration-authorship-and-credit.md#collaboration-chapter).
 
 <a id="manuals-check"></a>
 

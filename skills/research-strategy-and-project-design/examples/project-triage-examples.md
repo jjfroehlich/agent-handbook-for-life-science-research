@@ -17,10 +17,9 @@ If the cross-species study already had established access and a shared assay, it
 
 - Prior-work check: assess whether a result resolves or qualifies the contribution; independent replication can still matter.
 - Existing-data analysis: assess the premise when sampling and measurement can address it; unsuitable data cannot rule it out.
-- Online or small pilot: estimate noise, recruitment, effect size, or feasibility.
+- Online or small pilot: investigate relevant noise, recruitment or feasibility; a noisy small effect estimate does not establish power or biological absence.
 - Counterexample search: find cases that would break the proposed mechanism or model.
-- Feared control: run the control that would most damage the preferred interpretation.
-- Baseline comparison: check whether a simple alternative matches the proposed complex approach.
+- Avoided control: consider a feasible check that addresses an actual consequential ambiguity, rather than prioritize it solely because the team fears the result.
 
 ## Existing evidence can inform a first commitment
 
@@ -37,3 +36,19 @@ If a project has become a default commitment, compare its best plausible contrib
 ## Hypothesis Example
 
 Processed colony images appear brighter at the edge. Nutrient access is one possible explanation, but reporter chemistry, colony thickness and illumination/processing remain alternatives. First inspect the raw images and whether the pattern follows sample coordinates. If it appears only after processing, investigate that cause. If it persists in a checked measurement, develop predictions that separate biological and reporter explanations. Keep both the initial impression and the new hypotheses provisional.
+
+## Theory can change the measurement
+
+These illustrative comparisons show design choices, not newly executed experiments.
+
+- Two candidate accounts may predict the same mean but different distributions. A random-partition model, for example, can relate variation in labeled material between daughter cells to molecule number under explicit partition and detection assumptions. Measuring only the average can miss the model's distinguishing prediction; the conversion is not valid for arbitrary fluorescence.
+- An allosteric model can combine ligand affinities and state preferences into a scaling variable; a repression model may combine copy number, binding strength and competing sites. A model-derived comparison can then ask whether responses from different conditions align. Check those assumptions and actual measurement precision. Alignment alone does not prove a unique mechanism, and no one variable scales all biology.
+- A DNA-looping model might explain roughly helical periodicity while leaving the amplitude at short separations surprising. Inspect both features before calling the explanation adequate; recognizing the familiar periodicity does not settle the harder discrepancy.
+
+Qualitative sketches can also reveal a prediction, and explaining existing observations remains useful. Equations or prospective placement in a paper are not prerequisites to all good research.
+
+## Reframing changes the next question
+
+A logically elegant solution can be biologically wrong yet expose another question worth testing; elegance is not validation. An outside conceptual connection may help, or the obstacle may come from a constraint assumed rather than required. Do not promise every stuck problem has such a rescue.
+
+If an association disappears after accounting for another variable, ask what comparison changed and which assumptions the adjustment needs; disappearance alone does not identify a causal explanation. Likewise, constructing negative examples for a prediction task is a design decision: synthetic negatives and a successfully imported representation do not automatically become validated biological truth.

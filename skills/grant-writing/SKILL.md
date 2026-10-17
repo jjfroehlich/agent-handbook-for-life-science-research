@@ -4,14 +4,14 @@ description: "Plan, draft, or review grant and fellowship applications. Exclude 
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Grant Writing
 
 ## Purpose
 
-Help users turn a funding opportunity and proposal draft into a reviewer-readable, funder-fit, feasible application with clear aims and concrete scoring evidence.
+Help users turn a funding opportunity and proposal draft into an assessable application: a clear purpose, interpretable proposed work and truthful evidence of fit, capability and resources.
 
 ## Use this skill when
 
@@ -31,6 +31,7 @@ Use this skill for grant or fellowship applications, specific aims pages, resear
 3. For narrative or structural work, make the objective, premise, payoff, approach, and applicant fit visible. For local prose edits, preserve meaning and supplied constraints.
 4. Review significance, innovation, aims, feasibility, budget, risks, and alternatives only where they bear on the requested section or readiness judgment.
 5. Return prioritized edits, not generic encouragement: what to move, cut, relabel, evidence, reframe, or verify against the call.
+6. Preserve completed, proposed, conditional and unknown states, including pilot findings, access, institutional support and award authority. A clear rewrite cannot supply missing controls or commitments. Inspect the actual document before certifying its visual readability; a written plan is not an executed assessment, submission or agreement.
 
 ## Reference routing
 

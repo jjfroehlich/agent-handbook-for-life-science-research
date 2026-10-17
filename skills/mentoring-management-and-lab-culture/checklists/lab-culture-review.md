@@ -19,6 +19,7 @@ Use relevant sections for a bounded scan or group review. A narrow message edit 
 - Who speaks, decides, receives opportunity, and gets credit?
 - Are meetings designed for participation, dissent, and repair?
 - Are missing perspectives treated as scientific blind spots?
+- Can people obtain equipment, information and meaningful ownership without paying personally or representing an entire identity group?
 
 ## Workload And Boundaries
 
@@ -44,9 +45,12 @@ Use relevant sections for a bounded scan or group review. A narrow message edit 
 
 - Are meetings useful, psychologically safe, and decision-producing?
 - Are workload, deadlines, and personal-time sacrifices visible and negotiable?
+- Which commitments can the person actually decline, and who can authorize a change when they cannot?
 - Does after-hours social participation feel optional in practice?
 - Are hidden factions or post-meeting disagreements appearing?
 - Are contribution, authorship, and credit tracked?
 - Who can see feedback, what may be shared and what limits apply? Could small-group details identify someone, and is a suitable independent route available?
 - Is housekeeping or social labor distributed fairly?
 - Do newcomers have a buddy or support route?
+
+Treat these as inquiry prompts, not a validated health score. Good ratings in several areas cannot cancel a serious harmful act. Different PI/member accounts, unreported concerns and unequal attrition need context; absence of complaints is not evidence of safety. Assign an owner with time and authority for any agreed change and review hidden burden as well as the visible deadline.

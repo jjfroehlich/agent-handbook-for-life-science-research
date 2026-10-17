@@ -16,6 +16,10 @@ Translate the group’s longer-term questions into near-term priorities. To unde
 
 For each priority, agree who will do the work and what support they need. Check it against existing obligations, including thesis completion and the maintenance of shared material. Decide when to review progress before adding further work.
 
+Make estimates concrete enough for the people doing the work to inspect. Break near-term work into activities they can understand and estimate, asking about uninterrupted time, equipment and other commitments. Later work can remain less detailed while its requirements are uncertain. Schedule tasks that can overlap against their shared resources: parallel experiments may shorten elapsed time while overloading the same operator. A simple table may be enough; software cannot supply missing capacity [[2]](#ref-leadership-rightmoves2006).
+
+When coordination is a constraint, distinguish people who shape requirements, people who do or support the work and people who follow its progress. Decide which consultation or updates each needs, then revisit that choice when the work changes. Interest in a project does not itself grant someone scientific decision authority or access to restricted information [[2]](#ref-leadership-rightmoves2006).
+
 Keep near-term goals concrete while leaving the longer direction open to discovery. Three to six months for immediate priorities and one to three years for scientific growth can be useful starting horizons; shorten them when access or funding is uncertain. Discuss the plan with the group so that people can question the assumptions and explain what their part will require [[4]](#ref-leadership-greersamuel2019).
 
 Scientific goals should specify what can be learned, not demand a preferred result. A milestone can be a working assay with interpretable controls, a complete dataset or a decision about feasibility. If evidence undermines the original idea, completing that decision can be good work even when the project changes direction.

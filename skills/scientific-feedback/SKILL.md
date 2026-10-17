@@ -4,7 +4,7 @@ description: "Give integrated critique of audience-facing scientific artifacts o
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Scientific Feedback
@@ -33,7 +33,7 @@ Give integrated, prioritized feedback on audience-facing scientific communicatio
 2. Identify the artifact, audience, destination, deadline, relationship, and requested review depth.
 3. Choose the review depth and relevant lenses from the request. Briefly explain scope or lens choice when it helps the user interpret the critique; do not require a separate declaration for an already clear task.
 4. Ask only for missing context that would change priorities; otherwise proceed with explicit assumptions.
-5. Apply the narrowest useful lenses, then integrate findings into one revision sequence.
+5. Apply the narrowest useful lenses, tying each contribution to the artifact or evidence actually inspected, then integrate findings into a useful revision sequence. Multiple lenses drawing on the same evidence are not independent validation; resolve disagreement through the actual claim, comparison and limits rather than a lens vote.
 6. Prioritize consequential findings and preserve useful strengths. Distinguish blockers from lesser improvements when present; do not manufacture issues or require every severity category.
 7. Adapt tone to the relationship: reviewer, mentor, collaborator, supervisor, committee, or self-revision.
 8. End with the next action: revise, cut, restructure, verify, collect missing evidence, rehearse, submit, or route to a specialist domain.
@@ -100,7 +100,7 @@ Apply only the checks relevant to the requested scope and artifact. Inspect supp
 - Loading this skill first and relying on its body to reverse an obvious technical-artifact activation.
 - Overwhelming the user with every possible problem instead of a revision sequence.
 - Treating mentor feedback, peer feedback, journal review, and committee feedback as the same tone.
-- Inventing source-backed rules or provenance for this no-source orchestrator.
+- Inventing evidence or treating agreement among lenses as independent corroboration.
 
 ## Quality bar
 

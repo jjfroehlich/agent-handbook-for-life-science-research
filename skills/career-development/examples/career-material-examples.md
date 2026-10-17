@@ -29,3 +29,36 @@ These are closed fictional cases. Their supplied achievements, preferences and o
 **Given.** A fictional candidate was invited to supply facts for a recommendation. The referee supervised their shared analysis workflow and observed them training two junior colleagues. The candidate has an accurate CV, the opportunity criteria and the deadline; no comparative rank or endorsement strength has been offered.
 
 **Completed packet.** Provide the CV, criteria and deadline; state that the referee supervised the workflow work; describe the candidate's actual contribution and the two training activities. Leave comparative assessment, endorsement and final voice to the referee. Do not add “top one percent,” a publication outcome or an observation the referee did not make.
+
+**If the writer explicitly requests a draft scaffold:**
+
+| Field | Factual material supplied | Remains with the writer |
+|---|---|---|
+| Relationship | Supervised the candidate's work on the shared analysis workflow | Duration/intensity and basis of assessment, if known to the writer |
+| Contribution | Work on the shared workflow and training two junior colleagues; the precise workflow contribution still needs confirmation | Assessment of quality, independence and significance |
+| Fit | Attach the actual opportunity criteria; indicate which workflow/training examples may be relevant | Whether those examples support the requested level |
+| Conclusion | Submission details and deadline | Honest qualifications, comparative rank, endorsement and final signed voice |
+
+The scaffold does not turn the candidate's account into an independent judgment. If two writers request input, keep the facts consistent and tailor only what each actually observed; do not fabricate distinct superlatives or promise that identical drafts will not be used.
+
+## A postdoc inquiry with unfinished work
+
+**Given.** A fictional applicant, Jo, expects to submit a doctorate next summer. Jo developed and used an imaging workflow in a still-unsubmitted manuscript and wants to learn quantitative tissue mechanics. A prospective lab's recent work uses the relevant method; its site invites inquiries but makes no funding or opening promise. No visit or offer has occurred.
+
+**Completed inquiry.** “Dear Dr Chen, I expect to submit my doctorate next summer. My current work uses an imaging workflow I developed; the manuscript is in preparation. I am interested in learning quantitative tissue mechanics, particularly in connection with your group's recent work. Do you anticipate recruiting a postdoc in that period, and would my imaging experience be relevant to a discussion? I can provide my CV and a short research summary in the format you request.”
+
+The message states the real preparation, learning goal and timing, without inventing a first-author publication, assured completion, opening or attachment. If an active search later closes with Jo's decision elsewhere, notify this lab if it has entered a recruitment process; do not send a decline for an offer that never existed.
+
+## Checking a promised resource
+
+**Given.** A fictional faculty candidate's first project needs a staffed imaging core. The written offer includes a startup sum, but neither booking capacity nor user-fee coverage is specified. The chair says, “You will have access.” No other facility or competing offer is supplied.
+
+**Completed response.** Keep core access as an unresolved essential condition. Ask the facility lead about capacity, lead time, staff support and fees, and ask the authorized offer contact which costs and access dates the institution will commit to. Cost a real alternative only if one is available; do not subtract equipment or staff from the plan on the strength of the assurance. The candidate can explain that the request enables the first project without inventing another offer for leverage.
+
+**Changed condition.** If a signed authorized revision confirms capacity, fees, start date and support, treat those specified conditions as agreed. Still check other project dependencies; confirmation of this core does not approve the whole startup or make the laboratory operational.
+
+## Reconsidering a career goal without deciding to leave a degree
+
+**Given.** A fictional doctoral student enjoys the research and can afford to finish the funded degree, but no longer wants grant seeking and group management to dominate their career. One rejected fellowship has prompted the discussion; no safety concern or degree-completion problem is supplied.
+
+**Completed advice.** Treat PI work and degree continuation as separate choices. Use any substantive fellowship feedback to improve relevant work, but do not infer unfitness from the outcome or prescribe another application. Compare roles with the desired daily work and identify a feasible next inquiry while continuing the degree if it still serves the person's goals. Neither sunk effort nor a promise that persistence pays off settles the choice.

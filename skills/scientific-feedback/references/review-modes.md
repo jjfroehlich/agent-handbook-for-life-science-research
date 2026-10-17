@@ -29,7 +29,7 @@ Match the review depth and voice to the user's goal so feedback is useful rather
 - Mentor-style feedback: preserve agency, explain rationale, and include questions or next discussion points.
 - Collaborator-style feedback: emphasize shared goals, concrete edits, and tradeoffs.
 - Readiness check: return ready/needs revision/blocked with must-fix items.
-- Line edit: revise wording only after structure, claim, and evidence are already in scope or stable.
+- Line edit: honor the requested wording change and fixed facts; do not require the whole structure or evidence base to be settled first. Flag an unresolved concern only when it changes that edit. If the current request needs one domain lens, use the narrower skill rather than retain this orchestrator from an earlier mixed review.
 
 ## Variants and edge cases
 

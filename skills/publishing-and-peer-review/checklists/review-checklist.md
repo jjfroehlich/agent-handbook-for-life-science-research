@@ -1,6 +1,6 @@
 # Peer Review Checklist
 
-Use before sending a review or when auditing a draft reviewer report.
+Use the applicable checks before sending a review or auditing a draft report. Do not invent issues to fill the list or demand a full review for a bounded wording edit.
 
 ## Accept Or Decline
 
@@ -37,7 +37,7 @@ Use before sending a review or when auditing a draft reviewer report.
 ## Minor Concerns
 
 - Minor comments are separated from major comments.
-- Minor comments cover clarity, figure presentation, terminology, or limited wording issues.
+- Minor labels follow consequence: a figure label, method detail or wording issue is major when it changes the inference.
 - Minor comments do not become disguised demands for new projects.
 
 ## Ethics And Tone
@@ -47,6 +47,7 @@ Use before sending a review or when auditing a draft reviewer report.
 - The wording would be acceptable if signed.
 - The review does not ask for unnecessary citations, analyses, or experiments.
 - The review protects confidentiality and unpublished information.
+- Emerging conflicts, actual co-review permission/recognition and later reuse/publication permissions have been checked separately where relevant.
 
 ## Final Pass
 

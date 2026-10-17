@@ -6,13 +6,13 @@ Use this playbook to draft or audit a lab handbook, expectations document, onboa
 
 ## The job of this topic
 
-A lab manual is a living operating system for the lab. It should answer the questions a new or anxious member would hesitate to ask, not merely collect technical SOPs.
+A lab manual explains recurring shared practices that members otherwise have to infer. Choose topics for the group's actual work and readers. A career IDP cannot settle daily communication or equipment norms, and a manual cannot replace individual development or authoritative institutional records.
 
 ## Default workflow
 
-1. Define the audience and role variants: undergraduates, graduate students, postdocs, staff, visitors, collaborators.
+1. Define the audience and role variants: undergraduates, graduate students, postdocs, staff, visitors, collaborators. Select consequential recurring questions rather than require the whole topic menu below.
 2. Draft practical defaults for how the lab works: meetings, communication, hours, time off, authorship, data/code, privacy, AI, mistakes, safety, and help-seeking.
-3. Add exception routes: who to ask, what to do when the default fails, and what issues require escalation.
+3. Distinguish public information for prospective members, internal records and practices that require action. A published promise does not show that the support exists. Add exception routes where needed: who can act, what happens when the default fails, and where a concern about that person can go.
 4. Assign an owner, review cadence, and change log.
 5. Use onboarding questions, recurring confusion, policy changes, or conflicts as update triggers.
 
@@ -26,9 +26,9 @@ A lab manual is a living operating system for the lab. It should answer the ques
 
 ## Variants and edge cases
 
-- AI use: assign human accountability for accuracy, citations, interpretation, code, privacy, and final products; prohibit confidential or unpublished material in unapproved tools; require verification plans.
+- AI use: discuss the task, learning purpose and what the person can actually explain and check. A novice may verify syntax while lacking the knowledge to choose or interpret the method. A first substantive draft without AI can be a local learning exercise; it is not a universal ban for every researcher. Keep humans responsible for scientific decisions. Privacy, approved inputs/tools and disclosure follow separately verified applicable rules; keep unconfirmed requirements visible and do not treat a verification plan as demonstrated understanding.
 - Authorship: define criteria, order discussions, contribution tracking, dispute routes, and timing for revisiting decisions.
-- Data and code: define storage, naming, access, documentation, handoff, sharing, and departure expectations.
+- Data and code: define authorized storage, identifiers, access, analysis versions, correction and departure handoffs. Keep raw inputs and analysis order interpretable, including unsuccessful work and who contributed. Preserve original entries when correcting records. Choose tools for retrieval, training and preservation needs; a simple existing system can suffice.
 - Working hours: define flexibility, core obligations, after-hours communication, vacations, deadlines, and emergency exceptions.
 - Safety and conduct: define concern routes, immediate danger routes, privacy limits, retaliation concerns, and institutional contacts.
 
@@ -50,6 +50,8 @@ A lab manual is a living operating system for the lab. It should answer the ques
 
 ## Output patterns / mini-templates
 
+Choose a feasible drafting process. Co-writing a short skeleton can expose different interpretations. An honest initial leader draft followed by consultation can also work, especially when it documents existing commitments. Neither route requires pretending that everyone can negotiate employment or safety rules. Link the actual governing policy, and say when a decision must be made individually. Review confusing or ignored sections and remove irrelevant detail rather than continually adding requirements.
+
 Handbook section pattern: use the fields needed for the specific policy; do not add every heading to a short edit.
 
 - Purpose.
@@ -65,9 +67,13 @@ AI guideline pattern:
 - Permitted uses.
 - Prohibited inputs.
 - Verification expectations.
-- Learning-sensitive tasks where first-pass human reasoning is required.
+- Learning-sensitive tasks and the locally chosen practice, including any first-pass reasoning exercise.
 - Disclosure or documentation expectations.
 - Accountability statement.
+
+Match a record to the claim it supports. Acknowledging receipt does not establish understanding, agreement or a waiver of rights. A handbook or engagement badge cannot certify culture quality or prevent abuse. Consult members through routes whose actual access and reporting limits are clear; a form called anonymous may identify someone through a small group's details.
+
+For data handoff, distinguish reproducing an analysis from the same raw data from replicating a result with new data. A numerical mismatch warrants investigation; nondeterministic computation can differ without an error. Do not promise exact reproduction of every analysis or import a local publication-to-sharing deadline as universal. Actual consent, retention, ownership and transfer terms govern. Obtain consent to record people and separately to post recordings; project-specific restrictions may be stricter.
 
 ## Examples
 

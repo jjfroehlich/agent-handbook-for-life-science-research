@@ -8,7 +8,7 @@ Use this as an output pattern for poster feedback.
 Scope: poster for <conference/audience>.
 Selected lenses: scientific-communication; add data-visualization-and-figures for figure readability.
 
-Main claim:
+Purpose, claim or connected questions:
 - <what should be visible from a few steps away>
 
 Must fix before presentation:
@@ -19,7 +19,7 @@ Cut or compress:
 - <text/detail to remove or move>
 
 Walkthrough:
-- <30-second route through the poster>
+- <proportionate route if live presentation is in scope>
 
 Next production check:
 - <print/export/readability action>

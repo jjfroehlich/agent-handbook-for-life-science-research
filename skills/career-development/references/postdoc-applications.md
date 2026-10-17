@@ -8,10 +8,10 @@ Make the postdoc an intentional career move. The answer should define what the p
 
 ## Default workflow
 
-1. Ask what the postdoc is for: new field, new method, publication body, independence, funding, faculty-search launch, industry bridge, or geographic constraint.
+1. Identify what the postdoc would enable for the intended destination, then compare it with direct entry or focused training. Advice ranges from strongly recommending postdoctoral training to warning against an unnecessary default appointment; the purpose, role and constraints decide which applies.
 2. Build a target-lab list from scientific fit, mentor record, trainee outcomes, resources, and the user's constraints.
 3. Prepare outreach that states fit, evidence of readiness, proposed direction, and why the lab is specifically relevant.
-4. Evaluate offers by project ownership, funding, authorship, mentoring cadence, alumni outcomes, career support, and whether work can move with the trainee.
+4. Evaluate actual daily teaching, feedback, resources/stability, funding, publishing expectations and support for the next role. Ask how project control, credit, materials and future directions are negotiated and revisited, rather than assuming that all work can move or that continuing collaboration blocks independence.
 5. Compare risks explicitly: prestige versus support, autonomy versus structure, high-impact project versus survivability, and career launch versus personal constraints.
 6. Organize active searches as a pipeline: target labs, contact reason, fit evidence, questions, offer terms, risks, and next action.
 7. End with an outreach plan, question list, comparison table, search pipeline, or accept/decline recommendation with missing evidence.
@@ -27,11 +27,13 @@ Make the postdoc an intentional career move. The answer should define what the p
 ## Variants and Edge Cases
 
 - For cold outreach, keep the message short, specific, and evidence-based.
-- For geographic or family constraints, widen the search mode before lowering the standard for mentoring quality.
+- For geographic or family constraints, compare feasible local/direct-entry options and search modes. A global move, reciprocal visit or extra training period may be unavailable; do not treat mobility as commitment or promise a suitable local vacancy.
 - For industry-curious users, compare postdoc benefits against roles that offer direct industry experience.
 - For cross-field moves, value mentors with a record of training people into the new area.
 
 ## Anti-Patterns
+
+Keep inquiry timing and manuscript status exact. A promising project need not be complete, published or first-authored to justify contact; explain the candidate's actual contribution and readiness. Read relevant group work, use genuine interests to choose whom to contact, follow requested materials and record important unanswered questions. Visits are reciprocal inquiry where feasible. When a decision closes another lab's active process, notify it courteously rather than leaving a presumed commitment. No fixed shortlist, publication count, contact month or postdoc duration guarantees the next job.
 
 - Doing a postdoc because it is the default next step.
 - Choosing by lab name while ignoring trainee outcomes.

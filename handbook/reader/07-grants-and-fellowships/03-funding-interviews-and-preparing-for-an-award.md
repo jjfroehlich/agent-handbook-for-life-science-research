@@ -52,6 +52,8 @@ If the proposal is selected, read what the notification actually confirms. It ma
 
 Pina’s guide to EU research grants treats preparation of the grant agreement as substantive work for the researcher and institutional support staff. Its broader lesson is to understand the conditions attached to the award, including its financial form, rather than reading only the scientific description. The specific obligations come from the applicable agreement, not from a general guide [[4]](#ref-grant-start-pina2024grants).
 
+Identify the actual institutional beneficiaries and authorized signatories; scientific leadership does not itself confer signing authority. Scientific, administrative and financial coordination may be held by different people, but delegation does not remove the relevant accountability. Read the agreement beyond its scientific annex and check how the actual grant form—such as actual costs, unit costs or a lump sum—affects eligible costs and required evidence. Award preparation is not permission to redesign the selected project: keep its content except for properly requested or authorized clarification [[4]](#ref-grant-start-pina2024grants).
+
 <a id="grant-start-prepare"></a>
 
 ## Preparing to start
@@ -59,6 +61,8 @@ Pina’s guide to EU research grants treats preparation of the grant agreement a
 Reconcile the approved work with what is available now. A facility may have changed its schedule, a collaborator’s commitment may need renewal or the awarded budget may differ from the request. Identify which changes affect the scientific comparison and which affect only its timing. Bring a concrete proposal to the appropriate funder and institutional contacts when an adjustment needs agreement. Do not promise the original scope with resources that no longer support it [[2]](#ref-grant-start-consalvey2023funding).
 
 Before the first substantive work, agree who owns the initial tasks, what records will be kept and when progress or problems will be reviewed. Include administrative colleagues where their work controls purchasing, appointments or reporting. For a collaboration, settle the partner contributions and access arrangements needed at the start; [collaboration, authorship and credit](../10-mentoring-and-management/04-collaboration-authorship-and-credit.md#collaboration-chapter) covers those agreements in more detail.
+
+An agreement with the funder and an internal agreement among partners settle different relationships. Check their actual hierarchy and compatibility with institutional support; a signed template does not establish reciprocal understanding, implemented support or data access. Make the required methods and endpoints compatible without forcing unlike systems into identical procedures. A consequential change in scope, dates, costs or partners may need a formal amendment, another authorization route or may be impermissible; an officer’s supportive conversation alone is not approval [[4]](#ref-grant-start-pina2024grants).
 
 <a id="grant-start-award-example"></a>**Example: selection with an unresolved start condition**
 
@@ -73,6 +77,8 @@ Later in the same fictional project, the proposal is selected for funding and aw
 **Release condition.** Begin the dependent work after the necessary award arrangements and facility access are confirmed. If access remains unavailable, assess an adequate alternative or seek an agreed change; financial authorization alone does not make the assay feasible.
 
 Keep a short record of the agreed start arrangements. Name who will do the first tasks and which commitments are confirmed. Include reporting dates and where to raise a proposed change. The amount of coordination depends on the award: an individual fellowship usually needs less than a multi-institutional programme. Plan required outputs early and retain the records needed for reporting [[4]](#ref-grant-start-pina2024grants).
+
+Assign responsibility for both scientific and other required outputs, including data stewardship, communication and dissemination where the agreement calls for them. Distinguish public from confidential material; FAIR data management does not require unrestricted release of sensitive data. Use the actual retention terms, data-management updates and acknowledgment/disclaimer obligations. Distinguish ongoing deliverables from periodic progress/cost reports and any approval/payment dependency: submission alone does not establish clearance or payment [[4]](#ref-grant-start-pina2024grants).
 
 <a id="grant-start-references"></a>
 

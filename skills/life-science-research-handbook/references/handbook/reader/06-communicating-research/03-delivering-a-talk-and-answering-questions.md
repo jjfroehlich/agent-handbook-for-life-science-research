@@ -14,13 +14,15 @@ Rehearse the complete talk aloud while it is still easy to change. Listen for aw
 
 Time the complete talk, including the opening, transitions and close. If the run reaches the end of the allotted slot, remove a secondary result, shorten a detour or move a detail to material for discussion. Keep the comparison that makes the central claim credible, and leave the agreed time for questions. [[2]](#ref-delivery-mole2023).
 
-Mark a few timing checkpoints in your notes, and decide which slides you can skip if questions or interruptions use the spare time. Use a visible timer during the talk. If you fall behind, move to the prepared shorter version and preserve the conclusion. [[1]](#ref-delivery-edwards2014).
+Mark personally useful timing checkpoints in your notes, and decide which slides you can skip if questions or interruptions use the spare time. A visible timer can help when the setup permits it. A delay before the start may call for a shorter route; a late loss of time may require a concise supported conclusion that accurately identifies evidence not shown. Preserve the decisive comparison rather than imply it was unnecessary or already demonstrated. [[1]](#ref-delivery-edwards2014).
 
 Rehearse the shorter version, including what you will say between the slides that remain. Skipping a result may leave a later reference or explanation without its context.
 
 Practice the beginning and end until you can deliver them without searching for the next sentence. They need not be memorized verbatim. The opening can introduce the question and help listeners follow the first result; the close can state the answer and what remains unresolved. If possible, rehearse with someone outside the immediate project, who is less likely to fill in missing explanations from memory. Ask what they took to be the main claim, which comparison supported it and where they lost the thread. [[4]](#ref-delivery-winston2018).
 
 <a id="delivery-rehearsal-tool"></a>**Rehearsal tool: revise after each complete run**
+
+Choose the checks that address the talk’s current problems. These are revision options, not five required runs or a validated practice dose.
 
 <table>
 <colgroup>
@@ -64,7 +66,7 @@ Practice the beginning and end until you can deliver them without searching for 
 </tbody>
 </table>
 
-Record one run if you can. Check whether you rush through transitions or spend long stretches speaking to the screen. Notice whether a repeated movement distracts from what you are explaining. Choose a specific change to try in the next run. [[3]](#ref-delivery-nsedelivery).
+Record a run if it is useful, feasible and permitted. Check whether you rush through transitions or spend long stretches speaking to the screen. Notice whether a repeated movement distracts from what you are explaining. Choose a specific change to try in the next run; gaze, posture and visible confidence are not tests of scientific competence. [[3]](#ref-delivery-nsedelivery).
 
 <a id="delivery-speak"></a>
 
@@ -84,7 +86,7 @@ Before an in-person talk, check the room’s display and audio, or ask the host 
 
 For a remote talk, test screen sharing, microphone and camera in the meeting software. Check what a participant can see and hear, and how you would reconnect if the connection drops. Ask the host about captions and question handling. Tell listeners whether to use chat or speak when both are available.
 
-Keep additional slides ready for likely questions, such as a control or methods detail omitted from the main talk. Practice finding them and returning to the slide where you left off. [[3]](#ref-delivery-nsedelivery).
+Keep additional slides ready for likely questions, such as optional methods detail or a further comparison. A control essential to the visible claim stays in the main explanation. Practice finding reserve material and returning to the slide where you left off. [[3]](#ref-delivery-nsedelivery).
 
 <a id="delivery-questions"></a>
 
@@ -92,7 +94,7 @@ Keep additional slides ready for likely questions, such as a control or methods 
 
 Let the question finish. If its target is unclear, ask a short clarification or repeat the part you will answer: “Are you asking whether the protein, rather than the DNA intermediate, accounts for phage restriction?” Repeating the question lets the room hear it and gives you a moment to formulate the response. Then answer that part first, using the relevant comparison. [[3]](#ref-delivery-nsedelivery).
 
-If you do not know the answer, say so. Explain what the study can establish about the question and, when useful, suggest how the unresolved point could be tested. If a challenge reveals a limitation, acknowledge it and explain how it affects the conclusion. If it rests on a false premise, correct that premise before answering. When repeated interruptions prevent you from continuing, ask the chair to help or suggest returning to the discussion in the question period. [[1]](#ref-delivery-edwards2014).
+If you do not know the answer, say so. Explain what the study can establish about the question and, when useful, suggest how the unresolved point could be tested. Label that test as proposed: a missing control cannot become a completed experiment to make the answer reassuring. If a challenge reveals a limitation, acknowledge it and explain how it affects the conclusion. If it rests on a false premise, correct that premise before answering. Related prepared material can help after the unanswered part is explicit; it must not replace the question with an easier one. When repeated interruptions prevent you from continuing, ask the chair to help or suggest returning to the discussion in the question period. [[1]](#ref-delivery-edwards2014).
 
 When a question requires a separate conversation, say so and offer to continue after the session. If the chair closes the discussion, stop. [[2]](#ref-delivery-mole2023).
 

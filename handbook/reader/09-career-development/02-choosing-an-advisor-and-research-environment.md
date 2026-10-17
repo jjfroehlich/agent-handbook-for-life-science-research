@@ -100,7 +100,11 @@ Talk with people at different points in the laboratory: a newer member, someone 
 
 Ask for concrete examples: “Could you describe the feedback on the last paper or project proposal?” Follow up on how the advisor helped when a trainee was stuck or a project needed to change direction. Ask how decisions about credit were made. Compare the advisor’s account with those of current and former members.
 
-Give people room to decline a question, and keep private accounts confidential. If several people describe the same problem with supervision, treatment or credit, take it seriously. Seek independent advice before committing, especially when a prospective advisor’s explanation conflicts with the accounts of current or former members. [[2]](#ref-advisor-kamens2014mentor).
+Give people room to decline a question, and keep private accounts confidential. One concerning account is enough to seek support or prefer another option; it does not need to become a proven pattern first. Further accounts may clarify what is happening, but consider what each person can know and what might limit candor. Alumni may still depend on the advisor for credit, references or access. Seek independent advice where useful and safe, especially when the advisor’s explanation conflicts with a member’s account. [[2]](#ref-advisor-kamens2014mentor).
+
+When the concern is concrete harmful conduct, consider the dependencies that shape the next step: funding, degree decisions, residence, authorship, references and access to work. Do not make confrontation, formal reporting, disclosure or immediate exit a condition of receiving support. Before using a channel, find out its remit and what confidentiality it can actually offer. Leaving a group does not necessarily end these dependencies [[4]](#ref-advisor-ayres2022); [[5]](#ref-advisor-bennett2018).
+
+Different problems can need different responses. Absence may call for realistic contact arrangements or another available mentor; delayed required sign-off may call for a deadline and an alternative authorized route. Assess unrelated tasks against workload and training goals. Restricted outside advice or weak advocacy may call for complementary independent mentors; appropriation or coercion may call for safe institutional or change-of-environment options [[6]](#ref-advisor-chopra2016). These are possibilities, not diagnoses or an escalation sequence: safety, readiness and continuing dependencies take precedence over prescriptions to confront or leave.
 
 <a id="advisor-evidence-example"></a>**Example: compare a laboratory through evidence**
 
@@ -122,13 +126,15 @@ For a PhD, check whether the programme provides alternatives if the initial proj
 
 Resolve the questions that could change your choice before accepting. Record the agreed project, supervision and funding arrangements so you and the advisor can revisit them when work begins.
 
+Distinguish implemented support from a written philosophy or a promise. Who has capacity to teach the method, read drafts or help when the advisor is absent? How can the arrangement change as you develop? Boundaries and individual coping do not replace an institution’s responsibility for mentoring, inclusion and accountability. Ask which alternative support routes actually work; a policy alone does not guarantee protection or a particular remedy [[4]](#ref-advisor-ayres2022); [[7]](#ref-advisor-raffington2026).
+
 <a id="advisor-checklist"></a>**Before choosing an advisor or environment**
 
 - I know what training and opportunities I need from this PhD or postdoc.
 
 - I have assessed research fit, supervision, environment, resources and trainee trajectories separately.
 
-- I have asked several people for concrete examples and compared their accounts with direct observation where possible.
+- I have used feasible information channels and considered what each person can know; I have not required corroboration before taking a concern seriously.
 
 - I know which unanswered question would change my decision.
 
@@ -143,3 +149,11 @@ Resolve the questions that could change your choice before accepting. Record the
 2. <a id="ref-advisor-kamens2014mentor"></a>[Kamens, J. (2014, January 16). **Choosing a Good Mentor for Scientists.** *Addgene*.](https://blog.addgene.org/choosing-a-good-mentor-for-scientists)
 
 3. <a id="ref-advisor-sabbagh2021postdoc"></a>[sabbagh, u. (2021, November 5). **How to find, apply for, and choose a postdoc.**](https://ubadah.sy/thoughts/guide-to-postdoc)
+
+4. <a id="ref-advisor-ayres2022"></a>[Ayres, Z. J. (2022). **Managing your Mental Health during your PhD: A Survival Guide.** Springer.](https://link.springer.com/book/10.1007/978-3-031-14194-2)
+
+5. <a id="ref-advisor-bennett2018"></a>[Bennett, L. M., Gadlin, H., & Marchand, C. (2018). **Collaboration and Team Science Field Guide** (2nd ed.). National Cancer Institute, National Institutes of Health.](https://www.govinfo.gov/content/pkg/GOVPUB-HE20_3150-PURL-gpo114532/pdf/GOVPUB-HE20_3150-PURL-gpo114532.pdf)
+
+6. <a id="ref-advisor-chopra2016"></a>[Chopra, V., Edelson, D. P., & Saint, S. (2016). **Mentorship malpractice.** *JAMA*, 315(14), 1453–1454.](https://doi.org/10.1001/jama.2015.18884)
+
+7. <a id="ref-advisor-raffington2026"></a>[Raffington, L. (2026). **Academia is just a job.** *Nature Human Behaviour*, 10(1), 3.](https://doi.org/10.1038/s41562-025-02376-2)

@@ -15,7 +15,7 @@ Select fields for the requested task. These are blank templates, not completed e
 | Why this approach? | |
 | What was found? | |
 | Author interpretation | |
-| What should happen next? | |
+| What should happen next, if needed? | Distinguish author proposal from reader proposal |
 | Limitations or alternatives | |
 | Related sources | |
 

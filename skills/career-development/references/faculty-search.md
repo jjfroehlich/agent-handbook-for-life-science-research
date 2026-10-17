@@ -27,6 +27,28 @@ Help the user present a coherent future research program and evaluate fit with t
 
 ## Variants and Edge Cases
 
+### Readiness and the package
+
+Use the actual call, appointment type and institutional needs. No journal, paper count, award, age, application volume or historical search season is a universal gate. Assess real contributions and a sufficiently developed program rather than treating duration of a postdoc or absence of one award as disqualification. A teaching-focused appointment may require substantial teaching evidence and feasible undergraduate research; a research-institute model cannot stand in for it.
+
+Connect teaching, mentoring or inclusion statements to actual learners, methods, experience and reflection, then label feasible future contributions as plans. Do not invent a course, mentoring outcome or institutional resource to complete the statement. Advice from successful applicants is contextual, not evidence that their particular format caused an offer.
+
+### Talks and reciprocal visits
+
+Prepare for the actual audience and format: a job talk explains real questions, evidence, controls and inference; a chalk talk makes future aims, alternatives and resource dependencies discussable. Rehearse with someone outside the specialty where useful, test files and scientific figure legibility, and prepare for interruptions. Clarify questions and admit unknowns rather than invent completed experiments. Detailed communication design belongs in the communication lens; this reference sets the hiring decision and evidence it must support.
+
+Use meetings with trainees, recent hires, collaborators, facility leads and decision makers to learn what support exists over time. Ask about infrastructure, leadership, evaluation/tenure authority and next steps, and request relevant access arrangements or meetings. A comfortable dinner is not proof of support. Answer, redirect or decline personal questions according to preference and risk; there is no duty to disclose private plans to show collegiality.
+
+### Make an offer usable
+
+Cost the actual first projects before negotiating priority terms. Check personnel salaries and benefits, equipment and space preparation, core capacity and user fees, operating costs, purchasing authority, fund release/expiry/restrictions, salary period and grant-funded share. A nine-month and twelve-month amount cannot be compared as if they cover the same period. Add teaching/service timing, partner needs where voluntarily relevant, and renewal/promotion responsibilities. Distinguish an attractive headline total from funds and access actually usable when needed.
+
+Seek a written offer and clarify who may authorize each term. Bundle essential requests with their program rationale and feasible alternatives, using only real other offers. Track material revisions through final authorized approval; a friendly assurance, a candidate's signature or an intermediate letter need not settle every appointment condition.
+
+### Accepting and starting
+
+Before accepting, compare actual faculty work—science, grants, teaching, supervision and service—with priorities, living costs and constraints. Autonomy and building a team can be real attractions without making faculty work the default successful outcome. Once accepted, plan approvals, facilities/deliveries, staffing, teaching preparation, award deadlines, housing and prior-lab handover against actual lead times. Confirm data/material/manuscript/account permissions and contact continuity. Acceptance alone neither starts the laboratory nor transfers its resources.
+
 - For research-intensive searches, prioritize research vision, funding trajectory, independence, and technical fit.
 - For teaching-intensive searches, make teaching evidence concrete and connect it to the institution's students and curriculum.
 - For interdisciplinary searches, explain which department or unit is the real home for evaluation and support.

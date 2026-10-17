@@ -91,6 +91,10 @@ A non-significant result alone does not establish that an effect is absent. Chec
 
 Distinguish an association, the effect of an intervention and evidence for its mechanism. Observational covariation can have several explanations. Manipulating a treatment strengthens some inferences, but the treatment may act through routes other than the proposed one. Ask which experiment distinguishes those routes before describing the mechanism as established [[2]](#ref-paper-reading-makin2019).
 
+For an association, inspect the observations and relevant groups. An overall relationship can differ from relationships within groups because the comparisons ask different questions. A few influential observations may warrant checking measurement quality and sensitivity, but genuine extremes should not be discarded because they change significance. A robust or rank-based method is not automatically the right replacement: the quantity being estimated and the method’s assumptions still matter [[2]](#ref-paper-reading-makin2019).
+
+Also check how the reported comparison was selected. Choosing promising features and testing them on the same evidence can bias an inference when selection and testing are dependent. Distinguish analyses planned before observing the result from exploratory analyses, and inspect how the relevant set of comparisons was handled. The article may leave this history unclear; name that uncertainty rather than assuming misconduct or inventing an analysis that was not reported [[2]](#ref-paper-reading-makin2019).
+
 Judge a descriptive study by the description it supports. An atlas need not identify a mechanism to be useful, but its coverage depends on which specimens, conditions and measurements it includes. Ask whether the sampling supports the claimed population and whether the method could miss the feature being described. A missing mechanism and an inadequate measurement are different limitations. [[1]](#ref-paper-reading-carey2020reading).
 
 Apply the same scrutiny to findings you agree with and those you doubt. Would you ask for the same control if the result supported your expectations? Distinguish a missing explanation of a method from evidence that the method was used incorrectly. Likewise, a study confined to one cell model may answer its stated question while leaving open whether the finding applies elsewhere [[1]](#ref-paper-reading-carey2020reading).
@@ -99,7 +103,7 @@ Apply the same scrutiny to findings you agree with and those you doubt. Would yo
 
 ## Taking useful notes
 
-Close the paper and explain the question, main evidence and conclusion in a few sentences, including any important limits. Then reopen it to check your account and add the relevant figure, table or method locations. If you cannot explain a step, reread it or discuss it with someone who understands the method [[1]](#ref-paper-reading-carey2020reading).
+One useful check is to close the paper and explain the question, main evidence and conclusion in a few sentences, including important limits. Reopen it to check your account and add the relevant figure, table or method locations. If you cannot explain a consequential step, reread that part or discuss it with someone who understands the method [[1]](#ref-paper-reading-carey2020reading). A focused question may need only a short evidence note; repeated passes through the whole paper are not always necessary.
 
 Keep the paper’s citation or stable link with the note. Include the experimental system, treatment and measurement time when these define the finding you plan to use. In the reporter example, the note needs to say that the measurement is whole-well fluorescence in cultured cells at six hours. Separate what the authors conclude from what you have checked yourself.
 

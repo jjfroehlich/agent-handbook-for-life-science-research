@@ -46,7 +46,7 @@ Use these patterns for visit days, rotations, postdoc interviews, and mentor-com
 
 **Completed question selection.** Ask the advisor: “Who would teach me the assay, and how would we review progress in the first months?” Ask the student: “When you got stuck on a method, what help was available and how did you obtain feedback?” These questions test Sam's particular need rather than repeat every item in the bank. Record the answers as reported evidence; the visit has not yet established support, and the absence of alumni alone does not disqualify the group.
 
-The case illustrates question preparation, not completed conversations or an acceptance decision. The larger bank below remains optional.
+The case illustrates question preparation, not completed conversations or an acceptance decision. The larger bank above remains optional. Ask only the questions that could change Sam's choice and route them to someone with actual knowledge; an alumnus may still depend on the advisor for credit or references.
 
 Group questions by audience:
 
@@ -54,4 +54,4 @@ Group questions by audience:
 |---|---|---|---|
 | Advisor | Project ownership, feedback, funding | Process and commitments | Promises stay vague |
 | Current trainees | Normal week, stress, conflict | Lived behavior | Only official story heard |
-| Alumni | Would choose again, career support | Outcomes after dependency | Current-trainee bias remains |
+| Alumni | Would choose again, career support | Outcomes after leaving; remaining dependencies | Current-trainee bias remains |

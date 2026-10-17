@@ -4,7 +4,7 @@ description: "Handle journal submissions, peer reviews, editorial decisions, and
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Publishing And Peer Review
@@ -34,7 +34,7 @@ Help the user make publication-process decisions and produce bounded artifacts f
 2. Identify the next process action: submit, revise, appeal, transfer, decline, review, respond, or ask the editor a focused question.
 3. Ask only for missing facts that change the next action: decision letter, target journal, review invitation, manuscript type, deadline, or policy constraint.
 4. Route to the narrow playbook: journal submission, editorial process, peer reviewing, reviewer ethics, or response to reviewers.
-5. Separate process guidance from manuscript-quality feedback.
+5. Separate process guidance from manuscript-quality feedback. Reviewers advise; editors decide. Scientific necessity follows the retained claim, while journal fit and actual procedural requirements are separate judgments.
 6. Produce the requested artifact or decision at the needed scale. Use a response map or checklist when it helps track a substantial package; a short process question may need only a direct answer.
 7. Check ethics, confidentiality, reviewer overreach, or unsupported claims when relevant to the requested publication action; a local editor inquiry does not require a full submission or review audit.
 
@@ -66,7 +66,8 @@ Apply only the checks relevant to the requested scope and artifact. Inspect supp
 - Advice is bounded to the current journal, manuscript, review invitation, or decision letter.
 - Major issues are separated from minor polish.
 - Any requested experiment or analysis is tied to a claim that actually needs it.
-- Confidential, ethical, or editor-only material is not put into author-facing text.
+- Sensitive process concerns use the appropriate confidential channel; substantive scientific criticism remains visible to authors and consistent with the recommendation.
+- Submission, public release and reuse have the actual coauthor authorization and permissions; one person's signoff is not authority for everyone.
 - The output tells the user what to send, revise, decline, or ask next.
 
 ## Common pitfalls

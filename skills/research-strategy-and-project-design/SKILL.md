@@ -4,7 +4,7 @@ description: "Choose scientific questions, hypotheses, experimental programs, or
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Research Strategy And Project Design
@@ -25,9 +25,9 @@ Keep fixed-project analysis and implementation outside this skill: dataset/featu
 
 1. Identify the scientific choice the user is making; use their existing evidence and constraints before asking for missing context.
 2. Compare the question's knowledge gain and personal interest with practical feasibility and the decision horizon. Give reasons; do not invent numerical scores.
-3. Distinguish idea generation from testing. Explore alternatives when needed, then identify predictions that can separate them; allow results to reshape the next question.
+3. Distinguish idea generation from testing without imposing a fixed order. Use background, observations or discussion to develop a question; allow results to reshape it and identify discriminating predictions when ready.
 4. Route to the narrowest playbook needed.
-5. Name the uncertainty that changes the next commitment. Prefer an early inexpensive check when it is credible; acknowledge when the informative test requires a larger commitment.
+5. Name the uncertainty that changes the next commitment. Check a necessary premise early when a credible inexpensive check exists; otherwise compare the real commitment and alternatives.
 6. Recommend an action proportionate to the evidence. Distinguish failed measurements and imprecise results from evidence against a biological prediction. A pause can leave the question unresolved.
 
 ## Output formats
@@ -56,7 +56,7 @@ Apply only the checks relevant to the requested decision. Inspect available cont
 
 - Do not treat exciting, novel, or difficult ideas as automatically worth pursuing.
 - Do not let sunk costs, identity, or external encouragement replace current evidence.
-- Do not use exploratory observations as confirmatory evidence without a follow-up test.
+- Preserve exploratory origins and account for selection before treating a finding as confirmation; a later test cannot retroactively make the discovery prespecified.
 - Do not treat a failed control, unavailable resource or non-significant comparison as proof that the biological idea is false.
 
 ## Quality bar

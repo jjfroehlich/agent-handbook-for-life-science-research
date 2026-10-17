@@ -9,6 +9,7 @@ Use for an ordinary work concern before considering a formal plan. Select releva
 - What evidence shows the person understood it?
 - How long has the pattern existed?
 - What has already been tried?
+- Do both people agree what needs improvement? Disagreement identifies a question to examine, not which person is wrong.
 
 ## Examine Work Conditions
 
@@ -37,3 +38,5 @@ Use for an ordinary work concern before considering a formal plan. Select releva
 - Is the person overloaded by invisible work, funding dependence, or personal sacrifice?
 - Are micromanagement, competition, or unclear expectations shaping the behavior?
 - Would a system reset, workload renegotiation, or supervision change come before individual blame?
+
+Serious safety, integrity, coercion or career-risk harm can require support after one incident; repetition and a completed checklist are not prerequisites. A suggested conversation or PIP is not an adopted process, proven remedy or misconduct finding.

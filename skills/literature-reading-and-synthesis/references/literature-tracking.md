@@ -24,17 +24,19 @@ Build a sustainable literature-tracking system. The goal is not maximum coverage
    - informal channels only as discovery leads to verify
 3. Estimate weekly volume before adding a source.
 4. Define triage actions: ignore, save, skim, deep read, follow citation trail, or add to synthesis.
-5. Scan weekly and keep a curated backlog.
+5. Choose a scanning interval that fits the decision deadline, publication pace and available time; weekly is one option. Keep a curated backlog.
 6. Tune noisy, empty, or redundant feeds.
 7. Expand only after the current system is stable.
 
 ## Decision rules
 
-- If the stream is too large to scan weekly, narrow queries, reduce feeds, or split topics into more specific feeds.
+- If the stream exceeds the available scanning time, narrow queries, reduce redundant feeds, or split topics into more specific feeds.
 - If most alerts are irrelevant, fix query design before adding sources.
 - If important papers are missing, add a complementary source role rather than many more feeds.
 - If the user is busy, preserve a focused route for imminent decisions and defer optional reading. Label saved items with their purpose and actual reading status; saving is not appraisal.
 - If saved papers are never revisited, add a backlog review step or reduce intake volume.
+- Choose delivery by actual behavior: feeds may support saving individual items, whereas well-sectioned email can be easier to scan. Immediate article alerts reduce delay but may increase interruptions; issue bundles reduce fragmentation but arrive later. Check current features before giving platform-specific steps. No one channel is universally best.
+- Balance broad and specialist discovery without treating prestige, journal size or language as a proxy for scientific validity. Query exclusions can hide relevant work; retain or test a route that could reveal those omissions.
 
 ## Variants and edge cases
 
@@ -55,7 +57,7 @@ Build a sustainable literature-tracking system. The goal is not maximum coverage
 
 ## Diagnostic questions
 
-- Can the user scan the stream weekly?
+- Can the user scan the stream at the chosen interval?
 - Does every source have a purpose?
 - Is the expected volume realistic?
 - Are irrelevant results mostly a query problem or a source problem?
@@ -83,7 +85,7 @@ Build a sustainable literature-tracking system. The goal is not maximum coverage
 
 - A starter stream can combine a few specific topic feeds with a small set of high-value venues, then remain unchanged until weekly scanning is stable.
 - If a stream produces many irrelevant papers, narrow it before adding more sources.
-- If the user repeatedly saves papers and never reads them, the system is too large or the backlog action is undefined.
+- If saved papers are not revisited, check capacity, changing priorities and whether each item has a purpose before expanding the stream. Saving for a later decision can be reasonable; no fixed waiting period is required.
 
 ## When not to apply this
 

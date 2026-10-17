@@ -53,6 +53,10 @@ Compare actual posts within those categories. Research roles differ in freedom t
 
 Scientific training develops skills in framing questions, evaluating evidence, learning unfamiliar subjects and explaining results. Identify which of these the role uses, then assess what else you need to learn. A supervised project or placement may provide relevant experience; a course may be sufficient for a specific knowledge gap.
 
+Distinguish the work behind similar titles. Developing a production process differs from discovery research [[3]](#ref-career-options-kling2004manufacturing). Customer troubleshooting and demonstrations differ from selling a product or arranging a licensing partnership [[4]](#ref-career-options-jensen2010applications); [[5]](#ref-career-options-jensen2009business). Regulatory strategy and submission coordination also carry different responsibilities [[6]](#ref-career-options-jensen2009regulatory). Ask what this particular post produces, who relies on it, and what training the employer provides. Neither a doctorate nor a short credential establishes readiness for all of these jobs.
+
+Compare preparation with direct entry. Another postdoc, course or internship is useful only if it supplies something the intended role needs at an acceptable cost. A placement may be inaccessible because of income, caring or location constraints. Choose a finite inquiry or learning step rather than accumulating credentials while waiting to feel certain about a lifelong career identity [[7]](#ref-career-options-goslingnoordam2022thesis).
+
 <a id="career-options-example"></a>**Example: comparing two roles**
 
 Lena enjoys troubleshooting assays and explaining results to collaborators. She wants to remain in one region and prefers working with others to spending long periods writing alone.
@@ -67,7 +71,7 @@ Lena now gives locally based scientific project roles priority. She will accept 
 
 ## Learn from people doing the work
 
-Speak with people who hold the role in more than one organization and at different career stages. Ask them to describe a recent week and a difficult decision. Which responsibilities surprised them when they started? Find out how they learned the role and what experience they would look for in a new colleague. Ask how their work is assessed.
+Where access permits, speak with people who hold the role in different organizations or career stages. A peer or near-peer can be as useful as a senior contact for learning an entry route. Ask them to describe a recent week and a difficult decision. Which responsibilities surprised them when they started? Find out how they learned the role and what experience they would look for in a new colleague. Ask how their work is assessed. Quiet participation and a few relevant conversations can be enough; there is no required contact count or event budget.
 
 Ask similar questions across conversations. If people in the same role describe different weeks or constraints, ask what comes from the role and what comes from their organization or manager.
 
@@ -83,6 +87,8 @@ Keep a brief record of relevant work you have done. Describe what you did, who u
 
 Reconsider the options after the conversations or trials. Which work did you want more of after trying it? Did a working condition rule out an otherwise attractive role? Use what you learned to narrow the search or choose the experience you need next.
 
+Treat career statistics as context, not a forecast for one person. A selected group of successful applicants, a historical workforce count and the frequency of advice in a survey describe different things. Keep the date, population and denominator with a number you need; none by itself establishes your hiring probability or proves that a recommended tactic works. For example, free-text advice in a survey identifies the respondents’ concerns, rather than testing whether following that advice causes success [[8]](#ref-career-options-afonja2021).
+
 <a id="career-options-references"></a>
 
 ## References
@@ -90,3 +96,15 @@ Reconsider the options after the conversations or trials. Which work did you wan
 1. <a id="ref-career-options-severjanssen2017"></a>[Sever, R., & Janssen, K. (2017). **Career Options for Scientists.** *Cold Spring Harbor Perspectives in Biology*, 9(9), a032755.](https://doi.org/10.1101/cshperspect.a032755)
 
 2. <a id="ref-career-options-pain2009"></a>[Pain, E. (2009, May 22). **Academia or Industry? Finding the Right Fit.** *Science Careers*.](https://doi.org/10.1126/science.caredit.a0900066)
+
+3. <a id="ref-career-options-kling2004manufacturing"></a>Kling, J. (2004, April 23). **Careers in Biotech Manufacturing.** *Science Careers*.
+
+4. <a id="ref-career-options-jensen2010applications"></a>Jensen, D. G. (2010, February 19). **The Applications Scientist Career Track.** *Science Careers*.
+
+5. <a id="ref-career-options-jensen2009business"></a>Jensen, D. G. (2009, April 17). **Tooling Up: The Business Development Career Track.** *Science Careers*.
+
+6. <a id="ref-career-options-jensen2009regulatory"></a>Jensen, D. G. (2009, September 18). **Tooling Up: The Regulatory Affairs Career Track.** *Science Careers*.
+
+7. <a id="ref-career-options-goslingnoordam2022thesis"></a>[Gosling, P., & Noordam, B. (2022). **Mastering Your PhD: Survival and Success in the Doctoral Years and Beyond** (3rd ed.). Springer.](https://doi.org/10.1007/978-3-031-11417-5)
+
+8. <a id="ref-career-options-afonja2021"></a>[Afonja, S., Salmon, D. G., Quailey, S. I., & Lambert, W. M. (2021). **Postdocs’ advice on pursuing a research career in academia: A qualitative analysis of free-text survey responses.** *PLOS ONE*, 16(5), e0250662.](https://doi.org/10.1371/journal.pone.0250662)

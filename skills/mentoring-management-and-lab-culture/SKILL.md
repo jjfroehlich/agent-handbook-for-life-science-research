@@ -1,10 +1,10 @@
 ---
 name: mentoring-management-and-lab-culture
-description: "Improve research-group mentoring, lab policies, feedback, and management using mentoring compacts, handbook sections, onboarding plans, feedback messages, or accounts of group practices. Exclude personal job choices and clinical or legal determinations."
+description: "Improve research-group mentoring, shared policies, collaboration and credit arrangements, feedback, and management using compacts, handbook sections, onboarding plans, feedback messages, or accounts of group practices. Exclude personal job choices and clinical or legal determinations."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Mentoring Management And Lab Culture
@@ -29,7 +29,7 @@ Help research leaders, mentors, and lab members turn values into explicit routin
 ## Core workflow
 
 1. Classify the problem: mentoring, lab manual, lab leadership, healthy culture, IDP planning, or conflict and feedback.
-2. For conflict or management diagnosis, inspect roles, power asymmetries, expectations, and constraints. For a local policy or message edit, use the supplied context and resolve only issues that affect that edit.
+2. For conflict or management diagnosis, inspect roles, dependencies, expectations and actual authority. A supervisor's influence over funding or references does not establish a right to decide everything. For a local policy or message edit, use the supplied context and resolve only issues that affect that edit.
 3. When diagnosis is needed, consider policies, roles, resources, incentives, and power dynamics before attributing individual fault.
 4. Choose the smallest concrete output: a script, checklist, handbook section, meeting agenda, role rubric, support plan, or escalation map.
 5. For a work agreement or change plan, identify responsibilities, available support and a relevant review point. Include exceptions or support routes where the work or risk requires them. A narrow message edit may need only revised wording.
@@ -51,7 +51,7 @@ Select only the format that fits the requested deliverable; these are patterns, 
 
 - Open `references/mentoring.md` for mentor-mentee expectations, adaptive mentoring, hidden curriculum, co-mentoring, and malpractice risks.
 - Open `references/lab-manuals.md` for handbooks, onboarding policies, AI guidelines, safety, privacy, authorship, and escalation sections.
-- Open `references/lab-leadership.md` for PI systems, hiring, onboarding, capacity planning, state-of-lab reviews, evaluation, and collaboration design.
+- Open `references/lab-leadership.md` for PI systems, hiring, onboarding, capacity, group review, evaluation, collaboration and the separate contribution, authorship and order decisions.
 - Open `references/healthy-lab-culture.md` for belonging, inclusive participation, work-life boundaries, mental-health-sensitive support, credit, and status risks.
 - Open `references/individual-development-plans.md` for IDPs, yearly planning, goal translation, feedback, and career-development routines.
 - Open `references/conflict-and-feedback.md` for unclear expectations, structural conflict diagnosis, performance concerns, criticism norms, failed experiments, and support scripts.
@@ -74,9 +74,10 @@ Apply only the checks relevant to the requested scope and artifact. Inspect supp
 - Treating mentoring as a single PI relationship when co-mentoring or institutional support is needed.
 - Treating long hours, prestige, or visibility as evidence of contribution.
 - Requiring direct confrontation, joint mediation, personal disclosure or an entire management plan for every request.
+- Equating a contribution record with authorship eligibility, a supervised run with independent readiness, or a requested resource with confirmed support.
 
 ## Quality bar
 
 - Advice must be power-aware, operational, and specific to research groups.
 - Mental-health content must remain non-clinical and route to qualified support.
-- Low-confidence ideas must appear only as weak support, not standalone rules.
+- Preserve consequential conditions in the advice itself: local preferences, conceptual tools and survey priorities do not become universal requirements or proven interventions.

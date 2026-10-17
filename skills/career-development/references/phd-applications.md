@@ -10,22 +10,28 @@ Help the user evaluate graduate training as a long, high-dependency environment.
 
 1. Identify the user's field, stage, target programs, constraints, and whether the task is application strategy or offer comparison.
 2. For applications, align the statement and CV with research fit, preparation, questions the user can pursue, and evidence of readiness.
-3. For program choice, compare advisor access, rotations, funding guarantees, teaching load, cohort support, qualifying exams, publication expectations, and career outcomes.
+3. For program choice, compare advisor access, rotations, applicant-specific funding duration/restrictions, total costs and insurance, teaching/qualifying obligations, cohort support and fallback arrangements. A lab taking students, a funded project and selection/funding of this applicant are three different facts.
 4. Prepare questions for prospective advisors, current students, program administrators, and alumni.
 5. Flag structural risks: unclear funding, no fallback advisor, weak student community, excessive service load, or milestones that do not match the user's needs.
 6. If the user is considering leaving or changing a PhD path, separate program-structure evidence from acute distress, durable mismatch, and practical constraints.
-7. End with a ranked decision matrix, a list of missing evidence, or a support-and-information plan before any irreversible step.
+7. Return the requested application edit or comparison. For a consequential unresolved choice, identify the feasible information/support step without requiring a ranked matrix or full audit.
 
 ## Decision rules
 
 - If a program depends on one advisor only, check fallback advisors and department support before accepting.
 - If funding is unclear after year one, get specifics on stipend duration, grant dependency, teaching requirements, and emergency support.
-- If current students independently name the same concern, treat it as evidence, not gossip.
+- A single concerning account merits attention or support; further accounts may clarify a pattern but are not a prerequisite.
 - If the user's interests are still broad, value rotations, methodological breadth, and a program structure that preserves options.
 - If the user has hard geographic, health, family, financial, or visa constraints, include those constraints in the decision rather than treating them as secondary.
 - If the user is considering leaving, list reversible and irreversible actions, map financial and administrative constraints, and identify neutral support before recommending a move.
 
 ## Variants and Edge Cases
+
+Use directories, scholarship databases and contacts as discovery leads, then confirm eligibility, requested evidence, deadlines and award conditions with the responsible institution/funder. Neither a listed scholarship nor an encouraging supervisor email is an award. Ask about permitted outside work/internships and what happens if funding, projects, advisors or location change, including co-advising and leave arrangements.
+
+Training should build progressively appropriate agency. Preparation can include purposeful courses or adviser-supplied starter work; the student need not arrive with a lifetime thesis topic or prove psychological fitness to deserve support. Compare the actual guidance offered with the person's learning needs rather than enforcing a single graduate-training blueprint.
+
+For staying, pausing, changing groups or leaving, address an immediate support need separately from a nonurgent comparison. Consider recurring problems, solutions already tried where safe, present goals and genuinely available alternatives. Check income, residence, healthcare, references and dependents before assuming a move or leave is feasible. Do not make professional help or neutral advice a condition that delays a protective choice. Reconsidering an eventual PI career is a separate decision: completing a doctorate may still serve another goal.
 
 - For statement reviews, focus on fit, evidence of preparation, research questions, and advisor/program specificity.
 - For visit days, design different question sets for faculty, current students, administrators, and alumni.

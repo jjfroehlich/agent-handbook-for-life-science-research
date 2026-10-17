@@ -57,7 +57,8 @@ Choose fields that help the requested decision. These templates are drafting aid
 ## Failure Triage Template
 
 - What happened?
-- Which type of failure is this: execution, design, measurement, hypothesis, valid negative result, inconclusive evidence, expectation mismatch, or useful boundary condition?
+- Did execution or controls fail, does the measurement leave explanations unresolved, or is this credible evidence contrary to the prediction? More than one may apply.
+- What do the assay capability and tested conditions permit us to conclude? Controlled nondetection is not universal absence.
 - What was learned?
 - What remains valuable?
 - Next decision: repeat, redesign, pivot, publish, archive, or stop.
@@ -67,7 +68,7 @@ Choose fields that help the requested decision. These templates are drafting aid
 ### Collaboration Agreement
 
 - Shared question and success criteria.
-- Integration level and governance depth.
+- Coordination needs, risks and actual agreement or permission requirements.
 - Roles, decision rights, and handoff points.
 - Data/code sharing, storage, and access.
 - Authorship, contribution tracking, and public communication.
@@ -96,6 +97,8 @@ Choose fields that help the requested decision. These templates are drafting aid
 |---|---|---|---|---|
 
 ### Supervision Quality Pulse
+
+Use as conversation prompts, not a validated scale or a summed safe/unsafe verdict. A serious concern remains serious regardless of other positive answers.
 
 - Meetings are useful:
 - Feedback is timely:

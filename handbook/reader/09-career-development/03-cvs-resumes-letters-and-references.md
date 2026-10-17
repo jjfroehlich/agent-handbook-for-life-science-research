@@ -50,6 +50,10 @@ Keep one private master record of roles, dates, contributions, outputs and colla
 
 Keep factual labels precise: submitted, under review, preprint and published do not mean the same thing. A stable PDF is sensible when the call permits it and layout matters; check the submitted file after export. [[4]](#ref-applications-kelsky2016).
 
+Apply the same care to accepted versus cancelled presentations, pending versus issued patents, award periods, language proficiency and actual teaching responsibility. Training undertaken is not a completed credential. Order and length vary with country, field and stage: a research-industry hybrid may need both technical detail and selected contributions. Follow the actual request rather than combining incompatible CV conventions into one template.
+
+A live CV can ease maintenance, but deliberately set its viewing, commenting and editing permissions and inspect exposed personal information [[8]](#ref-applications-ackerman2018cv). A preview or shortened link does not establish secure access. When an application needs a fixed edition, submit that edition rather than a document whose contents may change afterward.
+
 <a id="applications-cv-resume"></a>
 
 ## Organize the CV or resume
@@ -58,7 +62,7 @@ Decide the section order before polishing individual entries. In an academic CV,
 
 In a faculty application, dates, project names and descriptions of your contribution must agree across the CV, letter and statements. The documents develop different aspects of the application: the CV records the work, the letter explains how your experience fits the position, and the research statement develops the proposed program. [[7]](#ref-applications-snapp2023).
 
-The examples follow Mira Okafor, a fictional postdoc applying for a research program-manager role involving collaborations between genomic researchers and clinical teams.
+The examples follow Mira Okafor, a fictional postdoc applying for a research program-manager role involving collaborations between genomic researchers and clinical teams. The supplied case facts include her coordination of a two-laboratory perturbation screen, development of its shared analysis workflow, training of two junior researchers, and presentation of findings and unresolved questions at a clinical/computational review, where she recorded the checks assigned to each laboratory. These facts support both versions below; they must not be inferred from a vague research title or copied into another applicant’s record.
 
 Compare the outline she might use for a research post with the one for this program-manager role:
 
@@ -102,7 +106,7 @@ Use short entries, visible dates and enough white space to separate sections. Qu
 **Postdoctoral researcher, Systems Genomics Group, 2024–present**
  Cross-laboratory perturbation screen
 
-- Developed and documented the reproducible analysis workflow.
+- Developed and documented the analysis workflow.
 
 - Coordinated a results review with clinical and computational collaborators.
 
@@ -125,6 +129,8 @@ The resume entry gives more space to coordination and shared analysis because th
 ## Writing a cover letter
 
 When a letter is requested, name the role, explain your interest in the organization and develop a few examples of relevant experience. Use each paragraph to address a requirement, with enough context to explain your contribution. Leave the full chronology to the CV or resume. [[2]](#ref-applications-gsoletter).
+
+Useful overlap is allowed: each document should make sense on its own. The letter should interpret the evidence rather than merely convert the CV into prose [[3]](#ref-applications-harvardocs2016). A clear conventional opening can work, and the functions need not occupy a fixed number of paragraphs. For an unfamiliar career change, explain the relevant connection without implying that the destination profession is easier [[2]](#ref-applications-gsoletter). Any explanation of a gap, health or family circumstance should be the applicant’s bounded choice, subject to actual applicable requirements.
 
 For this example, the advertised role includes coordinating joint projects and organizing research reviews.
 
@@ -154,6 +160,8 @@ Choose referees who know your work well enough to describe your contribution. As
 
 If a referee asks for a draft or notes, provide factual material: the context, your role, the result and relevant examples from your work together. The referee must decide what to endorse and write the final assessment. Check submission confirmations and send a polite reminder when a deadline approaches.
 
+A candidate’s positive factual scaffold must not choose the writer’s comparative rank, endorsement strength or honest qualifications. Keep facts consistent if several writers request input, while distinguishing what each actually observed [[7]](#ref-applications-snapp2023). If the current supervisor is unsafe or unavailable, consider another informed writer and the application’s actual requirements; do not invent an endorsement or demand private disclosure to explain the substitution.
+
 Before submitting, compare the documents with the call. Check dates, role titles and publication status across the packet; ask a reader to identify your strongest qualifications from the first page; and inspect the exported files for layout problems.
 
 <a id="applications-references-list"></a>
@@ -173,3 +181,5 @@ Before submitting, compare the documents with the call. Check dates, role titles
 6. <a id="ref-applications-nsecvresume"></a>[Stewart, R., & White, P. (n.d.). **CV/Resume.** *NSE Communication Lab, MIT Communication Lab*.](https://mitcommlab.mit.edu/nse/commkit/cvresume/)
 
 7. <a id="ref-applications-snapp2023"></a>[Snapp, E. L. (2023, July). **Strategies for obtaining a faculty position in the biomedical sciences: Views from both sides of the job search process** (Version 3.4).](https://blog.addgene.org/hubfs/Getting%20a%20Faculty%20Position%203.4.pdf)
+
+8. <a id="ref-applications-ackerman2018cv"></a>[Ackerman, J. (2018, September 19). **Tricks for maintaining your CV/resume with Google Docs: easy to edit, immediately published.** *Carpenter-Singh Lab*.](https://carpenter-singh-lab.broadinstitute.org/blog/tricks-for-maintaining-your-cv-resume-with-google-docs-easy-to-edit-immediately-published)

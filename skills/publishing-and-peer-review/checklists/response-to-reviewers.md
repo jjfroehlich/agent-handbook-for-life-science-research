@@ -1,6 +1,6 @@
 # Response-To-Reviewers Checklist
 
-Use before sending a revised manuscript and response letter.
+Use for the actual requested revision or reply. Apply full-package checks only to a full package.
 
 ## Completeness
 
@@ -13,6 +13,7 @@ Use before sending a revised manuscript and response letter.
 
 - Each accepted change names the manuscript location.
 - New analyses and experiments are distinguished from wording changes.
+- Original versus revised text, completed versus proposed work and the version used for locations are explicit.
 - The response states what changed, not only that a change was made.
 - The opening summary names the major revision package.
 
@@ -35,5 +36,6 @@ Use before sending a revised manuscript and response letter.
 
 - Can the editor see the main changes in the first page?
 - Can each reviewer find the answer to their own comment?
+- Can each reviewer's section be assessed on its own without following another reviewer's reply?
 - Are unresolved constraints explicit?
 - Does the response letter and revised manuscript tell the same story?

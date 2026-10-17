@@ -44,7 +44,7 @@ Fixed facts: prior literature links immune aging to chronic inflammation but lea
 
 Before: `Many researchers have studied immune aging, but more work is needed.`
 
-After: `Although immune aging has been linked to chronic inflammation, it remains unclear which early transcriptional changes precede the loss of vaccine responsiveness in older adults.`
+After: `Although immune aging has been linked to chronic inflammation, it remains unclear which early transcriptional changes precede the loss of vaccine responsiveness.`
 
 Why it works: the rewrite replaces a generic gap with what is known, what remains unknown, and the consequence.
 
@@ -66,19 +66,21 @@ Fixed facts: panel A contains control and treated images; panel B quantifies mar
 
 Before: `Figure 3. Quantification of cells.`
 
-After: `Figure 3. Treatment increases marker-positive cells. (A) Representative images of control and treated samples. (B) Quantification of marker-positive cells across the indicated conditions.`
+After: `Figure 3. Treatment increases marker-positive cells. (A) Images of control and treated samples. (B) Quantification of marker-positive cells across the indicated conditions.`
 
 Why it works: the rewrite names the comparison and maps the panels.
 
+If the supplied facts identify only the comparison and panels, use a neutral title such as `Marker-positive cells in control and treated samples` rather than inventing an increase. Keep replication/statistics unresolved until supplied; a concise neutral caption need not gain an extra takeaway solely because it is for initial submission.
+
 ## Acknowledgement
 
-Fixed facts: the fictional person Sam advised on design and commented on a draft; permission to name them is established.
+Fixed facts: the fictional person Sam made substantial design contributions and substantive intellectual revisions; naming permission is established. Final approval and accountability are unconfirmed, and the applicable policy uses all four criteria.
 
 Before: `We thank Sam for helping with everything.`
 
-After: `We thank Sam for advice on experimental design and comments on an earlier manuscript draft.`
+Working contribution record: `Sam contributed to experimental design and substantive manuscript revision. Final approval and accountability remain to be discussed under the applicable policy.`
 
-Why it works: the rewrite names concrete support without implying authorship eligibility.
+Why it works: it does not settle acknowledgement before checking eligibility or inventing approval. Give Sam a real opportunity to meet the remaining criteria. If the changed facts establish only a permitted equipment loan and no other qualifying contributions, a specific acknowledgement can instead be appropriate.
 
 ## Sentence Base Clause
 
@@ -98,7 +100,7 @@ Fixed facts: an observed association comes from one cohort; no independent popul
 
 Before: `A limitation is that we only used one cohort, so the findings need more study.`
 
-After: `Because the analysis used one cohort, the results support the association in this sampling frame but do not establish whether the same pattern generalizes across populations.`
+After: `The association was observed in the studied cohort; whether the same pattern generalizes across populations remains unestablished.`
 
 Why it works: the rewrite turns a vague apology into a boundary on interpretation.
 
@@ -138,6 +140,8 @@ After: `Together, the three chapters show that early regulatory changes precede 
 
 Why it works: the rewrite synthesizes across chapters, states the contribution, and marks the evidence boundary.
 
+Changed condition: if the local format combines general discussion and conclusion, use this synthesis in that permitted ending rather than create an extra chapter. Further work is optional unless a present claim actually lacks essential support; an untested tissue extension does not erase the supported model-specific contribution.
+
 Pattern: `Result list -> thesis-level answer + contribution + boundary.`
 
 ## Contribution Statement
@@ -149,6 +153,8 @@ Before: `A.B. helped with the project and C.D. supervised everything.`
 After: `A.B. performed the image analysis and reviewed the manuscript. C.D. supervised the project and edited the manuscript.`
 
 Why it works: the rewrite documents concrete roles instead of vague status.
+
+These supplied activities do not by themselves establish all authorship criteria or author order. Do not append a review role to another contributor merely because the format contains one.
 
 Pattern: `Vague help/status -> concrete contribution verbs.`
 

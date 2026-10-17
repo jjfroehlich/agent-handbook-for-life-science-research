@@ -11,10 +11,10 @@ Help the user provide useful evidence without pretending to be the recommender. 
 ## Default workflow
 
 1. Identify the opportunity, level, deadline, review criteria, and recommender relationship.
-2. Ask what evidence the recommender personally observed and what the user can document.
+2. Confirm a willing writer with relevant knowledge, what they personally observed and what the user can document. Share accurate materials with practical notice and track the actual submission route/deadline.
 3. Build an evidence scaffold: relationship context, role, specific contributions, outputs, impact, and stage-appropriate qualities.
 4. Separate candidate-supplied facts from recommender-owned judgment.
-5. Remove unsupported superlatives, negatives, private jokes, and claims the recommender cannot verify.
+5. Remove unsupported superlatives, private jokes and unverifiable claims from the candidate's scaffold. Leave honest qualifications and endorsement strength to the recommender; a positive applicant draft is not a ban on the writer's truthful reservations.
 6. Offer a concise packet or scaffold rather than a finished letter in someone else's voice.
 
 ## Decision rules
@@ -22,7 +22,7 @@ Help the user provide useful evidence without pretending to be the recommender. 
 - If the user was asked to draft their own letter, provide structure and evidence, not a final endorsement.
 - If the draft lists techniques, revise toward distinctive contributions, role, impact, and judgment.
 - If the opportunity is high-stakes, include criteria and evidence that help the recommender calibrate level.
-- If multiple recommenders need input, provide a shared evidence packet and tailor relationship context for each person.
+- If multiple recommenders request input, keep a consistent factual packet and distinguish what each observed. Handle overlap transparently rather than manufacturing different praise or copying an independent voice; no single tactic guarantees that separate drafts will be used as intended.
 - If the user wants to include a weakness or caveat, leave that decision to the recommender.
 
 ## Variants and edge cases
@@ -38,10 +38,12 @@ Help the user provide useful evidence without pretending to be the recommender. 
 - Choosing endorsement strength, ranking, or comparative claims for the recommender.
 - Using unsupported superlatives without evidence.
 - Listing skills without explaining the contribution or impact.
-- Including negatives, apologies, or self-undermining caveats.
+- Dictating that a recommender must omit a truthful reservation or supply a comparative rank.
 - Sending identical narratives to multiple recommenders without context.
 
 ## Diagnostic questions
+
+When a current PI is unsafe or unavailable, consider other writers who actually know the work and any bounded context the applicant chooses to provide. Do not assume every application permits the same substitutes or promise control over informal reference checks. Supply factual reminders, not coached answers or concealed material facts. A recruiter's threat-of-reference-check tactic is not proof of a candidate's fault, an effective universal method or a duty to disclose private circumstances.
 
 - What decision will this letter help a committee make?
 - What did this recommender personally observe?

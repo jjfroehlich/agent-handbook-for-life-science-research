@@ -24,6 +24,12 @@ Translate PI responsibility into systems. Good lab leadership is not a personali
 - If evaluating contribution, assess rigor, role, usefulness, reproducibility, collaboration, and concrete output rather than prestige or visibility.
 - If collaborating, align goals, decision rights, protected effort, authorship, data/code ownership, and handoffs at the start.
 
+Choose what an assessment needs to establish before selecting indicators. A role-specific judgment can remain partial rather than forcing a total ranking. Citations can contribute limited information, and peer judgment can also be biased; rejecting either wholesale does not resolve the problem. A journal average cannot establish an individual paper's quality, and byline position or an equal-contribution mark may miss substantial computational work. Inspect the actual work and explain the basis of the judgment. Recognize software, data curation, maintenance and coordination as contributions needing support and informed evaluation; naming a tool or counting papers does not capture them all.
+
+For credible estimates, break near-term work into activities the actual assignee can understand and estimate. Ask what uninterrupted time, expertise, equipment and other commitments each activity needs. Leave uncertain later work less detailed and revisit it as the project develops. Activities, milestone events and hoped-for findings are different: completing a run does not guarantee a result. Schedule sequential and parallel tasks against each person's total load; two parallel branches can shorten elapsed time while overloading their shared operator. A simple table can suffice; software does not create capacity or turn a planned duration into an observation.
+
+When coordination is itself a constraint, identify who shapes requirements, who does or supports the work and who only follows progress. Choose the consultation or updates each needs. An observer's interest does not grant scientific decision authority or access to confidential information. Revise the list when the work changes. State the work's purpose, scope and assumptions so a failed premise can lead to redirection or stopping rather than defending sunk effort.
+
 ## Variants and edge cases
 
 - New PI: prioritize role definitions, meeting rhythms, purchasing and staffing constraints, mentoring expectations, and project triage.
@@ -83,9 +89,9 @@ Do not use this playbook for scientific project selection alone. Use the researc
 
 ## Team-Science Kickoff And Governance
 
-Use formal governance when collaboration is deeply integrated across people, disciplines, data, or institutions.
+Choose governance for the actual coordination needs, stakes and institutional requirements. Deep integration may need more explicit decisions; a limited collaboration may still require an authorized material-transfer or data agreement. Consultation, a standard service, tool reuse and continuing scientific collaboration can all be reasonable arrangements.
 
-- Write a collaboration agreement before major work begins.
+- Clarify the shared scope before major commitments; use a written agreement when it helps coordinate or the governing process requires it.
 - Define shared vision, goals, roles, decision rights, communication cadence, data/code sharing, authorship, credit, conflict route, and review cadence.
 - Use a welcome or team letter to make norms visible for new members.
 - Track contributions and credit, especially for junior members whose career rewards can be hidden by team outputs.
@@ -94,11 +100,29 @@ Use formal governance when collaboration is deeply integrated across people, dis
 Leadership moves that build autonomy:
 
 - Speak last when the team needs others to reason first.
-- Ask what is missing, who sees the data differently, and what next step the trainee proposes.
+- Ask what is missing and who sees the data differently; invite a proposed next step when the trainee has enough preparation, and teach when they do not.
 - Delegate to the lowest competent level with support and review.
 - Coach drafts, figures, and talks without replacing the trainee's voice.
 
-Additional anti-patterns: absentee leadership, defensive leadership, hostile leadership, hover-leadership, verbal-only collaboration agreements, and productivity that masks dependence.
+Additional anti-patterns: absentee or hostile leadership, taking back delegated work without a reason, leaving consequential scope or credit expectations unrecorded, and productivity that masks dependence.
+
+Scientific and practical aims can differ legitimately. Involve quantitative and biological expertise early enough to change design, then retain engagement through analysis and interpretation. Budget the analysis, code maintenance, storage and coordination rather than assuming them free. A trainee or collaborator can need a method-development opportunity while the group needs an analysis; agree whether both aims fit the resources. Protect junior members' actual contribution and time rather than assuming a team output gives everyone equal development or credit.
+
+Check who can authorize restrictions or commitments. A team plan cannot grant institutional IP, material-transfer, sponsor or data rights. Patent inventorship differs from paper authorship. Discuss potentially valuable inventions and proposed disclosures with the responsible office early enough to preserve available options; obtain specialist advice rather than importing historical legal particulars. Sponsor terms can affect a student's thesis or publication and need explicit authorized review. Conflicts of commitment and conflicts of interest are different questions; disclosure alone does not resolve either.
+
+At a departure or stalled collaboration, distinguish scientific obstacles, changed priorities, lost personnel and an alleged breach. Repair, reduce scope and orderly exit are alternatives. Clarify stewardship, remaining outputs, permitted access and consultation without assuming a PI owns all future projects or can prevent someone leaving. Physical departure may leave dependence through papers, data and references.
+
+## Contributions, authorship and order
+
+Describe what each person actually did before deciding eligibility or order. Designing a method differs from performing an analysis. Data curation covers annotation, cleaning and maintenance for use or reuse, including code needed to interpret the data; software work covers programming, algorithms, implementation and testing code components. These roles can overlap. Record enabling work such as resources, funding, coordination and supervision separately rather than assigning all of it from a senior title. Validation checks replication or reproducibility of results, experiments or outputs; visualization prepares or presents data visually. A declared validation role does not demonstrate reproducibility. Distinguish initial drafting from critical review or editing. Contribution roles describe work; they supply neither points nor an author-order calculator.
+
+Check the actual target policy. Where it uses the four-criterion approach, all authors need a substantial contribution to ideas, design or data acquisition/analysis/interpretation; intellectual drafting or review; final approval; and accountability for helping resolve accuracy or integrity concerns about any part. Give substantive contributors access and time to fulfill the manuscript requirements rather than excluding them by withholding that opportunity. Accountability does not require expertise in every technique, but does require knowing who handled other parts and having confidence in them. A group name does not exempt individual authors from the criteria. Question exclusion of local researchers without inventing contributions from geography alone.
+
+Funding, general supervision or language help alone may not qualify under that policy; someone doing additional qualifying work is not excluded by having one of those roles. Specify other contributions and obtain required acknowledgement permission because acknowledgement can imply endorsement. Corresponding authorship coordinates journal communication; administrative tasks can be delegated, and contact status does not establish greater scientific contribution.
+
+Decide order collectively under an explicit convention, revisiting it as the work changes. An early first-author expectation is provisional; shared-first designations depend on the target journal. If the journal disallows shared first authorship, the eligibility and contribution judgments need not change: choose a displayed order, record why and recognize the trade-off. Do not imply a contribution statement removes the career effects of displayed order.
+
+For disagreement, separate a missing contribution, disputed eligibility, order, an alleged violation and disagreement about publishing under one's name. Reconstruct actual work and applicable criteria. Historical three-criterion summaries and supervisor-decision advice cannot replace a four-criterion target policy or collective authority. Unresolved eligibility normally needs the performing institutions' process rather than asking an editor to adjudicate evidence they lack. Use an appropriate independent route when direct discussion is risky; supervisor approval or advance notice is not a prerequisite for advice. Withdrawal can trade credit against responsibility, and corrections or additions are not guaranteed.
 
 ## Reviewing group decisions
 

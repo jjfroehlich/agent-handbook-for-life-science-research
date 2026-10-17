@@ -26,7 +26,7 @@ Your own interest matters too. Notice the questions you keep returning to and th
 
 Compare projects you could undertake within the available time. For each one, describe the question and how you would begin answering it. Identify anything you would need to obtain or establish first, such as access to samples or a reliable assay. This makes it easier to compare the work involved as well as the scientific interest.
 
-Alon proposes comparing interest with feasibility. A question that interests you more and is easier to investigate is usually the better choice. The harder decision is between an ambitious question that may take years to answer and a smaller project you could complete sooner. Consider how much time and support you have. If you need to develop a new method first, will enough time remain to investigate the question? [[1]](#ref-problem-alon2009).
+Alon compares the increase in knowledge a project could provide with its feasibility. This is different from how much the question personally interests you. A project that could add more scientific knowledge and is easier to investigate may be attractive, while another may better fit your interests, training or commitments. An ambitious question may take years to answer; a smaller project may be feasible sooner. Consider how much time and support you have. If you need to develop a new method first, will enough time remain to investigate the question? [[1]](#ref-problem-alon2009).
 
 Check the assumptions that could change your choice. If a project depends on a collaborator’s samples, ask whether they can provide them, when they would arrive and whether you can use them for the proposed study. Until you have an agreement, sample access remains uncertain.
 
@@ -51,6 +51,8 @@ Before choosing, the researcher needs to check whether A’s imaging assay can d
 ## Time, experience and support
 
 For a first project, it can help to choose a question you can begin investigating with established methods and regular guidance. That gives you time to learn how to do research without also having to develop every method. A less predictable project may be reasonable when you have more experience, longer funding or colleagues who can share the work [[1]](#ref-problem-alon2009).
+
+A first project may begin with a question proposed by a supervisor while you learn how to investigate it and why it matters. If a preparation gap blocks the work, focused study or a useful course may help more than requiring an independent project idea immediately. Huey offers these as alternatives for different needs; the aim is to develop the ability to frame and pursue questions independently [[4]](#ref-problem-hueyacynical).
 
 When you feel out of your depth, ask what you need to learn. You may be missing background knowledge or a technique that someone can teach you. But you may also have reached a question that nobody knows how to answer yet. Schwartz describes this difference between learning established knowledge and doing research [[3]](#ref-problem-schwartz2008). Reading and discussion can help you distinguish the two; an unknown answer alone is no reason to abandon a question.
 
@@ -89,3 +91,5 @@ The fictional researcher contacts the imaging facility and the potential collabo
 2. <a id="ref-problem-brennan2019research"></a>[Brennan, N. M. (2019). **100 research rules of the game: How to make your research world class; how to successfully publish in top international refereed journals.** *Accounting, Auditing & Accountability Journal*, 32(2), 691–706.](https://doi.org/10.1108/AAAJ-02-2019-032)
 
 3. <a id="ref-problem-schwartz2008"></a>[Schwartz, M. A. (2008). **The importance of stupidity in scientific research.** *Journal of Cell Science*, 121(11), 1771.](https://doi.org/10.1242/jcs.033340)
+
+4. <a id="ref-problem-hueyacynical"></a>Huey, R. B. (n.d.). **Reply to Stearns: Some Acynical Advice for Graduate Students.** Undated essay reprint.

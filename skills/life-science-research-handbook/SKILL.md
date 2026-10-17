@@ -3,7 +3,7 @@ name: life-science-research-handbook
 description: Reference edition of the Life Science Research Handbook for selective consultation by companion skills or an explicit handbook request. Not a general research-task workflow.
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Life Science Research Handbook

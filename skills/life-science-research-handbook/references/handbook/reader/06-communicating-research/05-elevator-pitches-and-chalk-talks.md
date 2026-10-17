@@ -6,7 +6,7 @@
 
 # Elevator pitches and chalk talks
 
-A short pitch introduces your research and invites a conversation. In a chalk talk, you explain a proposed research program while the audience questions its plans and experiments.
+A short explanation can introduce research, answer a visitor’s question or invite a conversation. In a chalk talk, you explain a proposed research program while the audience questions its plans and experiments.
 
 <a id="pitch-conversation"></a>
 
@@ -14,7 +14,7 @@ A short pitch introduces your research and invites a conversation. In a chalk ta
 
 Think about what you would like to discuss with this person. If you want advice on a difficult experiment, introduce the problem and explain where you are stuck. If you hope to collaborate, explain how your work connects with theirs. [[2]](#ref-pitch-morganwright2021).
 
-Start with the scientific question or finding. Introduce your role first if it helps the listener understand the connection. Give enough evidence to make the point credible, then leave room for a reply. You can explain the methods or discuss further results if they ask.
+Start with the scientific question or finding, or give the background this listener needs to understand it. Introduce your role first if it helps establish the connection. Give enough evidence to make the point credible, including a method or limitation that changes its meaning, then leave room for a reply. A requested informative answer can end at its supported takeaway; a specific invitation fits when advice, collaboration or another next interaction is the goal.
 
 Follow the listener’s questions: they may want more technical detail or need some background first. When rehearsing, ask your partner to explain what they understood and what they thought you were asking for. Revise where their account differs from yours. [[2]](#ref-pitch-morganwright2021).
 
@@ -47,8 +47,8 @@ Rehearse the pitch with these questions:
 <td>Add the decisive comparison; remove a less informative detail.</td>
 </tr>
 <tr>
-<td>Does the final sentence give the listener a natural way to respond?</td>
-<td>Ask a focused question or name the conversation you would like to have.</td>
+<td>Does the ending serve this encounter’s purpose?</td>
+<td>For a wanted next interaction, ask a focused question or name the conversation. For an informative answer, give the bounded takeaway without adding an artificial ask.</td>
 </tr>
 </tbody>
 </table>
@@ -57,13 +57,13 @@ Rehearse the pitch with these questions:
 
 ## Chalk talks
 
-A chalk talk usually presents a proposed research program through an interactive discussion of its questions and experiments. Ask the host about the audience, duration, use of boards or slides, and expected level of detail. Prepare to explain both the first experiments and what you would do with different outcomes. [[1]](#ref-pitch-martin2017); [[3]](#ref-pitch-strassmann2016).
+A chalk talk usually presents a proposed research program through an interactive discussion of its questions and experiments. Ask the host about the audience, duration, use of boards or slides, access needs and expected detail. Limited advance project labels can help orientation when allowed; reserve readable space for live reasoning rather than filling the board before discussion. Choose project count and horizon for the actual program instead of imposing three aims. Prepare to explain both the first experiments and what you would do with different outcomes. [[1]](#ref-pitch-martin2017); [[3]](#ref-pitch-strassmann2016); [[4]](#ref-pitch-vosshall2015).
 
 Begin with the overall question in terms a scientist outside your field can understand. Sketch the projects before questions take the discussion into detail, then start with the most important one. Explain who would begin the work and when, including which projects can run in parallel. [[4]](#ref-pitch-vosshall2015); [[3]](#ref-pitch-strassmann2016).
 
 For each project, explain the question and the experiment that could answer it. Discuss what different results would lead you to do next and what resources you need to begin. Show how the program develops your own questions, identifying which work you will lead and which depends on continuing collaborations. [[1]](#ref-pitch-martin2017).
 
-Keep an outline of the program in view as questions arrive. Write the project questions and their connections where everyone can refer to them; explain the details aloud. If a question exposes a flaw, address it and revise the plan when warranted. If discussion moves away from the program, offer to return to that question later and continue with the next project. [[3]](#ref-pitch-strassmann2016); [[4]](#ref-pitch-vosshall2015).
+Keep an outline of the program in view as questions arrive. Write the project questions and their connections where everyone can refer to them; explain the details aloud. If a question exposes a flaw, address it and revise the plan when warranted. A validity-critical objection remains unresolved until addressed. For a genuine detour, offer to return later and continue with the next project; if exclusion or mistreatment prevents discussion, host support or a pause may be appropriate. [[3]](#ref-pitch-strassmann2016); [[4]](#ref-pitch-vosshall2015).
 
 <a id="pitch-board-map"></a>**Example: a spatial program map for the board**
 

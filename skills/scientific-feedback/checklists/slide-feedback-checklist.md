@@ -2,21 +2,23 @@
 
 Use this for scientific talks, slide decks, seminars, conference presentations, chalk-talk-adjacent decks, or rehearsal feedback.
 
+Apply only checks relevant to the requested review. From an outline or static deck, leave actual appearance, delivery, setup and rehearsal unassessed unless inspected.
+
 ## Checks
 
 - Audience, time limit, venue, and the main message or connected decisions are clear enough for the requested review.
 - The deck has a clear opening, route through evidence, and close.
-- Each slide has one job.
+- Each slide's purpose and needed comparisons are clear; several related questions or panels can stay together when shared inspection helps.
 - Dense manuscript figures are adapted for projected viewing.
 - Text, labels, and visual hierarchy work at room or screen-sharing distance.
-- Methods, caveats, and secondary data do not crowd the main argument.
-- Q&A or backup material is prepared for likely objections.
+- Secondary detail does not crowd needed evidence; retain methods, controls and caveats required to interpret the argument or a methods-focused talk.
+- When delivery preparation is in scope, Q&A or backup material addresses likely objections; preparation notes do not establish rehearsal.
 
 ## Failure signals
 
 - The slide deck reads like a paper pasted into slides.
 - The main claim appears only at the end without orientation.
-- Visual polish is being discussed before deciding what to cut.
+- Cosmetic changes distract from the consequential current failure; an unreadable decisive comparison can need repair even when the message and content are already sound.
 
 ## Output reminder
 

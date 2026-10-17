@@ -16,6 +16,10 @@ Think about what you would want to keep as well as what you want to leave. You m
 
 Compare the available options against the conditions you want to change and those you want to preserve. Include changing project or supervisor as well as leaving a degree or institution. Note what you still need to find out before deciding [[4]](#ref-transitions-perovic).
 
+Reconsidering a PI career is distinct from leaving a doctorate. You may decide that grant seeking and group management do not fit while the degree still serves another goal. After a setback, consider useful criticism and whether to revise the application, redirect the goal or stop pursuing it. Temporary discouragement and sunk effort are both incomplete reasons on their own; persistence guarantees no outcome and selection does not measure personal worth [[6]](#ref-transitions-goslingnoordam2022thesis); [[7]](#ref-transitions-ayres2022).
+
+Address an immediate support need separately from a nonurgent comparison of recurring problems, changes already tried where safe, and feasible alternatives. Check money, residence, healthcare, references and dependents before assuming leave or exit is available. Do not require confrontation, private disclosure or another harmful incident before support; changing course can be protective without being compulsory [[4]](#ref-transitions-perovic); [[7]](#ref-transitions-ayres2022).
+
 Discuss the options with people who know the work and can help assess its prospects. Working conditions, mentorship and alternatives to an academic career were recurring concerns in a survey of postdoctoral researchers [[1]](#ref-transitions-afonja2021). When a supervisor is part of the problem, seek advice elsewhere before deciding how to raise it.
 
 <a id="transitions-decision-example"></a>**Example: deciding what to change**
@@ -35,6 +39,8 @@ Consider applying directly when you have investigated the new role and could sta
 Work backwards from the intended start date. List unfinished work and any materials or access that need to be transferred, then agree who will handle each item and when. Discuss any contribution you expect to continue after departure.
 
 Allow time for delays and agree which unfinished tasks could be handed over if they cannot be completed before departure. Consider the workload during the transition alongside family and caring responsibilities. Agree the limits of any temporary overlap between roles [[5]](#ref-transitions-raffington2026).
+
+For a new offer, compare the whole arrangement with your ranked needs and real alternatives. Clarify who can authorize changes, explain the reason for an essential request and document the agreed terms [[8]](#ref-transitions-jensen2006salary2). Competing-offer leverage can create relationship or withdrawal risks and is not obligatory; do not invent another offer, disclose salary history automatically or keep adding requests without a practical priority [[8]](#ref-transitions-jensen2006salary2); [[9]](#ref-transitions-jensen2006salary1). Salary disclosure also depends on the actual applicable process; archived negotiation advice does not establish a present obligation.
 
 <a id="transitions-handover"></a>
 
@@ -64,6 +70,8 @@ Discuss authorship on unfinished papers with the contributors and record the agr
 
 If a relationship is difficult, reduce unnecessary dependence: keep clear records, obtain advice from more than one mentor and use the appropriate local route for a matter that cannot be resolved directly.
 
+Check a channel’s remit and actual confidentiality before using it, and account for dependencies that continue after departure. Authorship, future directions, references and access require specific agreements with contributors and authorized offices. Neither a written summary nor a new appointment establishes that all work belongs to a PI, that materials or a grant may move freely, or that retaliation is no longer possible [[3]](#ref-transitions-rightmoves2006); [[7]](#ref-transitions-ayres2022).
+
 <a id="transitions-entry"></a>
 
 ## Begin the next role
@@ -71,6 +79,8 @@ If a relationship is difficult, reduce unnecessary dependence: keep clear record
 Before starting, discuss your initial responsibilities and who can give feedback. Ask colleagues how decisions and routine communication work, and agree when to review your progress [[2]](#ref-transitions-staffinglab2006).
 
 Agree what to work on before the first review, allowing time to learn unfamiliar procedures. A research scientist might learn a quality-system workflow and complete a defined analysis; an editor might assess a supervised submission while learning the journal’s decision process and audience. Find out whose work depends on yours and what they need from you. Adjust the plan with your supervisor or manager as you learn more about the role.
+
+Distinguish influence from supervisory authority, and a summary of expectations from actual agreement. If duties were misrepresented or exclusion, exploitation or bullying persists, do not assume the problem is insufficient positivity or networking. Consider repair, transfer or another move only in light of available support and safety; individual adaptation cannot replace institutional responsibility [[5]](#ref-transitions-raffington2026); [[7]](#ref-transitions-ayres2022).
 
 <a id="transitions-references"></a>
 
@@ -85,3 +95,11 @@ Agree what to work on before the first review, allowing time to learn unfamiliar
 4. <a id="ref-transitions-perovic"></a>[Perovic, T. (n.d.). **Leaving Ph.D.? Should I stay or should I go? Navigating your way around Ph.D. position.** *Sci.STEPS*.](https://www.scisteps.org/in-sights/sci-tips/leaving-ph-d)
 
 5. <a id="ref-transitions-raffington2026"></a>[Raffington, L. (2026). **Academia is just a job.** *Nature Human Behaviour*, 10(1), 3.](https://doi.org/10.1038/s41562-025-02376-2)
+
+6. <a id="ref-transitions-goslingnoordam2022thesis"></a>[Gosling, P., & Noordam, B. (2022). **Mastering Your PhD: Survival and Success in the Doctoral Years and Beyond** (3rd ed.). Springer.](https://doi.org/10.1007/978-3-031-11417-5)
+
+7. <a id="ref-transitions-ayres2022"></a>[Ayres, Z. J. (2022). **Managing your Mental Health during your PhD: A Survival Guide.** Springer.](https://link.springer.com/book/10.1007/978-3-031-14194-2)
+
+8. <a id="ref-transitions-jensen2006salary2"></a>Jensen, D. G. (2006, July 21). **Tooling Up: Salary Negotiation, Part 2.** *Science Careers*.
+
+9. <a id="ref-transitions-jensen2006salary1"></a>Jensen, D. G. (2006, June 16). **Tooling Up: Salary Negotiation, Part 1.** *Science Careers*.

@@ -149,7 +149,7 @@ Draft the question and answer first, then add the background an unfamiliar reade
 
 Give the main finding enough space for its supporting comparison. Briefly introduce an unfamiliar experiment before stating its result. For a familiar comparison, begin with the finding and include the method in the same sentence. [[8]](#ref-opening-clemens2022); [[1]](#ref-opening-mensh2017). Nature’s annotated example introduces its assay with the supporting results, without a separate Methods block. [[9]](#ref-opening-nature2019).
 
-End by explaining what the finding adds. A biological study might identify how a process works; a methods study might make a previously difficult measurement possible. Keep this closing statement within what the study demonstrated. [[9]](#ref-opening-nature2019); [[4]](#ref-opening-huber2025).
+Make clear what the finding adds. A biological study might identify how a process works; a methods study might make a previously difficult measurement possible. A closing sentence can explain that contribution, but it need not repeat a finding that already conveys it. Keep any proposed use distinct from a demonstrated outcome. [[9]](#ref-opening-nature2019); [[4]](#ref-opening-huber2025); [[12]](#ref-opening-scitable).
 
 <a id="opening-case-abstract"></a>**Example: giving an abstract a clear argument**
 
@@ -191,7 +191,11 @@ Some journals also request a separate significance statement for a broader audie
 
 ### Give a methods paper its own emphasis
 
-A methods abstract needs to explain what researchers can do with the method and how well it performs. Identify the limitation it addresses, such as an unreliable measurement or a time-consuming procedure, then explain what it changes. Give the benchmark or application that demonstrates its performance, including the conditions under which it was tested. Keep the method’s name and recognizable technical terms prominent. If the study also makes a biological discovery, explain how the method enabled it. [[10]](#ref-opening-strack2022a).
+A methods abstract needs to explain what the method is and what researchers can do with it. Identify the problem it addresses, such as an unreliable measurement or a time-consuming procedure, then name the innovation or capability. Describe the testing actually performed, including its conditions. A benchmark can support a performance comparison when one was conducted; a demonstration alone does not establish superiority over other methods. Keep the method’s name and useful technical identity prominent. [[10]](#ref-opening-strack2022a).
+
+Allocate space according to the contribution. If a biological observation mainly demonstrates that a tool can be used, emphasize the capability and the evidence for it. If the paper also establishes a substantial biological finding, explain that finding and its actual relationship to the method; describe how the method enabled it only when that relationship is established. The label “methods paper” does not make central biology expendable. [[10]](#ref-opening-strack2022a).
+
+For example, an abstract introducing an imaging method can explain its design and describe its evaluation on annotated images without claiming an unperformed comparison with other tools. If a separate experiment also establishes a treatment effect that is central to the paper, the abstract needs that comparison and result too. Shorten secondary setup before removing either contribution.
 
 <a id="opening-introduction"></a>
 

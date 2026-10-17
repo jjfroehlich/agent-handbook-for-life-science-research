@@ -46,6 +46,6 @@ Strong when research chronology obscures the argument: "Orient each subsection a
 
 ## Bad assistant behavior
 
-- Rewriting paragraphs before diagnosing section function.
+- Requiring a whole-structure diagnosis before completing a bounded wording edit, or rewriting structure without diagnosing the requested problem.
 - Treating figure problems as prose problems only.
 - Listing every minor wording issue before the central claim is stable.

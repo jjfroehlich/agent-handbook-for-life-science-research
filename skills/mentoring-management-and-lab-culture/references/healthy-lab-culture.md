@@ -31,6 +31,8 @@ Make culture observable. A healthy lab is built through expectations, meeting de
 - Credit practices should include visible gratitude, contribution tracking, and explicit recognition for shared work.
 - Flexible work still needs predictable obligations for meetings, safety, collaboration, deadlines, and handoffs.
 
+Choose participation practices for the task and actual barriers. Social diversity and expertise diversity differ; neither identity nor a headcount guarantees that relevant knowledge reaches the decision. Corporate diversity correlations do not establish a causal effect in a lab. Student hidden-clue tasks, studies of reactions to a dissenting speaker, political-partner preparation and mock juries concern particular mechanisms and settings. They can suggest asking for missing information or independent views; they do not predict an individual's competence or oblige a minority member to dissent. A citation association is not proof of scientific quality. Intellectual friction can be useful without excusing hostility.
+
 ## Anti-patterns
 
 - Treating lab health as an optional extra.
@@ -86,8 +88,18 @@ Separate commitment to science from acceptance of exploitative work norms.
 
 Social events can support belonging, but they become coercive when after-hours participation is treated as commitment. Offer work-hours alternatives, make optional events genuinely optional, and support newcomers with a buddy or onboarding route.
 
+Respect a person's choices about intensive work while checking whether they have a genuine choice and what it costs. Discouraging sustained long hours can coexist with reluctance to control another adult's schedule; do not resolve that tension with an absolute ban or unlimited availability. Time blocking, grouped messages or a more improvised routine can fit different people. Training initially consumes time before delegation may save it. Meaningful nonwork duties can be part of balance and can also be paused when capacity is exhausted. Avoid copying illustrative time budgets into staffing norms.
+
+For distress, ask about practical help without requiring someone to prove they are struggling enough. Good output can mask difficulty. Disclosure can enable support but also bring disbelief or discrimination; the person chooses what to share in an ordinary conversation. A subjective wellbeing continuum is not a diagnostic scale or inevitable progression. Support conversations, self-care and resilience do not replace adequate money, protected time, accessible services or action on mistreatment. Budgeting cannot create absent funds, and an appealing option may be unavailable because of grant, employment or residence constraints.
+
+Assess a wellbeing program by its relevance, accessibility, cultural fit, competent facilitation and participant feedback. One poor session does not make every program useless; a suitable technique, protected time or peer connection can still help. Keep the helper's capacity and role limits visible. Simple wording or writing can begin help-seeking; perfect terminology is unnecessary. Do not prescribe treatment or require resilience sufficient to endure harassment.
+
 Structural accountability:
 
 - Explain who can see mentorship or climate feedback, what may be shared and any reporting limits. Minimize identifying detail, but do not guarantee anonymity in a small group.
-- Use independent review for small groups or high-power situations.
+- Offer an independent route when direct feedback could expose someone or cannot be assessed impartially; establish its actual remit and capacity.
 - Route repeated harmful supervision into training, review, or supervision limits rather than relying on goodwill.
+
+Give that review actual authority and resources. An institutional coordinator, embedded integrity adviser or voluntary quality-assurance system is a contextual example, not a certified solution that every lab must copy. Review records, PI bottlenecks, opportunity and shared duties as well as outputs. Reassign responsibility when an owner leaves. Surveyed PI and member accounts can differ, but unmatched self-selected groups are not paired reports of the same labs. A chart about training in the past year does not mean never trained; reported usefulness, desired traits and willingness to adopt a policy do not establish effectiveness.
+
+Recognize maintenance, mentoring, pastoral and inclusion work alongside visible outputs. Apparent diversity can coexist with unequal credit or cultural taxation. Ambition and communication can serve good science; judge concrete contribution and conduct rather than diagnosing a narcissistic personality or hidden motive. A productive member remains accountable for conduct. No complaints does not establish safety, and differential attrition needs investigation rather than an automatic finding. Advocacy can be draining or unsafe; leaders and institutions retain responsibility when a trainee declines to report or campaign.

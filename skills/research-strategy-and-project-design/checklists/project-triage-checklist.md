@@ -5,7 +5,7 @@ Use the parts relevant to the decision; answer from available context rather tha
 ## Candidate Project
 
 - What is the concrete question or output?
-- What would be learned if it worked?
+- What could the possible findings establish, including a sound result against the prediction?
 - What makes it feasible with current tools, data, people, and time?
 - What makes it risky?
 - What alternative project competes for the same effort?
@@ -15,6 +15,7 @@ Use the parts relevant to the decision; answer from available context rather tha
 - Does the project provide traction, training, independence, upside, or infrastructure?
 - Is its risk appropriate for the user's career stage and decision horizon?
 - Does the portfolio already contain too many similar risks?
+- Is a focused project or a different mix more useful under actual capacity? No category needs to be filled solely for balance.
 - Can a grand challenge be split into a smaller decisive project?
 
 ## Decisive Uncertainty
@@ -28,13 +29,17 @@ Use the parts relevant to the decision; answer from available context rather tha
 
 ## Evidence-Type Audit
 
-For each major claim, record:
+When an unresolved inference affects the decision, compare useful fields; do not require a table or second method for every claim:
 
-| Claim | Current evidence | Scale covered | Blind spot | Complementary check |
+| Claim | Current evidence | Scale and assumptions | Consequential ambiguity | Useful check or sufficient support |
 |---|---|---|---|---|
 | | | | | |
 
 Add complementary evidence only if it changes the decision or interpretation.
+
+- Does a proxy represent the target for this claim without consequentially changing the system?
+- Do units, direct contrasts, controls and precision support the intended comparison?
+- Is apparent extra support independent, or does it share the same data/proxy weakness?
 
 ## Branch Review
 
@@ -45,7 +50,7 @@ Add complementary evidence only if it changes the decision or interpretation.
 
 ## Recommendation
 
-End with one of:
+Give the decision in the form the user requested; possible actions include:
 
 - Pursue now.
 - Run a cheap decisive test first.

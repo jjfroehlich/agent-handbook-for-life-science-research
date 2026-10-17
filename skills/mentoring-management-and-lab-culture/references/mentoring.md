@@ -2,7 +2,7 @@
 
 ## Use this when...
 
-Use this playbook when the user needs mentor-mentee expectations, mentor behavior norms, co-mentoring routes, trainee support, hidden-curriculum teaching, or mentoring-malpractice diagnosis.
+Use this reference for reciprocal expectations, task-specific support, scientific judgment, developmental choices and independent advice. Assess concerning conduct without diagnosing a personality.
 
 ## The job of this topic
 
@@ -23,6 +23,10 @@ Make mentoring precise enough for the person in front of the mentor and plastic 
 - If the mentor cannot provide the needed advice or is part of the conflict, support access to other advisers or institutional routes. Independent advice does not require the supervisor to approve its content or control what the trainee shares. Each adviser must explain their own confidentiality and reporting limits.
 - If a trainee is stuck, distinguish missing skill, missing information, project mismatch, unclear expectation, overload, isolation, and avoidant feedback.
 - If feedback is hard, pair it with concrete next steps, support, and a chance for the trainee to respond.
+
+Choose support for the particular task. When someone needs a demonstration or coaching, first establish who can competently provide it for this workflow. Available mentor time and documentation do not establish that expertise. Use the mentor or a suitably experienced colleague when their capability and availability are confirmed; otherwise name the support gap and arrange appropriate help. As the researcher demonstrates readiness, invite their interpretation before giving yours and delegate decisions with resources and review. The same experienced researcher can be independent in one method and a novice in another. A supervised training run or elapsed time does not establish independent readiness; rare material or a costly irreversible choice can justify a joint decision even after technical mastery.
+
+Project choice can develop the researcher as well as answer a scientific question. Discuss their interests and preferred work, actual feasibility and what they would learn. These are conversational dimensions, not fixed personality types. A supported starter problem can help someone who is not ready to frame a question; it need not prevent later ownership. More independent choice can suit someone with preparation and support. Reading, discussion, a thought-provoking course and practical training are alternatives for different gaps. An extended exploratory period needs funding and freedom; do not impose a fixed duration or mistake financial constraints for insufficient dedication. A thesis can begin rather than permanently define a career.
 
 ## Variants and edge cases
 
@@ -67,11 +71,15 @@ Hidden-curriculum prompt:
 
 "Here is the standard I used in that decision. The strong part was ____. The risk was ____. Next time, practice ____ and bring me ____ so we can compare options."
 
+Make practice real. A supported trainee draft may take longer than writing it yourself but gives the learner a chance to develop judgment. Explain revisions rather than automatically replacing their voice. Suitable editorial conversations can also teach the publication process. Obtain actual permission and confidentiality arrangements before involving a trainee in peer review; an invitation to learn is not permission to forward a confidential manuscript.
+
+For recurring meetings, connect important actual results, deviations and reasons with the next goals and obstacles. A monthly monitor is one possible interval; weekly technical contact and a broader annual review have different jobs. Use the placement and work to choose cadence. Bring concise questions and needed evidence, keep suggestions separate from agreements, and set feedback lead times around the effort required. An unneeded slot can be shortened or cancelled. A useful plan should not depend on repeatedly overdue PI decisions going unnoticed.
+
 ## Examples
 
 - A trainee is missing deadlines, but no deadline norm exists: start by resetting the system, then discuss the behavior.
 - A postdoc needs industry options: add external informational interviews, project leadership practice, and a launch timeline instead of measuring only papers.
-- A student avoids the PI after harsh criticism: create a repair conversation and an alternate support route before returning to technical feedback.
+- A student avoids the PI after harsh criticism: offer independent support and consider repair when safe before deciding how to return to technical feedback.
 
 ## When not to apply this
 
@@ -88,3 +96,5 @@ Undergraduates often need explicit instruction in research culture that senior m
 - Shield undergraduates from PI-level publication or funding pressure while still treating their work seriously.
 
 For all ECRs, make empathy operational: useful meetings, workload checks, stage-adapted autonomy, professional-development feedback, and respect for personal time.
+
+Availability includes approachability. Make it possible to bring unwelcome data, mistakes or concerns without first managing the PI's emotions. Be candid about positive and negative feedback, scientific objectives and real risks; care does not mean avoiding standards or demanding that every trainee need the same support.

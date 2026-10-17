@@ -16,7 +16,7 @@ Match reading depth to the user's goal and article type. A paper for tomorrow's 
 
 ## Default workflow
 
-1. Name the goal: orient, present, decide, compare, track, or synthesize.
+1. Identify the goal from context: orient, present, decide, compare, track, or synthesize. Ask only about consequential missing information.
 2. Pick depth:
    - **Triage:** title, abstract, figures, relevance, save/ignore decision.
    - **Targeted read:** focus on sections needed for the goal.
@@ -32,10 +32,12 @@ Match reading depth to the user's goal and article type. A paper for tomorrow's 
 5. Use the six questions to inspect the inference relevant to the task. Do not require a complete paper note for a question about one panel.
 6. Record what was read and which consequential details remain unchecked. Add a synthesis action when the task needs reuse or future direction.
 
+For primary research, reading figures with their captions and then checking the relevant Results and Methods can work. Following Results while opening each linked panel is another reasonable route. Neither sequence substitutes for inspecting methods that could change the inference. Supplementary files may contain essential detail, but their presence does not guarantee complete data or reproducibility.
+
 ## Decision rules
 
 - If the paper is for tomorrow's presentation, prioritize the claim and figures the talk must explain. Use the six questions and relevant methods to test that inference; preserve unassessed material when the available time or access is insufficient.
-- If the paper is central to a research decision, add the extra-mile pass: terms, methods, supplement, and key citations.
+- If a consequential research decision remains unresolved, follow the needed terms, methods, supplements or key citations. A resolved, bounded question does not require an exhaustive extra pass.
 - If the paper is a review, use it to map the field rather than forcing result-by-result extraction.
 - If the paper is a method or resource, prioritize procedure, validation, scope, and reuse constraints.
 - If the paper is only an alert, record relevance and next action rather than deep-reading immediately. An abstract can support a relevance screen or an attributed account of what authors claim; it does not establish unseen methods, controls or figure evidence.
@@ -44,14 +46,16 @@ Match reading depth to the user's goal and article type. A paper for tomorrow's 
 ## Variants and edge cases
 
 - **New-field survey:** Prioritize motivation, article type, vocabulary, references, and major positions.
-- **Presentation prep:** Prepare the narrative, key figures, strongest claim, limitations, and two discussion questions.
+- **Author or research-program orientation:** When that is the reading goal, place the paper alongside the author's earlier work to understand how the questions or approach developed. An author's reputation does not establish the current findings' validity.
+- **Presentation prep:** Prepare the narrative, key figures, strongest supported claim and consequential limitations. Add discussion questions when useful; explaining the paper to a colleague can expose gaps without certifying its validity.
 - **Method lookup:** Find assumptions, inputs, validation, comparison baseline, and failure modes.
+- **Specialist discussion:** If a general journal club cannot resolve an unfamiliar method, seek discussion with relevant expertise or a focused methods group. Keep the unresolved inference explicit; expert agreement is not a substitute for evidence, and routine reading need not create another meeting.
 - **Project decision:** Track what the paper changes about the user's project, not just what it says.
-- **Dense article:** Use multiple passes: overview, evidence/method detail, then synthesis notes.
+- **Dense article:** Consider multiple passes: overview, evidence/method detail, then synthesis notes. Targeted rereading may be sufficient; there is no required pass count.
 
 ## Anti-patterns
 
-- Reading without first naming the goal.
+- Reading without considering what the user needs from the paper.
 - Reading every article at the same depth.
 - Copying abstract sentences as notes.
 - Skipping figures because the prose seems clear.
@@ -73,7 +77,7 @@ Match reading depth to the user's goal and article type. A paper for tomorrow's 
 | Goal | Depth | Sections to prioritize | Evidence objects | Output |
 |---|---|---|---|---|
 
-### Three-pass plan
+### Optional three-pass plan
 
 1. **Pass 1: orientation.** Goal, article type, abstract, figures, conclusion, rough relevance.
 2. **Pass 2: understanding.** Six questions, section intent, key methods, major figures, limitations.

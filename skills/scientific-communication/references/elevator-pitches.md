@@ -1,80 +1,29 @@
-# Elevator Pitches
+# Elevator pitches and short explanations
 
-Use this when the user needs a short spoken explanation of research for networking, interviews, public audiences, funders, collaborators, recruiting, or cross-disciplinary settings.
+Use for a brief spoken research summary, professional introduction, poster opening or listener-specific conversation. An informative answer and a collaboration request have different endpoints; neither needs a compressed full seminar.
 
-## The job of this topic
+## Choose the beginning and endpoint
 
-Compress research into a listener-specific opening that earns the next conversation. The pitch should make the problem, approach, payoff, and next step clear without pretending to be a full talk.
+Use the actual purpose, familiarity, setting and time limit. Begin at broad relevance when the listener needs it, at the field problem when that is shared, or at the precise current work when the question already supplies context. Identify what the work asks, does or contributes, with evidence sufficient for that purpose. Do not invent a societal problem, benefit, novelty or achieved result because a template has a box for it.
 
-## Default workflow
+For a professional introduction, a true identity, individual contribution or relevant capability may come first. A selected personal thread is optional; preserve multiple gradual turns, evolving interests and actual team roles rather than manufacture a settled career goal or cinematic turning point. Sample metrics, skill counts and employer outcomes are not facts about the user. A concise introduction need not diagnose someone's career direction.
 
-1. Identify listener, time limit, setting, and desired next action.
-2. Start with the listener's problem, curiosity, or stake.
-3. Explain the research in plain language before naming specialized methods.
-4. Include one concrete example, result, or application.
-5. End with a specific next step: question, meeting, feedback request, collaboration angle, or memorable takeaway.
-6. Prepare another length only when the setting or user needs it; rehearse the requested version within its actual limit.
-7. Rehearse aloud and remove phrases that sound written rather than spoken.
+For a requested explanation, stop at a bounded takeaway when that answers the question. When advice, collaboration or another action is wanted, finish with a specific feasible next interaction: the experiment on which feedback is needed, a proposed meeting or an actual permitted way to reconnect. An invitation is not an agreement, vacancy or entitlement to time. An already requested informative answer needs no permission ceremony or compulsory ask.
 
-## Decision rules
+## Draft, cut and reconnect
 
-- If the listener is non-specialist, lead with impact or analogy before technique.
-- If the listener is a domain expert, state the gap and technical contribution earlier.
-- If the purpose is to invite collaboration or advice, make that invitation specific. A purely educational micro-explanation can finish with the bounded takeaway rather than a fabricated ask.
-- If the pitch lists credentials before the problem, move credentials later or remove them.
-- If jargon is necessary, define it by its role in the story.
+Draft what the work is and why it matters, cut redundant wording, then restore the links the cuts removed. Keep methods needed to understand the contribution, the decisive comparison, uncertainty, model/system identity and whether work is completed or proposed. “No how” is a compression preference, not permission to conceal how a result was obtained when that changes its meaning.
 
-## Variants and edge cases
+Check obvious jargon and ordinary words with specialist meanings. Explain an unfamiliar term by its role; retain understood technical language. One definition, one example, seconds-per-box and sentence/skill counts are adaptable starting devices, not cognitive limits. A real example can make the account concrete, but do not import a polished source example's achievements or clinical promise.
 
-- Networking event: prioritize memorability and invitation to continue.
-- Interview: connect the work to role, fit, and independent contribution.
-- Public outreach: use concrete stakes and avoid overclaiming.
-- Investor or translational audience: name problem, market/user need, evidence, and next milestone.
-- Teaching or recruiting: emphasize why the question is exciting and accessible.
+Say the draft aloud at hearing speed. Remove written clauses that require rereading, give the listener time to locate a comparison and cut words instead of rushing. A scripted precise line and natural variation can coexist. Practice and unexpected questions may reveal missing context; no run count, question count or nonverbal cue establishes readiness or comprehension.
 
-## Anti-patterns
+## Let the conversation change the route
 
-- Starting with job title, lab name, or method list instead of the listener's reason to care.
-- Trying to cover the entire project.
-- Ending with no invitation, ask, or memorable close.
-- Using an analogy that distorts the science.
-- Writing a pitch that cannot be spoken naturally.
+Use genuine shared relevance without guessing interests, values or knowledge from appearance, a title or a presumed biography. A brief question about familiarity can help when it is not an interrogation. Pause for a response, answer the listener's actual question and be willing to deepen, pivot or stop.
 
-## Diagnostic questions
+Useful contact details, a poster location, a card or an optional personal detail can support wanted continuation when real and appropriate. Handshakes, eye contact, smiling, prestige references, mirroring and personal disclosure are not requirements or cultural/competence tests. Clear naming is contextual; describe an individual role without erasing the team.
 
-- Who is listening, and what do they care about?
-- What should they remember after one minute?
-- What is the concrete example that makes the work real?
-- Which terms must be removed or explained?
-- What is the next action or conversation?
+## A usable output
 
-## Output patterns / mini-templates
-
-Two-minute pitch:
-
-```text
-Listener hook:
-Problem:
-Approach:
-Evidence/example:
-Payoff:
-Ask or next step:
-```
-
-Three-length pitch set:
-
-```text
-15 seconds:
-60 seconds:
-2 minutes:
-```
-
-## Examples
-
-- For a biotech networking event, connect the biological problem to the capability or decision the company cares about.
-- For a lay audience, replace method-first language with a familiar consequence, then add only the mechanism needed to understand it.
-- For a collaborator, end with the specific expertise or feedback you want.
-
-## When not to apply this
-
-Do not use this as the main lens when the user needs a full seminar, poster, or manuscript abstract.
+Give the requested spoken version and, if useful, a brief account of the supplied facts it preserves and the endpoint it serves. Produce several lengths only when they help the actual setting. For a networking request, include a feasible invitation; for an educational micro-explanation, do not append one automatically. See [Communication feedback examples](../examples/communication-feedback-examples.md) for an informative ending and an unresolved scientific comparison.

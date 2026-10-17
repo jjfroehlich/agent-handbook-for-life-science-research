@@ -17,6 +17,8 @@ Reduce reviewer labor. Make the proposal easy to score, summarize, defend in pan
 5. Ask what objection a skeptical reviewer would raise, then add evidence or restructure the draft.
 6. Get critical readers early enough to revise, not just proofread.
 
+Address why this problem, applicant and approach/model, and timing when it changes the case; for a fellowship explain the actual host-lab fit. Define a necessary specialist term rather than substitute a misleading scientific category. Inspect figures, resolution, panel alignment and labels in the actual document at review size. For difficult prose, read aloud if useful and bring subjects near their verbs; active voice is an option, not a ban on purposeful passive voice. Fluency and attractive presentation do not certify data, causal claims or reviewer agreement.
+
 ## Decision rules
 
 - If a reviewer cannot recover the logic from headings, topic sentences, and figures, rewrite those signposts before polishing sentences.
@@ -29,6 +31,13 @@ Reduce reviewer labor. Make the proposal easy to score, summarize, defend in pan
 - For broad panels, define terms and make significance concrete before technical depth.
 - For interview mechanisms, map each likely doubt to a concise answer and a backup slide or evidence point.
 - For final revision, use bold or emphasis only when it helps reviewers skim the scoring argument.
+- Keep uncertainty and prospective status in the scan path itself. Purpose statements or questions can be more accurate than a claim-like heading where no finding exists; bolding every paragraph is an optional source preference, not a format requirement.
+
+## Learn from permitted examples
+
+Read relevant successful and unsuccessful applications when access is permitted. Compare their scientific purpose, evidence and current mechanism before borrowing an arrangement. Success does not show that a format caused funding; failure does not prove a scientifically poor project. Confidential examples, adviser agreement, current eligibility and actual opportunity information must be checked rather than inferred from an old model.
+
+For an interview, use the actual format/time and answer the panel's question with available evidence, a clear unknown or a proposed check. Useful backup can resolve a doubt; repeating the application or inventing a missing result cannot. A written preparation note does not establish that the answer or setup has been rehearsed.
 
 ## Anti-patterns
 
@@ -86,7 +95,7 @@ Do not replace official review criteria with generic reviewer psychology. Use th
 For foundations, NGO panels, or boards that include non-specialists, make the scoring path clear enough that decision makers are not forced to rely only on technical referees.
 
 - Define necessary technical terms without flattening the science.
-- Use subheads to make objective, novelty, urgency, and strengths findable.
+- Use subheads to make objective, novelty and strengths findable, including urgency only when supported and relevant.
 - Treat captions, charts, photos, and diagrams as claims, not decoration.
 - Schedule team critique early enough to revise structure, not only proofread.
 - Avoid final-rush submission when clarification or missing information might be requested.

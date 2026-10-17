@@ -2,15 +2,17 @@
 
 ## Starter Stream
 
-Use a deliberately small portfolio:
+This illustrative weekly routine assumes the reader has time for a weekly scan and wants broad awareness plus one topic. Adapt the interval and channels to the actual task; these are not source-count or timing requirements.
 
 | Source type | Role | Volume target | Action |
 |---|---|---:|---|
 | Topic query | Find directly relevant papers | Processable weekly stream | Tune after two weeks |
-| High-value venue feed | Maintain field awareness | Small | Skim weekly |
+| Relevant venue feed | Maintain field awareness | Small | Skim weekly |
 | Review source | Refresh orientation | Occasional | Save selectively |
 
 Do not expand until the current stream is being scanned consistently.
+
+If the topic query misses known relevant papers despite manageable volume, broaden its vocabulary or add a complementary discovery route. The right repair is then improved retrieval, not further pruning. If a well-sectioned email already serves the task, keep it rather than requiring a switch to feeds.
 
 ## Alert Overload
 

@@ -11,7 +11,7 @@ Separate the scoring arguments: why the work matters, what is new, why the appro
 ## Default workflow
 
 1. State what has been done and what remains needed.
-2. Explain why solving the problem matters now.
+2. Explain why progress on the problem matters, including any real reason timing changes its value; do not manufacture urgency.
 3. Name what is new: technology, application, model, dataset, mechanism, combination, or conceptual frame.
 4. Explain why the proposed approach is suited to the question and what relevant alternatives would change.
 5. For ambitious or high-risk work, distinguish scientific risk from unmanaged execution risk.
@@ -28,6 +28,8 @@ Separate the scoring arguments: why the work matters, what is new, why the appro
 
 - Do not force "paradigm shift" language if the project does not support it.
 - Some funders score broader impacts, engagement, or DEI heavily; others do not ask for them.
+- Basic research can contribute to scientific understanding without a promised commercial or societal outcome. Where impact or engagement is required, distinguish a credible future route from demonstrated benefit and an agreed partnership from a proposed relationship.
+- Where useful, informational visuals and captions can explain significance and possible future ramifications. Preserve scientific distinctions and uncertainty; decorative images do not supply an argument or establish a benefit.
 - Empirical projects may need concrete data access, representativeness, mergeability, and identification strategy as feasibility evidence.
 
 ## Anti-patterns
@@ -40,7 +42,7 @@ Separate the scoring arguments: why the work matters, what is new, why the appro
 ## Diagnostic questions
 
 - What has been done, and what is still needed?
-- Why does this problem matter now?
+- If timing changes the case, why does this problem matter now?
 - What exactly is new?
 - Why is this approach or model system appropriate?
 - What is the high return, and which risks are scientific rather than execution gaps?
@@ -53,7 +55,7 @@ Significance/innovation split:
 ```text
 Significance: field state
 Significance: unmet need
-Significance: why it matters now
+Significance: why timing matters, if relevant
 Innovation: new technology/resource/model/application
 Innovation: why that novelty enables the project
 Approach: why this path is suited to the problem
@@ -82,7 +84,7 @@ Do not add unsupported impact, DEI, or high-risk claims. If evidence is missing,
 
 ## Urgency And Rationale Checks
 
-- Name why the problem matters now, not only why it is generally interesting.
+- Explain why the problem matters; address timing or urgency when it actually changes the case, without manufacturing a reason it must be done now.
 - Explain why the chosen site, system, method, population, or model is the right one for the question.
 - Link innovation to the decision or capability the work creates.
-- If a relevant method, control, or analysis is absent, explain why it is not needed or revise the approach.
+- If a method or analysis is absent, examine whether the question can still be answered. A control essential to the inference cannot be excused by a persuasive rationale; revise the comparison or narrow the claim.

@@ -4,7 +4,7 @@ Use this when the user is preparing a submission package, cover letter, presubmi
 
 ## The job of this topic
 
-Turn publication anxiety into a concrete process decision. The agent should check fit, completeness, and decision history before drafting text or recommending an appeal.
+Use the actual contribution, destination and decision history to choose the next publication action. Apply only the checks that can change the requested artifact; a local cover-letter edit does not require a full submission audit.
 
 ## Default workflow
 
@@ -12,9 +12,23 @@ Turn publication anxiety into a concrete process decision. The agent should chec
 2. Check journal fit: scope, article type, audience, applicable novelty or rigor criteria, method/data expectations, and practical requirements. For an unfamiliar venue, verify publisher identity, review practices, charges, rights, indexing and preservation claims; no badge or metric settles suitability alone.
 3. Check package completeness: manuscript files, figures, supplemental material, declarations, author information, data/code statements, reviewer suggestions, and any journal-specific forms.
 4. Draft the cover letter around the central claim, evidence strength, audience fit, article type, and required declarations.
-5. If suggesting reviewers, require a short expertise rationale and screen for conflicts; do not present suggestions as a way to steer the decision.
+5. If reviewer suggestions are invited, give an expertise rationale and check conflicts; follow the actual fields and limits rather than require an unsolicited list.
 6. If there was a prior rejection or review history, decide whether to disclose it, revise first, transfer, appeal, or submit elsewhere.
-7. End with the next action and the largest remaining risk.
+7. Give the requested decision or draft, distinguishing checked facts, consequential unknowns and proposed work.
+
+## Fit, authorization and preparation
+
+Separate access, speed, licensing and independent validation. An open-access label does not guarantee immediate publication, retained copyright, unrestricted reuse or sound evidence. Likewise, charges alone do not establish predation, and membership logos or a majority of checklist ticks cannot override a consequential warning. Verify charges and waivers, indexing versus preservation, review arrangements and relevant membership claims with their actual providers.
+
+Before submission or public release, establish agreement on the actual version and route with the coauthors and obtain applicable authorization. Supervisor approval alone is not authority for every author. If materials, licensing, sponsored research or an invention could restrict disclosure, identify the actual terms and responsible institutional contact before committing publication or onward sharing. Make consequences for a student's thesis communication visible; do not determine patent rights or permissible delay periods from general advice.
+
+Prepare what the article type and stage require. Flexible initial formatting still needs sufficient background, methods and clear figures/legends, and it does not waive current disclosures or technical upload limits. Inspect the generated review PDF after conversion or compression. At final production, distinguish result-oriented Highlights from an In Brief/eTOC explanation of the idea, context and significance for broader readers. Use the current journal's counts, length and file formats; these are different summaries, not copies of the abstract.
+
+Adapt the cover-letter argument to the contribution. Original research explains the advance over prior findings; a review explains the value of its synthesis, while an opinion identifies its bounded hypothesis or stance. Keep priority and originality declarations true. Concise enthusiasm is useful only alongside a supported contribution; a mistaken journal name does not prove misconduct or poor science.
+
+For substantial publication preparation, use complementary permitted readers: a colleague who can check data and citations, and a less-specialist reader who can test whether the importance is understandable. An outside expert or conference presentation can help but is not compulsory. A sound short contribution need not be dismissed because it is small, and publication counts do not establish quality. When developing a trainee's writing is an agreed goal, give supported first-draft practice and feedback even if senior drafting would be faster; discuss capacity and roles rather than assume authorship or unlimited workload.
+
+When planning a paper, provisional figures or tables can reveal which evidence is missing from the proposed contribution. Mark hoped-for results as plans, then revise the account as observations arrive; a display outline cannot establish findings that have not been obtained.
 
 ## Decision rules
 
@@ -28,9 +42,11 @@ Turn publication anxiety into a concrete process decision. The agent should chec
 - If considering transfer, choose the destination voluntarily and check its independent criteria, costs and terms. Inspect which files, reviews, correspondence and identities move; replace obsolete cover-letter material. Distinguish generic transfer suggestions from specific editorial interest and from acceptance. Explain completed and proposed responses to criticism separately. Before substantial work useful only for the receiving venue, clarify its interest; correct known flaws regardless of destination.
 - Check whether an appeal keeps the manuscript under consideration before transferring or submitting elsewhere; follow the applicable exclusivity instructions.
 
+For transfer, inspect the exact destination-specific package rather than assume all publishers move the same correspondence or reviewer identities. Remove confidential cover-letter content not intended for that destination. Merely viewing or selecting a link may not complete transfer or formal submission. Check consultation options, link expiry and any new preprint-deposition choice; an earlier preprint opt-in need not carry forward. The receiving journal can seek new reviewers and use a new received date. These details require the actual current instructions, not an archived example.
+
 ## Variants and edge cases
 
-- **Fast submission deadline:** Run only the readiness checklist, fix missing declarations and fatal scope mismatches, and avoid cosmetic overwork.
+- **Fast submission deadline:** Prioritize actual submission blockers and claim-level defects over cosmetic work. If essential evidence or authorization is missing, a deadline does not certify readiness.
 - **Trainee included in editor communication:** Prepare the specific question and boundaries before the call or email so the exchange is educational rather than performative.
 - **Conflicting advice from coauthors:** Separate journal-fit evidence from preference. Decide based on scope, audience, and what the current manuscript can defensibly claim.
 - **Rejection after review:** Treat reviewer comments as reusable diagnostic input even if the next journal is different.
@@ -79,7 +95,7 @@ We are preparing a [article type] on [central claim]. The work uses [brief evide
 | Decision signal | Likely meaning | Next move |
 |---|---|---|
 | Out of scope or audience | Journal mismatch | Choose a better venue or send a focused inquiry elsewhere |
-| Insufficient novelty | Positioning or venue mismatch | Revise framing or lower novelty threshold |
+| Insufficient novelty | Selectivity or an actual contribution concern | Examine the reason; improve an unclear comparison with prior work or choose a better-fit venue without inventing novelty |
 | Major evidence gap | Claim not yet supported | Revise, narrow claims, or add feasible evidence |
 | Factual/process error | Decision may rest on mistake | Consider concise appeal |
 

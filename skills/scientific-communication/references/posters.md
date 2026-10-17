@@ -1,86 +1,41 @@
 # Posters
 
-Use this when the user is preparing, reviewing, redesigning, presenting, or uploading a scientific poster.
+Use for planning, revising, presenting or producing a scientific poster. Establish event requirements, audience, purpose, print/digital setting and whether the presenter will be there. Inspect the actual artifact for spatial judgments; a text outline supports a proposed layout only.
 
-## The job of this topic
+## Choose what must stand alone
 
-Design the poster as a scanning and conversation medium. It must attract the right viewer, communicate one main claim quickly, support a short walkthrough, and still reward closer inspection.
+A live poster can support a brief conversation and voluntary closer reading. A poster encountered without its presenter needs a self-contained route to its question, what was done or proposed, actual finding and meaning. Even a conversation aid must retain decoding and scientific support required for its visible inference. A deeper methodological question need not mean the design failed.
 
-## Default workflow
+Select the essential comparisons and qualifications before arranging panels. A title can state a supported finding, identify a question or name a topic when that better fits the actual work. Preliminary or multi-study work need not invent one completed result or synthesis claim. Use familiar research sections when helpful or required; remove a redundant abstract only when allowed. Methods needed to interpret the claim stay on the poster, while extended procedures may live in genuine optional depth.
 
-1. Confirm venue constraints: size, orientation, print or digital format, upload rules, and whether the presenter stands with the poster.
-2. Write the main claim in plain, specific language before arranging panels.
-3. Choose the central evidence and make it visually dominant.
-4. Build a reading path with a small number of blocks, clear headings, and visible grouping.
-5. Cut background, methods, and secondary results to what viewers need for interpretation.
-6. Redraw paper figures for poster viewing with larger labels and simpler legends.
-7. When presenter preparation is part of the task, prepare a brief orientation and a longer walkthrough if needed, plus likely follow-up answers. Thirty seconds and three minutes are possible rehearsal targets, not required versions.
-8. Check final readability at standing distance or the digital platform's expected zoom level.
+## Arrange the content relationships
 
-## Decision rules
+Sketch the reading path, group related text and evidence, and give important comparisons enough space to inspect. A prominent plain-language finding, central graph, sidebar, traditional columns, unboxed layout or several coordinated evidence blocks can each work. Choose the geometry by the relationship and expected encounter rather than impose a fixed central-message template, word/graph quota, percentage of white space or color code.
 
-- If the poster has many equal panels, enlarge the decisive result and demote supporting panels.
-- If the title states only the topic, rewrite it to signal the main finding or question.
-- If methods dominate, compress secondary procedures while retaining controls and definitions needed to interpret the claim.
-- If viewers need a verbal tour to find the conclusion, strengthen title, hierarchy, and headings.
-- If the poster is digital, check navigation, aspect ratio, animation, and what remains visible between panels.
-- If the poster must also serve as a handout, create a separate handout or QR-linked supplement rather than crowding the poster.
+Place explanations beside what they describe; align related blocks and separate unrelated material with space. Use headings that help readers find the result or question they need. Adapt manuscript figures for the viewing distance while retaining units, observations, group/sample definitions, uncertainty, decisive controls and context. Distinguish a method schematic, hypothesis and measured result. Do not doctor data, strengthen “predicts” into “causes,” or discard a qualifier to meet a space target.
 
-## Variants and edge cases
+Use coherent type and readable contrast. Pair group colors with labels or other distinguishable cues. Concise prose can be useful; bullets, a fixed reading direction and a narrow set of font sizes are preferences, not requirements. Inspect the smallest essential label rather than infer readability from a large headline. Use [Poster review](../checklists/poster-review.md) for production omissions after the content works.
 
-- Traditional print poster: prioritize distance readability, large figures, and a clear left-to-right or top-to-bottom path.
-- Digital static poster: adapt dimensions and text size to the display, not the print template.
-- Digital interactive poster: keep stable orientation anchors so viewers do not lose the main claim when panels change.
-- Preliminary work poster: make the feedback request explicit rather than overclaiming incomplete results.
-- Multi-study poster: use one synthesis claim and group studies as evidence categories.
+## Choose a digital format for a reason
 
-## Anti-patterns
+| Format | Useful when | What must still work |
+|---|---|---|
+| Static digital poster | One visible account fits the task, useful media are absent or production time is limited | Actual display dimensions/zoom, readable evidence and self-contained orientation |
+| Poster with embedded media | Motion, process or another view adds needed explanation | Plan when media play, pause and stop; avoid competing with the conversation |
+| Navigable panels | Interested visitors benefit from optional detail | Clear return/navigation and stationary title, motivation, method context and key findings for newcomers |
 
-- Pasting a manuscript onto a board.
-- Using a full abstract as the top visual block.
-- Giving methods, background, and results equal visual weight.
-- Using tiny legends, dense paragraphs, or unexplained abbreviations.
-- Designing for the author who already knows the story instead of the passerby.
+Do not turn navigable panels into a serial slideshow. Visitors arrive and leave while the explanation is in progress. Extra storage is not a reason to add every result, and decisive support cannot disappear into optional panels. Plan useful content before selecting animation or zoom, rehearse actual visual/discussion coordination and follow the venue's supported controls. A screenshot or the format's promise does not establish that interaction or playback works.
 
-## Diagnostic questions
+## Produce and inspect the actual poster
 
-- Can a passerby understand the main claim from the title and largest visual elements?
-- Is the reading path obvious without narration?
-- Is every text block short enough to skim?
-- Are labels readable at expected distance or zoom?
-- Does the poster invite a useful conversation?
-- What would the presenter say in 30 seconds?
+Before costly production, check actual dimensions, orientation, attachment/display method, template, file and submission rules. Use feasible familiar tools and permitted template adaptations. An archived vendor, software, material, transport or airline recommendation does not establish current availability or requirements.
 
-## Output patterns / mini-templates
+Inspect a proof for wording, margins, labels, image context, resolution and rights, then check final-size viewing. An A4/A3 reduction or A4-to-A0 scaling can reveal problems without certifying the final artifact. Use the actual printer's color, material and timing constraints; a fixed dpi value or CMYK/RGB choice cannot guarantee the screen/print result. Credit contributors and assets while checking actual permission: acknowledgment and “free” or searchable status are not licenses.
 
-Poster redesign plan:
+## Offer depth without requiring conversation
 
-```text
-Main claim:
-Primary visual:
-Layout path:
-Cut/move:
-Text rewrite:
-Presenter walkthrough:
-Final checks:
-```
+Prepare a short truthful opening that can expand into methods, evidence, limitations or next steps. Give it when wanted, then follow the visitor's question or allow silent reading. Include interested new arrivals without forcing an ask or continuous conversation; an extended discussion can continue later if that suits participants.
 
-Poster walkthrough:
+A handout, silent-presenter summary, answer-support region, flyer or linked supplement can serve different needs. None can hide the front poster's essential decoding or claim boundary. Use actual permitted contact/session details and real destinations; test access when implementing. Offer a readable alternative when a QR code, photograph or personal contact exposure is unsuitable. Thirty seconds, two/five minutes, cards, photographs and follow-up are options, not obligations.
 
-```text
-Brief orientation, if needed:
-Longer walkthrough, if needed:
-If asked for methods:
-If asked for limitations:
-If asked for next steps:
-```
-
-## Examples
-
-- For a dense methods poster, move protocol details to a small "how" block or QR supplement and make the main result central.
-- For six equal panels, emphasize the decisive comparison and preserve any control that changes its interpretation; demote secondary material.
-- For a digital poster, keep title, motivation, and key finding anchored while optional detail changes.
-
-## When not to apply this
-
-Do not use this as the main lens for full manuscript organization or standalone publication figure review.
+For a redesign, give the specific evidence grouping, title/text revision, cuts or moves, retained controls/limits and final-view checks. Distinguish an implemented poster from an unrendered plan. Keep the walk-through proportionate to the requested task; a title edit needs no full networking package.

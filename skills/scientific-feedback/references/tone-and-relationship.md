@@ -65,8 +65,8 @@ Follow-up: <question, support, or next checkpoint>.
 ## Examples
 
 - Reviewer: "The central claim is plausible, but the current evidence does not separate mechanism A from mechanism B. Please narrow the claim or add the comparison."
-- Mentor: "The strongest result is buried. Let's move it earlier and use the weaker results as support, not as the opening frame."
-- Collaborator: "I think the poster should trade one methods block for a larger result panel because the audience needs to read the result at walking distance."
+- Mentor, when the inspected draft hides the comparison that answers its question: "Let's bring that comparison forward and explain what the other results add, retaining evidence that limits the conclusion."
+- Collaborator, when the inspected poster crowds the decisive comparison with secondary procedure: "I suggest compressing that procedure block so readers can inspect the comparison, keeping the method details needed to interpret it."
 
 ## When not to apply this
 

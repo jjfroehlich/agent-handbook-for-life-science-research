@@ -4,15 +4,15 @@ Use this when the user is drafting or revising a cover letter, first-contact ema
 
 ## The job of this topic
 
-Make the letter interpret fit for a specific reader. The letter should not repeat the CV; it should connect the opportunity's criteria to evidence, motivation, and contribution.
+Make the letter interpret fit for a specific reader. Avoid merely converting the CV into prose, but keep useful overlap so each document makes sense on its own. Explain the connection between the opportunity's criteria, genuine interest and actual contribution.
 
 ## Default workflow
 
-1. Identify the role, reader, organization or lab, requested materials, deadline, and whether the letter is academic or non-academic.
+1. Check whether a letter is requested or used, then identify its role, reader, organization or lab, instructions and deadline. A portal response or specified contact route may take its place.
 2. Extract the decision criteria from the ad, lab description, program, or user's target.
-3. Choose two or three strongest evidence points that answer those criteria.
+3. Choose the evidence needed to answer those criteria; a brief specialist inquiry may need much less context than an unfamiliar professional transition.
 4. Structure the letter around role-specific opening, evidence, fit or motivation, and close.
-5. Cut generic openings, empty enthusiasm, and paragraphs about what the user wants without contribution.
+5. Remove empty enthusiasm and explain the contribution alongside the interest. A clear conventional opening is acceptable; do not spend disproportionate effort hunting a recipient name or a novel first sentence.
 6. End with a revised outline, paragraph-level edit, or concise draft.
 
 ## Decision rules
@@ -20,7 +20,7 @@ Make the letter interpret fit for a specific reader. The letter should not repea
 - If the letter could be sent unchanged to many places, rewrite it around the specific reader and criteria.
 - If a paragraph mostly repeats CV facts, revise it to explain relevance, contribution, or motivation.
 - If the user lacks one requirement, name adjacent evidence and a credible plan rather than hiding the gap.
-- If the letter opens with a formulaic application phrase, replace it with the role and strongest fit evidence.
+- If a conventional opening clearly identifies the role and purpose, keep it; strengthen the evidence that follows rather than replacing it for novelty.
 - If the letter is for a postdoc or faculty role, connect scientific fit to the lab or department's work without overclaiming.
 
 ## Variants and Edge Cases
@@ -29,10 +29,12 @@ Make the letter interpret fit for a specific reader. The letter should not repea
 - For postdoc inquiry, show specific scientific fit, readiness, and a focused question about openings or direction.
 - For faculty cover letters, route package strategy to `faculty-search.md` and use this file for the letter's reader-fit job.
 - For internships or early-career roles, use coursework, projects, methods, teamwork, and learning speed as evidence when publications are limited.
+- For a career change, explain unfamiliar experience in the employer's accurate terminology and why the work interests the candidate. Do not imply that the destination profession is an easier fallback.
+- Explanations of gaps, grades, health, family or an unusual route are the applicant's bounded choice unless a particular required process calls for relevant information. Do not invent a disclosure duty, salary history or personal explanation.
 
 ## Anti-Patterns
 
-- Starting with generic phrases that do not create reader interest.
+- Replacing a useful conventional opening solely to sound distinctive.
 - Repeating the entire CV in prose.
 - Explaining only why the user wants the job.
 - Overusing adjectives without evidence.
@@ -48,7 +50,7 @@ Make the letter interpret fit for a specific reader. The letter should not repea
 
 ## Output Patterns / Mini-Templates
 
-Four-part structure:
+Possible functions, which may be separated or woven together:
 
 1. Opening: role plus strongest fit evidence.
 2. Evidence: one or two examples matched to criteria.

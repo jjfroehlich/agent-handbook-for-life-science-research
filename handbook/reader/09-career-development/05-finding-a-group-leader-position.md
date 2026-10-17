@@ -24,6 +24,8 @@ Compare each call with your program summary. A research institute, a university 
 
 For each role, keep the advertised criteria and requested materials alongside the parts of your program that fit and the questions you still need to ask. Confirm facilities, appointment terms and local expectations with the host. A department’s scientific interests may match yours even when its available space or staffing cannot support your first projects. [[2]](#ref-faculty-martin2017).
 
+Readiness is a judgment about the actual work and setting, not a universal threshold of papers, journals, awards, age or postdoc years. A particular award can provide evidence without being a prerequisite. Historical search calendars and successful applicants’ offer counts do not give your selection probability. A rejection can prompt useful revision or a different search, but does not by itself diagnose a scientific or personal deficiency [[2]](#ref-faculty-martin2017); [[4]](#ref-faculty-snapp2023).
+
 <a id="faculty-application"></a>
 
 ## Prepare the faculty application
@@ -31,6 +33,8 @@ For each role, keep the advertised criteria and requested materials alongside th
 Adapt the materials to the call, using [CVs, resumes, letters and references](03-cvs-resumes-letters-and-references.md#applications-chapter). The research statement should connect your important contributions to the program you intend to build. Write for scientists outside your specialty: explain why the question matters, how your prior work prepares you to address it, and what you will lead. Give enough experimental detail for them to assess whether the first projects are feasible. The exact balance between past and future work depends on the call. [[2]](#ref-faculty-martin2017); [[4]](#ref-faculty-snapp2023).
 
 Use the letter to explain your interest in the position and the contribution you would make. In a teaching or mentoring statement, connect experience to specific plans for this setting: what you have taught, how you helped someone learn, and how you would develop that work with the students or researchers there. [[2]](#ref-faculty-martin2017).
+
+Keep existing experience distinct from plans. Teaching-heavy positions may need a substantial teaching portfolio and an undergraduate research plan that fits the learners, time and facilities. An inclusion statement should connect relevant experience, methods and reflection to feasible contributions rather than claim values or activities the candidate cannot substantiate [[4]](#ref-faculty-snapp2023).
 
 <a id="faculty-readiness"></a>
 
@@ -100,6 +104,8 @@ Before a visit or remote interview, ask for the itinerary, audiences and present
 
 Match questions to the person who can answer them. A facility director can explain capacity, fees and sample preparation; a department chair can clarify teaching, review and space commitments; a recent hire can describe what support was available in practice; trainees can describe supervision and local research life. Record the answer, the person who gave it and what still needs written confirmation. For a resource your first project depends on, ask when you could use it and what would have to be arranged first.
 
+Visits also reveal leadership, trainee voice and how support changes over time. Ask who has authority over tenure or renewal and which assurances require another decision. Request useful meetings and access arrangements. Personal questions can be answered, redirected or declined according to your preferences and risk; a collegial visit does not create a duty to disclose private plans [[4]](#ref-faculty-snapp2023).
+
 For the job talk, use [Explaining research to an audience](../06-communicating-research/01-explaining-research-to-an-audience.md#audience-chapter), [Designing a presentation](../06-communicating-research/02-designing-a-presentation.md#slide-chapter) and [Delivering a talk and answering questions](../06-communicating-research/03-delivering-a-talk-and-answering-questions.md#delivery-chapter) to develop and rehearse a scientific explanation. For a chalk talk, use the [board-map method](../06-communicating-research/05-elevator-pitches-and-chalk-talks.md#pitch-chalk-talk): show the program overview, a comparison that distinguishes your proposed explanations, and how different findings would change the next experiment. Rehearse interruptions and returning to the map.
 
 <a id="faculty-offer"></a>
@@ -107,6 +113,8 @@ For the job talk, use [Explaining research to an audience](../06-communicating-r
 ## Comparing and negotiating offers
 
 Once an offer exists, cost the first projects and compare their needs with the proposed support. Include staffing and running costs as well as equipment and space. Check when the resources become available and what restrictions apply: do salary amounts include benefits, for example, and must startup funds be spent by a particular date? Also discuss the teaching and service expected while you establish the group. Use these details to explain each request. [[1]](#ref-faculty-fox2017); [[4]](#ref-faculty-snapp2023).
+
+Clarify the salary period and any grant-funded share before comparing totals; nine- and twelve-month figures need not cover the same work period. Include core user fees, purchasing and appointment authority, fund release dates, restrictions, teaching/service timing and renewal or promotion duties. Rank requests against the program and personal constraints. Use only real alternatives; an invented competing offer cannot justify a negotiation [[1]](#ref-faculty-fox2017); [[4]](#ref-faculty-snapp2023).
 
 For the proposed epithelial program, access to an established single-cell facility could reduce the need to purchase equipment. Check its capacity, charges and sample-preparation support before removing those items from the budget. Airway-organoid culture, cue-clearance measurements, staffing and facility access must also be available when each project is due to begin.
 
@@ -157,6 +165,8 @@ For the hypothetical epithelial program, a request sheet could look like this:
 </table>
 
 The written follow-up should lead with appreciation, then separate essential clarifications from ranked requests. Each request should name the work it enables. Avoid copying another applicant’s list: equipment access, teaching arrangements, appointment terms and negotiable items vary by institution and jurisdiction.
+
+Track material changes through the institution’s authorized final approval. An encouraging conversation, an intermediate letter or your signature may not settle every appointment condition. After accepting, plan approvals, space preparation, deliveries, staffing, teaching, award deadlines and housing against real lead times. Confirm how prior-lab data, materials, manuscripts and accounts can continue or transfer; acceptance alone neither authorizes that movement nor makes the new laboratory operational [[1]](#ref-faculty-fox2017); [[4]](#ref-faculty-snapp2023).
 
 <a id="faculty-references"></a>
 

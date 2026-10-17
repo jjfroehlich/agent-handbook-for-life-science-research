@@ -9,9 +9,10 @@ Use relevant checks for aims-only reviews; assess structure against the actual s
 - Each aim has a distinct purpose.
 - The aim order is logical; delays or failed qualification have explicit consequences for the promised contribution, including an appropriate stop or scope decision.
 - Dependencies have appropriate evidence, development milestones, decision gates, or credible alternatives; sequential work is justified by the funded purpose.
-- An overview figure or verbal map shows relationships among aims.
+- Where useful and permitted, an overview figure or verbal map shows purpose, question-level aims, approaches and relationships; no first-page, ten-sentence or three-aim recipe is imposed.
 - Each reviewed aim explains rationale, plan, evidence and its limits, interpretable outcomes, and consequential risk; include a credible alternative or qualification/stop decision where needed.
 - Preliminary data are selected for feasibility, not general productivity.
+- A dependent later aim has actual enabling support or a justified funded-development gate; no backup, assay validation or positive outcome is invented. A control essential to inference remains required.
 - The aims fit the funder's expected structure and page constraints.
 
 ## Red Flags

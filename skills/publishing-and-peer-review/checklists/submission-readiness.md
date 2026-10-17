@@ -1,6 +1,6 @@
 # Submission Readiness Checklist
 
-Use before first submission, transfer, resubmission after rejection, or appeal.
+Use the relevant sections before first submission, transfer, resubmission after rejection or appeal. A local edit needs only checks that can change that edit; do not certify missing information.
 
 ## Fit
 
@@ -15,8 +15,11 @@ Use before first submission, transfer, resubmission after rejection, or appeal.
 - Manuscript, figures, tables, supplemental files, and metadata are complete.
 - Data, code, reporting, ethics, and competing-interest statements meet journal instructions.
 - Author information and contribution statements are complete.
+- Coauthors have agreed to the actual version and submission/public-release route; supervisor signoff is not authorization for everyone.
+- Material, sponsor, license or disclosure restrictions affecting this route are resolved through the responsible process.
 - Suggested or excluded reviewer information follows journal policy.
 - File names, figure numbering, and supplementary references are consistent.
+- Stage-specific production summaries and technical limits follow the current instructions; Highlights report results while In Brief/eTOC explains context and significance.
 
 ## Cover Letter
 

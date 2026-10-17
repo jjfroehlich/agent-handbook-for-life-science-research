@@ -8,14 +8,14 @@ Make the editor's decision easier by showing exactly how each reviewer concern w
 
 ## Default workflow
 
-1. Copy every reviewer and editor point into a response map, preserving numbering and sub-points.
+1. For a full revision, preserve every reviewer/editor point and subpoint in a working response document; for a requested single reply, retain just the context needed to answer it.
 2. Classify each point: accepted change, clarification, new analysis, new experiment, claim narrowing, disagreement, editor-only issue, or impossible/out-of-scope request.
 3. For accepted points, state what changed and where.
 4. For misunderstandings, inspect whether clearer manuscript wording would help readers. Make useful clarifications; otherwise explain the existing evidence and why no change is needed.
 5. For disagreements, acknowledge the concern, give evidence or constraints, and offer a bounded change when useful.
 6. For requested new work, decide whether the current claim needs it before considering cost. If it does, obtain the evidence or revise/remove the unsupported claim. If it does not, explain a justified non-change, or add a limitation or future direction when useful.
 7. When comments appear to conflict, first see whether a coherent revision can address both. Ask the editor when a material conflict or editorial instruction remains unresolved.
-8. Open the letter with a concise summary of major changes and close any unresolved constraints.
+8. For a complete letter, summarize important actual changes and unresolved constraints; do not invent an overview package for one local reply.
 9. Final-check that reviewers can follow the response without searching the manuscript.
 
 ## Decision rules
@@ -26,7 +26,15 @@ Make the editor's decision easier by showing exactly how each reviewer concern w
 - If the user did not do requested work, do not pretend it was done. State why and revise the claim or limitation if the available evidence requires it. Cost alone does not establish that a request is unnecessary.
 - If a reviewer misunderstood existing text, consider manuscript clarity first; quote or summarize the relevant context in the response even when no edit is justified.
 - If the response sounds defensive, convert it to concern, action, location, and rationale.
-- If emotions are high, draft privately first, then rewrite the submitted version into calm, evidence-based language.
+- If useful when emotions are high, make a private thinking draft, then write a calm, evidence-based submitted response; a venting draft or waiting period is optional.
+
+## Adequate answers and version clarity
+
+Advice to comply with every request, even one considered flawed, is a tactic rather than scientific authority. Do not perform invalid analysis to appease a reviewer or hide necessary evidence in a response-only figure. Decide what the retained claim needs; a scientifically justified existing analysis can remain, and a reviewer misunderstanding does not automatically require an apology or manuscript edit. Check whether the reply supplies an explanation that the manuscript itself needs.
+
+Keep each reviewer's section complete on its own. Repeat relevant reasoning, quotations and locations when points overlap rather than send one reviewer to another's answer. Distinguish original reviewer wording, the author's reply and quoted manuscript changes with clear typography. Identify whether a passage or analysis was already present, changed now, completed, proposed or still unknown. State whether line numbers refer to the original or revised manuscript.
+
+Quote manageable changes when they make verification easier; summarize a very large addition and give its precise section instead of copying pages. A long reply with few manuscript edits can be justified only when the public account is already adequate. A response-only result can answer a specific question only if the published conclusions remain assessable without it.
 
 ## Variants and edge cases
 

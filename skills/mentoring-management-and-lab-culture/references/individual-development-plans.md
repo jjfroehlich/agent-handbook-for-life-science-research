@@ -10,11 +10,11 @@ Turn development into a predictable mentoring routine. The meeting should celebr
 
 ## Default workflow
 
-1. Prepare: ask the trainee to reflect on progress, goals, skills, constraints, and desired support.
+1. Prepare separately: both trainee and mentor reflect on progress, goals, skills, constraints and support. The trainee's account should not have to begin from the mentor's written verdict.
 2. Celebrate: start with accomplishments, strengths, and learning.
 3. Diagnose: identify growth areas, project risks, unclear expectations, relationship tensions, and career uncertainties.
 4. Plan: translate personal and professional goals into concrete milestones, support, introductions, practice, and deadlines.
-5. Repair: ask what the mentor or lab should change.
+5. Repair: ask what the mentor or lab should keep, change or stop. Let the trainee finish; receiving their feedback before giving yours can make room for an otherwise displaced perspective.
 6. Record agreed actions, owners, timelines and the next relevant review point. Label offers and unresolved proposals separately; a completed meeting is not evidence that development outcomes have occurred.
 
 ## Decision rules
@@ -24,6 +24,10 @@ Turn development into a predictable mentoring routine. The meeting should celebr
 - If the plan is too broad, focus on the next useful interval plus a longer-horizon direction; use the actual placement or project stage rather than requiring a quarter.
 - If career goals do not directly serve the PI's project, still identify development steps that support the trainee's next move.
 - If the trainee is discouraged, separate project outcomes from personal worth and identify what was learned.
+
+Keep the calendar flexible. One-to-three-month milestones can help estimate nearer work, but a short placement or uncertain access needs another interval. Count skills, exams, applications and life transitions as well as papers. When an old goal was missed, ask what blocked it before carrying it forward. Printed forms with visible joint annotations are one way to preserve both prepared views; an accessible shared alternative can do the same job. A form is neither a validated score nor proof of agreement or progress.
+
+Upward feedback should change something the mentor controls. An unclear writing handoff, a PI manuscript queue and excessive mentoring of rotation students need different remedies: clarify the handoff, reserve or redistribute review time, or reduce training assignments. Name where the time or resource comes from. Asking for feedback without delivering the resulting support leaves the original obstacle in place. Sensitive feedback can use a later or independent route; reciprocity does not remove the evaluator's power.
 
 ## Variants and edge cases
 

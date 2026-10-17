@@ -6,14 +6,14 @@ Use this when the proposal's central story is unclear, the objective appears too
 
 ## The job of this topic
 
-Make the proposal easy to understand as one funding argument: a problem worth solving, a clear objective, an active premise, a plausible approach, and outcomes reviewers can score.
+Make the proposed purpose, question/problem/idea or device, approach and possible contribution understandable. A hypothesis is something to investigate; an exploratory or resource-development objective need not acquire a guaranteed mechanism or positive result.
 
 ## Default workflow
 
 1. Write the objective in one sentence: "We will [test/build/define] [object] to [advance/solve] [need]."
 2. State the premise or development objective. Distinguish the hypothesis being tested from established evidence; a resource-development proposal need not assert a mechanism.
 3. Put the objective and premise before extended background.
-4. Build the section order around reviewer logic: problem, significance, gap or enabling advance, approach rationale, proposed work, interpretable outcomes, risks, and long-term direction.
+4. Connect the argument within the required sections: relevant problem/context, significance, gap or enabling advance, approach rationale, proposed work, interpretable outcomes, risks and longer-term contribution. This is an adaptable planning route, not a literary plot or substitute for required headings.
 5. Cut background that proves reading breadth but does not help a reviewer score importance, novelty, feasibility, or fit.
 
 ## Decision rules
@@ -25,7 +25,7 @@ Make the proposal easy to understand as one funding argument: a problem worth so
 
 ## Variants and edge cases
 
-- Fellowships need explicit "why this applicant," "why this lab/environment," and "why now" logic.
+- Fellowships need explicit "why this applicant" and "why this lab/environment" logic, with "why now" where timing is relevant.
 - Early-career project grants may need the CV or track record to support future execution, not dominate the narrative.
 - Mechanisms with strict templates should keep the narrative spine while using the funder-required headings.
 
@@ -41,7 +41,7 @@ Make the proposal easy to understand as one funding argument: a problem worth so
 - What problem should the reviewer care about after the first page?
 - What is the one-sentence objective?
 - What premise connects the aims to the payoff?
-- Which sections answer why this problem, why now, why this approach, and why this applicant or environment?
+- Which sections answer why this problem, why this approach and why this applicant or environment, including why now if relevant?
 - Which paragraph can be cut without changing the scoring argument?
 
 ## Output patterns / mini-templates
@@ -52,7 +52,7 @@ Active premise map:
 Objective:
 Active premise:
 Why this problem:
-Why now:
+Why now, if relevant:
 Why this approach/model/system:
 Why this applicant/team/environment:
 Expected change if successful:
@@ -76,7 +76,7 @@ Do not override required funder headings. Use the narrative spine inside the req
 
 ## Critical Detail Surfacing
 
-Do not bury decisive facts after long background. Put the objective, urgency, novelty, central number, or most important context in the title, opening, summary, topic sentences, subheads, or figure captions.
+Do not bury decision-changing context after long background. Put the actual objective, importance, novelty or central quantity where it helps the reader interpret the proposal. Do not add urgency, a population estimate or a therapeutic benefit that the supplied evidence does not support. A title revision or a successful application anecdote cannot establish what caused funding.
 
 Future-ramifications check:
 

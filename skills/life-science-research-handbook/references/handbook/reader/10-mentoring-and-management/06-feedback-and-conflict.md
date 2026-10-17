@@ -61,6 +61,8 @@ Discuss an individual’s performance privately, at a time when both people can 
 
 Agree a feasible next attempt, the support each person will provide and when you will review it. Check that both people understand the same task; invite corrections to the written summary. For recurring problems, review whether the agreed support was delivered and whether the expectation remains realistic. Formal performance management, disciplinary action or a change of role needs the institution’s current process for that person’s status. An informal agreement does not replace it [[7]](#ref-feedback-conflict-rabinak2026).
 
+If the two people disagree that improvement is needed, identify the disputed observation or standard. That disagreement does not establish who is wrong. Ability, expectations, incentives and available support can interact; a simple ability-versus-motivation split can miss the workload or supervision that made the task unworkable. A formal plan may be appropriate after ordinary support, but poor fit in one role does not establish lack of potential elsewhere [[7]](#ref-feedback-conflict-rabinak2026).
+
 **An original example: a missed submission deadline**
 
 In this fictional laboratory, a research assistant prepares sample sheets for weekly sequencing submissions. Two sheets due Tuesday at noon arrived Wednesday morning; one lacked the required batch field. The analyst could not begin the agreed check on Tuesday. The supervisor schedules a private discussion with the assistant.
@@ -125,6 +127,8 @@ End with a record of the arrangement, owners, unresolved points and review date.
 
 Direct discussion is not always a safe or effective first step. Threats about graduation, employment, references, funding or residence-related arrangements can make an apparently simple conversation consequential. Repeated humiliation, coercion, harassment, discrimination or retaliation warrants support beyond an ordinary feedback exchange. You do not need to establish a legal label or confront the person before asking for advice [[1]](#ref-feedback-conflict-ayres2022).
 
+A serious act that puts a researcher’s career at risk, such as appropriating their leading contribution, need not recur before help is appropriate. Occasional lapses and serious harmful conduct are different; a mentor’s useful qualities elsewhere do not cancel the concern. Assess the behavior and feasible support rather than assigning a personality label or directing an immediate exit [[4]](#ref-feedback-conflict-chopra2016).
+
 Identify an adviser whose role fits the concern and whose position is sufficiently independent of the person involved. Possible routes include a programme or committee contact, another manager, an ombud service, an employee or student representative, an equality or harassment adviser, a research-integrity office or a safety contact. Availability and authority vary. A trusted mentor can help you think through a decision, but may not be able to initiate protective or formal action [[4]](#ref-feedback-conflict-chopra2016).
 
 Before sharing identifying details, ask what the adviser can do, what they must report, who may receive information and what confidentiality means in that service. An informal conversation is not automatically off the record. An anonymous channel may also reveal a person’s identity through the details of a small group. Clear routes help, but a lab policy or feedback channel cannot itself remove the barriers to challenging a powerful person [[1]](#ref-feedback-conflict-ayres2022); [[5]](#ref-feedback-conflict-dona2025).
@@ -157,11 +161,11 @@ Discuss with the adviser how each option could affect your work and position. Ch
 
 ## References
 
-1. <a id="ref-feedback-conflict-ayres2022"></a>[Ayres, Z. J. (2022). **Managing your Mental Health during your PhD: A Survival Guide.** Springer. Especially sections 9.8–9.11.](https://link.springer.com/book/10.1007/978-3-031-14194-2)
+1. <a id="ref-feedback-conflict-ayres2022"></a>[Ayres, Z. J. (2022). **Managing your Mental Health during your PhD: A Survival Guide.** Springer.](https://link.springer.com/book/10.1007/978-3-031-14194-2)
 
-2. <a id="ref-feedback-conflict-bennett2018"></a>[Bennett, L. M., Gadlin, H., & Marchand, C. (2018). **Collaboration and Team Science Field Guide.** Second edition. National Cancer Institute, National Institutes of Health. Especially pp. 22–23 and chapter 10.](https://www.govinfo.gov/content/pkg/GOVPUB-HE20_3150-PURL-gpo114532/pdf/GOVPUB-HE20_3150-PURL-gpo114532.pdf)
+2. <a id="ref-feedback-conflict-bennett2018"></a>[Bennett, L. M., Gadlin, H., & Marchand, C. (2018). **Collaboration and Team Science Field Guide.** Second edition. National Cancer Institute, National Institutes of Health.](https://www.govinfo.gov/content/pkg/GOVPUB-HE20_3150-PURL-gpo114532/pdf/GOVPUB-HE20_3150-PURL-gpo114532.pdf)
 
-3. <a id="ref-feedback-conflict-rightmoves2006"></a>[Burroughs Wellcome Fund and Howard Hughes Medical Institute. (2006). **Making the Right Moves: A Practical Guide to Scientific Management for Postdocs and New Faculty.** Second edition. Especially pp. 60–62, 69–72 and 92–94.](https://www.hhmi.org/programs/resources-early-career-scientist-development/making-right-moves)
+3. <a id="ref-feedback-conflict-rightmoves2006"></a>[Burroughs Wellcome Fund and Howard Hughes Medical Institute. (2006). **Making the Right Moves: A Practical Guide to Scientific Management for Postdocs and New Faculty.** Second edition.](https://www.hhmi.org/programs/resources-early-career-scientist-development/making-right-moves)
 
 4. <a id="ref-feedback-conflict-chopra2016"></a>[Chopra, V., Edelson, D. P., & Saint, S. (2016). **Mentorship malpractice.** *JAMA*, 315(14), 1453–1454.](https://doi.org/10.1001/jama.2015.18884)
 
@@ -169,4 +173,4 @@ Discuss with the adviser how each option could affect your work and position. Ch
 
 6. <a id="ref-feedback-conflict-lakens2016criticism"></a>[Lakens, D. (2016, September 19). **Why scientific criticism sometimes needs to hurt.** *The 20% Statistician*.](https://daniellakens.blogspot.com/2016/09/why-scientific-criticism-sometimes.html)
 
-7. <a id="ref-feedback-conflict-rabinak2026"></a>[Rabinak, C. A. (2026). **The Human Side of Lab Leadership: Practical Guidance for Hiring, Culture, Mentorship and Performance in Research Teams.** Version 1.0. Especially pp. 27–29, 34–35 and 55–64.](https://doi.org/10.5281/zenodo.19039279)
+7. <a id="ref-feedback-conflict-rabinak2026"></a>[Rabinak, C. A. (2026). **The Human Side of Lab Leadership: Practical Guidance for Hiring, Culture, Mentorship and Performance in Research Teams.** Version 1.0.](https://doi.org/10.5281/zenodo.19039279)

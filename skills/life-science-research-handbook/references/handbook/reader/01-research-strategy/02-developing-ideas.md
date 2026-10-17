@@ -8,6 +8,8 @@
 
 An observation you cannot explain can give you the beginning of a research idea. Explore possible explanations and look for a way to test them. The question may change as you learn more.
 
+An idea can also begin with a question or a model whose implications you want to explore; you do not have to collect data first.
+
 Yanai and Lercher call exploratory thinking *night science* and systematic testing *day science*, following François Jacob’s distinction. You can move between the two as an experiment suggests a new idea or an idea becomes ready to test [[3]](#ref-ideas-yanainight2019).
 
 <a id="ideas-exploration"></a>
@@ -20,7 +22,7 @@ You can explore data before choosing a hypothesis to test. You still need to und
 
 Try different views of the data. A distribution can reveal variation hidden by an average; individual trajectories can show whether samples change in the same way over time. Check whether a pattern coincides with how or when samples were prepared and measured. If the pattern appears in processed data, compare them with the raw observations to see whether processing created it. Shoresh and Wong distinguish plots used to explore data from plots used to explain a finding already identified [[2]](#ref-ideas-shoresh2012). [Choosing a figure or table](../03-data-visualization/01-choosing-a-figure-or-table.md#display-chapter) explains what different displays can reveal.
 
-A specific hypothesis can focus attention so narrowly that other features go unnoticed. But searching many views of a dataset can also turn up patterns by chance. Keep a record of the plots and analysis choices that led to an idea, including any observations you excluded. Identify it as an idea developed from those data: the pattern that suggested it does not also provide an independent test of it [[4]](#ref-ideas-yanaihypothesis2020).
+A specific hypothesis can focus attention so narrowly that other features go unnoticed. But searching many views of a dataset can also turn up patterns by chance. Choose further exploration for what it might help you learn, weighing it against other work; you need not inspect every possible view before moving on. Keep a record of the plots and analysis choices that led to an idea, including any observations you excluded. Identify it as an idea developed from those data: the pattern that suggested it does not also provide an independent test of it [[4]](#ref-ideas-yanaihypothesis2020).
 
 <a id="ideas-connections"></a>
 
@@ -38,7 +40,9 @@ Several other explanations remain possible. Lower fluorescence could mean less r
 
 ## Discussing unfinished ideas
 
-Discuss the unfinished idea with someone who can help you develop it. A colleague familiar with the assay may notice a measurement problem; someone from another field may suggest an explanation you had not considered. Choose a person or group with whom you can think aloud before you have a defensible answer [[9]](#ref-ideas-yanaiimprov2022); [[11]](#ref-ideas-yanaitwo2024).
+When another perspective would help, discuss the unfinished idea with someone who can help you develop it. A colleague familiar with the assay may notice a measurement problem; someone from another field may suggest an explanation you had not considered. Choose a person or group with whom you can think aloud before you have a defensible answer [[9]](#ref-ideas-yanaiimprov2022); [[11]](#ref-ideas-yanaitwo2024).
+
+Writing out an argument, sketching it on a board or imagining how a colleague might respond can also reveal a gap. Use a conversation, a trusted group or solitary work according to what helps at this stage; you do not need to wait for a partner to begin [[9]](#ref-ideas-yanaiimprov2022).
 
 Give a tentative idea time to develop before rejecting it. Ask what would have to be true for it to work, or whether a narrower version could explain the observation. Then examine it critically: does it conflict with known evidence, and what alternatives have you overlooked? Yanai and Lercher recommend this constructive exchange without requiring colleagues to agree that an idea is true [[9]](#ref-ideas-yanaiimprov2022).
 

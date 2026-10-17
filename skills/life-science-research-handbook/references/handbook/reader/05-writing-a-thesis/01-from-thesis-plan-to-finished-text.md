@@ -120,6 +120,8 @@ These are functions, not mandatory headings. Their order and emphasis depend on 
 
 **Background or literature review: establish the basis for the question.** Explain the necessary concepts and critically compare what is known, disputed or missing. Include the breadth needed to understand the studies, while connecting each topic to a later question, design choice or interpretation.
 
+A separate literature chapter helps when several studies rely on a substantial shared account. Integrating the review into the introduction can work for a shorter, tightly connected thesis; study-specific context can remain in each research chapter. For the seedling example, a common account of root development avoids repeating it three times, while the timing study still needs its own account of developmental stages. Choose the arrangement that makes the argument accessible within the permitted format, rather than treating a separate review chapter as evidence of greater rigor.
+
 **Motivation or rationale: explain why the investigation matters.** Explain why the question is worth answering and how your approach could help. Saying that little is known leaves the reader to work out why knowing more would be useful.
 
 **Aims, questions or hypotheses: specify the task.** State what the thesis investigates and how the studies contribute. If a study tests a hypothesis, explain the prediction used to test it. Do not invent prior hypotheses for exploratory or resource-building work.
@@ -178,7 +180,7 @@ For a complex synthesis, use a table to compare what different projects establis
 
 <a id="thesis-conclusion"></a>**The conclusion**
 
-A separate conclusion is useful after a substantial general discussion. State the overall contribution, its scope and the next question that follows from it. Develop detailed interpretations and present essential evidence in the preceding chapters. [[4]](#ref-thesis-georgemccombes2024thesisconclusion).
+A separate conclusion can be useful after a substantial general discussion; a combined ending can suffice where the format permits and the answer is already clear. State the overall contribution, its scope and, where useful, the next question that follows from it. Develop detailed interpretations and present essential evidence in the preceding chapters. [[4]](#ref-thesis-georgemccombes2024thesisconclusion).
 
 <a id="thesis-completion"></a>
 

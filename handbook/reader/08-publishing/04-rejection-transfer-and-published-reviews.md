@@ -103,6 +103,8 @@ Find out whether the offer is an automated suggestion, a recommendation from the
 
 Check which files and correspondence will transfer, including earlier versions, and remove confidential material you do not want to send. The Nature Portfolio guide consulted for this chapter permits file changes during transfer. It also prohibits an appeal while the paper is being transferred for consideration elsewhere. Check the receiving journal’s applicable instructions before proceeding. [[7]](#ref-resubmission-naturetransfer).
 
+Inspect the actual stages of the transfer route. Viewing or selecting a suggested destination need not complete transfer or formal submission. Check any new preprint-deposition choice, which may not inherit an earlier opt-in, and do not assume that all reports, identities or received dates carry forward unchanged. The receiving journal may seek new reviewers. These are destination-specific process questions to verify, not assurances supplied by a transfer link. [[7]](#ref-resubmission-naturetransfer).
+
 Review transfer follows the journals’ agreements about confidentiality and identity. Do not forward an editor’s confidential material or reveal a reviewer on the assumption that permission to use the report also permits disclosure. COPE advises journals and reviewers to establish what can be shared in a transfer. [[8]](#ref-resubmission-cope2017).
 
 <a id="resubmission-package"></a>
@@ -152,6 +154,8 @@ When using published correspondence to learn about reviewing, examine how the re
 Before agreeing to publish a review history, inspect what it includes and who can consent to publication. In the PLOS One process consulted for this chapter, authors can opt into publication of decision letters, reports, responses and attachments; names appear when reviewers have signed their reports, and ethical considerations can limit publication. Recheck the journal’s model and permissions for the history you intend to publish. [[5]](#ref-resubmission-plosprocess).
 
 If earlier reports came from another journal, ask how their publication is authorized and how the original context will be identified. Keep confidential correspondence private until the applicable permissions are clear. For teaching or quoting from an already published report, check its stated license and cite the particular report and version. [[8]](#ref-resubmission-cope2017); [[9]](#ref-resubmission-cheeseman2018).
+
+Consider what transparency would help and whom it could expose. Published reports can provide learning examples and context that the final article omits, but those proposed benefits do not establish better review quality or protect a junior reviewer from retaliation. Secondary studies summarized in the toolbox report mixed outcomes. Signing and publication therefore remain separate, context-sensitive choices; a general preference for openness need not settle every case. Preparing a history also takes work, and a practitioner’s estimate is not a universal cost or obligation to pay. [[10]](#ref-resubmission-plostoolbox); [[9]](#ref-resubmission-cheeseman2018).
 
 <a id="resubmission-checklist"></a>**Before taking the next step**
 

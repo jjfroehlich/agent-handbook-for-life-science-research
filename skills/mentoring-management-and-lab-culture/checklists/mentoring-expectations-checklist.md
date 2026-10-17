@@ -21,6 +21,8 @@ Select items relevant to the relationship or requested change. Discuss them; rec
 - Are career goals allowed to diverge from the PI's path?
 - Does hard feedback include support and next steps?
 - Is the document treated as revisable, not as a one-time contract?
+- Is direction matched to demonstrated readiness for this task, with teaching when a novice cannot yet propose a defensible next step?
+- Can the trainee seek independent advice without PI permission, with each adviser's remit and reporting limits checked?
 
 ## Undergraduate-Specific Expectations
 
@@ -29,4 +31,4 @@ Select items relevant to the relationship or requested change. Discuss them; rec
 - Honest error reporting has a clear supportive response and appropriate safety/integrity route; do not promise freedom from every consequence.
 - Supervision cadence and agenda ownership are clear.
 - Credit, pay, course credit, and letter-support expectations are explicit.
-- Sanctions and boundaries are proportionate to role and training stage.
+- Consequences and boundaries follow the actual institutional process; a local mentor's sanctions list does not supply authority.

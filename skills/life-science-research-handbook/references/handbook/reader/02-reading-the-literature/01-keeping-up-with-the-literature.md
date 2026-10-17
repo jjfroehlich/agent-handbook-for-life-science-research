@@ -28,6 +28,8 @@ Start with a query that describes the biological question or method, then inspec
 
 Use alerts or feeds for searches and publications you want to follow, or revisit their pages regularly. Check what each subscription adds: perhaps one finds new applications of your assay while another follows a neighboring field. When several alerts return the same paper, keep one record.
 
+Choose delivery to suit how you read. A feed may make individual papers easy to save, while a well-sectioned email may be easier to scan. Immediate article alerts arrive sooner but can interrupt more often than an issue bundle. Keep a channel that works for you, and check its current features before changing tools [[3]](#ref-literature-ulitsky2018literature). Journal reputation can help you choose a discovery route, but it does not establish the quality of a particular study. Excluding small journals or unfamiliar languages can also hide relevant work.
+
 When you find an important paper elsewhere, check why your searches missed it. A different term or an additional source may help. Even several well-chosen searches can miss relevant work; adding subscriptions is useful only if they help fill a gap you have identified.
 
 <a id="literature-triage"></a>

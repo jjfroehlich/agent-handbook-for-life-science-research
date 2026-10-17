@@ -176,6 +176,8 @@ Brake reduced infectious phage A output. Across six experimental days, the geome
 
 A lower endpoint titre is not automatically a smaller burst size per infected cell. Keep the result named after the quantity measured.
 
+If the required format permits only reporting in Results, move the final interpretive sentence to Discussion. Keep the endpoint, matched comparison and uncertainty in the Results account. The placement changes; the measured quantity and strength of evidence do not.
+
 <a id="reporting-results-limits"></a>
 
 ### Negative and inconclusive findings

@@ -14,7 +14,7 @@ Plan the work in stages. Decide what you can do now and which later steps depend
 
 Define what the next stage should establish. “Understand heat stress” is too broad to plan. “Check whether this imaging method can measure division timing after a heat pulse” gives the first stage a specific purpose. The method may work even if the heat pulse does not change division timing.
 
-Work out what you can do with the time, equipment and help available. Check sample access and any commitments already made to collaborators. If a stage depends on an instrument booking, confirm the booking before scheduling work that requires it. Do the same for other resources you are counting on [[1]](#ref-project-plan-rightmoves2006).
+Work out what you can do with the time, equipment and help available. Check sample access and any commitments already made to collaborators. Establish their particular role, usable time and relevant access rather than treating interest in the project as committed support. If a stage depends on an instrument booking, confirm the booking before scheduling work that requires it. Do the same for other resources you are counting on [[1]](#ref-project-plan-rightmoves2006).
 
 Agree on scope with the people who will do and support the work. Include what this stage will leave unanswered. A first experiment may establish a response without identifying its mechanism; a technical pilot may establish whether a response can be measured at all. These are different milestones. For the scientific design itself, use [connecting questions, models and experiments](03-connecting-questions-models-and-experiments.md#models-chapter).
 
@@ -58,7 +58,7 @@ In this fictional project, Mira asks whether a short heat pulse changes the time
 
 ## Reviewing the plan
 
-For an extended project, start with a monthly review, as Gosling and Noordam suggest. Compare progress with the previous plan, discuss why work took a different course and agree on the next goals [[3]](#ref-project-plan-goslingnoordam2022thesis). Use a shorter interval when a decision cannot wait until the next month.
+Agree on a review interval that fits how quickly the next commitment may change. Gosling and Noordam propose a monthly review for extended doctoral projects. At each review, compare progress with the previous plan, discuss why work took a different course and agree on the next goals [[3]](#ref-project-plan-goslingnoordam2022thesis).
 
 Review sooner if an essential control fails, access is lost or new evidence changes the question. Routine troubleshooting can usually stay within the current plan.
 
@@ -84,7 +84,9 @@ Even a technically successful experiment can be inconclusive. An uncertain estim
 
 If work has stopped because samples, equipment or help are unavailable, discuss whether and when access can be restored. The scientific question may still be worth answering, but you may need another way to study it or a different project while you wait [[1]](#ref-project-plan-rightmoves2006).
 
-When discussing a setback, ask what prevented progress and what help would make a difference. If a control is missing, agree on how to establish it. If equipment is unavailable, resolve access or change the plan. Assess the work without treating the setback as a judgment of the researcher [[3]](#ref-project-plan-goslingnoordam2022thesis).
+When discussing a setback, ask what prevented progress and whether useful help is available. A missing control may warrant a specific check, while unavailable equipment may require another route or a pause. Decide whether the added work is worthwhile and feasible before committing to it. Assess the work without treating the setback as a judgment of the researcher [[3]](#ref-project-plan-goslingnoordam2022thesis).
+
+When collaborators are involved, distinguish a scientific obstacle from changed priorities, lost capacity or a commitment that is not being met. Discuss which problem needs addressing before agreeing on repair or an orderly exit [[1]](#ref-project-plan-rightmoves2006).
 
 <a id="project-review-options"></a>
 

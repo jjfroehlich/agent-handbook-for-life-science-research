@@ -4,7 +4,7 @@ description: "Draft or revise manuscripts, abstracts, figure legends, thesis cha
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Scientific Writing
@@ -55,10 +55,10 @@ Select only the format that fits the requested deliverable; these are patterns, 
 
 - Open `references/abstracts.md` for abstracts, summaries, graphical-abstract text, or compressed paper descriptions.
 - Open `references/introductions.md` for gap, significance, aim, scope, or field-context problems.
-- Open `references/results-sections.md` for results paragraphs, figure callouts, finding-first structure, or interpretation leakage.
+- Open `references/results-sections.md` for results paragraphs, figure callouts, local interpretation, and format-dependent placement of broader claims.
 - Open `references/discussions.md` for interpretation, limitations, implications, conclusions, and overclaim control.
 - Open `references/figure-legends.md` for figure captions, panel logic, labels, statistics, and self-contained legends.
-- Open `references/paper-structure.md` for whole-manuscript flow, central contribution, titles/headings, paragraph order, chronology-to-reader-logic problems, and style diagnostics.
+- Open `references/paper-structure.md` for whole-manuscript flow, Methods reporting, central contribution, titles/headings, paragraph order and sentence-level style choices.
 - Open `references/thesis-writing.md` for thesis/dissertation chapters and institution-sensitive structure.
 - Open `references/authorship-and-contributions.md` for contribution statements, acknowledgements, or authorship-sensitive wording.
 - Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task.
@@ -72,15 +72,15 @@ Apply only the checks relevant to the requested scope and artifact. Inspect supp
 - Can a reader identify the gap, method or approach, evidence, interpretation, and caveats?
 - Can each main result be traced to a question, figure/table, comparison, and bounded local conclusion?
 - Are claims calibrated to the supplied evidence?
-- Is the draft organized around reader logic rather than the order in which the work happened?
+- Does the order explain the argument, including chronology where sequence itself matters?
 - Are important terms searchable and stable, especially in abstracts, titles, figure legends, and contribution statements?
 - Does the rewrite keep the author's scientific meaning, comparison, quantity, actor, scope, and uncertainty while reducing friction?
 
 ## Common pitfalls
 
 - Polishing vague prose before fixing the argument.
-- Reordering prose around research chronology rather than reader logic.
-- Turning results into discussion or discussion into a second results section.
+- Using research chronology when it hides the evidential logic, or deleting a sequence that explains it.
+- Removing necessary local interpretation from Results, or repeating Results without synthesis in Discussion.
 - Replacing accurate uncertainty with confident overstatement.
 - Cutting searchable method, system, comparison, or result terms during compression.
 - Treating acknowledgements as hidden authorship credit or contribution statements as praise.

@@ -14,6 +14,8 @@ Turn critique into a bounded, useful decision aid: what works, what fails, what 
 
 ## Default workflow
 
+Apply this at the requested scope. A useful local edit need not wait for whole-artifact repair; flag a consequential unresolved concern without inventing a solution or expanding the assignment.
+
 1. Name the artifact goal and the standard you are using.
 2. Identify strengths that the revision should preserve.
 3. Separate blocking issues from major issues, secondary improvements, and optional polish.
@@ -42,7 +44,7 @@ Turn critique into a bounded, useful decision aid: what works, what fails, what 
 - "Looks good" without naming why.
 - "Needs clarity" without naming the reader confusion.
 - Long unsorted lists of comments.
-- Polishing sentences while the artifact has a strategy or evidence problem.
+- Letting sentence polish conceal a consequential strategy or evidence problem, or withholding a bounded edit until unrelated structural work is finished.
 - Giving feedback that the user cannot act on before their deadline.
 
 ## Diagnostic questions
@@ -66,7 +68,7 @@ Assumptions or missing context: <limits>.
 
 ## Examples
 
-- Weak: "The introduction is confusing." Strong: "The introduction has three problem statements; choose one and make the rest supporting context."
+- Weak: "The introduction is confusing." Strong when the supplied opening obscures the questions' relationship: "Show how these problem statements connect to the work. If they restate one problem, consolidate them; if they motivate distinct questions, keep those distinctions and give readers a clear route between them."
 - Weak: "Make the poster cleaner." Strong, if the inspected poster gives excessive space to secondary methods: "Compress those methods and enlarge the result comparison, retaining the control and qualification needed to interpret it."
 
 ## When not to apply this

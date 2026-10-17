@@ -23,7 +23,7 @@ Decision: proceed / retarget / clarify
 Objective:
 Active premise:
 Why this problem:
-Why now:
+Why now, if relevant:
 Why this approach/model/system:
 Why this applicant/team/environment:
 Expected change if successful:
@@ -35,7 +35,7 @@ Expected change if successful:
 Aim or work package:
 Rationale:
 Overall plan:
-Specific example or preliminary data:
+Available example/preliminary evidence, or qualification still needed:
 Evidence status and tested scope:
 Interpretable outcomes:
 Potential issue:
@@ -80,7 +80,7 @@ Statements to rewrite or unbold:
 | Check | Evidence in draft | Risk if missing | Fix |
 |---|---|---|---|
 | Hypothesis/goal | | Reviewer cannot tell what success means | Add explicit objective and outcome |
-| Controls/analysis | | Feasibility looks underplanned | Add controls, analysis plan, and rationale |
+| Controls/analysis | | The comparison may not distinguish the proposed explanations | Identify the essential control/analysis and revise the comparison or claim; do not invent completed checks |
 | Funder budget fit | | Costs or scope do not match the call | Check current cost rules and reconcile justified costs with scope |
 | LOI consistency, if applicable | | Full proposal changes an earlier request | Explain scope and amount changes under the actual process |
 
@@ -92,4 +92,4 @@ Statements to rewrite or unbold:
 | Narrative signpost pass | | | Non-specialist skim test |
 | Budget calibration | | | Research office or funder-fit check |
 | Visual/caption pass | | | Reviewer navigation check |
-| Rest and fresh reread | | | Final coherence pass |
+| Fresh reread, with distance when feasible | | | Final coherence pass within actual deadlines |

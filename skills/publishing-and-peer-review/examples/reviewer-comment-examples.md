@@ -101,3 +101,23 @@ Why it works: it explains the tradeoff and the chosen revision path.
 > I assessed the experimental design and its reporting; I did not assess the specialist modeling section assigned to the other reviewer. The comparative claim needs either direct supporting evidence or revision. I cannot infer a fatal analysis flaw from the omitted reporting alone, and I have not requested a new experiment. My author-facing comment identifies the unresolved inference and the information needed to judge it.
 
 The report asks for the evidence that changes the assessment without claiming to have executed a contrast, prescribing a model from incomplete design details or guaranteeing that a reporting edit will resolve the concern.
+
+## An assay cannot distinguish the claimed state
+
+**Fictional supplied facts:** An assay measures the combined abundance of states A and B. The manuscript calls a lower combined signal a selective loss of A. No state-specific measurement is supplied.
+
+**Completed comment:**
+
+> The assay described in Methods measures A and B together, so the lower combined signal does not establish a selective loss of A. Please report evidence that distinguishes those states if retaining that conclusion, or describe the observed decrease in their combined signal. More precise measurement of the same combined quantity would not resolve which state changed.
+
+If the assay instead distinguished A from B with relevant validation, this objection would not apply. Whether isolation alters the property is a separate question from whether the assay distinguishes its components.
+
+## A genuine extreme observation versus a documented error
+
+**Fictional supplied facts:** A scatterplot contains one extreme observation that strongly influences the fitted association. Its measurement provenance has not been checked; the manuscript does not report a sensitivity analysis.
+
+**Completed comment:**
+
+> Please check the provenance of the influential observation and explain how it affects the association estimate. Its distance from the other points does not establish an error. If it is a genuine observation, retain it and justify the estimand/model, with an informative sensitivity analysis where suitable. If a documented measurement error is found, describe the correction or justified exclusion and its effect on the reported inference.
+
+This does not prescribe deletion, rank correlation or a particular model from the plot alone. A pooled association may also differ from the within-group association; choose the question before selecting a remedy.

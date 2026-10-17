@@ -2,6 +2,8 @@
 
 Use this when the user is comparing postdoc labs, PI conversations, or offers.
 
+Select the checks that could change this decision; no fixed number of publications, visits, informants or years defines success. Compare a postdoc with feasible direct entry or focused training rather than assuming more training is always needed.
+
 ## Career Purpose
 
 - What the postdoc must accomplish: new field, new method, publications, independence, funding, faculty readiness, industry bridge, or geographic constraint.
@@ -17,6 +19,8 @@ Use this when the user is comparing postdoc labs, PI conversations, or offers.
 - Resources: data, equipment, organisms, collaborators, staff, and technical support.
 - Alumni outcomes, including people with the user's target career path.
 - Whether the project can create a portable niche.
+- What materials, data, credit and future directions can actually continue after departure, with whom and under whose authority; revisit arrangements as contributions change.
+- Financial and household feasibility, actual employment terms and the cost of delaying the intended destination.
 
 ## Questions to Ask
 

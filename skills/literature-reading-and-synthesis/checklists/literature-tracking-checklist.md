@@ -8,8 +8,8 @@ Use when creating or auditing an alert and reading-queue system.
 - Record query, scope, or inclusion logic for each source.
 - Estimate weekly volume.
 - Define triage actions: ignore, save, skim, deep read, follow up, or synthesize.
-- Schedule a weekly scan.
+- Choose a sustainable scan interval; weekly is one option.
 - Add a backlog review step.
-- Narrow noisy feeds and broaden empty feeds.
+- Check why a feed is noisy or empty before changing its scope; broaden when relevant papers are being missed.
 - Prune redundant or unprocessed sources.
 - Expand only after the current stream is stable.

@@ -4,12 +4,12 @@ Use this for manuscript, paper, preprint, thesis chapter, article draft, or resp
 
 ## Checks
 
-- Central question, contribution, and claim boundary are visible.
-- Section jobs are not mixed: introduction frames the gap, results report findings, discussion interprets and bounds claims.
+- The question or connected questions, contribution and claim boundaries are visible.
+- Section functions match the actual genre: distinguish framing, findings and interpretation while allowing an integrated Results and Discussion or other required structure.
 - Evidence spine is traceable from question to figure/table to local conclusion.
 - Figures and tables support the text and do not hide uncertainty, sample structure, or visual accessibility problems.
 - Claims are calibrated to evidence and limitations.
-- Reader-facing organization is stronger than chronology of how the work happened.
+- Organization helps the reader assess the argument, retaining chronology when the sequence itself explains the evidence.
 - If publication process matters, submission, review, or response strategy is separated from manuscript-quality critique.
 
 ## Failure signals

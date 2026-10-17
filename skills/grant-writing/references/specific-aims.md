@@ -11,11 +11,11 @@ Make the aims cognitively manageable, visibly connected to the premise, independ
 ## Default workflow
 
 1. State the objective and active premise before listing aims.
-2. Add an early overview figure or verbal map that shows the relationship among aims.
+2. Where useful and permitted, add an early overview figure or verbal map that shows the relationship among aims.
 3. Check whether each aim answers a distinct part of the central question.
 4. Identify dependencies and what happens if an enabling step fails. Independent aims may reduce fragility; sequential development can be appropriate when qualification criteria, decision gates, and remaining useful outputs are clear.
 5. For the aims being reviewed, identify rationale, plan, available evidence, interpretable outcomes, and consequential risks. Name an alternative only if it is credible and supplied, or label it as a proposal to verify.
-6. Group crowded projects so a reviewer can follow their relationships. Use the scheme's expected aims, objectives, work packages, or milestones; three goals can be a useful drafting default, not a ceiling.
+6. Group crowded projects so a reviewer can follow their relationships. Use the scheme's actual aims, objectives, work packages or milestones. A three-part draft may help some projects, but must not hide distinct questions or dependencies to satisfy a count.
 
 ## Decision rules
 
@@ -26,9 +26,13 @@ Make the aims cognitively manageable, visibly connected to the premise, independ
 
 ## Variants and edge cases
 
-- The three-aim rule is a reviewer-cognition heuristic, not a universal eligibility requirement.
+- The three-aim pattern is a craft preference; no fixed human capacity of three ideas or universal eligibility requirement is established by it.
 - Some mechanisms expect work packages, objectives, or milestones instead of "Aim 1/Aim 2/Aim 3"; preserve the logic under the required labels.
 - A method-development call can fund unresolved technical capability. State what must be developed, how it will be assessed, and how time and resources support that work.
+
+A dependent later aim can be credible when actual preliminary evidence supports the enabling earlier step. Show exactly what that evidence establishes and what remains uncertain; it cannot guarantee that the downstream test will work. A sequential development opportunity may instead fund establishing the capability itself. In that case, expose the qualification criterion, allowed resources/time and decision if it is not met. These are different justifications, not permission to rename an unsupported bottleneck as independence or invent a backup.
+
+When useful and allowed, an early verbal or graphical overview can show purpose, importance, question-level aims, general and aim-specific approaches, relationships and intended contribution. Ten sentences, first-page placement and one figure per page are recipes rather than requirements. A figure needs readable labels and an adequate caption; a verbal map is valid when a figure adds little or is prohibited.
 
 ## Anti-patterns
 
@@ -36,6 +40,7 @@ Make the aims cognitively manageable, visibly connected to the premise, independ
 - Aims that are topic labels rather than testable or buildable advances.
 - Aims overview figures that are visually polished but do not explain the project.
 - Listing methods without rationale, outcomes, or alternatives.
+- Excusing an essential missing control because the reasoning sounds clear, inferring epigenetics from rapid change alone, or claiming causation from an expression comparison.
 
 ## Diagnostic questions
 

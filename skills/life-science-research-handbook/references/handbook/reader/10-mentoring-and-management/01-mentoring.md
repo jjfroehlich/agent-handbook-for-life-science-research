@@ -44,9 +44,9 @@ Keep individual supervision and development in this agreement. Put practices sha
 
 Bring the material needed for one or two consequential questions. A useful agenda says what has changed, what decision is needed and what the researcher currently recommends. Attach a figure, short rationale or draft when the evidence itself matters; routine status can be brief so the meeting has time for the decision.
 
-Ask the researcher to propose the next experiment and explain what its possible results would tell them. Discuss the reasoning before supplying your own answer. If they cannot choose a next step, find out why. They may need help interpreting a control, training in the method or a decision about access that only you can make. Asking them to be more independent will not resolve a decision they lack the authority to make.
+When the researcher can frame a next step, ask them to explain what its possible results would tell them before supplying your own answer. If they cannot yet choose one, work through an example and find out what is missing. They may need help interpreting a control, training in the method or a decision about access that only you can make. Asking them to be more independent will not resolve a decision they lack the knowledge or authority to make.
 
-Give a novice a task on which they can practise without putting irreplaceable material or a major project commitment at risk. Demonstrate the technique, explain common failure modes and begin with a task whose expected behavior is already known. As performance becomes reliable, shorten the instructions and move responsibility for planning, execution and interpretation to the researcher [[4]](#ref-mentoring-lukeman2013). When choosing a research problem together, consider whether it interests the researcher, whether it is feasible with the available expertise and what they would learn by pursuing it [[2]](#ref-mentoring-alon2009).
+Give a novice a task on which they can practise without putting irreplaceable material or a major project commitment at risk. Arrange a demonstration of the technique and its common failure modes, beginning with a task whose expected behavior is already known. First establish who can competently demonstrate this workflow: a mentor’s available time and access to documentation do not establish that expertise. If neither the mentor nor an available colleague has the required capability, identify the support gap before promising a demonstration. As performance becomes reliable, shorten the instructions and move responsibility for planning, execution and interpretation to the researcher [[4]](#ref-mentoring-lukeman2013). When choosing a research problem together, consider whether it interests the researcher, whether it is feasible with the available expertise and what they would learn by pursuing it [[2]](#ref-mentoring-alon2009).
 
 <a id="mentoring-judgment-example"></a>**Example: mentor a decision without taking it over**
 
@@ -62,7 +62,7 @@ Aruna’s mentor begins: “Which run would you do this week?”
 
 The mentor asks what delaying the downstream assay costs. They agree to use this week’s run to check the reagent-lot explanation before committing to the larger assay. The mentor confirms access to the old lot and control material and offers to review Aruna’s one-paragraph rationale before she commits the material. Aruna owns the design, run and first interpretation. Their follow-up will examine the controls and viability before deciding whether to proceed.
 
-If Aruna had never run the assay, the same handover would be premature. The mentor or an experienced colleague should first demonstrate the workflow, observe a practice run and check that Aruna can recognize failed controls. If the choice could irreversibly consume rare material, the mentor should join the decision even after Aruna has mastered the technique. Match support to demonstrated capability for this task and the cost of error.
+If Aruna had never run the assay, the same handover would be premature. First check who has the expertise and availability to demonstrate this workflow; being Aruna’s mentor does not settle that question. Arrange a demonstration and observed practice with that person, then check that Aruna can recognize failed controls. If suitable help is unavailable, resolve that support gap rather than assume the demonstration can happen. If the choice could irreversibly consume rare material, the mentor should join the decision even after Aruna has mastered the technique. Match support to demonstrated capability for this task and the cost of error.
 
 Peer and specialist mentors can provide day-to-day methods knowledge that the primary mentor lacks. Agree which training they will provide and recognize that contribution. A junior researcher should not become solely responsible for another person’s training. The primary mentor must check that the teacher has time and credit, and that the learner knows who will review their progress and help when the teacher cannot.
 
@@ -74,13 +74,15 @@ Be clear about what needs to change. “The conclusion exceeds these controls”
 
 Point to the part of the work or the interaction that needs to change, explain the problem and agree what will happen differently next time. The researcher should also be able to say which support was useful, where advice conflicted or arrived too late and what they need next. Reciprocal feedback does not make the power relationship equal; it gives the senior person information they are responsible for acting on.
 
-When the same problem recurs, compare it with the agreement. Ask whether the expectation was unclear, the promised support was unavailable, the capability was overestimated or circumstances changed. Revise the arrangement and set a review point. Repeated credit-taking, retaliation, blocked access to other advice, coercive disclosure or unsafe practice requires help beyond an ordinary feedback conversation. Use a committee, programme lead, manager, ombud or the institution’s current formal route. Do not require the more vulnerable person to repair the relationship alone.
+When the same problem recurs, compare it with the agreement. Ask whether the expectation was unclear, the promised support was unavailable, the capability was overestimated or circumstances changed. Revise the arrangement and set a review point. Serious credit appropriation, retaliation, blocked access to other advice, coercive disclosure or unsafe practice can require help beyond an ordinary feedback conversation; a serious act need not be repeated [[3]](#ref-mentoring-chopra2016). Use a committee, programme lead, manager, ombud or the institution’s current formal route according to its actual remit. Do not require the more vulnerable person to repair the relationship alone.
 
 <a id="mentoring-development"></a>
 
 ## Plan development beyond the immediate project
 
 Hold a broader planning conversation periodically and at transitions. Both people prepare independently; the researcher speaks first. Review recent work and discuss what they want to learn or explore next, including career questions that their current project will not answer. Identify opportunities to do that work, the support needed and any limits on time or access. Agree a small number of actions and dates so that development receives time alongside project tasks.
+
+Ask what the mentor or group should keep, change or stop, and give that feedback time before moving to the mentor’s assessment. An unclear writing handoff, a manuscript waiting in the PI’s queue and too much rotation-student mentoring need different changes. Clarify the handoff, provide review time or reduce the training assignment; record where the time will come from. Visible joint notes can retain both prepared views without requiring a particular paper form. Revisit a missed goal’s obstacles rather than automatically carrying it into the next plan [[7]](#ref-mentoring-vincent2015).
 
 Look for opportunities to practise the skill in real work. A researcher learning to write could draft part of a paper and discuss the revisions with a coauthor. Someone learning how publication decisions are made could join an editorial conversation or work through a review with an experienced colleague [[1]](#ref-mentoring-allis2017); [[8]](#ref-mentoring-chat2021). Obtain permission before involving a trainee in confidential communication, and agree their role.
 
@@ -102,7 +104,7 @@ The primary mentor should welcome complementary mentors, make introductions wher
 
 - Meetings end with a decision, action or clearly named unresolved question.
 
-- The researcher explains reasoning before the mentor supplies an answer.
+- The researcher explains reasoning when ready; a novice receives enough teaching to frame a next step.
 
 - Support matches capability for the particular task and the cost of error.
 
@@ -112,7 +114,7 @@ The primary mentor should welcome complementary mentors, make introductions wher
 
 - Other mentors cover needs that the primary relationship cannot meet.
 
-- Repeated power, safety, credit or conduct problems have a route beyond the direct supervisor.
+- Serious or repeated power, safety, credit or conduct problems have a route beyond the direct supervisor.
 
 <a id="mentoring-references"></a>
 

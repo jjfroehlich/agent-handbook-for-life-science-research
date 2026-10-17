@@ -20,18 +20,18 @@ A discussion interprets the findings. It should answer the research question, re
 
 ## Decision rules
 
-- If the discussion opens by repeating results in order, replace the opening with the main answer.
+- If a long result list obscures the answer, condense it. A short recap can orient selective readers; keep it when it helps.
 - If a claim outruns the evidence, narrow the population, system, mechanism, timescale, or certainty.
 - If repeated limitation statements interrupt the argument, consolidate related boundaries where that improves clarity. Keep a limitation beside the finding when it materially changes that finding's interpretation.
 - If future work appears to undermine the contribution, distinguish a poorly worded extension from a genuine evidence gap. Narrow claims that depend on the missing evidence.
-- If the conclusion introduces new data, move it to Results or remove it.
-- If recommendations sound mandatory, soften them to evidence-bound should/could language unless the evidence and venue support stronger wording.
+- If new data appear in Discussion or Conclusion, check their role and the required format. Main findings need an accessible reporting home; some formats permit a subsidiary preliminary finding that serves interpretation. New literature or reasoning is different from previously unreported data. Do not hide essential evidence or automatically delete useful material.
+- Calibrate recommendations to the actual evidence and scope. Adding should/could or may alone cannot repair an unsupported proposition, and justified strong wording need not be weakened.
 - If a reader could reasonably overextend a claim, state the consequential boundary. Do not add a routine list of uses or contexts the study never addressed.
 - If the paragraph uses "prove", "demonstrate", "transform", or "first", check whether the design and evidence justify that strength.
 - If limitations read like a weakness list, rewrite them as interpretation boundaries tied to design, measurement, sampling, or context.
 - Describe future work as extension, confirmation, mechanism testing, or boundary testing only when the current contribution is already supported. If the proposed work is necessary to establish it, explain the unresolved inference.
-- If a paragraph jumps from finding to broad impact, insert the missing reasoning step or reduce the impact claim.
-- If multiple interpretations are plausible, name the alternatives and state which one the supplied evidence supports best.
+- If a paragraph jumps from finding to broad impact, explain the missing connection only when the supplied evidence supports it; otherwise narrow the claim or clearly identify a reasoned candidate extension.
+- If multiple interpretations remain plausible, explain whether the supplied evidence distinguishes them. Preserve unresolved alternatives rather than forcing a winner.
 
 ## Variants and edge cases
 
@@ -41,6 +41,7 @@ A discussion interprets the findings. It should answer the research question, re
 - Methods or resource papers should discuss utility, validation boundaries, and appropriate use cases.
 - Thesis conclusions should be shorter and more general than discussion chapters: answer the question, synthesize contribution, mention key limits, and look forward without new data.
 - Mechanistic discussions should distinguish observed association, inferred mechanism, and directly tested mechanism.
+- Organize by questions, themes, framework, Results order or a consequential unexpected finding, whichever explains the argument. A redundant closing recap can be omitted where the required format allows it; future work is not a compulsory final sentence.
 
 ## Anti-patterns
 
@@ -48,7 +49,7 @@ A discussion interprets the findings. It should answer the research question, re
 - Claiming clinical, policy, or mechanistic importance from limited evidence.
 - Treating limitations as a perfunctory list detached from interpretation.
 - Ending with a generic call for "more research" instead of a specific next step.
-- Introducing new evidence in the conclusion.
+- Concealing a main result in the conclusion or presenting a speculative extension as a finding.
 
 ## Diagnostic questions
 
@@ -76,11 +77,13 @@ Illustrative fixed facts: replicated observations establish an association betwe
 
 Before: `These findings are very important and will transform the field.`
 
-After: `These findings identify a reproducible association between X and Y in this model, providing a basis for testing whether the same relationship explains variation in primary samples.`
+After: `These findings identify a reproducible association between X and Y in this model. Whether that association also occurs in primary samples remains untested.`
 
 Before: `Future studies are needed to confirm these findings, and more work is required.`
 
-After: `A next step is to test whether the same response occurs in primary samples, which would define the boundary of the association observed in this model.`
+After: `A next step is to test whether the association also occurs in primary samples.`
+
+That test would assess one extension; it would not define every boundary of the association. If the task asks only for the supported conclusion, the first rewrite is sufficient without a new-study recommendation.
 
 ## When not to apply this
 

@@ -1,82 +1,34 @@
-# Chalk Talks
+# Chalk talks
 
-Use this when the user is preparing a faculty interview chalk talk, board-based research program explanation, or highly interactive research vision session.
+Use for an interactive future-program discussion, often in a faculty search, on a board or in the locally permitted format. Make the program assessable while leaving room to reason with the audience. A prior-work seminar and a proposed research program are different artifacts.
 
-## The job of this topic
+## Learn the local format
 
-Show that the candidate can think, prioritize, respond, and build a credible future research program in real time. A chalk talk is not a polished seminar with the slides removed.
+Ask what “chalk talk” means here: board, permitted slides, remote tools, schedule, access, attendees and expected detail. Do not assume everyone attended the earlier seminar. A preview there can help when the schedule permits, but orient the present audience independently.
 
-## Default workflow
+Plan readable spatial use, a recoverable overview and room for live reasoning. Limited advance project labels or a complex diagram can help pacing and access when allowed; live construction can help explain how an argument develops. Source preferences conflict on prewriting. Choose by actual permission, purpose and audience needs rather than ban or require it. Appropriate markers, notes and pauses can help; no fixed board geometry, slide count or performance posture follows.
 
-1. Confirm format: board only, limited slides, time, audience, and expected level of interruption.
-2. Open with the research program's big question and why the department should care.
-3. Map the prioritized project modules, each with question, approach, expected outcome, risk and alternative. Two or three may fit a short session; choose the count for the actual format and program.
-4. Show feasibility without drowning the audience in preliminary data.
-5. Leave board space for live reasoning, questions, and committee redirection.
-6. Prepare short answers for funding path, lab staffing, collaboration fit, and contingency plans.
-7. Practice with interruptions and hostile-but-fair questions.
-8. Close by returning to the program vision and fit with the audience.
+## Show the program before deepening one project
 
-## Decision rules
+Begin with the broad question and why it matters. Map the prioritized modules early, then deepen the most consequential one. Related projects can form a program; distinct projects can also be appropriate when their purposes and practical commitments are clear. Choose module count and horizon for the actual session rather than impose three aims or a particular grant system.
 
-- If slides are allowed, use them sparingly for orientation or essential data, not as a hidden seminar deck.
-- If the committee interrupts early, answer briefly and bridge back to the program map.
-- If a project is exciting but not fundable or feasible, frame it as a later horizon rather than a first module.
-- If the board becomes crowded, redraw the map instead of continuing into unreadable space.
-- If the audience includes non-specialists, lead with problem and program logic before technique.
+For each module, make these decisions inspectable:
 
-## Variants and edge cases
+- What question does it ask, and why does it merit this work?
+- What comparison or exploratory approach could answer it, and what could different outcomes establish?
+- What capability, workforce, access and time does the first commitment need?
+- Which risk could prevent a useful answer, what alternative is justified, and what later work depends on the result?
 
-- Faculty interview: emphasize independent vision, fundability, feasibility, and fit.
-- Postdoc or fellowship chalk talk: emphasize next-step logic and ownership without overclaiming independence.
-- Board plus a few slides: reserve slides for figures that cannot be drawn clearly.
-- Remote chalk talk: use a digital whiteboard with a preplanned board map and visible navigation.
+Use relevant prior capability without spending the session repeating completed work. Mark planned resources, trainee projects, papers, grants and collaborations as proposals. Do not invent preliminary findings or a guaranteed funding path. A program can include exploratory questions without fabricated hypotheses. Show which questions and decisions are yours and how actual collaborators contribute; independence does not require a blanket refusal of former-mentor collaboration.
 
-## Anti-patterns
+Keep the overview visible or easy to recover while expanding experimental detail. If the board crowds, clear or redraw deliberately so the program and critical comparison remain followable. A digital board needs the same readable navigation, plus a usable access route for remote participants.
 
-- Filling the board before discussion starts.
-- Spending most of the time on the first aim.
-- Treating interruptions as derailments rather than evidence of engagement.
-- Showing only ambition and no risk management.
-- Assuming the committee remembers the seminar details.
+## Prepare a short route and meaningful deeper returns
 
-## Diagnostic questions
+Rehearse the overview, important modules and transitions with constructive interruptions. Include colleagues who can question the science and people who need the broader explanation. Check whether they can read the board and recover the program after a question. Practice is for reasoning and revision, not aggressive endurance training or a validated hiring dose.
 
-- What is the research program, not just the first project?
-- Can each module be explained as question, approach, payoff, and risk?
-- Where will interruptions naturally fit?
-- What shows feasibility without overloading the board?
-- What should be on the board at the end?
+Listen to a substantive challenge and answer sufficiently before returning to the map. Clarify uncertainty, admit what is unknown and revise a flawed plan where warranted. A validity-critical objection remains unresolved until addressed; calling it a tangent cannot settle it. For a genuine detour, offer a courteous bridge to the program and a feasible later discussion.
 
-## Output patterns / mini-templates
+When questions are sparse, develop prepared comparisons, assumptions or alternatives rather than invent filler projects. When discussion is extensive, use the prepared shorter route and preserve the program's main choices. Committee reactions do not guarantee agreement or hiring success. Work within actual authority; host/chair support, a pause or ending an unsafe exchange may be appropriate. A candidate need not tolerate mistreatment or be blamed for an exclusionary room.
 
-Chalk talk board plan:
-
-```text
-Top line:
-Left: current gap
-Center: program modules
-Right: impact and fit
-Bottom: risks/alternatives/funding hooks
-```
-
-Module template:
-
-```text
-Question:
-Why now:
-Approach:
-Expected result:
-Risk/alternative:
-What this enables:
-```
-
-## Examples
-
-- For a one-hour chalk talk, a 35-40-minute uninterrupted route can be a rehearsal starting point when the host expects substantial discussion; follow the supplied session format.
-- For a three-aim program, prepare a one-minute summary of each aim before expanding the highest-priority module.
-- For a skeptical question, answer the substance, name the uncertainty, and show the planned alternative.
-
-## When not to apply this
-
-Do not use this as the main lens for ordinary slide seminars unless the user explicitly needs an interactive research vision format.
+Return a concrete board/program plan with visible dependencies, the short spoken route and where deeper returns fit. Label spatial plans as proposals until their rendered or physical arrangement has been inspected. For general scientific answers, use [Delivery and questions](delivery-and-qa.md).

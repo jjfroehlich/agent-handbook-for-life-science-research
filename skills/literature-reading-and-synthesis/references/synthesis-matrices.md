@@ -23,6 +23,7 @@ Turn paper notes into comparable, reusable rows. A synthesis matrix should keep 
    - article type
    - question or motivation
    - approach or method
+   - how the relevant data were collected and which assumptions matter
    - key result or figure
    - author interpretation
    - limitations or alternatives
@@ -30,7 +31,9 @@ Turn paper notes into comparable, reusable rows. A synthesis matrix should keep 
    - relationship to other sources
    - impact on current project
 4. Add tracking context when useful: source/feed, field layer, query/topic, and action taken.
-5. Keep source locations, reading status and unresolved checks with consequential entries. Write the cross-study answer around shared questions rather than a sequence of paper summaries; add a build-on-it note when future direction is requested.
+5. Keep source locations, reading status and unresolved checks with consequential entries. For an integrative synthesis, organize around shared questions and relations. A requested descriptive inventory may present studies separately; label its scope accurately. Add a build-on-it note when future direction is requested.
+
+Keep notes linked to their references while reorganizing them for the requested comparison. Clearly mark copied wording and its location, separating it from paraphrase and your own interpretation; moving text into a notes table does not make it original prose. Select these record fields for the task rather than requiring a full note for every paper.
 
 ## Decision rules
 
@@ -41,13 +44,16 @@ Turn paper notes into comparable, reusable rows. A synthesis matrix should keep 
 - If the matrix is becoming a dumping ground, split claim/evidence fields from general notes.
 - Before selecting studies, define the issue, audience and inclusion scope. For a review, retain searches, dates, exclusions and inaccessible papers. Keep these records proportional to the task; they alone do not certify a systematic review.
 - Before declaring a research gap, check recent and overlooked older studies. When the search is stale, qualify or refresh the gap claim.
+- Use existing reviews to orient and identify a distinct contribution, then inspect primary evidence for consequential claims. Many primary studies with few reviews may warrant integration; many studies and many reviews may warrant a review of reviews. Many reviews with little primary evidence may instead expose the need for primary research. When both are sparse, a bounded account of emerging work and its open questions may be useful. A focused update or a new question can also justify revisiting a reviewed area. These are qualitative choices, not publication-count thresholds or a ban on another review.
+- Choose scope and form for the requested contribution: short or full, descriptive or integrative. At an interdisciplinary interface, connect the relevant concepts without attempting to cover both parent fields completely. These choices do not constitute a systematic-review or meta-analysis protocol.
 - Apply the same scrutiny to personally authored or favored studies as to contrary findings. Invite complementary criticism when revising a substantial synthesis.
 - Compare system, intervention/comparator, timing, measured outcome and denominator before interpreting disagreement. Different endpoints can address different questions; a proposed timing or mechanism explanation remains untested until evidence distinguishes it.
+- Examine the assumptions that made a result surprising, including whether aggregate and conditional comparisons ask the same question. A mismatch can suggest a useful question, but technical error or noise remain possible. Do not force agreement or call every contradiction a discovery.
 - Check whether papers reuse the same observations. Reviews, reanalyses and original reports may add different insights without supplying independent confirmation. Weight the relevant design and evidence rather than counting favorable papers.
 
 ## Variants and edge cases
 
-- **Rapid review:** Use fewer columns but keep claim, evidence, limitation, and next action separate.
+- **Rapid review:** Use fewer columns while retaining claim, evidence and consequential limitations. Include next actions only when they serve the task.
 - **Project decision:** Include "what this changes" and "decision supported" columns.
 - **Field monitoring:** Include source/feed and triage status columns.
 - **Dense figure comparison:** Use one row per figure or evidence unit rather than one row per paper.

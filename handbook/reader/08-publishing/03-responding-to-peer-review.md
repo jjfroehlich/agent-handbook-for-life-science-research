@@ -60,6 +60,8 @@ Identify the conclusion the reviewer is questioning and ask what the requested e
 
 Other checks may strengthen a conclusion that is already supported. Weigh the concern they resolve against the time and resources needed. If you do the work, describe its result in the response and include evidence necessary for the published conclusion with the paper. [[1]](#ref-noble2017); [[6]](#ref-cope2017).
 
+Advice to perform requested work even when you regard it as flawed is a compliance tactic, not scientific authority. Explain why a test would be invalid and offer a scientifically adequate alternative or a narrower claim. Equally, expense does not make evidence unnecessary when the retained conclusion depends on it. A reply must resolve the actual concern, not merely sound agreeable. [[1]](#ref-noble2017); [[6]](#ref-cope2017).
+
 A request may also open a new project. Establishing a cellular effect does not necessarily require explaining its mechanism or testing a treatment application. Whether that further work is needed depends on what the paper claims. Discuss the intended scope with the editor when a reviewer expects work beyond that question. [[3]](#ref-ploegh2011); [[1]](#ref-noble2017).
 
 <a id="alternatives"></a>

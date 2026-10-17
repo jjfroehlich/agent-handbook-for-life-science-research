@@ -4,7 +4,7 @@ Use this when the user needs to interpret an editor decision, communicate with a
 
 ## The job of this topic
 
-Explain editorial decisions as process judgments that combine scope, audience, novelty, evidence, reviewer input, journal constraints, and timing. Keep advice realistic without treating editors as either adversaries or advocates.
+Explain the actual decision using applicable criteria and substantive reasons. Journals differ in scope, selectivity and review models; an archived account is not today's verified policy.
 
 ## Default workflow
 
@@ -23,6 +23,18 @@ Explain editorial decisions as process judgments that combine scope, audience, n
 - If an editor says the paper is outside scope, do not treat more rhetoric as the default fix.
 - If a conversation with an editor occurs before submission, use it to understand fit and standards, not to seek special treatment.
 - If reviewer requests would expand the project, separate conclusion-changing work from optional extensions and explain the filtered revision plan.
+
+## Authority, stages and conflicting advice
+
+Distinguish administrative coordination, scientific editing and language editing. Staff may handle files and status inquiries while the handling editor assesses scientific questions. Editors can seek complementary technical and end-user perspectives; a reviewer supplies advice rather than an acceptance decision. If an editor also contributes a review, that role should be transparent rather than represented as another anonymous referee.
+
+Explain why a concern matters instead of counting positive and negative recommendations. Neither initial screening, a favorable majority nor a fixed number of review rounds guarantees acceptance. Advice favoring a simple vote or restricting all reviewer rejection recommendations reflects a particular preferred procedure; use the actual remit and retain reasons, uncertainty and the editor's responsibility.
+
+Interpret status labels only through the actual system. “Under review” can include reviewer invitations; “required reviews complete” may mean some or all reports have arrived. A drafted decision is not a communicated decision. Provisional scientific acceptance can still require technical and formatting checks before formal acceptance. At the relevant stage, check the full paper's claims, reporting and actual data/software/material requirements rather than infer compliance from a favorable label.
+
+Clarify unclear essential requests or a revision plan when the answer changes substantial work. Try a coherent response to compatible suggestions before asking the editor to resolve a conflict. In editor-style synthesis, identify required evidence, optional extensions and inappropriate remarks explicitly; an author's burden is relevant but does not excuse an unsupported retained claim. Rough cost estimates and expert-editor reforms are suggestions, not universal forms or proof one employment model is superior.
+
+Choose a channel for the question. Specific early fit or validation questions may be answerable with limited information; detailed experimental judgment may require the complete paper. Email can suffice, and a live call is useful only when the exchange benefits from discussion. Do not request confidential previous decisions or competitor intelligence, promise rich feedback or assume prior contact yields preferential treatment.
 
 ## Variants and edge cases
 

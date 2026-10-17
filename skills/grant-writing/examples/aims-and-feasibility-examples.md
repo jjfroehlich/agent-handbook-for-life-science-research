@@ -29,3 +29,11 @@ Given: Aim 2 tests a candidate nominated by Aim 1. The screen is untested and th
 Review: “Aim 2 has an unresolved enabling dependency: if the screen cannot nominate a suitable candidate, its test cannot proceed. A backup candidate cannot be asserted from the supplied facts. Before submission, either establish a credible candidate route, justify an assessable screening milestone and resulting scope decision under the call, or reduce the promised downstream work. A candidate's nomination would still require validation appropriate to the biological test.”
 
 This response identifies the decision rather than fabricating pilot data or claiming that a different method is ready.
+
+## A dependent aim with genuine enabling evidence
+
+Given: in a separate fictional proposal, an earlier pilot has established that a supplied collection contains the candidate needed for a later test, and access to that collection is confirmed. The later intervention has not been performed. The call permits the proposed test. The user asks whether any dependence automatically disqualifies the aims.
+
+Response: “The later test still depends on the candidate route, but the supplied pilot and access address that enabling uncertainty. Explain what the pilot established and why it supports proceeding; do not call it evidence that the later intervention will have the hypothesized effect. Assess the remaining technical and interpretation risks rather than force artificial independence. If the collection or candidate becomes unavailable, the later test's status changes and its scope decision needs revisiting.”
+
+This is a different case from the untested screen above. Existing enabling evidence and funded development are alternative justifications; neither guarantees downstream success.

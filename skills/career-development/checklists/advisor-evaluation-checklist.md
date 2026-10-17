@@ -2,6 +2,8 @@
 
 Use this for a fast, evidence-based pass on advisor, mentor, or lab choice.
 
+Choose only decision-changing questions. No completed checklist, minimum informant count or risk score proves fit or safety. One concerning account can justify support or a safer choice.
+
 ## Evidence to Gather
 
 - Advisor access: meeting cadence, feedback mode, responsiveness, and availability during crises.
@@ -23,9 +25,7 @@ Use this for a fast, evidence-based pass on advisor, mentor, or lab choice.
 
 ## Triangulation Pass
 
-- Ask current trainees at different stages.
-- Ask recent alumni who no longer depend directly on the advisor.
-- Ask adjacent students or staff who see the lab under pressure.
+- Where useful and feasible, ask consenting current trainees, alumni or adjacent staff who know the relevant practice. Alumni can still depend on references, credit or access; departure does not guarantee candor or safety.
 - Ask the advisor for concrete examples, then compare those examples with trainee accounts.
 - Use independent accounts to learn whether a concern recurs, while taking a single concerning account seriously. Further corroboration is not a prerequisite for seeking support or choosing a safer option.
 
@@ -49,3 +49,6 @@ Use a table with `criterion`, `evidence`, `risk`, `missing evidence`, and `next 
 - Do communication style, mutual respect, and working expectations fit the user's constraints?
 - Are professional boundaries, authorship, meeting cadence, and conflict routes explicit?
 - What unresolved doubt would make the relationship higher risk if left unanswered?
+- Which essential conditions are actually implemented, which remain promises, and how can changing training needs be revisited?
+- What institutional support/accountability exists beyond the trainee's coping, and what remit/confidentiality does each channel actually have?
+- What fallback is feasible under funding, residence, health, household or reference dependencies? Do not demand confrontation, disclosure or immediate exit.

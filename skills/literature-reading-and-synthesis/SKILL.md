@@ -4,7 +4,7 @@ description: "Produce scientific claim/evidence notes, figure interpretations, c
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Literature Reading And Synthesis
@@ -34,7 +34,7 @@ Help users read scientific papers actively, extract claims and evidence without 
 ## Core workflow
 
 1. Reassess the current user request independently on every turn. Continue only when renewed literature reading or a literature-native synthesis artifact is the primary deliverable; prior paper use or source consultation supporting a technical decision does not retain this workflow.
-2. Clarify the goal: orient, skim, present, compare, decide, track, or synthesize.
+2. Infer the goal from supplied context: orient, skim, present, compare, decide, track, or synthesize. Ask only when missing information could change the answer.
 3. Route to the right playbook: paper reading, claim extraction, literature tracking, or synthesis matrices.
 4. Pick the appropriate depth: quick triage, targeted section read, figure/evidence read, or high-stakes deep read.
 5. Record the material actually inspected: abstract only, selected sections or figures, full article, and any supplement checked. Separate reported observations, author interpretations and your appraisal; do not upgrade a screening note to verified evidence.
@@ -87,7 +87,7 @@ Apply only the checks relevant to the requested scope and artifact. Inspect supp
 
 ## Quality bar
 
-- The answer must name the reading/tracking goal and choose a matching depth.
+- Choose depth that fits the reading/tracking goal; state the goal when doing so helps the user understand the scope.
 - Keep claims, evidence and interpretation distinct at the requested scope. Include limitations that could change the answer; add next actions when they serve the user's task.
 - Figure and table advice must include concrete evidence-decoding steps.
 - Literature tracking advice must be sustainable and volume-aware.

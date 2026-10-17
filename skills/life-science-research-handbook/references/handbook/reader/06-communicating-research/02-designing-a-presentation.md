@@ -46,7 +46,7 @@ The following four-slide sequence uses the fictional Brake study. It introduces 
 
 The third slide can use the quantitative plot below. The fourth needs the translation-disruption and restoration results: the three-condition culture plot alone cannot establish the protein’s role.
 
-Decide which details belong in the main talk and which can be reserved for questions. A control that distinguishes two explanations belongs with the result it supports; an extended protocol can usually wait unless the method itself is under discussion. End with the answer to the opening question and its significance. Keep this conclusion visible during questions, with acknowledgments on the preceding slide or alongside it. [[1]](#ref-slide-nsestructure); [[3]](#ref-slide-naegle2021).
+Decide which details belong in the main talk and which can be reserved for questions. A control that distinguishes two explanations belongs with the result it supports; an extended protocol can usually wait unless the method itself is under discussion. End with the answer or current status of the opening question and its significance. A conclusion display can support questions, with acknowledgments preceding or alongside it; another endpoint can fit the session, provided credit and consequential limitations survive. [[1]](#ref-slide-nsestructure); [[3]](#ref-slide-naegle2021).
 
 Allow more time for an unfamiliar experiment than for a short transition. A fixed slides-per-minute target is unreliable when some slides build a diagram and others contain several comparisons. Determine the length by [rehearsing the explanation aloud](03-delivering-a-talk-and-answering-questions.md#delivery-rehearse). [[5]](#ref-slide-reynolds2012); [[1]](#ref-slide-nsestructure).
 
@@ -54,11 +54,11 @@ Allow more time for an unfamiliar experiment than for a short transition. A fixe
 
 ## Give each slide a clear message
 
-Use the title to state the finding or question. “Brake reduces the yield of infectious phage A” tells listeners what to look for; “Phage restriction assay” names only the experiment. A question works well when the slide introduces a test or asks colleagues to consider an unresolved choice. Keep the title short enough to read at a glance and specific enough to describe the evidence below it. [[3]](#ref-slide-naegle2021); [[2]](#ref-slide-broadslides).
+For a findings slide, a title stating the supported result tells listeners what to look for. “Brake reduces the yield of infectious phage A” gives more direction than “Phage restriction assay.” A question can introduce a test or an unresolved choice; a concise topic can identify a technical view whose purpose is already clear. Choose the title for that task, keep it readable and check that its strength matches the evidence below it. An association must not become a causal finding to make a stronger headline. [[3]](#ref-slide-naegle2021); [[2]](#ref-slide-broadslides).
 
-Choose one main message for the slide, then include the comparisons needed to establish it. This may require two related plots, an image and its quantification, or a schematic beside the result. If the slide contains several independent conclusions, split it. Keep plots together when listeners need to compare them directly. [[3]](#ref-slide-naegle2021).
+Choose the slide’s function before deciding how much it should contain. A findings slide can develop one main claim through two related plots, an image and its quantification, or a schematic beside the result. An overview or status display may retain several explicit questions when seeing them together helps the discussion. Split independent material when one point crowds another or makes its evidence hard to inspect. Keep plots together when listeners need to compare them directly. [[3]](#ref-slide-naegle2021).
 
-Write the spoken explanation in your notes. On the slide, retain the title, labels and brief annotations that help people interpret the visual. Replace a paragraph describing an experimental sequence with a diagram when the sequence is easier to see than to read. Short text can still be the best choice for a definition, a question or a small set of alternatives; a decorative image adds little. [[3]](#ref-slide-naegle2021); [[4]](#ref-slide-duarte2008).
+Write extended spoken explanation in your notes. On the slide, retain the identification, labels and brief annotations that help people interpret the visual. Replace a paragraph describing an experimental sequence with a diagram when the sequence is easier to see than to read. Short text can still be the best choice for a definition, a question or a small set of alternatives; a necessary passage needs time to be read, and a decorative image adds little. [[3]](#ref-slide-naegle2021); [[4]](#ref-slide-duarte2008).
 
 <a id="slide-evidence"></a>
 
@@ -100,11 +100,11 @@ Use strong text–background contrast and consistent sizes for titles, labels an
 
 ## Use builds and prepare the shared version
 
-Reveal a complex diagram in stages when you need to explain its parts in sequence. Keep the existing elements in place as new ones appear. A few duplicate slides with additional labels or arrows are often easier to edit and export than a complicated animation. Check every copy after a revision so that an old label or value does not reappear. For a comparison that requires simultaneous inspection, show both alternatives together. [[3]](#ref-slide-naegle2021); [[4]](#ref-slide-duarte2008).
+Reveal a complex diagram in stages when you need to explain its parts in sequence. Keep existing elements in place as new ones appear, and explain a change of identity, state or time. A few duplicate slides with additional labels or arrows can be easier to edit and export than a complicated animation. Check every copy after a revision so that an old label or value does not reappear. For a comparison that requires simultaneous inspection, show both alternatives together; a staged introduction can end with the complete comparison. [[3]](#ref-slide-naegle2021); [[4]](#ref-slide-duarte2008).
 
 Use video or animation when motion, timing or a change in state is part of the explanation. Plan where to pause and what to point out. Keep a still image or short sequence that supports the explanation if playback fails, and test the exported deck as well as the editable file. [[3]](#ref-slide-naegle2021).
 
-Credit published figures and ideas on the slide where they appear, and identify collaborators’ contributions. A compact author–year reference can point to full details in the notes or reference slides; retain any required image credit. For unpublished work, agree with collaborators what can be shown and shared. [[3]](#ref-slide-naegle2021).
+Credit published figures and ideas on the slide where they appear, and identify collaborators’ contributions. A compact author–year reference can point to full details in the notes or reference slides; retain any required image credit. Credit alone does not establish reuse permission. For unpublished work, agree with collaborators what can be shown and shared. [[3]](#ref-slide-naegle2021).
 
 If people will read the deck afterward, add the explanations they would otherwise hear from you in notes or a companion document. Check that the shared file includes those notes or explanations, and that diagrams revealed in stages can still be followed in the exported format. [[5]](#ref-slide-reynolds2012); [[3]](#ref-slide-naegle2021).
 

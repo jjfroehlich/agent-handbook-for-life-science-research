@@ -1,72 +1,42 @@
-# Hypothesis Generation
+# Hypothesis generation
 
-## Use This When
+Use this when the user needs possible explanations, a new question or a way out of an unproductive framing. Help develop an idea without treating it as evidence. A fixed-project plotting or analysis request does not activate the strategy skill.
 
-Use this playbook when the user is stuck, needs new hypotheses, has unexpected data, wants a more creative angle, or is confusing idea generation with hypothesis testing.
+## Developing an unfinished idea
 
-## The Job Of This Topic
+Begin with the user's actual question, model, observation or stuck point. Separate what was observed from the explanation, and identify relevant biological, methodological and measurement knowledge. An initially hypothesis-free program can be systematic when its data are deliberately information-rich for the field; a large dataset alone is insufficient. Background knowledge helps someone notice that a result is surprising.
 
-Create better possible explanations without pretending they are already evidence. The playbook should help the user move between exploratory imagination and precise tests.
+Generating possibilities and evaluating them are complementary activities, sometimes called night and day science. Move between them as useful rather than force a generation–test cycle or require data-first work. A question can prompt a measurement, which changes the question or reveals something else worth investigating. Exploration can miss possibilities or produce spurious ones; a hypothesis can focus attention while obscuring another pattern. Neither is universally superior.
 
-## Default workflow
+When useful data and the task warrant it, inspect other informative views or dimensions, retaining actual processing, exclusions and analysis choices. Generate a candidate explanation from an unexpected pattern rather than claim causality. Account for selection before making a confirmatory claim, and preserve whether a later prediction was specified independently. Exploration can also stop: compare its possible information with the next commitment rather than demand every view or endless additional findings.
 
-1. Put the user in exploration mode: allow analogy, contradiction, conversation, metaphor, and unusual associations.
-2. Generate several candidate hypotheses or reframings.
-3. Translate the most promising ones into variables, mechanisms, observable traces, or predictions.
-4. Return to testing mode: choose the first observation that distinguishes alternatives.
-5. Mark all speculative outputs as provisional until checked.
+## Contradictions and reframing
 
-## Decision rules
+Write the apparent conflict and the assumptions behind the observation and expectation. Check implementation and auxiliary assumptions when justified; neither discard a strong account after one unchecked anomaly nor protect it from every contrary result. Apply comparable scrutiny when the expected favorable pattern appears. Different scales, conditions or grouping can answer different questions; an aggregate and within-group association are not automatically false versus true or causal versus noncausal.
 
-- Alternate night-science generation with day-science testing.
-- Represent iterative research as a spiral: background knowledge suggests a question, data are explored, the next hypothesis is revised, and then a sharper test follows.
-- Treat contradictions as discovery sites: write the conflict, list hidden assumptions, and turn the best explanation into a discriminating prediction.
-- Diagnose the puzzle type: assembling known pieces, finding a logical insight, importing an outside connection, or dropping an implicit assumption.
-- Use metaphor or anthropomorphic language to build intuition, then translate it into testable scientific terms.
-- Use trusted one-on-one or sequential paired conversation for fragile ideas before exposing them to harsh selection.
+Consider plausible competing explanations and what could distinguish them. A critic's strongest objection or an imagined future anti-paper can expose an assumption, but neither supplies an exhaustive alternative set or requires unsafe personal confrontation. A changed adjustment or disappearing association alone does not identify a causal resolution.
 
-## Variants And Edge Cases
+If a search is stuck, ask what kind of work might help:
 
-- If rich observations are being used to develop new scientific ideas, inspect useful unexplored views and label the resulting patterns as exploratory. A fixed-project plotting or analysis request does not activate this skill.
-- If the user has only a metaphor, require translation before recommending evidence.
-- If progress stalls, reclassify the puzzle rather than assuming more effort on the same path will work.
-- If brainstorming in a group, protect fragile ideas from immediate status-driven criticism.
+- Assemble known pieces and relations when those are sufficiently defined.
+- Seek a logical implication within the current framing.
+- Import a useful concept or method from outside that framing.
+- Remove a restriction that the problem did not actually require.
 
-## Anti-Patterns
+These are possible puzzle orientations, not a validated diagnostic test. The class and even solvability can remain uncertain; reclassification is optional, not a compulsory response to every delay. A logically elegant account can be biologically wrong. Synthetic negative examples or an imported representation also need justification rather than being assumed valid because the new pipeline works.
 
-- Treating creativity as a substitute for validation.
-- Forcing every exploratory observation into the original hypothesis.
-- Leaving metaphors literal.
-- Dismissing anomalies before checking for hidden assumptions.
-- Using large, low-trust brainstorming meetings for early fragile ideas.
+## Metaphor and precise propositions
 
-## Diagnostic Questions
+A metaphor, anthropomorphic question or story can help generate intuition without attributing real desires to molecules or cells. Identify the proposed physical, mechanistic or population process before treating the phrase as a scientific claim. Label figurative departures when communicating them; do not assert exact translation or preserved quantities unless that is true.
 
-- Is the user currently generating ideas or selecting among them?
-- What observation conflicts with expectation?
-- What hidden assumption could explain the conflict?
-- What kind of puzzle is this: assembly, logic, outside connection, hidden assumption, or unknown puzzle type?
-- What would the metaphor predict if translated into variables?
-- Who is the right science buddy for a low-stakes first pass?
+An unfinished idea may not yet translate into a testable proposition. Reshape it, seek missing knowledge or state the unresolved relation instead of pretending it is precise. Avoid reflexively halting creative thought merely because the initial wording is immature; consequential factual corrections and later rigorous evaluation remain necessary. Intuition about a process does not complete a theory: assumptions, equations when useful, and comparisons with observations can change it.
 
-## Output Patterns / Mini-Templates
+## Conversation, writing and solitary thought
 
-```text
-Observation or stuck point:
-Exploratory reframings:
-Hidden assumptions:
-Candidate hypotheses:
-Predictions that distinguish them:
-First test or search:
-What remains speculative:
-```
+Choose a willing trusted partner or successive conversations when another perspective could expose gaps, evidence or unnoticed assumptions. A scheduled discussion can protect slow thought, but conversations need not yield an immediate result. Explaining an idea in a linear argument can itself reveal missing steps.
 
-## Examples
+Constructive Yes-and means trying to understand or improve a possibility before reflexive rejection. It does not require literal agreement, suppressing an objection or endorsing a false proposition. Trusted larger groups can also work; group size or authorship-network associations do not establish trust, safety or an optimal discussion format. Dependence and status can make apparently invited disagreement difficult.
 
-- Convert "the cell is choosing a path" into candidate variables, decision points, and observable state transitions.
-- For an anomaly, examine the observation, measurement and relevant hidden assumptions before dismissing it; generate alternatives that lead to different checks.
-- Use a paired conversation to build a weak idea into a testable form before ranking it.
+Writing, a sketch, a blackboard, an imagined conversation or a period of solitary reflection can serve part of this work. Do not require a partner or delay the user's preferred useful route merely because one is unavailable. Seek a relevant critical reader when helpful; neither nationality nor seniority guarantees that expertise. Technical help can be sought promptly rather than waiting for the next meeting.
 
-## When Not To Apply This
-
-Do not use hypothesis-generation methods to justify a conclusion after the fact. Once the user asks what is true, switch to evidence and testing.
+For the requested answer, give only the useful next step or artifact. An optional idea note can distinguish the starting observation/question, candidate explanations, consequential assumptions, a useful next check and what remains speculative. Do not demand that scaffold for every short exchange or fabricate a finished mechanism to fill it.

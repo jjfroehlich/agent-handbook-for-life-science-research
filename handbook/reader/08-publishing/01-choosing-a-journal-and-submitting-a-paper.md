@@ -148,13 +148,17 @@ Check policies on preprints, related manuscripts and previous dissemination. Dis
 
 ### Assemble the agreed manuscript and supporting files
 
-Assign a submission coordinator and agree on corresponding-author responsibilities. Circulate the submission version, resolve coauthor comments and confirm names, order, affiliations and contribution statements. Resolve authorship disputes before submission. [[2]](#ref-submission-gosling2022).
+Assign a submission coordinator and agree on corresponding-author responsibilities. Circulate the submission version, resolve coauthor comments and confirm names, order, affiliations and contribution statements. Establish coauthor agreement and the applicable authorization before submission or public release; supervisor signoff alone is not approval on behalf of every author. Resolve authorship disputes before submission. [[2]](#ref-submission-gosling2022).
 
 Assemble the agreed manuscript, figures, legends, tables, supporting files and forms in one submission folder. Label versions clearly and assign the remaining checks to named coauthors.
 
 Start repository preparation early because metadata and access queries can delay release. Before submission, test accession numbers and reviewer links, check access permissions, and identify the code version accompanying the paper. [[8]](#ref-submission-huber2025).
 
 Check which declarations apply to the study and collect them from the responsible authors, including funding, conflicts of interest, ethics, consent, contributions and data availability as required. Include requested reporting checklists and follow anonymization instructions for blinded review.
+
+Check any material, licensing or sponsored-research agreement that could restrict publication or onward sharing. If a possible invention or disclosure restriction affects the route, consult the responsible institutional office before committing release. Make consequences for a student’s thesis communication visible. An archived example of a publication delay or patent procedure does not establish present rights or permission. [[1]](#ref-submission-rightmoves2006).
+
+At the stage when the journal requests them, give publication summaries their distinct jobs. Highlights provide a quick view of the findings; an In Brief or eTOC paragraph explains the idea, context and significance to broader readers. Follow the current article-type, length and file instructions rather than turn a publisher’s example counts into universal rules. Neither summary should exaggerate the evidence or repeat the abstract mechanically. [[5]](#ref-submission-cellsubmission).
 
 <a id="submission-letter"></a>
 
@@ -300,7 +304,7 @@ For a rejection or transfer offer, see [Rejection, transfer and published review
 
 ## References
 
-1. <a id="ref-submission-rightmoves2006"></a>[Burroughs Wellcome Fund & Howard Hughes Medical Institute (2006). **Making the Right Moves: A Practical Guide to Scientific Management for Postdocs and New Faculty.** 2nd ed., chapter 10, pp. 175–181.](https://www.hhmi.org/programs/resources-early-career-scientist-development/making-right-moves)
+1. <a id="ref-submission-rightmoves2006"></a>[Burroughs Wellcome Fund & Howard Hughes Medical Institute (2006). **Making the Right Moves: A Practical Guide to Scientific Management for Postdocs and New Faculty.** 2nd ed., chapters 10–11.](https://www.hhmi.org/programs/resources-early-career-scientist-development/making-right-moves)
 
 2. <a id="ref-submission-gosling2022"></a>[Gosling, P., & Noordam, B. (2022). **From Data to Manuscript: Writing Scientific Papers That Shine.** In *Mastering Your PhD: Survival and Success in the Doctoral Years and Beyond* (3rd ed., chapter 16). Springer.](https://doi.org/10.1007/978-3-031-11417-5_16)
 

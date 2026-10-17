@@ -4,14 +4,14 @@ Use this when the user is revising results text, figure callouts, finding-first 
 
 ## The job of this topic
 
-Results sections present what was found and how the evidence supports it. They should orient the reader to the question, state the finding, provide necessary evidence, and reserve broad interpretation for the discussion.
+Results sections present what was found and how the evidence supports it. Orient the reader to the question, finding and necessary evidence. In separate sections, keep broader implications in Discussion; local explanation and inference limits can belong beside the result. Follow the actual venue or thesis requirements. In a combined Results/Discussion, make the transition from observation to interpretation visible.
 
 ## Default workflow
 
 1. Identify the result, hypothesis, prediction, or figure each paragraph is supposed to convey.
 2. Put the finding or question near the paragraph opening.
 3. Name the comparison, direction, magnitude or qualitative pattern, system, evidence type, sample or replicate context, and figure/table location when available.
-4. Build each result unit as question or prediction, minimal approach, result, detail or robustness, and local conclusion.
+4. Supply question or context, minimal approach, result, supporting detail and local conclusion where needed. Skip established context; one figure need not equal one paragraph, and not every paragraph needs every component.
 5. Include only methodological detail needed to interpret the result; leave reproducibility detail in Methods.
 6. Give null, negative, conflicting or inconclusive findings the weight they deserve for the question and claim. Retain contrary evidence even when it complicates the preferred story; distinguish an uncertain estimate from evidence of negligible change.
 7. Move broad implications, speculation and future work to Discussion when they interrupt reporting. Retain limitations needed to understand the measurement, comparison or uncertainty, including those that constrain the reported finding.
@@ -21,10 +21,10 @@ Results sections present what was found and how the evidence supports it. They s
 
 - If the paragraph starts with irrelevant method chronology, orient it to the question or supported finding; retain setup needed to understand a complex or inconclusive comparison.
 - If the result is vague, add direction, comparator, effect size, sample context, or qualitative pattern from the supplied material.
-- If the paragraph interprets why the finding matters, move that reasoning to the discussion or shorten it to a transition.
+- If the paragraph makes a broad implication, place it according to the section's job. Retain supported local explanation or a limit needed to interpret this comparison; do not mechanically remove all interpretation.
 - If a figure is cited without explaining what panel supports, add panel-specific orientation.
 - If multiple results compete in one paragraph, split by finding or combine under a stronger topic sentence.
-- If a result paragraph begins with method chronology, recover the tested question and move method detail after that orientation.
+- If chronology obscures the scientific logic, recover the question and reorder accordingly. Chronological order can work when it explains a real dependency.
 - If a statistical result lacks direction or comparator, add the missing comparison from the supplied material or flag it as needed.
 - If the paragraph contains only technique names, recover the tested question and the finding each technique supports.
 - If the paragraph cites a figure before telling the reader what to look for, add a finding or orientation phrase before the citation.
@@ -36,7 +36,8 @@ Results sections present what was found and how the evidence supports it. They s
 - Exploratory results can be presented as patterns without causal language.
 - Negative or null results still need the tested comparison and interpretation boundary.
 - Complex multi-panel figures may need a short orientation sentence before the finding.
-- Methods-heavy results should keep reproducibility detail in methods and use results text for what the method showed.
+- Methods-heavy results need enough local explanation to make the finding assessable. A methods paper can integrate development and results where its format permits; keep full reproducibility details accessible.
+- If binding instructions require reporting-only Results, relocate supported interpretation as required. Moving an unsupported mechanism or calibration explanation to Discussion does not make it supported.
 
 ## Anti-patterns
 
@@ -44,7 +45,7 @@ Results sections present what was found and how the evidence supports it. They s
 - Hiding the finding after a long method setup.
 - Reporting only statistical significance without biological direction or meaning.
 - Using causal verbs when the design supports association only.
-- Discussing limitations in every result paragraph instead of reserving them for synthesis.
+- Repeating generic limitations in every paragraph, or removing a local limitation that changes what the result supports.
 
 ## Diagnostic questions
 
@@ -54,7 +55,7 @@ Results sections present what was found and how the evidence supports it. They s
 - Which figure, table, or evidence supports it?
 - Are direction, magnitude or pattern, uncertainty, and sample context clear enough from the supplied material?
 - Does the paragraph state enough detail to understand the result without overloading the reader?
-- Which sentences belong in the discussion instead?
+- Which sentences are necessary local explanation, and which make broader claims that belong elsewhere under this format?
 
 ## Output patterns / mini-templates
 
@@ -83,4 +84,4 @@ Without those fixed facts, retain the available result: `RNA-seq identified diff
 
 ## When not to apply this
 
-Do not use results guidance to write the broader conclusion, limitations, or field implications; route those to `discussions.md`.
+For a broader conclusion, study-wide limitations or field implications, consult `discussions.md`. Keep measurement and inference limits needed to understand the reported finding alongside it.

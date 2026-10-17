@@ -4,7 +4,7 @@ description: "Help scientists choose career paths and improve applications, CVs,
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Career Development
@@ -30,11 +30,11 @@ Turn scientist career questions into concrete decisions, document edits, intervi
 ## Core workflow
 
 1. Use the supplied career goal and artifact to choose the scope. For a local CV or profile edit, address that edit directly; for a career choice or whole application, assess the stage, role, reader, timeline, and constraints that affect it.
-2. Consult a reference when its stage-specific guidance would help; combine it with relevant general career and platform knowledge.
+2. Consult the matching reference when its decisions would help. Follow actual application, programme and offer instructions; archived conventions do not establish current eligibility or rights.
 3. Convert claims about fit, readiness, promise, or risk into evidence the reader or decision maker can assess. Preserve the candidate's actual contribution, publication status, preferences, and constraints; do not fill missing achievements, offers, references, or access with plausible details.
 4. Separate document strategy from relationship, safety, negotiation, or career-path strategy.
-5. Name tradeoffs and uncertainty explicitly when evidence is incomplete.
-6. End with concrete edits, questions to ask, screening criteria, or a short action plan.
+5. Distinguish a promise from confirmed capacity, a useful training step from an unnecessary delay, and a concerning account from a misconduct finding. Offer support without requiring corroboration, confrontation or disclosure.
+6. Return the requested edit or decision directly. Ask only for missing facts that could change it; use a comparison or plan when it helps, without turning a local edit into a career audit. Explain consequential uncertainty and the feasible next step.
 
 ## Output formats
 

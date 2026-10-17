@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "title": "Life Science Research Handbook",
-  "content_edition": "a35629576b23968d34d9b47418afb24b3fa193c697ebcef3ba3eaf4e1f096e99",
+  "content_edition": "c16d2f5e249e3c7869202a7502d68ad3e567f00d1773455364b252debcc51fab",
   "introduction": {
     "title": "Life Science Research Handbook",
     "path": "reader/index.md",
@@ -19,8 +19,8 @@
       "title": "Choosing a scientific problem",
       "path": "reader/01-research-strategy/01-choosing-a-scientific-problem.md",
       "html_path": "01-research-strategy/01-choosing-a-scientific-problem.html",
-      "source_html_sha256": "76e6c108d1449b3ef92141d1ac3dc23710a14b3a55cbeef46f768950a5f13fd9",
-      "text_sha256": "0dfd7ba65b4d6a61842a8a9f8176942a91c80667c0a4d567940fb152b43cd21b",
+      "source_html_sha256": "86a47cc0d058fde6ab5d7e8d54099cf7b64361e5f833a9820b3d7022e3375b8f",
+      "text_sha256": "dba5938358af5f00c03ff36183d70232297fad860c35b08b16dcba144a025a19",
       "sections": [
         {
           "anchor": "problem-chapter",
@@ -65,6 +65,7 @@
         "quarto-document-content",
         "ref-problem-alon2009",
         "ref-problem-brennan2019research",
+        "ref-problem-hueyacynical",
         "ref-problem-schwartz2008",
         "title-block-header"
       ],
@@ -76,8 +77,8 @@
       "title": "Developing ideas",
       "path": "reader/01-research-strategy/02-developing-ideas.md",
       "html_path": "01-research-strategy/02-developing-ideas.html",
-      "source_html_sha256": "322e514788e791bd6970c6c2a3e8a7caed93cdb8a8a7b6131b10ef0b0b3e3f11",
-      "text_sha256": "653e76a82b4c712da0aa8dfe2be4393e8518f99ca06ff7503b22f409ad56e5fe",
+      "source_html_sha256": "b46a024109e8dfa7db5073e9729cf1c700dcd917f98a20d202586ac97bd93e10",
+      "text_sha256": "aced2b18ec775c095a28c327a301d6c0973a831fcf11d98c72dd0bf9ea434dd3",
       "sections": [
         {
           "anchor": "ideas-chapter",
@@ -147,8 +148,8 @@
       "title": "Connecting questions, models and experiments",
       "path": "reader/01-research-strategy/03-connecting-questions-models-and-experiments.md",
       "html_path": "01-research-strategy/03-connecting-questions-models-and-experiments.html",
-      "source_html_sha256": "3b918eb12e9430859d429d5f9dfb20bcbeb937051ef5a9706764b23cb2e1ece3",
-      "text_sha256": "ac77375efb6438af3946225ba66485fd744acbbec283d93035fc519b52b9b573",
+      "source_html_sha256": "91bbc926442b5bb45288d3c5a54aa7deee906c810b2f23ec0977ce8fb13a0090",
+      "text_sha256": "c1e57e5871e098ac6bf60dbb9c13ff7446996f7f72806bb109cd23520518c49d",
       "sections": [
         {
           "anchor": "models-chapter",
@@ -229,8 +230,8 @@
       "title": "Planning and reviewing a research project",
       "path": "reader/01-research-strategy/04-planning-and-reviewing-a-research-project.md",
       "html_path": "01-research-strategy/04-planning-and-reviewing-a-research-project.html",
-      "source_html_sha256": "0f569bce523c3a450b38f71b54aefced87261f0d8c4beb877aa940951f22ea34",
-      "text_sha256": "07918e895bb529413d08e3f9d959246560d2a7028f2baf931628de4d1124d294",
+      "source_html_sha256": "8b55c253ddaeef0981446714767989b162d7f61516c70c2d1a1c70b86f1904e1",
+      "text_sha256": "e63330b4d5c3783117a68fa9802c779bd7ce39c0c02beaebbcc2977a513a68c6",
       "sections": [
         {
           "anchor": "project-plan-chapter",
@@ -319,8 +320,8 @@
       "title": "Keeping up with the literature",
       "path": "reader/02-reading-the-literature/01-keeping-up-with-the-literature.md",
       "html_path": "02-reading-the-literature/01-keeping-up-with-the-literature.html",
-      "source_html_sha256": "7aa5a03b29ad93b276c7c54f81f71d8b729a0ec60c76642374df9c83d39781f4",
-      "text_sha256": "b2e9df9c6eb484ff6cc5662cc75a4984f524057b22eac6e43d8b6a8b53086937",
+      "source_html_sha256": "ccc87bfdf8b35c1cc556a88e67db68436e42271ab97229b1544f7154cd3e636b",
+      "text_sha256": "b198b73ff82702385f394f1ad9907542ae939a72a6b3e02d54e96bc5df56dbbf",
       "sections": [
         {
           "anchor": "literature-chapter",
@@ -381,8 +382,8 @@
       "title": "Understanding a research paper",
       "path": "reader/02-reading-the-literature/02-understanding-a-research-paper.md",
       "html_path": "02-reading-the-literature/02-understanding-a-research-paper.html",
-      "source_html_sha256": "b5c1e533cf1a63692ddfde00728c18b4b7d58b834136b76df574a6307423b057",
-      "text_sha256": "2dbb0c380ed12287b2006cf9914cfe52d183cd2a8b29168caa820a9d7e2db467",
+      "source_html_sha256": "a1da87e26ef554232e85f4661ea393bc3514d31900a02b076f75e7b3109ef6a7",
+      "text_sha256": "331dcda8c426fcac91216d5c7ba7f266ce28b85f17efb8075afca7aaa861c27b",
       "sections": [
         {
           "anchor": "paper-reading-chapter",
@@ -445,8 +446,8 @@
       "title": "Comparing and synthesizing papers",
       "path": "reader/02-reading-the-literature/03-comparing-and-synthesizing-papers.md",
       "html_path": "02-reading-the-literature/03-comparing-and-synthesizing-papers.html",
-      "source_html_sha256": "bed3cf5aabf4d8596d25bc3945d59545a0fb2ce4b2cadc3e9e4da5de893d624f",
-      "text_sha256": "c3a2679118376fd7a33ec91c19a2b8dfb03017e5e96261c543180272ed7271b5",
+      "source_html_sha256": "552d1023eb5dc191112fda3646dbb49ba7fc42415a2e7ddea36d6b8036152f32",
+      "text_sha256": "af1d13a7ec0840c579c6f41c25b0e5a3da40a0f0cfafdddc45475872ff743ed0",
       "sections": [
         {
           "anchor": "synthesis-chapter",
@@ -1175,8 +1176,8 @@
       "title": "Planning the paper",
       "path": "reader/04-writing-a-paper/01-planning-the-paper.md",
       "html_path": "04-writing-a-paper/01-planning-the-paper.html",
-      "source_html_sha256": "6db63dec347a7d1f5ae668480173693004a7994aded67f90e705eca2623f214f",
-      "text_sha256": "cbfa6daf63f4f8bb1fa27dac909235dc023f924a626cf29d58795ed51c80e2f6",
+      "source_html_sha256": "88caee23ae79224f28384f669886e7df506ba03151f6065be5e963ce3982ac74",
+      "text_sha256": "f07ec3398ade45797dea92f9585cf1a578494cb1ac49f9d60d8a391adac8b04e",
       "sections": [
         {
           "anchor": "planning-paper",
@@ -1340,8 +1341,8 @@
       "title": "Titles, abstracts and introductions",
       "path": "reader/04-writing-a-paper/02-titles-abstracts-and-introductions.md",
       "html_path": "04-writing-a-paper/02-titles-abstracts-and-introductions.html",
-      "source_html_sha256": "238fb7790c3583f4230fa64983e4cf888282b7956bbcee0c8854b75df3bc32b1",
-      "text_sha256": "2d6a2567086b38f24353bf59cfb97a76e66b5191bde2ac4a688c0f220a4c855a",
+      "source_html_sha256": "cece207674cac2a150fd61ac274daf73593e935e0ffe11255bcf2c793f0fce70",
+      "text_sha256": "9b6895304c01a9244e06eced2115132d4c8c74ef4b4a4b3b36419c5b7990e730",
       "sections": [
         {
           "anchor": "opening-chapter",
@@ -1476,8 +1477,8 @@
       "title": "Methods, results and figure legends",
       "path": "reader/04-writing-a-paper/03-methods-results-and-figure-legends.md",
       "html_path": "04-writing-a-paper/03-methods-results-and-figure-legends.html",
-      "source_html_sha256": "f7dc23d62d330e31792d6dfa4281bdcce206b22eb0d37cdd446de83c6e6cf542",
-      "text_sha256": "5e81e9af4d045bbd6015ec717ebea8e2f316d8ad8dd90018556870321191f940",
+      "source_html_sha256": "b5c8b0e6ac37c41021012a1bae4072b671d74cb9361a5ffe31f514eef2b27959",
+      "text_sha256": "120e914076bd82adef76312cfcf0748033f616bcb5f490af5e52b6a826eef37d",
       "sections": [
         {
           "anchor": "reporting-chapter",
@@ -1771,8 +1772,8 @@
       "title": "Drafting, reviewing and revising a paper",
       "path": "reader/04-writing-a-paper/05-drafting-reviewing-and-revising-a-paper.md",
       "html_path": "04-writing-a-paper/05-drafting-reviewing-and-revising-a-paper.html",
-      "source_html_sha256": "4bccf9420ab7d95bdc9b382ca14c9f06c382f276f6b7db463f21f5f0e191c160",
-      "text_sha256": "85407775571b76041100b1a78d2673c296026c927d85245124d9194e32654219",
+      "source_html_sha256": "79d428849b7c1091041e0ff0d41fd3600f39cf3a7b120cd242dca8bfd2902036",
+      "text_sha256": "b435a60a8e7d92a3256b34f531978b8002ffa81c88b9cb2e0d3c8e24e24dd658",
       "sections": [
         {
           "anchor": "revision-chapter",
@@ -1998,8 +1999,8 @@
       "title": "From thesis plan to finished text",
       "path": "reader/05-writing-a-thesis/01-from-thesis-plan-to-finished-text.md",
       "html_path": "05-writing-a-thesis/01-from-thesis-plan-to-finished-text.html",
-      "source_html_sha256": "278261443d23e520e18d0055f0fe0f32a5c3b137e0befe5d03e96bfd6c6e0e12",
-      "text_sha256": "ae1c7bc17f62ff2ded6d98220579e076615c7285230fcfb157ec2c92b7d5b66c",
+      "source_html_sha256": "67f858cdb3b99f254f26d1f6498c3a4656940ba1efca58f5f287c5d4d1573a93",
+      "text_sha256": "fb2a4e1cd83fff7bfd7bfb9bae5ff021e1b734da99b8a49aee2e9ea3efc0a75b",
       "sections": [
         {
           "anchor": "thesis-chapter",
@@ -2097,8 +2098,8 @@
       "title": "Explaining research to an audience",
       "path": "reader/06-communicating-research/01-explaining-research-to-an-audience.md",
       "html_path": "06-communicating-research/01-explaining-research-to-an-audience.html",
-      "source_html_sha256": "ede239ec68f34cd99cba71ff447891bc87f17bbe937a994391bb6cda839eb7d9",
-      "text_sha256": "6c7a823509383f900405514133a5805a6d686396f62bbbe90a452d8346b7b870",
+      "source_html_sha256": "e9bd8d36cb319ead367bb3be87be319cae2d3812d98019b29fcb1f31a42bc19a",
+      "text_sha256": "d333b179e4441e0cacee89570c73eb34c28fea526c420bedbcd3bcc1cf2dc998",
       "sections": [
         {
           "anchor": "audience-chapter",
@@ -2165,8 +2166,8 @@
       "title": "Designing a presentation",
       "path": "reader/06-communicating-research/02-designing-a-presentation.md",
       "html_path": "06-communicating-research/02-designing-a-presentation.html",
-      "source_html_sha256": "97f650df8246b9606f5e53828a66c033c725c2c9305168e8cf063a10c2f0ad46",
-      "text_sha256": "3895265fb06c620054357deaf670c4e15fc2a0ccaa9e0bddb641aab8744f706c",
+      "source_html_sha256": "b8a84ebb1557a7675f9cc01cbbd9b5814aeb1c8f94f147a7f65e89d6d27cdf9a",
+      "text_sha256": "9e961f42a639ada2657fdbec02b0306b1a07a3b3ec15dd17231aff9d00261369",
       "sections": [
         {
           "anchor": "slide-chapter",
@@ -2231,8 +2232,8 @@
       "title": "Delivering a talk and answering questions",
       "path": "reader/06-communicating-research/03-delivering-a-talk-and-answering-questions.md",
       "html_path": "06-communicating-research/03-delivering-a-talk-and-answering-questions.html",
-      "source_html_sha256": "ab40e47c50d7f4f14b77b7ff858d4b51f41e72989fc66f5e36663c7c77627628",
-      "text_sha256": "636a0599f32df663ef09bea67f838e82422bc88ef25f9a488e6596b0384bbabd",
+      "source_html_sha256": "a50a51e876b8345ebe2eb6cdb190123e414c059bc032aa47f9735f19a5d2c7ac",
+      "text_sha256": "3fc5e788c56863ca3c466c114ac0c271514c7a263cfb4129e1cf9f999f717950",
       "sections": [
         {
           "anchor": "delivery-chapter",
@@ -2290,8 +2291,8 @@
       "title": "Posters",
       "path": "reader/06-communicating-research/04-posters.md",
       "html_path": "06-communicating-research/04-posters.html",
-      "source_html_sha256": "51f30e8966547802b6f851c3e797003f1cb0a939cfb19da5ac2fa1e3a74a7e7a",
-      "text_sha256": "56db56b3c0bf18e2f4fbc207c0d576038f74362f0b1047385056fb04b4a54576",
+      "source_html_sha256": "dc4b1ebcf2ad918c0e5811845adfbb6ae83b0e19e1aac07c3fb1a92370f58311",
+      "text_sha256": "0d5aafc85bf3921e6093f8da24af2db8e8204a5eee320bb8c5b20995d96d9ecb",
       "sections": [
         {
           "anchor": "poster-chapter",
@@ -2350,8 +2351,8 @@
       "title": "Elevator pitches and chalk talks",
       "path": "reader/06-communicating-research/05-elevator-pitches-and-chalk-talks.md",
       "html_path": "06-communicating-research/05-elevator-pitches-and-chalk-talks.html",
-      "source_html_sha256": "be058757533bfdd5a5aa53a8d3b0ac6195fcbc02ed434a7461dfe7f486f19841",
-      "text_sha256": "a99fca7c2644e723630306b68e05144180e09aeb889ca4e9c48c1aded82c49b3",
+      "source_html_sha256": "a3a496fb64dc199d3395e2c0c8d80573814d1378e94c6ff09bd60b58a1e5dcf1",
+      "text_sha256": "a2e5ff9355a37b8c8c5cf09c95c8232aec6e55ec1eb9e273b60f7d1f1e7fd671",
       "sections": [
         {
           "anchor": "pitch-chapter",
@@ -2472,8 +2473,8 @@
       "title": "Writing the proposal",
       "path": "reader/07-grants-and-fellowships/02-writing-the-proposal.md",
       "html_path": "07-grants-and-fellowships/02-writing-the-proposal.html",
-      "source_html_sha256": "038f80f01439cfea34d0cb75c798ced89f12b90b9863dd545d2ee347bcc0c327",
-      "text_sha256": "19a25c0f29af4caa35b98e019645df8424aebd8b099e6ed01019748920d0bfba",
+      "source_html_sha256": "9e846bdcd5049851e19c84d0e5398a504610aa0d06d37978c78033e30900634a",
+      "text_sha256": "e1c18c3cbd3b7f7bd72b49d5c3c8ff1247c1fe2cc743c866e9754cb275db8401",
       "sections": [
         {
           "anchor": "proposal-chapter",
@@ -2531,8 +2532,8 @@
       "title": "Funding interviews and preparing for an award",
       "path": "reader/07-grants-and-fellowships/03-funding-interviews-and-preparing-for-an-award.md",
       "html_path": "07-grants-and-fellowships/03-funding-interviews-and-preparing-for-an-award.html",
-      "source_html_sha256": "bce70697bb0a382869796daa69eda09f93312d41be0efbe44a98b9eb0cf60a8c",
-      "text_sha256": "c921332d17b9179a05903fe8c35ce49c4154578102fcd3ad9ade7b11141b7706",
+      "source_html_sha256": "655569f5cf1b3b4c09bdabf6c32e7fa66896b23185a6acc81444c1b8752f174e",
+      "text_sha256": "e51e8640407aa845fa4c43ae7cc1e6c507bbd79022364ef162fe129eba8d8067",
       "sections": [
         {
           "anchor": "grant-start-chapter",
@@ -2590,8 +2591,8 @@
       "title": "Choosing a journal and submitting a paper",
       "path": "reader/08-publishing/01-choosing-a-journal-and-submitting-a-paper.md",
       "html_path": "08-publishing/01-choosing-a-journal-and-submitting-a-paper.html",
-      "source_html_sha256": "559c0a581b21bea249610b0a7fff7291d1f7b00dddeaed2437726acc9f727b01",
-      "text_sha256": "06c518d0c10fc791fa9cd0ce983a1c3b122db257227d4ada8236fef5a64425fe",
+      "source_html_sha256": "a82680db112b52ac21b8b01db9a5a696cc9f9a679d39caa72ff3cb2696644c34",
+      "text_sha256": "9c3a7b78924f65e83fdced0e8c59b7b43a74c776f3e7849109e98c07e9ef1b14",
       "sections": [
         {
           "anchor": "submission-chapter",
@@ -2722,8 +2723,8 @@
       "title": "Reviewing a manuscript",
       "path": "reader/08-publishing/02-reviewing-a-manuscript.md",
       "html_path": "08-publishing/02-reviewing-a-manuscript.html",
-      "source_html_sha256": "09ddf56f665a3a41ccb2c544b3b81d0dfa0c3222df0d91da4501eba31cc58a24",
-      "text_sha256": "def4be3c1d602cedad4728e39743d0de7840823bed1fe844460017005fc12ff1",
+      "source_html_sha256": "2ee6b5e4e863dd16172b97fb951581f82c13c1f14f8ead571009ea964c6ef7ad",
+      "text_sha256": "ed1b9a368d016abe79f5b25f2baa22081be74427f56a9807d3f12e039d4d7b05",
       "sections": [
         {
           "anchor": "review-chapter",
@@ -2792,11 +2793,13 @@
         "ref-review-bourne2006",
         "ref-review-cope2017",
         "ref-review-deboer2025",
+        "ref-review-jose2020illusions",
         "ref-review-leekreviews",
         "ref-review-makin2019",
         "ref-review-ploegh2011",
         "ref-review-plosreview",
         "ref-review-plostoolbox",
+        "ref-review-rightmoves2006",
         "ref-review-silverman2021",
         "ref-review-tang2024",
         "review-chapter",
@@ -2823,8 +2826,8 @@
       "title": "Responding to peer review",
       "path": "reader/08-publishing/03-responding-to-peer-review.md",
       "html_path": "08-publishing/03-responding-to-peer-review.html",
-      "source_html_sha256": "78e4f5ab6624a5bcb7bbf97ab88f13c7a3f1ea7f808e0276d44d2fbff8caa8d9",
-      "text_sha256": "912899f4df0ba2aca8ef9851f099c405cb68b0cd4a9d6d38bc89e73df634a8a9",
+      "source_html_sha256": "b170df40469360493000255b1066c652b55bea2ec68aef301519d1fa1a758793",
+      "text_sha256": "aab8ce03c95de74267ee9c825a22eea5e0e7eef93e917b1d2f225b6f434275f0",
       "sections": [
         {
           "anchor": "pilot",
@@ -2966,8 +2969,8 @@
       "title": "Rejection, transfer and published reviews",
       "path": "reader/08-publishing/04-rejection-transfer-and-published-reviews.md",
       "html_path": "08-publishing/04-rejection-transfer-and-published-reviews.html",
-      "source_html_sha256": "61f874b837b081eb93a75f7b78f6f9ec64fb44fdfce0e116c26d5053e2971262",
-      "text_sha256": "9161d129f2729a225749f97d44258e7561730f86c9e8c86296a5c773aecce197",
+      "source_html_sha256": "8bfeea148bf9c5863345e53d173821d45702ce29250283397b0a0213ab2364db",
+      "text_sha256": "b6ae1fa077d731de4277733d7d0ecbbd9dafeb06a8e2ace59f21ce20ba098a7d",
       "sections": [
         {
           "anchor": "resubmission-chapter",
@@ -3063,8 +3066,8 @@
       "title": "Exploring career options",
       "path": "reader/09-career-development/01-exploring-career-options.md",
       "html_path": "09-career-development/01-exploring-career-options.html",
-      "source_html_sha256": "debc54bee0b3a316dab01ea26df1e4ab4646215bed96ba5a4c06a42a3be106c0",
-      "text_sha256": "9ccfa86aec55eb5dfc60161ec376b2d6dfe9fbcb0574e0565943b581cacf7822",
+      "source_html_sha256": "337adbfdbd3b4d0237cbcefd9645c853a05f2cefe446dee6f69041a0fa3d8d2f",
+      "text_sha256": "0d78a9f771cef6e471ba0c2fe24c9e64736510014bf858926c0a6f41a7cebabe",
       "sections": [
         {
           "anchor": "career-options-chapter",
@@ -3100,6 +3103,12 @@
         "career-options-references",
         "career-options-work",
         "quarto-document-content",
+        "ref-career-options-afonja2021",
+        "ref-career-options-goslingnoordam2022thesis",
+        "ref-career-options-jensen2009business",
+        "ref-career-options-jensen2009regulatory",
+        "ref-career-options-jensen2010applications",
+        "ref-career-options-kling2004manufacturing",
         "ref-career-options-pain2009",
         "ref-career-options-severjanssen2017",
         "title-block-header"
@@ -3112,8 +3121,8 @@
       "title": "Choosing an advisor and research environment",
       "path": "reader/09-career-development/02-choosing-an-advisor-and-research-environment.md",
       "html_path": "09-career-development/02-choosing-an-advisor-and-research-environment.html",
-      "source_html_sha256": "3e78feb2605fab2fcb9b17762a2169608a229c45c12f1c7b6d9c5f95f2762359",
-      "text_sha256": "4e66c341d97cb0ca8352b9b311ef930e744c053c840a8ab67756247f30a8165d",
+      "source_html_sha256": "5ba0acda3fd63f9b4324fa651f0887719f668a71546714016a4c88f19d119767",
+      "text_sha256": "98aa3aacf401fdda443eb09ce8de676558ad9390a1b8316e4fff2314c416982a",
       "sections": [
         {
           "anchor": "advisor-chapter",
@@ -3156,8 +3165,12 @@
         "advisor-references",
         "advisor-stage",
         "quarto-document-content",
+        "ref-advisor-ayres2022",
         "ref-advisor-barres2013advisor",
+        "ref-advisor-bennett2018",
+        "ref-advisor-chopra2016",
         "ref-advisor-kamens2014mentor",
+        "ref-advisor-raffington2026",
         "ref-advisor-sabbagh2021postdoc",
         "title-block-header"
       ],
@@ -3169,8 +3182,8 @@
       "title": "CVs, resumes, letters and references",
       "path": "reader/09-career-development/03-cvs-resumes-letters-and-references.md",
       "html_path": "09-career-development/03-cvs-resumes-letters-and-references.html",
-      "source_html_sha256": "6c3bd4d090000afb57ecc3e6e0659fe858a233ba3e2a1d94a886ea727750b4b7",
-      "text_sha256": "8ccd274d6c7f782be1ca0eab9d67c8ea9388a36528cbd763762b8d0b1485b1d4",
+      "source_html_sha256": "aad55f95479ac6cc37db83a7bb40da839e13f1c0b51a6c49b8765f9a20e53095",
+      "text_sha256": "cff14576fefa295fecdde37d02334b5d92fae08d3a0d92c72b5d2fecf807b1ba",
       "sections": [
         {
           "anchor": "applications-chapter",
@@ -3213,6 +3226,7 @@
         "applications-references",
         "applications-references-list",
         "quarto-document-content",
+        "ref-applications-ackerman2018cv",
         "ref-applications-gsocv",
         "ref-applications-gsoletter",
         "ref-applications-harvardocs2016",
@@ -3230,8 +3244,8 @@
       "title": "Finding and applying for positions",
       "path": "reader/09-career-development/04-finding-and-applying-for-positions.md",
       "html_path": "09-career-development/04-finding-and-applying-for-positions.html",
-      "source_html_sha256": "f4276e805136c8f9b45a1957804fbf5a14dddc2da5d7e06e098b68420f7aae16",
-      "text_sha256": "ced14b56a77f38d643b07c6f37affeb816533ab7fa07d150e962360b67e9c19a",
+      "source_html_sha256": "37b91f8736b2b0aad3fb88f2782745dde1d53717a5849a0027c51a1a12108cb5",
+      "text_sha256": "3ea8cd57309f5182b05566e5f11467667a88eafd7d4a7240508f2d31781202b5",
       "sections": [
         {
           "anchor": "positions-chapter",
@@ -3281,8 +3295,12 @@
         "positions-target-record",
         "positions-targets",
         "quarto-document-content",
+        "ref-positions-fiske2000interview",
         "ref-positions-fomina-phdguide",
+        "ref-positions-goslingnoordam2022thesis",
+        "ref-positions-jensen1999behavioral",
         "ref-positions-jensen2010jobsearchplan",
+        "ref-positions-jensen2012sharks",
         "ref-positions-sabbagh2021postdoc",
         "title-block-header"
       ],
@@ -3294,8 +3312,8 @@
       "title": "Finding a group leader position",
       "path": "reader/09-career-development/05-finding-a-group-leader-position.md",
       "html_path": "09-career-development/05-finding-a-group-leader-position.html",
-      "source_html_sha256": "a0155616876316e7143901d55cbcbb8892bac52d98ceb5efd113f3a2571fa27b",
-      "text_sha256": "974e5eac3784002a9fa73eb88265e710e19f7e8d5fe755b8ca0395a048283cc2",
+      "source_html_sha256": "a4e4b759de26b447f99e97dbf6980a3845796437ca4ff8b497ca9f1c7ec6dbc8",
+      "text_sha256": "feb30803bb5b4bf097d5bdcbfc347d001a9aaeb7ed1d54d87968c00996e58dea",
       "sections": [
         {
           "anchor": "faculty-chapter",
@@ -3363,8 +3381,8 @@
       "title": "Career transitions",
       "path": "reader/09-career-development/06-career-transitions.md",
       "html_path": "09-career-development/06-career-transitions.html",
-      "source_html_sha256": "9d8694680a9698c7ee65a3f227b4ddf7853a520420c1d449e1e010689e40fdb8",
-      "text_sha256": "f6f851e6c15c5a8fea478323e1b902855c094176c145a3b550469266fa331759",
+      "source_html_sha256": "d1cd952127e8bbb330917ece6b7011990ae26534d53d6343176c16b3db1e4d94",
+      "text_sha256": "1d32deece11771c86116ee3887d36dc3218a726ff33fe92d096e944926834731",
       "sections": [
         {
           "anchor": "transitions-chapter",
@@ -3405,6 +3423,10 @@
       "anchors": [
         "quarto-document-content",
         "ref-transitions-afonja2021",
+        "ref-transitions-ayres2022",
+        "ref-transitions-goslingnoordam2022thesis",
+        "ref-transitions-jensen2006salary1",
+        "ref-transitions-jensen2006salary2",
         "ref-transitions-perovic",
         "ref-transitions-raffington2026",
         "ref-transitions-rightmoves2006",
@@ -3428,8 +3450,8 @@
       "title": "Mentoring",
       "path": "reader/10-mentoring-and-management/01-mentoring.md",
       "html_path": "10-mentoring-and-management/01-mentoring.html",
-      "source_html_sha256": "7e902d3d982cccb8ec670eb0b5f678161e2c157b835904b4337ebe11d894fcad",
-      "text_sha256": "88dae84681785d53c4a818c8dacbed5d721129200252c7764ed2cf4f68ad5e4b",
+      "source_html_sha256": "4740588033f02738746f2817ae462876318550ec2466173a1362e41b85d9b06d",
+      "text_sha256": "10b27d00fc136b264e961dc31e20a04c5b10afb3a2676c48f96cbba12d1503e1",
       "sections": [
         {
           "anchor": "mentoring-chapter",
@@ -3496,8 +3518,8 @@
       "title": "Lab manuals and shared expectations",
       "path": "reader/10-mentoring-and-management/02-lab-manuals-and-shared-expectations.md",
       "html_path": "10-mentoring-and-management/02-lab-manuals-and-shared-expectations.html",
-      "source_html_sha256": "404bcdf979260b2956641e7736547af2ef3c64c36ab06cbb39dbb03010916fdf",
-      "text_sha256": "0d7880b00b2efb3fd3eb1899442a265c2ead0645c5ae4ecd0e82271baffebb56",
+      "source_html_sha256": "5eb500f5877a5cf65339af7c5c0445ea125bf8eeeee552a98e2bb1221086a64e",
+      "text_sha256": "876c2d02354a7c4d4c774b8f8884fa19921ece13e0ad37e646847d640113dba9",
       "sections": [
         {
           "anchor": "manuals-chapter",
@@ -3568,8 +3590,8 @@
       "title": "Leading and reviewing a research group",
       "path": "reader/10-mentoring-and-management/03-leading-and-reviewing-a-research-group.md",
       "html_path": "10-mentoring-and-management/03-leading-and-reviewing-a-research-group.html",
-      "source_html_sha256": "251e5842a14a1de5b3c52b748d2c99558f93b463bfad0cc8e978ff430bf9aaf4",
-      "text_sha256": "f096823135969cb8e6a099af91cb1aa50735b897db9643ada03ae7f4be562a48",
+      "source_html_sha256": "548c8971066aafacdaed00ea0711b9541202900ee22d4e3eadc731819ba27d8b",
+      "text_sha256": "ece2f26a601e8e9fe68098aaba99c21868ad02299de274fd86c49be6293d550c",
       "sections": [
         {
           "anchor": "leadership-chapter",
@@ -3684,8 +3706,8 @@
       "title": "Collaboration, authorship and credit",
       "path": "reader/10-mentoring-and-management/04-collaboration-authorship-and-credit.md",
       "html_path": "10-mentoring-and-management/04-collaboration-authorship-and-credit.html",
-      "source_html_sha256": "35dd359a6b206a4913a38c5ba3ee1f8d720e1a178bfffa5cab830574c929efc9",
-      "text_sha256": "8d7975a571c0f3f0c7f5db592cdb96d3e0b31cd61014e8023ff9f127ca0b1442",
+      "source_html_sha256": "f88ee3b8c813646acad3689f97a5868a88e56fbcb2fba2a3c2581dee5842e6f8",
+      "text_sha256": "70f8830689608bb89f5c00be3c530ad9b7d26e4091083e0992ea86e6cf78c14b",
       "sections": [
         {
           "anchor": "collaboration-chapter",
@@ -3757,8 +3779,8 @@
       "title": "Sustainable and inclusive research workplaces",
       "path": "reader/10-mentoring-and-management/05-sustainable-and-inclusive-research-workplaces.md",
       "html_path": "10-mentoring-and-management/05-sustainable-and-inclusive-research-workplaces.html",
-      "source_html_sha256": "d4fbee0da3c4ebdd7763b54a5a78bdcc228866f278d15cd91f1f34834929cf16",
-      "text_sha256": "b5a313b25b344386684ae7bce9ebee5280989d219ddd582a3be8b4c04e2e050a",
+      "source_html_sha256": "2cf7601abb9232320f720e12f50390ffdcbd75815d9ec1b39a0fb4e20ac23f94",
+      "text_sha256": "fad2cf7b1ace01c7219afd8a3f44edc8e10d02846b93321a04f1dec5342bf84f",
       "sections": [
         {
           "anchor": "workplace-chapter",
@@ -3822,8 +3844,8 @@
       "title": "Feedback and conflict",
       "path": "reader/10-mentoring-and-management/06-feedback-and-conflict.md",
       "html_path": "10-mentoring-and-management/06-feedback-and-conflict.html",
-      "source_html_sha256": "a4c458cb29312d1698f3141336ce1771284dc4a6d7670ddbc5fa2c5e613a7c50",
-      "text_sha256": "0eaf28d5a91327d9953768e66ae639e490506aa80ee1caccb14ebddc5eb550a7",
+      "source_html_sha256": "1f0c9b5e65b7a09e09c9edfe1d4d9b6462eeb0ca55f25e420fc97438bbb08091",
+      "text_sha256": "574811c71076eba501cce235f6bb6f173c7c6cd2fb418fafb322811d10559202",
       "sections": [
         {
           "anchor": "conflict-chapter",

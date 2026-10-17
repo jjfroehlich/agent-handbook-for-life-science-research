@@ -4,7 +4,7 @@ description: "Shape scientific talks, posters, pitches, public explanations, and
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Scientific Communication
@@ -29,23 +29,12 @@ Help agents shape scientific content for its audience and medium: a connected ta
 
 ## Core workflow
 
-1. For a whole talk, poster, or pitch, establish the medium, audience, time/space limit, and main message. For a local change, use the established context and revisit only decisions that affect it.
+1. Establish the requested artifact/intervention, actual audience familiarity, purpose, medium and time/space limit from the supplied context. Ask only for missing facts that could change the work. A local edit does not require a planning questionnaire or a single invented main message.
 2. Diagnose the main failure mode: unclear premise, overloaded detail, weak audience bridge, unreadable visuals, poor format fit, or unprepared delivery/Q&A.
 3. Route to the narrowest useful playbook. Open only the needed reference unless the artifact spans formats.
-4. When structure or density needs work, make cuts before polish. Retain the decisive comparisons, controls and qualifications needed for the stated claim; move secondary details to backup, notes, or conversation where useful.
+4. When structure or density needs work, make cuts before polish. Retain decisive comparisons, controls, prerequisites and claim-changing uncertainty; move genuinely secondary details to usable backup, notes or conversation. If important evidence does not fit a story, change the story or scope. A methods critique or unresolved update may need several independent threads.
 5. Produce a concrete artifact: revised outline, slide-by-slide plan, poster redesign, pitch script, chalk-talk board plan, Q&A prep list, or prioritized checklist.
-6. State assumptions when audience, timing, venue, or visual access is missing. Ask at most the clarifying questions needed to avoid a misleading recommendation.
-
-## Output formats
-
-Select only the format that fits the requested deliverable; these are patterns, not mandatory response sections.
-
-- Talk outline: `audience -> question or purpose -> connected questions and evidence -> conclusion or open decisions -> backup/Q&A`.
-- Slide review: `top failure -> cuts -> slide order -> per-slide job -> visual fixes -> rehearsal check`.
-- Poster redesign: `main claim -> layout hierarchy -> text cuts -> figure treatment -> standing-distance checks -> brief walkthrough when useful`.
-- Elevator pitch: `listener -> problem -> approach -> bounded significance -> invitation when useful`.
-- Chalk talk plan: `opening board map -> research program modules -> interruption plan -> feasibility evidence -> conclusion and open questions`.
-- Delivery/Q&A prep: `likely questions -> answer moves -> bridge phrases -> rehearsal plan -> failure recovery`.
+6. Preserve actual quantities, chronology, credit and work status. Do not invent benefits, completed controls, discovery history, resources, causal links, audience responses or permission to fill a template. Distinguish proposed revisions from implemented work and inspect the actual artifact before certifying its appearance or operation.
 
 ## Reference routing
 
@@ -56,33 +45,15 @@ Select only the format that fits the requested deliverable; these are patterns, 
 - `references/elevator-pitches.md`: Open for short spoken summaries, networking pitches, lay explanations, or timed project introductions.
 - `references/storytelling.md`: Open when the user needs narrative framing, audience memory, tension, explanation, or a stronger through-line.
 - `references/delivery-and-qa.md`: Open for rehearsal, vocal/physical delivery, question handling, nerves, timing, or audience interaction.
+- `references/public-and-media.md`: Open for a public explanation's genre/channel, communication program, release/access decision, media interview or controversy response. Keep legal, clinical and institutional determinations with the appropriate authority.
 - Open `references/handbook-access.md` when a fuller explanation or worked example would help with the current task. Inspect the actual image or rendered HTML when judging visual appearance.
 - `checklists/talk-review.md`: Use for a fast final review of a talk or deck.
 - `checklists/poster-review.md`: Use for a final poster review before print, upload, or presentation.
 - `examples/communication-feedback-examples.md`: Open when the user needs a model output pattern.
-
-## Quick checklist
-
-Apply only the checks relevant to the requested scope and artifact. Inspect supplied context first; treat `identify` or `clarify` as analysis when the answer is already available, and ask only for missing information that could change the result.
-
-- What should this audience understand or decide? Does a central message fit the format, or does the task require several clearly separated questions?
-- Who is the audience, and what do they already believe or need?
-- What can be cut, moved to backup, or left for conversation?
-- Can the visual artifact be understood at the expected distance or screen size?
-- Does each slide, panel, board section, or pitch sentence have one job?
-- Is the opening orienting, the close specific, and the Q&A plan credible?
-
-## Common pitfalls
-
-- Treating a talk like a paper, a poster like a manuscript wall, or a chalk talk like a polished seminar.
-- Fixing wording before deciding the message, audience bridge, and cuts.
-- Letting secondary data obscure the main claim, or removing a method/control/caveat that changes its meaning.
-- Copying paper figures into talks or posters without redesigning labels, scale, and visual order.
-- Asking too many clarifying questions when a first-pass plan with explicit assumptions would help.
-- Starting slide production before deciding audience, message, and explanation path.
 
 ## Quality bar
 
 - Advice must be medium-specific and audience-specific.
 - The answer must include concrete cuts, ordering, visual hierarchy, rehearsal moves, or Q&A moves.
 - The agent must preserve scientific uncertainty while still making the communication sharper.
+- Methods, notes, scripts, topic/question titles, static digital posters and informative answers without an ask remain valid when the task calls for them. No story, performance style, result quota or fixed practice dose is compulsory.

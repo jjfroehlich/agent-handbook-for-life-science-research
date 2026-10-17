@@ -24,6 +24,8 @@ Make communication match that agreement. If a leader sends messages at unusual h
 
 Occasional field campaigns, sampling windows or submission deadlines may need a temporary arrangement. Before committing, agree what it must accomplish, when it ends, who can provide qualified cover and what other work will be reduced or deferred. Check applicable working-time and safety arrangements with the responsible people. Plan the return to ordinary work as part of the decision. If the same demand keeps recurring, change the project, staffing or deadline to account for it in the regular workload [[6]](#ref-workplace-raffington2026); [[5]](#ref-workplace-maestre2019).
 
+Respect for a person’s chosen schedule can coexist with concern about sustained long hours. Ask whether the choice is voluntary, whether others must absorb its effects and what workload is being rewarded. Discouraging chronic overwork does not require imposing one personal routine on everyone. Structured time blocks may help one person; a more flexible routine may suit another. Both still need feasible commitments and access to rest [[5]](#ref-workplace-maestre2019); [[3]](#ref-workplace-bartlett2021).
+
 <a id="workplace-participation"></a>
 
 ## Access and participation
@@ -46,6 +48,8 @@ Explain what good work looks like for the person’s role and stage. A developin
 
 Use concrete evidence rather than impressions of commitment. Long presence in the lab, quick replies and confident language do not establish that a result is trustworthy. A journal’s average citation count also cannot establish the quality of a particular paper or its author’s contribution; the underlying papers vary substantially [[1]](#ref-workplace-adlerewingtaylor2008). Read the work and identify what the person actually did.
 
+Choose indicators after deciding what the assessment needs to establish. Citation information can contribute to a bounded comparison without becoming a universal ranking. Peer judgment also has biases; discarding either judgment or metrics wholesale does not resolve them. Explain what each measure can show and compare it with the relevant work [[1]](#ref-workplace-adlerewingtaylor2008).
+
 Distinguish what the researcher can influence from what remains uncertain. They can choose appropriate controls, keep records, check an analysis and respond to feedback; they cannot promise a desired biological result or journal acceptance. A result that challenges the hypothesis differs from a failed procedure or a measurement that cannot answer the question. Assess what the work permits the researcher to conclude and how they followed it up. When progress differs from the plan, also examine the support: was required training available, did a shared duty expand, or was an instrument unavailable? Agree the next action and record why the target or support changed. Recognizing careful work does not require continuing a project when no feasible next experiment can answer its question.
 
 Use the [mentoring agreement](01-mentoring.md#mentoring-chapter) for individual development and the [collaboration plan](04-collaboration-authorship-and-credit.md#collaboration-chapter) for project contributions and credit. Shared support work deserves recognition, while authorship still requires an appropriate contribution to the particular publication.
@@ -59,6 +63,8 @@ If someone says an arrangement is becoming difficult, offer a private conversati
 A supervisor can change work within their authority and help someone reach suitable support. That role does not make them a therapist or medical assessor. Keep current staff and student support routes easy to find, including an option outside the direct supervisor. Check who a service covers, how to contact it and what its privacy terms actually say. Do not promise confidentiality or an institutional outcome on behalf of another office.
 
 Peer groups, personal interests and optional wellbeing activities may be useful resources. They cannot settle an impossible deadline, inaccessible workplace or unresolved mistreatment. Ayres’s discussion of university programmes pairs support for individuals with changes to the conditions creating difficulty [[2]](#ref-workplace-ayres2022). If a problem lies beyond the group leader’s authority, identify the institutional decision needed and who will pursue it. Avoid leaving the person who raised the problem responsible for obtaining every remedy. For concerns about treatment or retaliation, use the [support and power considerations](06-feedback-and-conflict.md#feedback-conflict-support) before choosing a conversation or disclosure route.
+
+Assess an optional wellbeing programme by its relevance to researchers, accessibility, cultural fit and facilitation. One poor session does not establish that every programme is useless; protected time, peer contact or a suitable technique can still help. Participation and ordinary disclosure remain choices. Rest need not be earned by producing enough, and resilience should not mean becoming able to endure harassment or discrimination [[2]](#ref-workplace-ayres2022).
 
 <a id="workplace-change-plan"></a>
 
